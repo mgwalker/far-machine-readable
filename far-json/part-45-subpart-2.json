@@ -4,9 +4,7 @@
   "name": "Solicitation and Evaluation Procedures",
   "sub": {
     "201": {
-      "number": 201,
       "name": "Solicitation.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall insert a listing of the Government property to be offered in all solicitations where Government-furnished property is anticipated (see 45.102). The listing shall include at a minimum—",
@@ -51,12 +49,11 @@
         "d": {
           "text": "Any additional instructions to the contractor regarding property management, accountability, and use, not addressed in FAR clause 52.245-1, Government Property, should be specifically addressed in the statement of work on the contract providing property or in a special provision."
         }
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Evaluation procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall consider any potentially unfair competitive advantage that may result from an offeror or contractor possessing Government property. This shall be done by adjusting the offers by applying, for evaluation purposes only, a rental equivalent evaluation factor as specified in FAR 52.245-9."
@@ -64,7 +61,8 @@
         "b": {
           "text": "The contracting officer shall ensure the offeror’s property management plans, methods, practices, or procedures for accounting for property are consistent with the requirements of the solicitation.\n\n\n\n"
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,17 +4,14 @@
   "name": "Prohibited Sources",
   "sub": {
     "700": {
-      "number": 700,
       "name": "Scope of subpart. ",
-      "sub": {},
       "text": {
         "text": "This subpart implements—\n\n(a) Economic sanctions administered by the Office of Foreign Assets Control (OFAC) in the Department of the Treasury prohibiting transactions involving certain countries, entities, and individuals;\n\n(b) The Sudan Accountability and Divestment Act of 2007 (Pub. L. 110-174) (50 U.S.C. 1701 note);\n\n(c) The Iran Sanctions Act of 1996 (Iran Sanctions Act) (Pub. L. 104-172; 50 U.S.C. 1701 note), including amendments by the Iran Freedom Support Act (Pub. L. 109-293), section 102 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (Pub. L. 111-195), and Titles II and III of the Iran Threat Reduction and Syria Human Rights Act of 2012 (Pub. L. 112-158); and\n\n(d) Prohibition against contracting with entities that export sensitive technologies to Iran (22 U.S.C. 8515)."
-      }
+      },
+      "sub": {}
     },
     "701": {
-      "number": 701,
       "name": "Restrictions administered by the Department of the Treasury on acquisitions of supplies or services from prohibited sources.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Except as authorized by OFAC, agencies and their contractors and subcontractors must not acquire any supplies or services if any proclamation, Executive order, or statute administered by OFAC, or if OFAC’s implementing regulations at 31 CFR Chapter V, would prohibit such a transaction by a person subject to the jurisdiction of the United States."
@@ -28,11 +25,14 @@
         "Telephone (202": {
           "text": "622-2490)."
         }
-      }
+      },
+      "sub": {}
     },
     "702": {
-      "number": 702,
       "name": "Prohibition on contracting with entities that conduct restricted business operations in Sudan. ",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Definitions.  ",
@@ -104,14 +104,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "703": {
-      "number": 703,
       "name": "Prohibition on contracting with entities that engage in certain activities or transactions relating to Iran.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Definitions.",
@@ -240,9 +239,6 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

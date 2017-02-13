@@ -4,17 +4,14 @@
   "name": "Special Aspects of Contracting for Construction",
   "sub": {
     "201": {
-      "number": 201,
       "name": "Evaluation of contractor performance.",
-      "sub": {},
       "text": {
         "text": "See 42.1502(e) for the requirements for preparing past performance evaluations for construction contracts."
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Specifications.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Construction specifications shall conform to the requirements in Part 11 of this regulation."
@@ -25,12 +22,11 @@
         "c": {
           "text": "When “brand name or equal” descriptions are necessary, specifications must clearly identify and describe the particular physical, functional, or other characteristics of the brand-name items which are considered essential to satisfying the requirement.\n\n\n\n"
         }
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Government estimate of construction costs.",
-      "sub": {},
       "text": {
         "a": {
           "text": "An independent Government estimate of construction costs shall be prepared and furnished to the contracting officer at the earliest practicable time for each proposed contract and for each contract modification anticipated to exceed the simplified acquisition threshold. The contracting officer may require an estimate when the cost of required work is not anticipated to exceed the simplified acquisition threshold. The estimate shall be prepared in as much detail as though the Government were competing for award."
@@ -41,20 +37,18 @@
         "c": {
           "text": "Access to information concerning the Government estimate shall be limited to Government personnel whose official duties require knowledge of the estimate. An exception to this rule may be made during contract negotiations to allow the contracting officer to identify a specialized task and disclose the associated cost breakdown figures in the Government estimate, but only to the extent deemed necessary to arrive at a fair and reasonable price. The overall amount of the Government’s estimate shall not be disclosed except as permitted by agency regulations."
         }
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Disclosure of the magnitude of construction projects.",
-      "sub": {},
       "text": {
         "text": "Advance notices and solicitations shall state the magnitude of the requirement in terms of physical characteristics and estimated price range. In no event shall the statement of magnitude disclose the Government’s estimate. Therefore, the estimated price should be described in terms of one of the following price ranges:\n\n(a) Less than $25,000.\n\n(b) Between $25,000 and $100,000.\n\n(c) Between $100,000 and $250,000.\n\n(d) Between $250,000 and $500,000.\n\n(e) Between $500,000 and $1,000,000.\n\n(f) Between $1,000,000 and $5,000,000.\n\n(g) Between $5,000,000 and $10,000,000.\n\n(h) More than $10,000,000."
-      }
+      },
+      "sub": {}
     },
     "205": {
-      "number": 205,
       "name": "Statutory cost limitations.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Contracts for construction shall not be awarded at a cost to the Government—",
@@ -87,20 +81,18 @@
         "d": {
           "text": "The Government shall also reject an offer if its prices are within statutory limitations only because it is materially unbalanced. An offer is unbalanced if its prices are significantly less than cost for some work, and overstated for other work."
         }
-      }
+      },
+      "sub": {}
     },
     "206": {
-      "number": 206,
       "name": "Liquidated damages.",
-      "sub": {},
       "text": {
         "text": "The contracting officer must evaluate the need for liquidated damages in a construction contract in accordance with 11.502 and agency regulations."
-      }
+      },
+      "sub": {}
     },
     "207": {
-      "number": 207,
       "name": "Pricing fixed-price construction contracts.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Generally, firm-fixed-price contracts shall be used to acquire construction. They may be priced—",
@@ -136,44 +128,39 @@
         "c": {
           "text": "Fixed-price contracts with economic price adjustment may be used if such a provision is customary in contracts for the type of work being acquired, or when omission of an adjustment provision would preclude a significant number of firms from submitting offers or would result in offerors including unwarranted contingencies in proposed prices."
         }
-      }
+      },
+      "sub": {}
     },
     "208": {
-      "number": 208,
       "name": "Concurrent performance of firm-fixed-price and other types of construction contracts.",
-      "sub": {},
       "text": {
         "text": "In view of potential labor and administrative problems, cost-plus-fixed-fee, price-incentive, or other types of contracts with cost variation or cost adjustment features shall not be permitted concurrently, at the same work site, with firm-fixed-price, lump sum, or unit price contracts except with the prior approval of the head of the contracting activity."
-      }
+      },
+      "sub": {}
     },
     "209": {
-      "number": 209,
       "name": "Construction contracts with architect-engineer firms.",
-      "sub": {},
       "text": {
         "text": "No contract for the construction of a project shall be awarded to the firm that designed the project or its subsidiaries or affiliates, except with the approval of the head of the agency or authorized representative."
-      }
+      },
+      "sub": {}
     },
     "210": {
-      "number": 210,
       "name": "Inspection of site and examination of data.",
-      "sub": {},
       "text": {
         "text": "The contracting officer should make appropriate arrangements for prospective offerors to inspect the work site and to have the opportunity to examine data available to the Government which may provide information concerning the performance of the work, such as boring samples, original boring logs, and records and plans of previous construction. The data should be assembled in one place and made available for examination. The solicitation should notify offerors of the time and place for the site inspection and data examination. If it is not feasible for offerors to inspect the site or examine the data on their own, the solicitation should also designate an individual who will show the site or data to the offerors. Significant site information and the data should be made available to all offerors in the same manner, including information regarding any utilities to be furnished during construction. A record should be kept of the identity and affiliation of all offerors’ representatives who inspect the site or examine the data."
-      }
+      },
+      "sub": {}
     },
     "211": {
-      "number": 211,
       "name": "Distribution of advance notices and solicitations.",
-      "sub": {},
       "text": {
         "text": "Advance notices and solicitations should be distributed to reach as many prospective offerors as practicable. Contracting officers may send notices and solicitations to organizations that maintain, without charge to the public, display rooms for the benefit of prospective offerors, subcontractors, and material suppliers. If requested by such organizations, this may be done for all or a stated class of construction projects on an annual or semiannual basis. Contracting officers may determine the geographical extent of distribution of advance notices and solicitations on a case-by-case basis."
-      }
+      },
+      "sub": {}
     },
     "212": {
-      "number": 212,
       "name": "Preconstruction orientation.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Conduct the conference prior to the start of construction at the work site;"
@@ -201,11 +188,14 @@
         "c": {
           "text": "If a preconstruction conference is to be held, the contracting officer shall—"
         }
-      }
+      },
+      "sub": {}
     },
     "213": {
-      "number": 213,
       "name": "Special procedures for sealed bidding in construction contracting.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -300,15 +290,10 @@
             "text": "When a notice of award is issued, it shall be done in writing or electronically, shall contain information required by 14.408, and shall—\n\n(a) Identify the invitation for bids;\n\n(b) Identify the contractor’s bid;\n\n(c) State the award price;\n\n(d) Advise the contractor that any required payment and performance bonds must be promptly executed and returned to the contracting officer;\n\n(e) Specify the date of commencement of work, or advise that a notice to proceed will be issued."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "214": {
-      "number": 214,
       "name": "Special procedures for price negotiation in construction contracting.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Agencies shall follow the policies and procedures in Part 15 when negotiating prices for construction."
@@ -327,15 +312,15 @@
         "c": {
           "text": "When appropriate, additional pricing tools may be used. For example, proposed prices may be compared to current prices for similar types of work, adjusted for differences in the work site and the specifications. Also, rough yardsticks may be developed and used, such as cost per cubic foot for structures, cost per linear foot for utilities, and cost per cubic yard for excavation or concrete."
         }
-      }
+      },
+      "sub": {}
     },
     "215": {
-      "number": 215,
       "name": "Special procedure for cost-reimbursement contracts for construction.",
-      "sub": {},
       "text": {
         "text": "Contracting officers may use a cost-reimbursement contract to acquire construction only when its use is consistent with Subpart 16.3 and Part 15 (see 15.404-4(c)(4)(i) for fee limitation on cost-reimbursement contracts)."
-      }
+      },
+      "sub": {}
     }
   }
 }

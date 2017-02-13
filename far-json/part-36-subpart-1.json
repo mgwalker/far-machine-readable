@@ -3,10 +3,22 @@
   "number": 1,
   "name": "General",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures peculiar to contracting for construction and architect-engineer services. It includes requirements for using certain clauses and standard forms that apply also to contracts for dismantling, demolition, or removal of improvements."
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Definitions.",
+      "text": {
+        "text": "As used in this part—\n\n“Construction and demolition materials and debris” means materials and debris generated during construction, renovation, demolition, or dismantling of all structures and buildings and associated infrastructure.\n\n“Diverting” means redirecting materials that might otherwise be placed in the waste stream to recycling or recovery, excluding diversion to waste-to-energy facilities."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Clauses applicable to the predominant part of the work (see subpart 22.4), or"
@@ -23,20 +35,18 @@
         "c": {
           "text": "A contract for both construction and supplies or services shall include—"
         }
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this part—\n\n“Contract” is intended to refer to a contract for construction or a contract for architect-engineer services, unless another meaning is clearly intended.\n\n“Design” means defining the construction requirement (including the functional relationships and technical systems to be used, such as architectural, environmental, structural, electrical, mechanical, and fire protection), producing the technical specifications and drawings, and preparing the construction cost estimate.\n\n“Design-bid-build” means the traditional delivery method where design and construction are sequential and contracted for separately with two contracts and two contractors.\n\n“Design-build” means combining design and construction in a single contract with one contractor.\n\n“Firm” in conjunction with architect-engineer services, means any individual, partnership, corporation, association, or other legal entity permitted by law to practice the professions of architecture or engineering.\n\n“Plans and specifications” means drawings, specifications, and other data for and preliminary to the construction.\n\n“Record drawings” means drawings submitted by a contractor or subcontractor at any tier to show the construction of a particular structure or work as actually completed under the contract.\n\n“Two-phase design-build selection procedures” is a selection method in which a limited number of offerors (normally five or fewer) is selected during Phase One to submit detailed proposals for Phase Two (see subpart 36.3)."
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Methods of contracting.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall use sealed bid procedures for a construction contract if the conditions in 6.401(a) apply, unless the contract will be performed outside the United States and its outlying areas. (See 6.401(b)(2).)"
@@ -44,12 +54,11 @@
         "b": {
           "text": "Contracting officers shall acquire architect-engineer services by negotiation, and select sources in accordance with applicable law, subpart 36.6, and agency regulations."
         }
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Ensure that all new construction, major renovation, or repair and alteration of Federal buildings complies with the Guiding Principles for Federal Leadership in High-Performance and Sustainable Buildings (available at http://www.wbdg.org/pdfs/hpsb_guidance.pdf);"
@@ -72,23 +81,8 @@
         "b": {
           "text": "Agencies shall implement high-performance sustainable building design, construction, renovation, repair, commissioning, operation and maintenance, management, and deconstruction practices so as to—"
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures peculiar to contracting for construction and architect-engineer services. It includes requirements for using certain clauses and standard forms that apply also to contracts for dismantling, demolition, or removal of improvements."
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Definitions.",
-      "sub": {},
-      "text": {
-        "text": "As used in this part—\n\n“Construction and demolition materials and debris” means materials and debris generated during construction, renovation, demolition, or dismantling of all structures and buildings and associated infrastructure.\n\n“Diverting” means redirecting materials that might otherwise be placed in the waste stream to recycling or recovery, excluding diversion to waste-to-energy facilities."
-      }
+      },
+      "sub": {}
     }
   }
 }

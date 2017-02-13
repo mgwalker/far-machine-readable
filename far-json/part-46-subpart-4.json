@@ -4,9 +4,7 @@
   "name": "Government Contract Quality Assurance",
   "sub": {
     "401": {
-      "number": 401,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Government contract quality assurance shall be performed at such times (including any stage of manufacture or performance of services) and places (including subcontractors’ plants) as may be necessary to determine that the supplies or services conform to contract requirements. Quality assurance surveillance plans should be prepared in conjunction with the preparation of the statement of work. The plans should specify—",
@@ -37,20 +35,18 @@
         "g": {
           "text": "Agencies may prescribe the use of inspection approval or disapproval stamps to identify and control supplies and material that have been inspected for conformance with contract quality requirements."
         }
-      }
+      },
+      "sub": {}
     },
     "402": {
-      "number": 402,
       "name": "Government contract quality assurance at source.",
-      "sub": {},
       "text": {
         "text": "Agencies shall perform contract quality assurance, including inspection, at source if—\n\n(a) Performance at any other place would require uneconomical disassembly or destructive testing;\n\n(b) Considerable loss would result from the manufacture and shipment of unacceptable supplies, or from the delay in making necessary corrections;\n\n(c) Special required instruments, gauges, or facilities are available only at source;\n\n(d) Performance at any other place would destroy or require the replacement of costly special packing and packaging;\n\n(e) Government inspection during contract performance is essential; or\n\n(f) It is determined for other reasons to be in the Government’s interest."
-      }
+      },
+      "sub": {}
     },
     "403": {
-      "number": 403,
       "name": "Government contract quality assurance at destination.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Government contract quality assurance that can be performed at destination is normally limited to inspection of the supplies or services. Inspection shall be performed at destination under the following circumstances—",
@@ -81,12 +77,11 @@
         "b": {
           "text": "Overseas inspection of supplies shipped from the United States shall not be required except in unusual circumstances, and then only when the contracting officer determines in advance that inspection can be performed or makes necessary arrangements for its performance."
         }
-      }
+      },
+      "sub": {}
     },
     "404": {
-      "number": 404,
       "name": "Government contract quality assurance for acquisitions at or below the simplified acquisition threshold.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Unless a special situation exists, the Government shall inspect contracts at or below the simplified acquisition threshold at destination and only for type and kind; quantity; damage; operability (if readily determinable); and preservation, packaging, packing, and marking, if applicable."
@@ -103,12 +98,11 @@
         "b": {
           "text": "When the conditions in 46.202-2(b) apply, the following policies shall govern:"
         }
-      }
+      },
+      "sub": {}
     },
     "405": {
-      "number": 405,
       "name": "Subcontracts.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Affect the contractual relationship between the prime contractor and the Government, or between the prime contractor and the subcontractor;"
@@ -145,20 +139,18 @@
         "d": {
           "text": "All oral and written statements and contract terms and conditions relating to Government quality assurance actions at the subcontract level shall be worded so as not to—"
         }
-      }
+      },
+      "sub": {}
     },
     "406": {
-      "number": 406,
       "name": "Foreign governments.",
-      "sub": {},
       "text": {
         "text": "Government contract quality assurance performed for foreign governments or international agencies shall be administered according to the foreign policy and security objectives of the United States. Such support shall be furnished only when consistent with or required by legislation, executive orders, or agency policies concerning mutual international programs."
-      }
+      },
+      "sub": {}
     },
     "407": {
-      "number": 407,
       "name": "Nonconforming supplies or services.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The supplies or services have been rejected at a place other than the contractor’s plant;"
@@ -210,12 +202,11 @@
         "g": {
           "text": "Notices of rejection must include the reasons for rejection and be furnished promptly to the contractor. Promptness in giving this notice is essential because, if timely nature of rejection is not furnished, acceptance may in certain cases be implied as a matter of law. The notice must be in writing if—"
         }
-      }
+      },
+      "sub": {}
     },
     "408": {
-      "number": 408,
       "name": "Single-agency assignments of Government contract quality assurance.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Government-wide responsibility for quality assurance support for acquisitions of certain commodities is assigned as follows:",
@@ -234,7 +225,8 @@
         "b": {
           "text": "Agencies requiring quality assurance support for acquiring these supplies should request the support directly from the cognizant office."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

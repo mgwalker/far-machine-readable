@@ -4,8 +4,10 @@
   "name": "Contracts with Commercial Organizations",
   "sub": {
     "201": {
-      "number": 201,
       "name": "General.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Composition of total cost.",
@@ -153,15 +155,10 @@
             "text": "Specific principles and procedures for evaluating and determining costs in connection with contracts and subcontracts for construction, and architect-engineer contracts related to construction projects, are in 31.105. The applicability of these principles and procedures is set forth in 31.000 and 31.100."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "202": {
-      "number": 202,
       "name": "Direct costs.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Is consistently applied to all final cost objectives; and"
@@ -175,12 +172,11 @@
         "b": {
           "text": "For reasons of practicality, the contractor may treat any direct cost of a minor dollar amount as an indirect cost if the accounting treatment—"
         }
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Indirect costs.",
-      "sub": {},
       "text": {
         "a": {
           "text": "For contracts subject to full CAS coverage, allocation of indirect costs shall be based on the applicable provisions. For all other contracts, the applicable CAS provisions in paragraphs (b) through (h) of this section apply."
@@ -217,12 +213,11 @@
         "i": {
           "text": "Indirect costs that meet the definition of “excessive pass-through charge” in 52.215-23, are unallowable."
         }
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Application of principles and procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Costs are allowable to the extent they are reasonable, allocable, and determined to be allowable under 31.201, 31.202, 31.203, and 31.205. These criteria apply to all of the selected items that follow, even if particular guidance is provided for certain items for emphasis or clarity."
@@ -250,11 +245,14 @@
         "d": {
           "text": "Section 31.205 does not cover every element of cost. Failure to include any item of cost does not imply that it is either allowable or unallowable. The determination of allowability shall be based on the principles and standards in this subpart and the treatment of similar or related selected items. When more than one subsection in 31.205 is relevant to a contractor cost, the cost shall be apportioned among the applicable subsections, and the determination of allowability of each portion shall be based on the guidance contained in the applicable subsection. When a cost, to which more than one subsection in 31.205 is relevant, cannot be apportioned, the determination of allowability shall be based on the guidance contained in the subsection that most specifically deals with, or best captures the essential nature of, the cost at issue."
         }
-      }
+      },
+      "sub": {}
     },
     "205": {
-      "number": 205,
       "name": "Selected costs.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "0": {
           "name": "[Reserved]",
@@ -549,9 +547,6 @@
             "text": "Goodwill, an unidentifiable intangible asset, originates under the purchase method of accounting for a business combination when the price paid by the acquiring company exceeds the sum of the identifiable individual assets acquired less liabilities assumed, based upon their fair values. The excess is commonly referred to as goodwill. Goodwill may arise from the acquisition of a company as a whole or a portion thereof. Any costs for amortization, expensing, write-off, or write-down of goodwill (however represented) are unallowable."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

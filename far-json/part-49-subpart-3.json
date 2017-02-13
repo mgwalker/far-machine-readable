@@ -4,17 +4,14 @@
   "name": "Additional Principles for Cost-Reimbursement Contracts Terminated for Convenience",
   "sub": {
     "301": {
-      "number": 301,
       "name": "General.",
-      "sub": {},
       "text": {
         "text": "Termination clauses for cost-reimbursement contracts (see 49.503(a)) provide for the settlement of costs and fee, if any. The contract clauses governing costs shall determine what costs are allowable."
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Discontinuance of vouchers.",
-      "sub": {},
       "text": {
         "a": {
           "text": "When the contract has been completely terminated, the contractor shall not use Standard Form 1034 (Public Voucher for Purchases and Services Other than Personal) after the last day of the sixth month following the month in which the termination is effective. The contractor may elect to stop using vouchers at any time during the 6-month period. When the contractor has vouchered out all costs within the 6-month period, a proposal for fee, if any, may be submitted on SF 1437 (see 49.602-1) or by letter appropriately certified. The contractor must submit a substantiated proposal for fee to the TCO within 1 year from the effective date of termination, unless the period is extended by the TCO. When the use of vouchers is discontinued, the contractor shall submit all unvouchered costs and the proposed fee, if any, as specified in 49.303."
@@ -22,11 +19,14 @@
         "b": {
           "text": "When the contract is partially terminated, 49.304 shall apply."
         }
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Procedure after discontinuing vouchers.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Submission of settlement proposal.",
@@ -82,14 +82,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "304": {
-      "number": 304,
       "name": "Procedure for partial termination.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -122,14 +121,13 @@
             "text": "When a partial termination settlement is limited to adjustment of fee, the contractor shall continue to submit the SF 1034, Public Voucher for Purchases and Services Other than Personal, for costs reimbursable under the contract. The contractor shall not be reimbursed for costs of settlements with subcontractors unless required approvals or ratifications have been obtained (see 49.108)."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "305": {
-      "number": 305,
       "name": "Adjustment of fee.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -182,9 +180,6 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

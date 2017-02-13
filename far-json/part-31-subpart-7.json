@@ -4,25 +4,21 @@
   "name": "Contracts with Nonprofit Organizations",
   "sub": {
     "701": {
-      "number": 701,
       "name": "Purpose.",
-      "sub": {},
       "text": {
         "text": "This subpart provides the principles for determining the cost applicable to work performed by nonprofit organizations under contracts with the Government. A nonprofit organization, for purpose of identification, is defined as a business entity organized and operated exclusively for charitable, scientific, or educational purposes, of which no part of the net earnings inure to the benefit of any private shareholder or individual, of which no substantial part of the activities is carrying on propaganda or otherwise attempting to influence legislation or participating in any political campaign on behalf of any candidate for public office, and which are exempt from Federal income taxation under section 501 of the Internal Revenue Code."
-      }
+      },
+      "sub": {}
     },
     "702": {
-      "number": 702,
       "name": "General.",
-      "sub": {},
       "text": {
         "text": "The OMB Uniform Guidance at 2 CFR part 200, subpart E and appendix IV, sets forth principles for determining the costs applicable to work performed by nonprofit organizations (as defined in the OMB Uniform Guidance at 2 CFR part 200) under contracts (as well as grants and other agreements) with the Government. See 31.108 for exceptions to the cost principles for nonprofit organizations."
-      }
+      },
+      "sub": {}
     },
     "703": {
-      "number": 703,
       "name": "Requirements.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Contracts which refer to this Subpart 31.7 for determining allowable costs shall be deemed to refer to, and shall have the allowability of costs determined by the contracting officer in accordance with, the OMB Uniform Guidance at 2 CFR part 200, subpart E and appendix IV in effect on the date of the contract."
@@ -30,7 +26,8 @@
         "b": {
           "text": "Agencies are not expected to place additional restrictions on individual items of cost. However, under 10 U.S.C. 2324(e) and 41 U.S.C. 4304, the costs cited in 31.603(b) are unallowable."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

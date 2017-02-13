@@ -4,17 +4,14 @@
   "name": "Performance-Based Acquisition",
   "sub": {
     "600": {
-      "number": 600,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for acquiring services using performance-based acquisition methods."
-      }
+      },
+      "sub": {}
     },
     "601": {
-      "number": 601,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Solicitations may use either a performance work statement or a statement of objectives (see 37.602)."
@@ -36,12 +33,11 @@
         "c": {
           "text": "See 12.102(g) for the use of Part 12 procedures for performance-based acquisitions."
         }
-      }
+      },
+      "sub": {}
     },
     "602": {
-      "number": 602,
       "name": "Performance work statement.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Purpose;"
@@ -81,12 +77,11 @@
         "c": {
           "text": "Offerors use the SOO to develop the PWS; however, the SOO does not become part of the contract. The SOO shall, at a minimum, include—"
         }
-      }
+      },
+      "sub": {}
     },
     "603": {
-      "number": 603,
       "name": "Performance standards.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Performance standards establish the performance level required by the Government to meet the contract requirements. The standards shall be measurable and structured to permit an assessment of the contractor’s performance."
@@ -94,15 +89,15 @@
         "b": {
           "text": "When offerors propose performance standards in response to a SOO, agencies shall evaluate the proposed standards to determine if they meet agency needs."
         }
-      }
+      },
+      "sub": {}
     },
     "604": {
-      "number": 604,
       "name": "Quality assurance surveillance plans.",
-      "sub": {},
       "text": {
         "text": "Requirements for quality assurance and quality assurance surveillance plans are in Subpart 46.4. The Government may either prepare the quality assurance surveillance plan or require the offerors to submit a proposed quality assurance surveillance plan for the Government’s consideration in development of the Government’s plan."
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,9 +4,7 @@
   "name": "Contracting with the Small Business Administration (The 8(a) Program)",
   "sub": {
     "800": {
-      "number": 800,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Section 8(a) of the Small Business Act (15 U.S.C. 637(a)) established a program that authorizes the Small Business Administration (SBA) to enter into all types of contracts with other agencies and award subcontracts for performing those contracts to firms eligible for program participation. This program is the “8(a) Business Development Program,” commonly referred to as the “8(a) program.” A small business that is accepted into the 8(a) program is known as a “participant.” SBA’s subcontractors are referred to as “8(a) contractors.” As used in this subpart, an 8(a) contractor is an 8(a) participant that is currently performing on a Federal contract or order that was set aside for 8(a) participants."
@@ -23,35 +21,35 @@
         "e": {
           "text": "When SBA has delegated its 8(a) program contract execution authority to an agency, the contracting officer must refer to its agency supplement or other policy directives for appropriate guidance."
         }
-      }
+      },
+      "sub": {}
     },
     "801": {
-      "number": 801,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "802": {
-      "number": 802,
       "name": "Determining eligibility for the 8(a) Program.",
-      "sub": {},
       "text": {
         "text": "Determining the eligibility of a small business to be a participant in the 8(a) program is the responsibility of the SBA. SBA’s regulations on eligibility requirements for participation in the 8(a) program are found at 13 CFR 124.101 through 124.112."
-      }
+      },
+      "sub": {}
     },
     "803": {
-      "number": 803,
       "name": "Selecting acquisitions for the 8(a) program.",
-      "sub": {},
       "text": {
         "text": "Through their cooperative efforts, the SBA and an agency match the agency’s requirements with the capabilities of 8(a) participants to establish a basis for the agency to contract with the SBA under the program. Selection is initiated in one of three ways:\n\n(a) The SBA advises the contracting activity of an 8(a) participant's capabilities through a search letter and requests the contracting activity to identify acquisitions to support the participant’s business plans. In these instances, the SBA will provide at a minimum the following information in order to enable the contracting activity to match an acquisition to the participant's capabilities:\n\n(1) Identification of the participant and its owners.\n\n(2) Background information on the participant, including any and all information pertaining to the participant’s technical ability and capacity to perform.\n\n(3) The participant’s present production capacity and related facilities.\n\n(4) The extent to which contracting assistance is needed in the present and the future, described in terms that will enable the agency to relate the participant's plans to present and future agency requirements.\n\n(5) If construction is involved, the request shall also include the following:\n\n(i) A participant’s capabilities in and qualifications for accomplishing various categories of construction work typically found in North American Industrial Category System subsector 236 (construction of buildings), subsector 237 (heavy and civil engineering construction), or subsector 238 (specialty trade contractors).\n\n(ii) The participant’s capacity in each construction category in terms of estimated dollar value (e.g., electrical, up to $100,000).\n\n(b) The SBA identifies a specific requirement for one or more 8(a) participant(s) and sends a requirements letter to the agency's Office of Small and Disadvantaged Business Utilization, or for the Department of Defense, Office of Small Business Programs, requesting the contracting office offer the acquisition to the 8(a) program. In these instances, in addition to the information in paragraph (a) of this section, the SBA will provide—\n\n(1) A clear identification of the acquisition sought; e.g., project name or number;\n\n(2) A statement as to how the required equipment and real property will be provided in order to ensure that the participant will be fully capable of satisfying the agency’s requirements;\n\n(3) If construction, information as to the bonding capability of the firm(s); and\n\n(4) Either—\n\n(i) If sole source request—\n\n(A) The reasons why the participant is considered suitable for this particular acquisition; e.g., previous contracts for the same or similar supply or service; and\n\n(B) A statement that the participant is eligible in terms of its small business size status relative to the assigned NAICS code, business support levels, and business activity targets; or\n\n(ii) If competitive, a statement that at least two 8(a) participants are considered capable of satisfying the agency’s requirements and a statement that the participants are also eligible in terms of their small business size status relative to the assigned NAICS code, business support levels, and business activity targets. If requested by the contracting office, SBA will identify at least two such participants and provide information concerning the participants’ capabilities.\n\n(c) Agencies may also review other proposed acquisitions for the purpose of identifying requirements which may be offered to the SBA. Where agencies independently, or through the self marketing efforts of an 8(a) participant, identify a requirement for the 8(a) program, they may offer on behalf of a specific 8(a) participant, for the 8(a) program in general, or for 8(a) competition."
-      }
+      },
+      "sub": {}
     },
     "804": {
-      "number": 804,
       "name": "Evaluation, offering, and acceptance.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Agency evaluation.",
@@ -217,14 +215,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "805": {
-      "number": 805,
       "name": "Competitive 8(a).",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -289,15 +286,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "806": {
-      "number": 806,
       "name": "Pricing the 8(a) contract.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall price the 8(a) contract in accordance with subpart 15.4. If required by subpart 15.4, the SBA shall obtain certified cost or pricing data from the 8(a) contractor. If the SBA requests audit assistance to determine the proposed price to be fair and reasonable in a sole source acquisition, the contracting activity shall furnish it to the extent it is available."
@@ -311,12 +303,11 @@
         "d": {
           "text": "The negotiated contract price and the estimated fair market price are subject to the concurrence of the SBA. In the event of a disagreement between the contracting officer and the SBA, the SBA may appeal in accordance with 19.810."
         }
-      }
+      },
+      "sub": {}
     },
     "807": {
-      "number": 807,
       "name": "Estimating fair market price.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall estimate the fair market price of the work to be performed by the 8(a) contractor."
@@ -327,11 +318,14 @@
         "c": {
           "text": "In estimating a fair market price for a repeat purchase, the contracting officer shall consider recent award prices for the same items or work if there is comparability in quantities, conditions, terms, and performance times. The estimated price should be adjusted to reflect differences in specifications, plans, transportation costs, packaging and packing costs, and other circumstances. Price indices may be used as guides to determine the changes in labor and material costs. Comparison of commercial prices for similar items may also be used."
         }
-      }
+      },
+      "sub": {}
     },
     "808": {
-      "number": 808,
       "name": "Contract negotiation.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Sole source.",
@@ -359,23 +353,17 @@
             "text": "In competitive 8(a) acquisitions subject to part 15, the contracting officer conducts negotiations directly with the competing 8(a) participants. Conducting competitive negotiations among 8(a) participants prior to SBA’s formal acceptance of the acquisition for the 8(a) program may be grounds for SBA’s not accepting the acquisition for the 8(a) program."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "809": {
-      "number": 809,
       "name": "Preaward considerations.",
-      "sub": {},
       "text": {
         "text": "The contracting officer should request a preaward survey of the 8(a) participant whenever considered useful. If the results of the preaward survey or other information available to the contracting officer raise substantial doubt as to the participant’s ability to perform, the contracting officer must refer the matter to SBA for Certificate of Competency consideration under subpart 19.6."
-      }
+      },
+      "sub": {}
     },
     "810": {
-      "number": 810,
       "name": "SBA appeals.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The SBA Administrator may submit the following matters for determination to the agency head if the SBA and the contracting officer fail to agree on them:",
@@ -408,11 +396,14 @@
         "c": {
           "text": "If the SBA appeal is denied, the decision of the agency head shall specify the reasons for the denial, including the reasons why the selected participant was determined incapable of performance, if appropriate. The decision shall be made a part of the contract file."
         }
-      }
+      },
+      "sub": {}
     },
     "811": {
-      "number": 811,
       "name": "Preparing the contracts.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Sole source.",
@@ -520,15 +511,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "812": {
-      "number": 812,
       "name": "Contract administration.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall assign contract administration functions, as required, based on the location of the 8(a) contractor (see Federal Directory of Contract Administration Services Components (available via the Internet at https://pubapp.dcma.mil/CASD/main.jsp))."
@@ -542,12 +528,11 @@
         "d": {
           "text": "An 8(a) contract, whether in the base or an option year, must be terminated for convenience if the 8(a) contractor to which it was awarded transfers ownership or control of the firm or if the contract is transferred or novated for any reason to another firm, unless the Administrator of the SBA waives the requirement for contract termination (13 CFR 124.515).  The Administrator may waive the termination requirement only if certain conditions exist. Moreover, a waiver of the requirement for termination is permitted only if the 8(a) contractor's request for waiver is made to the SBA prior to the actual relinquishment of ownership or control, except in the case of death or incapacity where the waiver must be submitted within 60 calendar days after such an occurrence. The clauses in the contract entitled “Special 8(a) Contract Conditions” and “Special 8(a) Subcontract Conditions” require the SBA and the 8(a) subcontractor to notify the contracting officer when ownership of the firm is being transferred. When the contracting officer receives information that an 8(a) contractor is planning to transfer ownership or control to another firm, the contracting officer shall take action immediately to preserve the option of waiving the termination requirement. The contracting officer shall determine the timing of the proposed transfer and its effect on contract performance and mission support. If the contracting officer determines that the SBA does not intend to waive the termination requirement, and termination of the contract would severely impair attainment of the agency’s program objectives or mission, the contracting officer shall immediately notify the SBA in writing that the agency is requesting a waiver. Within 15 business days thereafter, or such longer period as agreed to by the agency and the SBA, the agency head must either confirm or withdraw the request for waiver. Unless a waiver is approved by the SBA, the contracting officer must terminate the contract for convenience upon receipt of a written request by the SBA. This requirement for a convenience termination does not affect the Government’s right to terminate for default if the cause for termination of an 8(a) contract is other than the transfer of ownership or control."
         }
-      }
+      },
+      "sub": {}
     },
     "813": {
-      "number": 813,
       "name": "Protesting an 8(a) participant’s eligibility or size status.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The eligibility of an 8(a) participant for a sole source or competitive 8(a) requirement may not be challenged by another 8(a) participant or any other party, either to SBA or any administrative forum as part of a bid or other contract protest (see 13 CFR 124.517)."
@@ -572,12 +557,11 @@
         "d": {
           "text": "Protests of competitive 8(a) awards shall follow the procedures at 19.302. For additional information, refer to 13 CFR 121.1001."
         }
-      }
+      },
+      "sub": {}
     },
     "814": {
-      "number": 814,
       "name": "Requesting a formal size determination (8(a) sole source requirements).",
-      "sub": {},
       "text": {
         "a": {
           "text": "If the size status of an 8(a) participant nominated for award of an 8(a) sole source contract is called into question, a request for a formal size determination may be submitted to SBA pursuant to 13 CFR 121.1001(b)(2)(ii) by–",
@@ -602,12 +586,11 @@
         "c": {
           "text": "An appeal of an SBA size determination shall follow the procedures at 19.302."
         }
-      }
+      },
+      "sub": {}
     },
     "815": {
-      "number": 815,
       "name": "Release for non-8(a) procurement.",
-      "sub": {},
       "text": {
         "2": {
           "text": "Generally, a requirement that was previously accepted into the 8(a) program will only be released for procurements outside the 8(a) program when the contracting activity agency agrees to set aside the requirement under the small business, HUBZone, SDVOSB, or WOSB programs."
@@ -633,12 +616,11 @@
         "iii": {
           "text": "Whether the requirement is critical to the business development of the 8(a) contractor that is currently performing the requirement."
         }
-      }
+      },
+      "sub": {}
     },
     "816": {
-      "number": 816,
       "name": "Exiting the 8(a) program.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Except as provided in paragraph (c) of this section, when a contractor exits the 8(a) program, it is no longer eligible to receive new 8(a) contracts. However, the contractor remains under contractual obligation to complete existing contracts, and any priced options that may be exercised."
@@ -652,7 +634,8 @@
         "d": {
           "text": "SBA’s regulations on exiting the 8(a) program are found at 13 CFR 124.301 through 124.305, and 13 CFR 124.507(d)."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

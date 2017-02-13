@@ -4,17 +4,14 @@
   "name": "Contractor Compliance with Environmental Management Systems",
   "sub": {
     "900": {
-      "number": 900,
       "name": "Scope.",
-      "sub": {},
       "text": {
         "text": "This subpart implements the environmental management systems requirements for contractors."
-      }
+      },
+      "sub": {}
     },
     "901": {
-      "number": 901,
       "name": "Authority. ",
-      "sub": {},
       "text": {
         "a": {
           "text": "Executive Order 13423 of January 24, 2007, Strengthening Federal Environmental, Energy, and Transportation Management."
@@ -22,12 +19,11 @@
         "b": {
           "text": "Executive Order 13514 of October 5, 2009, Federal Leadership in Environmental, Energy, and Economic Performance."
         }
-      }
+      },
+      "sub": {}
     },
     "902": {
-      "number": 902,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Specify the EMS directives with which the contractor must comply; and"
@@ -41,15 +37,15 @@
         "b": {
           "text": "The contracting officer shall—"
         }
-      }
+      },
+      "sub": {}
     },
     "903": {
-      "number": 903,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall insert the clause at 52.223-19, Compliance With Environmental Management Systems, in all solicitations and contracts for contractor operation of Government-owned or -leased facilities or vehicles, located in the United States.  For facilities located outside the United States, the agency head may determine that use of the clause is in the best interest of the Government."
-      }
+      },
+      "sub": {}
     }
   }
 }

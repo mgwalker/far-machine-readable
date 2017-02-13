@@ -4,9 +4,7 @@
   "name": "Using and Maintaining Requirements Documents",
   "sub": {
     "201": {
-      "number": 201,
       "name": "Identification and availability of specifications.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Solicitations citing requirements documents listed in the General Services Administration (GSA) Index of Federal Specifications, Standards and Commercial Item Descriptions, the DoD Acquisition Streamlining and Standardization Information System (ASSIST), or other agency index shall identify each document’s approval date and the dates of any applicable amendments and revisions. Do not use general identification references, such as “the issue in effect on the date of the solicitation.” Contracting offices will not normally furnish these cited documents with the solicitation, except when—",
@@ -51,12 +49,11 @@
         "e": {
           "text": "Agencies may purchase some nongovernment standards, including voluntary consensus standards, from the National Technical Information Service’s Fedworld Information Network. Agencies may also obtain nongovernment standards from the standards developing organization responsible for the preparation, publication, or maintenance of the standard, or from an authorized document reseller. The National Institute of Standards and Technology can assist agencies in identifying sources for, and content of, nongovernment standards. DoD activities may obtain from the DoDSSP those nongovernment standards, including voluntary consensus standards, adopted for use by defense activities."
         }
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Maintenance of standardization documents.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Recommendations for changes to standardization documents listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions should be submitted to the—\n\nGeneral Services Administration\n\nFederal Supply Service\n\nOffice of Acquisition\n\nWashington, DC 20406.\n\nAgencies shall submit recommendations for changes to standardization documents listed in the DoDISS to the cognizant preparing activity.",
@@ -67,20 +64,18 @@
         "b": {
           "text": "When an agency cites an existing standardization document but modifies it to meet its needs, the agency shall follow the guidance in Federal Standardization Manual and, for Defense components, DoD 4120.24-M, Defense Standardization Program Policies and Procedures."
         }
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Customer satisfaction.",
-      "sub": {},
       "text": {
         "text": "Acquisition organizations shall communicate with customers to determine how well the requirements document reflects the customer’s needs and to obtain suggestions for corrective actions. Whenever practicable, the agency may provide affected industry an opportunity to comment on the requirements documents."
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Solicitation provisions and contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall insert the provision at 52.211-1, Availability of Specifications Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29, in solicitations that cite specifications listed in the Index that are not furnished with the solicitation."
@@ -94,7 +89,8 @@
         "d": {
           "text": "The contracting officer shall insert a provision substantially the same as the provision at 52.211-4, Availability for Examination of Specifications Not Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, in solicitations that cite specifications that are not listed in the Index and are available for examination at a specified location."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

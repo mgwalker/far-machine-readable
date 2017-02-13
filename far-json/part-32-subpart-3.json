@@ -4,33 +4,28 @@
   "name": "Loan Guarantees for Defense Production",
   "sub": {
     "300": {
-      "number": 300,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for designated agencies’ guarantees of loans made by private financial institutions to borrowers performing contracts related to national defense (see 30.102)."
-      }
+      },
+      "sub": {}
     },
     "301": {
-      "number": 301,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Borrower” means a contractor, subcontractor (at any tier), or other supplier who receives a guaranteed loan.\n\n“Federal Reserve Board” means the Board of Governors of the Federal Reserve System.\n\n“Guaranteed loan” or “V loan” means a loan, revolving credit fund, or other financial arrangement made pursuant to Regulation V of the Federal Reserve Board, under which the guaranteeing agency is obligated, on demand of the lender, to purchase a stated percentage of the loan and to share any losses in the amount of the guaranteed percentage.\n\n“Guaranteeing agency” means any agency that the President has authorized to guarantee loans, through Federal Reserve Banks, for expediting national defense production."
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Authority.",
-      "sub": {},
       "text": {
         "text": "Congress has authorized Federal Reserve Banks to act, on behalf of guaranteeing agencies, as fiscal agents of the United States in the making of loan guarantees for defense production (Section 301, Defense Production Act of 1950 (50 U.S.C. App. 2091)). By Executive Order 10480, August 14, 1953 (3 cfr 1949-53), as amended, the President has designated the following agencies as guaranteeing agencies:\n\n(a) Department of Defense.\n\n(b) Department of Energy.\n\n(c) Department of Commerce.\n\n(d) Department of the Interior.\n\n(e) Department of Agriculture.\n\n(f) General Services Administration.\n\n(g) National Aeronautics and Space Administration."
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Section 301 of the Defense Production Act authorizes loan guarantees for contract performance or other operations related to national defense, subject to amounts annually authorized by Congress on the maximum obligation of any guaranteeing agency under any loan, discount, advance, or commitment in connection therewith, entered into under section 301. (See 50 U.S.C. App. 2091 for statutory limitations and exceptions concerning the authorization of loan guarantee amounts and the use of loan guarantees for the prevention of insolvency or bankruptcy.)"
@@ -75,11 +70,14 @@
         "g": {
           "text": "The guaranteeing agency is responsible for certifying eligibility for the guarantee and fixing the maximum dollar amount and maturity date of the guaranteed loan to meet the contractor’s requirement for financing performance of the defense production contract on hand at the time the guarantee application is submitted."
         }
-      }
+      },
+      "sub": {}
     },
     "304": {
-      "number": 304,
       "name": "Procedures.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Application for guarantee.",
@@ -311,15 +309,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "305": {
-      "number": 305,
       "name": "Loan guarantees for terminated contracts.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The purpose of guaranteed loans; i.e., to provide for financing based on the borrower’s recoverable investment in defense production contracts, may also apply to contracts that have been terminated (partially or totally) for the convenience of the Government. Guaranteed loans also may be made before such termination if it is known that termination of particular contracts for the convenience of the Government is about to occur. These loans are expected to provide necessary financing pending termination settlements and payments. They may also finance continuing performance of defense production contracts that are eligible for guaranteed loans."
@@ -330,15 +323,15 @@
         "c": {
           "text": "Loan guarantees for contract termination financing shall not be provided before specific contract terminations are certain."
         }
-      }
+      },
+      "sub": {}
     },
     "306": {
-      "number": 306,
       "name": "Loan guarantees for subcontracts.",
-      "sub": {},
       "text": {
         "text": "If the request for a loan guarantee concerns a subcontractor that is financially weak in comparison with its contractor, the Government’s interests may be fostered by the contractor making progress payments to the subcontractor. If so, the agency shall try to arrange for the contractor to provide the progress payments. As a result, the need for the loan guarantee may be reduced or eliminated and the contractor would bear part or all of the risk of loss arising from the selection of the subcontractor."
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -3,18 +3,22 @@
   "number": 1,
   "name": "Contractor Use of Government Supply Sources",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures for the use by contractors of Government supply sources and interagency fleet management system (IFMS) vehicles and related services."
+      },
+      "sub": {}
+    },
     "100": {
-      "number": 100,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for the use of Government supply sources (see 51.102(c)) by contractors. In this subpart, the terms “contractors” and “contracts” include “subcontractors” and “subcontracts.”"
-      }
+      },
+      "sub": {}
     },
     "101": {
-      "number": 101,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "If it is in the Government’s interest, and if supplies or services required in the performance of a Government contract are available from Government supply sources, contracting officers may authorize contractors to use these sources in performing—",
@@ -42,12 +46,11 @@
         "c": {
           "text": "Contracting officers shall authorize contractors purchasing supply items for Government use that are available from the Committee for Purchase from People Who Are Blind or Severely Disabled (see Subpart 8.7) to purchase such items from the Defense Logistics Agency (DLA), the General Services Administration (GSA), and the Department of Veterans Affairs (VA) if they are available from these agencies through their distribution facilities. Mandatory supplies that are not available from DLA/GSA/VA shall be ordered through the appropriate central nonprofit agency (see 52.208-9(c))."
         }
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Authorization to use Government supply sources.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Ensuring that contractors comply with the terms of their authorizations and that supplies and services obtained from Government supply sources are properly accounted for and properly used;"
@@ -175,12 +178,11 @@
         "f": {
           "text": "After issuing the authorization, the authorizing agency shall be responsible for—"
         }
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Ordering from Government supply sources.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Comply with the requirements of the contracting officer’s authorization, using FEDSTRIP or MILSTRIP procedures, as appropriate;"
@@ -205,28 +207,25 @@
         "b": {
           "text": "Contractors placing orders for Government stock shall—"
         }
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "Furnishing assistance to contractors.",
-      "sub": {},
       "text": {
         "text": "After receiving an activity address code, the contracting officer will notify the appropriate GSA regional office or military activity, which will contact the contractor and—\n\n(a) Provide initial copies of ordering information and instructions; and\n\n(b) When necessary, assist the contractor in preparing and submitting, as appropriate—\n\n(1) The initial FEDSTRIP or MILSTRIP requisitions, the Optional Form 347, or the agency-approved forms;\n\n(2) A completed GSA Form 457, FSS Publications Mailing List Application, so that the contractor will automatically receive current copies of required publications; or\n\n(3) A completed GSA Form 3525, Application for Customer Supply Center Services and (Address Change)."
-      }
+      },
+      "sub": {}
     },
     "105": {
-      "number": 105,
       "name": "Payment for shipments.",
-      "sub": {},
       "text": {
         "text": "GSA, DoD, and VA will not forward bills to contractors for supplies ordered from Government stock until after the supplies have been shipped. Receipt of billing is sufficient evidence to establish contractor liability and to provide a basis for payment. Contracting officers should direct their contractors to make payment promptly upon receipt of billings."
-      }
+      },
+      "sub": {}
     },
     "106": {
-      "number": 106,
       "name": "Title.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Title to all property acquired by the contractor under the contracting officer’s authorization shall vest in the parties as provided in the contract, unless specifically provided for otherwise."
@@ -234,23 +233,15 @@
         "b": {
           "text": "If contracts are with educational institutions and the Government Property clause at 52.245-1, Alternate II, is used, title to property having a unit acquisition cost of less than $5,000 shall vest in the contractor as provided in the clause. Agencies may provide higher thresholds, if appropriate."
         }
-      }
+      },
+      "sub": {}
     },
     "107": {
-      "number": 107,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall insert the clause at 52.251-1, Government Supply Sources, in solicitations and contracts when the contracting officer authorizes the contractor to acquire supplies or services from a Government supply source."
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures for the use by contractors of Government supply sources and interagency fleet management system (IFMS) vehicles and related services."
-      }
+      },
+      "sub": {}
     }
   }
 }

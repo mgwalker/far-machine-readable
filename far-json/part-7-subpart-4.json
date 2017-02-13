@@ -4,17 +4,14 @@
   "name": "Equipment Lease or Purchase",
   "sub": {
     "400": {
-      "number": 400,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart provides guidance pertaining to the decision to acquire equipment by lease or purchase. It applies to both the initial acquisition of equipment and the renewal or extension of existing equipment leases."
-      }
+      },
+      "sub": {}
     },
     "401": {
-      "number": 401,
       "name": "Acquisition considerations.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Availability of purchase options."
@@ -60,12 +57,11 @@
         "b": {
           "text": "The following additional factors should be considered, as appropriate, depending on the type, cost, complexity, and estimated period of use of the equipment:"
         }
-      }
+      },
+      "sub": {}
     },
     "402": {
-      "number": 402,
       "name": "Acquisition methods.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The lease method is appropriate if it is to the Government’s advantage under the circumstances. The lease method may also serve as an interim measure when the circumstances—",
@@ -101,12 +97,11 @@
         "b": {
           "text": "Lease method."
         }
-      }
+      },
+      "sub": {}
     },
     "403": {
-      "number": 403,
       "name": "General Services Administration assistance.",
-      "sub": {},
       "text": {
         "a": {
           "text": "When requested by an agency, the General Services Administration (GSA) will assist in lease or purchase decisions by providing information such as—",
@@ -128,15 +123,15 @@
         "b": {
           "text": "Agencies may request information from the following GSA office:  U.S. General Services Administration, Federal Acquisition Service, Office of Acquisition Management, 2200 Crystal Drive, Room 806, Arlington, VA. 22202.  Email: fasam@gsa.gov."
         }
-      }
+      },
+      "sub": {}
     },
     "404": {
-      "number": 404,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall insert a clause substantially the same as the clause in 52.207-5, Option to Purchase Equipment, in solicitations and contracts involving a lease with option to purchase."
-      }
+      },
+      "sub": {}
     }
   }
 }

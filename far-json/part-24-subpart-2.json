@@ -4,17 +4,14 @@
   "name": "Freedom of Information Act",
   "sub": {
     "201": {
-      "number": 201,
       "name": "Authority.",
-      "sub": {},
       "text": {
         "text": "The Freedom of Information Act (5 U.S.C. 552, as amended) provides that information is to be made available to the public either by—\n\n(a) Publication in the Federal Register;\n\n(b) Providing an opportunity to read and copy records at convenient locations; or\n\n(c) Upon request, providing a copy of a reasonably described record."
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Prohibitions.",
-      "sub": {},
       "text": {
         "a": {
           "text": "A proposal in the possession or control of the Government, submitted in response to a competitive solicitation, shall not be made available to any person under the Freedom of Information Act. This prohibition does not apply to a proposal, or any part of a proposal, that is set forth or incorporated by reference in a contract between the Government and the contractor that submitted the proposal. (See 10 U.S.C. 2305(g) and 41 U.S.C. 4702.)"
@@ -25,12 +22,11 @@
         "c": {
           "text": "A dispute resolution communication that is between a neutral person and a party to alternative dispute resolution proceedings, and that may not be disclosed under 5 U.S.C. 574, is exempt from disclosure under the Freedom of Information Act (5 U.S.C. 552(b)(3))."
         }
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Act specifies, among other things, how agencies shall make their records available upon public request, imposes strict time standards for agency responses, and exempts certain records from public disclosure. Each agency’s implementation of these requirements is located in its respective title of the Code of Federal Regulations and referenced in Subpart 24.2 of its implementing acquisition regulations."
@@ -38,7 +34,8 @@
         "b": {
           "text": "Contracting officers may receive requests for records that may be exempted from mandatory public disclosure. The exemptions most often applicable are those relating to classified information, to trade secrets and confidential commercial or financial information, to interagency or intra-agency memoranda, or to personal and medical information pertaining to an individual. Other exemptions include agency personnel practices, and law enforcement. Since these requests often involve complex issues requiring an in-depth knowledge of a large and increasing body of court rulings and policy guidance, contracting officers are cautioned to comply with the implementing regulations of their agency and to obtain necessary guidance from the agency officials having Freedom of Information Act responsibility. If additional assistance is needed, authorized agency officials may contact the Department of Justice, Office of Information and Privacy. A Freedom of Information Act guide and other resources are available at the Department of Justice website under FOIA reference materials:  http://www.usdoj.gov/oip."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

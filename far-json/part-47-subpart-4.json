@@ -4,24 +4,24 @@
   "name": "Air Transportation by U.S.-Flag Carriers",
   "sub": {
     "401": {
-      "number": 401,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Air freight forwarder” means an indirect air carrier that is responsible for the transportation of property from the point of receipt to the point of destination, and utilizes for the whole or any part of such transportation the services of a direct air carrier or its agent, or of another air freight forwarder.\n\n“Gateway airport abroad” means the airport from which the traveler last embarks en route to the United States or at which the traveler first debarks incident to travel from the United States.\n\n“Gateway airport in the United States” means the last U.S. airport from which the traveler’s flight departs or the first U.S. airport at which the traveler’s flight arrives.\n\n“International air transportation” means transportation by air between a place in the United States and a place outside the United States or between two places both of which are outside the United States.\n\n“United States” means the 50 States, the District of Columbia, and outlying areas of the United States.\n\n“U.S.-flag air carrier” means an air carrier holding a certificate under section 401 of the Federal Aviation Act of 1958 (49 U.S.C. 41102)."
-      }
+      },
+      "sub": {}
     },
     "402": {
-      "number": 402,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "text": "Federal employees and their dependents, consultants, contractors, grantees, and others must use U.S.-flag air carriers for U.S. Government-financed international air travel and transportation of their personal effects or property, if available (Section 5 of the International Air Transportation Fair Competitive Practices Act of 1974 (49 U.S.C. 40118) (Fly America Act))."
-      }
+      },
+      "sub": {}
     },
     "403": {
-      "number": 403,
       "name": "Guidelines for implementation of the Fly America Act.",
+      "text": {
+        "text": "This section 47.403 is based on the Guidelines for Implementation of the Fly America Act (case number B-138942), issued by the Comptroller General of the United States on March 31, 1981."
+      },
       "sub": {
         "1": {
           "name": "Availability and unavailability of U.S.-flag air carrier service.",
@@ -110,15 +110,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": "This section 47.403 is based on the Guidelines for Implementation of the Fly America Act (case number B-138942), issued by the Comptroller General of the United States on March 31, 1981."
       }
     },
     "404": {
-      "number": 404,
       "name": "Air freight forwarders.",
-      "sub": {},
       "text": {
         "1": {
           "text": "A copy of the airway bill or manifest showing the air carriers used; and"
@@ -132,15 +127,15 @@
         "b": {
           "text": "Agency personnel shall inform international air freight forwarders that to facilitate prompt payments of their bills, they shall submit with their bills—"
         }
-      }
+      },
+      "sub": {}
     },
     "405": {
-      "number": 405,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall insert the clause at 52.247-63, Preference for U.S.-Flag Air Carriers, in solicitations and contracts whenever it is possible that U.S. Government-financed international air transportation of personnel (and their personal effects) or property will occur in the performance of the contract. This clause does not apply to contracts awarded using the simplified acquisition procedures in Part 13 or contracts for commercial items (see Part 12)."
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,33 +4,28 @@
   "name": "Customs and Duties",
   "sub": {
     "900": {
-      "number": 900,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart provides policies and procedures for exempting from import duties certain supplies purchased under Government contracts."
-      }
+      },
+      "sub": {}
     },
     "901": {
-      "number": 901,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "text": "United States laws impose duties on foreign supplies imported into the customs territory of the United States. Certain exemptions from these duties are available to Government agencies. Agencies must use these exemptions when the anticipated savings to appropriated funds will outweigh the administrative costs associated with processing required documentation."
-      }
+      },
+      "sub": {}
     },
     "902": {
-      "number": 902,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "text": "For regulations governing importations and duties, see the Customs Regulations issued by the U.S. Customs Service, Department of the Treasury (19 CFR Chapter 1). Except as provided elsewhere in the Customs Regulations (see 19 CFR 10.100), all shipments of imported supplies purchased under Government contracts are subject to the usual Customs entry and examination requirements. Unless the agency obtains an exemption (see 25.903), those shipments are also subject to duty."
-      }
+      },
+      "sub": {}
     },
     "903": {
-      "number": 903,
       "name": "Exempted supplies.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Subchapters VIII and X of Chapter 98 of the Harmonized Tariff Schedule of the United States (19 U.S.C. 1202) list supplies for which exemptions from duty may be obtained when imported into the customs territory of the United States under a Government contract. For certain of these supplies, the contracting agency must certify to the Commissioner of Customs that they are for the purpose stated in the Harmonized Tariff Schedule (see 19 CFR 10.102-104, 10.114, and 10.121 and 15 CFR Part 301 for requirements and formats)."
@@ -38,7 +33,8 @@
         "b": {
           "text": "Supplies (excluding equipment) for Government-operated vessels or aircraft may be withdrawn from any customs-bonded warehouse, from continuous customs custody elsewhere than in a bonded warehouse, or from a foreign-trade zone, free of duty and internal revenue tax as provided in 19 U.S.C. 1309 and 1317. The contracting activity must cite this authority on the appropriate customs form when making purchases (see 19 CFR 10.59 - 10.65)."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

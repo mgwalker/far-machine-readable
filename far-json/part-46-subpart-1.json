@@ -3,42 +3,43 @@
   "number": 1,
   "name": "General",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures to ensure that supplies and services acquired under Government contract conform to the contract’s quality and quantity requirements. Included are inspection, acceptance, warranty, and other measures associated with quality requirements."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this part—\n\n“Acceptance” means the act of an authorized representative of the Government by which the Government, for itself or as agent of another, assumes ownership of existing identified supplies tendered or approves specific services rendered as partial or complete performance of the contract.\n\n“Conditional acceptance” means acceptance of supplies or services that do not conform to contract quality requirements, or are otherwise incomplete, that the contractor is required to correct or otherwise complete by a specified date.\n\n“Contract quality requirements” means the technical requirements in the contract relating to the quality of the product or service and those contract clauses prescribing inspection, and other quality controls incumbent on the contractor, to assure that the product or service conforms to the contractual requirements.\n\n“Critical nonconformance” means a nonconformance that is likely to result in hazardous or unsafe conditions for individuals using, maintaining, or depending upon the supplies or services; or is likely to prevent performance of a vital agency mission.\n\n“Government contract quality assurance” means the various functions, including inspection, performed by the Government to determine whether a contractor has fulfilled the contract obligations pertaining to quality and quantity.\n\n“Major nonconformance” means a nonconformance, other than critical, that is likely to result in failure of the supplies or services, or to materially reduce the usability of the supplies or services for their intended purpose.\n\n“Minor nonconformance” means a nonconformance that is not likely to materially reduce the usability of the supplies or services for their intended purpose, or is a departure from established standards having little bearing on the effective use or operation of the supplies or services.\n\n“Off-the-shelf item” means an item produced and placed in stock by a contractor, or stocked by a distributor, before receiving orders or contracts for its sale. The item may be commercial or produced to military or Federal specifications or description.\n\n“Patent defect” means any defect which exists at the time of acceptance and is not a latent defect.\n\n“Subcontractor” (see 44.101).\n\n“Testing” means that element of inspection that determines the properties or elements, including functional operation of supplies or their components, by the application of established scientific principles and procedures."
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "text": "Agencies shall ensure that—\n\n(a) Contracts include inspection and other quality requirements, including warranty clauses when appropriate, that are determined necessary to protect the Government’s interest;\n\n(b) Supplies or services tendered by contractors meet contract requirements;\n\n(c) Government contract quality assurance is conducted before acceptance (except as otherwise provided in this part), by or under the direction of Government personnel;\n\n(d) No contract precludes the Government from performing inspection;\n\n(e) Nonconforming supplies or services are rejected, except as otherwise provided in 46.407;\n\n(f)  Contracts for commercial items shall rely on a contractor’s existing quality assurance system as a substitute for compliance with Government inspection and testing before tender for acceptance unless customary market practices for the commercial item being acquired permit in-process inspection (41 U.S.C. 3307). Any in-process inspection by the Government shall be conducted in a manner consistent with commercial practice; and\n\n(g) The quality assurance and acceptance services of other agencies are used when this will be effective, economical, or otherwise in the Government’s interest (see Subpart 42.1)."
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Contracting office responsibilities.",
-      "sub": {},
       "text": {
         "text": "Contracting offices are responsible for—\n\n(a) Receiving from the activity responsible for technical requirements any specifications for inspection, testing, and other contract quality requirements essential to ensure the integrity of the supplies or services (the activity responsible for technical requirements is responsible for prescribing contract quality requirements, such as inspection and testing requirements or, for service contracts, a quality assurance surveillance plan);\n\n(b) Including in solicitations and contracts the appropriate requirements for the contractor’s control of quality for the supplies or services to be acquired;\n\n(c) Issuing any necessary instructions to the cognizant contract administration office and acting on recommendations submitted by that office (see 42.301 and 46.104(f));\n\n(d) When contract administration is retained (see 42.201), verifying that the contractor fulfills the contract quality requirements; and\n\n(e) Ensuring that nonconformances are identified, and establishing the significance of a nonconformance when considering the acceptability of supplies or services which do not meet contract requirements."
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "Contract administration office responsibilities.",
-      "sub": {},
       "text": {
         "text": "When a contract is assigned for administration to the contract administration office cognizant of the contractor’s plant, that office, unless specified otherwise, shall—\n\n(a) Develop and apply efficient procedures for performing Government contract quality assurance actions under the contract in accordance with the written direction of the contracting office;\n\n(b) Perform all actions necessary to verify whether the supplies or services conform to contract quality requirements;\n\n(c) Maintain, as part of the performance records of the contract, suitable records reflecting—\n\n(1) The nature of Government contract quality assurance actions, including, when appropriate, the number of observations made and the number and type of defects; and\n\n(2) Decisions regarding the acceptability of the products, the processes, and the requirements, as well as action to correct defects.\n\n(d) Implement any specific written instructions from the contracting office;\n\n(e) Report to the contracting office any defects observed in design or technical requirements, including contract quality requirements; and\n\n(f) Recommend any changes necessary to the contract, specifications, instructions, or other requirements that will provide more effective operations or eliminate unnecessary costs (see 46.103(c))."
-      }
+      },
+      "sub": {}
     },
     "105": {
-      "number": 105,
       "name": "Contractor responsibilities.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contractor is responsible for carrying out its obligations under the contract by—",
@@ -92,15 +93,8 @@
         "d": {
           "text": "The contractor is responsible for performing all inspections and test required by the contract except those specifically reserved for performance by the Government (see 46.201(c))."
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures to ensure that supplies and services acquired under Government contract conform to the contract’s quality and quantity requirements. Included are inspection, acceptance, warranty, and other measures associated with quality requirements."
-      }
+      },
+      "sub": {}
     }
   }
 }

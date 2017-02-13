@@ -4,9 +4,7 @@
   "name": "Requests for Assistance",
   "sub": {
     "301": {
-      "number": 301,
       "name": "Requirements.",
-      "sub": {},
       "text": {
         "1": {
           "text": "A copy of the most recent 12-months’ service invoices."
@@ -84,7 +82,8 @@
         "d": {
           "text": "For existing utility service, the agency shall furnish GSA the information in paragraph (b) of this section and the following, as applicable:"
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,17 +4,14 @@
   "name": "Disallowance of Costs",
   "sub": {
     "800": {
-      "number": 800,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for—\n\n(a) Issuing notices of intent to disallow costs; and\n\n(b) Disallowing costs already incurred during the course of performance."
-      }
+      },
+      "sub": {}
     },
     "801": {
-      "number": 801,
       "name": "Notice of intent to disallow costs.",
-      "sub": {},
       "text": {
         "a": {
           "text": "At any time during the performance of a contract of a type referred to in 42.802, the cognizant contracting officer responsible for administering the contract may issue the contractor a written notice of intent to disallow specified costs incurred or planned for incurrence. However, before issuing the notice, the contracting officer responsible for administering the contract shall make every reasonable effort to reach a satisfactory settlement through discussions with the contractor."
@@ -57,23 +54,22 @@
         "f": {
           "text": "In the event the contractor submits a response that disagrees with the notice (see paragraph (b) of this section), the contracting officer who issued the notice shall either withdraw the notice or issue the written decision, except when elements of indirect cost are involved, in which case the contracting officer responsible under 42.705 for determining final indirect cost rates shall issue the decision."
         }
-      }
+      },
+      "sub": {}
     },
     "802": {
-      "number": 802,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall insert the clause at 52.242-1, Notice of Intent to Disallow Costs, in solicitations and contracts when a cost-reimbursement contract, a fixed-price incentive contract, or a contract providing for price redetermination is contemplated."
-      }
+      },
+      "sub": {}
     },
     "803": {
-      "number": 803,
       "name": "Disallowing costs after incurrence.",
-      "sub": {},
       "text": {
         "text": "Cost-reimbursement contracts, the cost-reimbursement portion of fixed-price contracts, letter contracts that provide for reimbursement of costs, and time-and-material and labor-hour contracts provide for disallowing costs during the course of performance after the costs have been incurred. The following procedures shall apply:\n\n(a) Contracting officer receipt of vouchers. When contracting officers receive vouchers directly from the contractor and, with or without auditor assistance, approve or disapprove them, the process shall be conducted in accordance with the normal procedures of the individual agency.\n\n(b) Auditor receipt of vouchers.\n\n(1) When authorized by agency regulations, the contract auditor may be authorized to (i) receive reimbursement vouchers directly from contractors, (ii) approve for payment those vouchers found acceptable, and (iii) suspend payment of questionable costs. The auditor shall forward approved vouchers for payment to the cognizant contracting, finance, or disbursing officer, as appropriate under the agency’s procedures.\n\n(2) If the examination of a voucher raises a question regarding the allowability of a cost under the contract terms, the auditor, after informal discussion as appropriate, may, where authorized by agency regulations, issue a notice of contract costs suspended and/or disapproved simultaneously to the contractor and the disbursing officer, with a copy to the cognizant contracting officer, for deduction from current payments with respect to costs claimed but not considered reimbursable.\n\n(3) If the contractor disagrees with the deduction from current payments, the contractor may—\n\n(i) Submit a written request to the cognizant contracting officer to consider whether the unreimbursed costs should be paid and to discuss the findings with the contractor;\n\n(ii) File a claim under the Disputes clause, which the cognizant contracting officer will process in accordance with agency procedures; or\n\n(iii) Do both of the above."
-      }
+      },
+      "sub": {}
     }
   }
 }

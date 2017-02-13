@@ -4,25 +4,21 @@
   "name": "Equal Employment Opportunity",
   "sub": {
     "800": {
-      "number": 800,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures pertaining to nondiscrimination in employment by contractors and subcontractors."
-      }
+      },
+      "sub": {}
     },
     "801": {
-      "number": 801,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Affirmative action program” means a contractor’s program that complies with Department of Labor regulations to ensure equal opportunity in employment to minorities and women.\n\n“Compliance evaluation” means any one or combination of actions that the Office of Federal Contract Compliance Programs (OFCCP) may take to examine a Federal contractor’s compliance with one or more of the requirements of E.O. 11246.\n\n“Contractor” includes the terms “prime contractor” and “subcontractor.”\n\n“Deputy Assistant Secretary” means the Deputy Assistant Secretary for Federal Contract Compliance, U.S. Department of Labor, or a designee.\n\n“Equal Opportunity clause” means the clause at 52.222-26, Equal Opportunity, as prescribed in 22.810(e).\n\n“E.O. 11246” means Parts II and IV of Executive Order 11246, September 24, 1965 (30 FR 12319), and any Executive order amending or superseding this order (see 22.802). This term specifically includes the Equal Opportunity clause at 52.222-26, and the rules, regulations, and orders issued pursuant to E.O. 11246 by the Secretary of Labor or a designee.\n\n“Gender identity” has the meaning given by the Department of Labor’s Office of Federal Contract Compliance Programs, and is found at www.dol.gov/ofccp/LGBT/LGBT_FAQs.html.\n\n“Prime contractor” means any person who holds, or has held, a Government contract subject to E.O. 11246.\n\n“Recruiting and training agency” means any person who refers workers to any contractor or provides or supervises apprenticeship or training for employment by any contractor.\n\n“Sexual orientation” has the meaning given by the Department of Labor’s Office of Federal Contract Compliance Programs, and is found at www.dol.gov/ofccp/LGBT/LGBT_FAQs.html.\n\n“Site of construction” means the general physical location of any building, highway, or other change or improvement to real property that is undergoing construction, rehabilitation, alteration, conversion, extension, demolition, or repair; and any temporary location or facility at which a contractor or other participating party meets a demand or performs a function relating to a Government contract or subcontract.\n\n“Subcontract” means any agreement or arrangement between a contractor and any person (in which the parties do not stand in the relationship of an employer and an employee)—\n\n(1) For the purchase, sale, or use of personal property or nonpersonal services that, in whole or in part, are necessary to the performance of any one or more contracts; or\n\n(2) Under which any portion of the contractor’s obligation under any one or more contracts is performed, undertaken, or assumed.\n\n“Subcontractor” means any person who holds, or has held, a subcontract subject to E.O. 11246. The term “first-tier subcontractor” means a subcontractor holding a subcontract with a prime contractor.\n\n“United States” means the 50 States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, and Wake Island."
-      }
+      },
+      "sub": {}
     },
     "802": {
-      "number": 802,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Executive Order 11246, as amended, sets forth the Equal Opportunity clause and requires that all agencies—",
@@ -50,12 +46,11 @@
         "d": {
           "text": "Contractor disputes related to compliance with its obligation shall be handled according to the rules, regulations, and relevant orders of the Secretary of Labor (see 41 CFR 60-1.1)."
         }
-      }
+      },
+      "sub": {}
     },
     "803": {
-      "number": 803,
       "name": "Responsibilities.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Secretary of Labor is responsible for the—",
@@ -77,11 +72,14 @@
         "d": {
           "text": "In the event the applicability of E.O. 11246 and implementing regulations is questioned, the contracting officer shall forward the matter to the Deputy Assistant Secretary, through agency channels, for resolution."
         }
-      }
+      },
+      "sub": {}
     },
     "804": {
-      "number": 804,
       "name": "Affirmative action programs.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Nonconstruction.",
@@ -111,15 +109,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "805": {
-      "number": 805,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Preaward clearances for contracts and subcontracts of $10 million or more (excluding construction).",
@@ -195,12 +188,11 @@
         "b": {
           "text": "Furnishing posters. The contracting officer shall furnish to the contractor appropriate quantities of the poster entitled “Equal Employment Opportunity Is The Law.” These shall be obtained in accordance with agency procedures."
         }
-      }
+      },
+      "sub": {}
     },
     "806": {
-      "number": 806,
       "name": "Inquiries.",
-      "sub": {},
       "text": {
         "a": {
           "text": "An inquiry from a contractor regarding status of its compliance with E.O. 11246, or rights of appeal to any of the actions in 22.809, shall be referred to the OFCCP regional office."
@@ -208,12 +200,11 @@
         "b": {
           "text": "Labor union inquiries regarding the revision of a collective bargaining agreement in order to comply with E.O. 11246 shall be referred to the Deputy Assistant Secretary."
         }
-      }
+      },
+      "sub": {}
     },
     "807": {
-      "number": 807,
       "name": "Exemptions.",
-      "sub": {},
       "text": {
         "1": {
           "text": "To contracts awarded before the withdrawal; or"
@@ -264,28 +255,25 @@
         "d": {
           "text": "The Deputy Assistant Secretary may withdraw the exemption for a specific contract, or group of contracts, if the Deputy Assistant Secretary deems that such action is necessary and appropriate to achieve the purposes of E.O. 11246. Such withdrawal shall not apply—"
         }
-      }
+      },
+      "sub": {}
     },
     "808": {
-      "number": 808,
       "name": "Complaints.",
-      "sub": {},
       "text": {
         "text": "Complaints received by the contracting officer alleging violation of the requirements of E.O. 11246 shall be referred immediately to the OFCCP regional office. The complainant shall be advised in writing of the referral. The contractor that is the subject of a complaint shall not be advised in any manner or for any reason of the complainant’s name, the nature of the complaint, or the fact that the complaint was received."
-      }
+      },
+      "sub": {}
     },
     "809": {
-      "number": 809,
       "name": "Enforcement.",
-      "sub": {},
       "text": {
         "text": "Upon written notification to the contracting officer, the Deputy Assistant Secretary may direct one or more of the following actions, as well as administrative sanctions and penalties, be taken against contractors found to be in violation of E.O. 11246, the regulations of the Secretary of Labor, or the applicable contract clauses:\n\n(a) Publication of the names of the contractor or its unions.\n\n(b) Cancellation, termination, or suspension of the contractor’s contracts or portion thereof.\n\n(c) Debarment from future Government contracts, or extensions or modifications of existing contracts, until the contractor has established and carried out personnel and employment policies in compliance with E.O. 11246 and the regulations of the Secretary of Labor.\n\n(d) Referral by the Deputy Assistant Secretary of any matter arising under E.O. 11246 to the Department of Justice or to the Equal Employment Opportunity Commission (EEOC) for the institution of appropriate civil or criminal proceedings."
-      }
+      },
+      "sub": {}
     },
     "810": {
-      "number": 810,
       "name": "Solicitation provisions and contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "When a contract is contemplated that will include the clause at 52.222-26, Equal Opportunity, the contracting officer shall insert—",
@@ -316,7 +304,8 @@
         "g": {
           "text": "The contracting officer shall insert the clause at 52.222-29, Notification of Visa Denial, in contracts that will include the clause at 52.222-26, Equal Opportunity, if the contractor is required to perform in or on behalf of a foreign country."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

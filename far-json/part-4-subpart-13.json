@@ -4,17 +4,14 @@
   "name": "Personal Identity Verification",
   "sub": {
     "1300": {
-      "number": 1300,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart provides policy and procedures associated with Personal Identity Verification as required by—\n\n(a) Federal Information Processing Standards Publication (FIPS PUB) Number 201, “Personal Identity Verification of Federal Employees and Contractors”; and\n\n(b) Office of Management and Budget (OMB) Guidance M-05-24, dated August 5, 2005, “Implementation of Homeland Security Presidential Directive (HSPD) 12-Policy for a Common Identification Standard for Federal Employees and Contractors.”\n\n"
-      }
+      },
+      "sub": {}
     },
     "1301": {
-      "number": 1301,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "2": {
           "text": "The contracting officer may delay final payment under a contract if the contractor fails to comply with these requirements."
@@ -40,12 +37,11 @@
         "iii": {
           "text": "Upon contract completion or termination."
         }
-      }
+      },
+      "sub": {}
     },
     "1302": {
-      "number": 1302,
       "name": "Acquisition of approved products and services for personal identity verification.",
-      "sub": {},
       "text": {
         "a": {
           "text": "In order to comply with FIPS PUB 201, agencies must purchase only approved personal identity verification products and services."
@@ -70,15 +66,15 @@
         "d": {
           "text": "For more information on personal identity verification products and services see http://www.idmanagement.gov."
         }
-      }
+      },
+      "sub": {}
     },
     "1303": {
-      "number": 1303,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall insert the clause at 52.204-9, Personal Identity Verification of Contractor Personnel, in solicitations and contracts when contract performance requires contractors to have routine physical access to a Federally-controlled facility and/or routine access to a Federally-controlled information system. The clause shall not be used when contractors require only intermittent access to Federally-controlled facilities."
-      }
+      },
+      "sub": {}
     }
   }
 }

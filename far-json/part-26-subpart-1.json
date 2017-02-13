@@ -4,33 +4,28 @@
   "name": "Indian Incentive Program",
   "sub": {
     "100": {
-      "number": 100,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart implements 25 U.S.C. 1544, which provides an incentive to prime contractors that use Indian organizations and Indian-owned economic enterprises as subcontractors."
-      }
+      },
+      "sub": {}
     },
     "101": {
-      "number": 101,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Indian” means any person who is a member of any Indian tribe, band, group, pueblo, or community that is recognized by the Federal Government as eligible for services from the Bureau of Indian Affairs (BIA) in accordance with 25 U.S.C. 1452(c) and any “Native” as defined in the Alaska Native Claims Settlement Act (43 U.S.C. 1601).\n\n“Indian organization” means the governing body of any Indian tribe or entity established or recognized by the governing body of an Indian tribe for the purposes of 25 U.S.C., Chapter 17.\n\n“Indian-owned economic enterprise” means any Indian-owned (as determined by the Secretary of the Interior) commercial, industrial, or business activity established or organized for the purpose of profit, provided that Indian ownership constitutes not less than 51 percent of the enterprise.\n\n“Indian tribe” means any Indian tribe, band, pueblo, or community, including native villages and native groups (including corporations organized by Kenai, Juneau, Sitka, and Kodiak) as defined in the Alaska Native Claims Settlement Act, that is recognized by the Federal Government as eligible for services from BIA in accordance with 25 U.S.C. 1452(c).\n\n“Interested party” means a prime contractor or an actual or prospective offeror whose direct economic interest would be affected by the award of a subcontract or by the failure to award a subcontract."
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "text": "Indian organizations and Indian-owned economic enterprises shall have the maximum practicable opportunity to participate in performing contracts awarded by Federal agencies. In fulfilling this requirement, the Indian Incentive Program allows an incentive payment equal to 5 percent of the amount paid to a subcontractor in performing the contract, if the contract so authorizes and the subcontractor is an Indian organization or Indian-owned economic enterprise."
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Contracting officers and prime contractors, acting in good faith, may rely on the representation of an Indian organization or Indian-owned economic enterprise as to its eligibility, unless an interested party challenges its status or the contracting officer has independent reason to question that status."
@@ -78,15 +73,15 @@
         "f": {
           "text": "Subject to the terms and conditions of the contract and the availability of funds, contracting officers shall authorize an incentive payment of 5 percent of the amount paid to the subcontractor. Contracting officers shall seek funding in accordance with agency procedures."
         }
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "Contracting officers in civilian agencies may insert the clause at 52.226-1, Utilization of Indian Organizations and Indian-Owned Economic Enterprises, in solicitations and contracts if—\n\n(a) In the opinion of the contracting officer, subcontracting possibilities exist for Indian organizations or Indian-owned economic enterprises; and\n\n(b) Funds are available for any increased costs as described in paragraph (b)(2) of the clause at 52.226-1."
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,9 +4,7 @@
   "name": "Submission of Bids",
   "sub": {
     "301": {
-      "number": 301,
       "name": "Responsiveness of bids.",
-      "sub": {},
       "text": {
         "a": {
           "text": "To be considered for award, a bid must comply in all material respects with the invitation for bids. Such compliance enables bidders to stand on an equal footing and maintain the integrity of the sealed bidding system."
@@ -28,20 +26,18 @@
         "d": {
           "text": "Bids submitted by electronic commerce shall be considered only if the electronic commerce method was specifically stipulated or permitted by the solicitation."
         }
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Bid submission.",
-      "sub": {},
       "text": {
         "text": "Bids shall be submitted so that they will be received in the office designated in the invitation for bids not later than the exact time set for opening of bids."
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Modification or withdrawal of bids.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Bids may be modified or withdrawn by any method authorized by the solicitation, if notice is received in the office designated in the solicitation not later than the exact time set for opening of bids. If the solicitation authorizes facsimile bids, bids may be modified or withdrawn via facsimile received at any time before the exact time set for receipt of bids, subject to the conditions specified in the provision prescribed in 14.201-6(v). Modifications received by facsimile shall be sealed in an envelope by a proper official.",
@@ -74,12 +70,11 @@
         "c": {
           "text": "Upon withdrawal of an electronically transmitted bid, the data received shall not be viewed and shall be purged from primary and backup data storage systems."
         }
-      }
+      },
+      "sub": {}
     },
     "304": {
-      "number": 304,
       "name": "Submission, modification, and withdrawal of bids.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The date and hour of receipt."
@@ -125,7 +120,8 @@
         "h": {
           "text": "If available, the following must be included in the contract files for each late bid, modification, or withdrawal:"
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

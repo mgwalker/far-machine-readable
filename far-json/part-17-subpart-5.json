@@ -4,9 +4,7 @@
   "name": "Interagency Acquisitions",
   "sub": {
     "500": {
-      "number": 500,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Interagency reimbursable work performed by Federal employees (other than acquisition assistance), or interagency activities where contracting is incidental to the purpose of the transaction; or"
@@ -31,12 +29,11 @@
         "c": {
           "text": "This subpart does not apply to—"
         }
-      }
+      },
+      "sub": {}
     },
     "501": {
-      "number": 501,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Interagency acquisitions are commonly conducted through indefinite-delivery contracts, such as task- and delivery-order contracts. The indefinite-delivery contracts used most frequently to support interagency acquisitions are Federal Supply Schedules (FSS), Governmentwide acquisition contracts (GWACs), and multi-agency contracts (MACs)."
@@ -50,11 +47,14 @@
         "d": {
           "text": "An agency shall not use an interagency acquisition to make acquisitions conflicting with any other agency’s authority or responsibility (for example, that of the Administrator of General Services under title 40, United States Code, “Public Buildings, Property and Works” and 41 U.S.C. division C of subtitle I, Procurement.)"
         }
-      }
+      },
+      "sub": {}
     },
     "502": {
-      "number": 502,
       "name": "Procedures.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -195,15 +195,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "503": {
-      "number": 503,
       "name": "Ordering procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Before placing an order for supplies or services with another Government agency, the requesting agency shall follow the procedures in 17.502-1 and, if under the Economy Act, also 17.502-2."
@@ -254,12 +249,11 @@
         "e": {
           "text": "Nonsponsoring Federal agencies may use a Federally Funded Research and Development Center (FFRDC) only if the terms of the FFRDC’s sponsoring agreement permit work from other than a sponsoring agency. Work placed with the FFRDC is subject to the acceptance by the sponsor and must fall within the purpose, mission, general scope of effort, or special competency of the FFRDC. (See 35.017; see also 6.302 for procedures to follow where using other than full and open competition.) The nonsponsoring agency shall provide to the sponsoring agency necessary documentation that the requested work would not place the FFRDC in direct competition with domestic private industry."
         }
-      }
+      },
+      "sub": {}
     },
     "504": {
-      "number": 504,
       "name": "Reporting requirements.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The senior procurement executive for each executive agency shall submit to the Director of OMB an annual report on interagency acquisitions, as directed by OMB."
@@ -267,7 +261,8 @@
         "b": {
           "text": "The contracting officer for the servicing agency shall ensure that service contractor reporting requirements are met in accordance with subpart 4.17, Service Contracts Inventory."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

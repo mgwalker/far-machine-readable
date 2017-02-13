@@ -3,17 +3,25 @@
   "number": 1,
   "name": "Extraordinary Contractual Actions",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part—\n\n(a)(1) Prescribes policies and procedures for entering into, amending, or modifying contracts in order to facilitate the national defense under the extraordinary emergency authority granted by Public Law 85-804 (50 U.S.C. 1431-1434) and Executive Order 10789, dated November 14, 1958. It does not cover advance payments (see subpart 32.4); and\n\n(2) Implements indemnification authority granted by Pub. L. 85-804 and paragraph 1A of E.O. 10789 with respect to any matter that has been, or could be, designated by the Secretary of Homeland Security as a qualified anti-terrorism technology as defined in the Support Anti-terrorism by Fostering Effective Technologies Act of 2002 (SAFETY Act); and\n\n(b) Implements SAFETY Act liability protections to promote development and use of anti-terrorism technologies."
+      },
+      "sub": {}
+    },
     "100": {
-      "number": 100,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this part—\n\n“Approving authority” means an agency official or contract adjustment board authorized to approve actions under Pub. L. 85-804 and E.O. 10789.\n\n“Secretarial level” means a level at or above the level of a deputy assistant agency head, or a contract adjustment board."
-      }
+      },
+      "sub": {}
     },
     "101": {
-      "number": 101,
       "name": "General.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Authority. ",
@@ -54,14 +62,13 @@
             "text": "Agencies shall maintain complete records of all actions taken under this subpart 50.1. For each request for relief processed, these records shall include, as a minimum—\n\n(a) The contractor’s request;\n\n(b) All relevant memorandums, correspondence, affidavits, and other pertinent documents;\n\n(c) The Memorandum of Decision (see 50.103-6 and 50.104-2); and\n\n(d) A copy of the contractual document implementing an approved request."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "102": {
-      "number": 102,
       "name": "Delegation of and limitations on exercise of authority. ",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Delegation of authority. ",
@@ -171,14 +178,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "103": {
-      "number": 103,
       "name": "Contract adjustments.",
+      "text": {
+        "text": "This section prescribes standards and procedures for processing contractors’ requests for contract adjustment under Pub. L. 85-804 and E.O. 10789."
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -457,14 +463,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": "This section prescribes standards and procedures for processing contractors’ requests for contract adjustment under Pub. L. 85-804 and E.O. 10789."
       }
     },
     "104": {
-      "number": 104,
       "name": "Residual powers.",
+      "text": {
+        "text": "This section prescribes standards and procedures for exercising residual powers under Pub. L. 85-804. The term “residual powers” includes all authority under Pub. L. 85-804 except—\n\n(a) That covered by section 50.103; and\n\n(b) The authority to make advance payments (see subpart 32.4)."
+      },
       "sub": {
         "1": {
           "name": "Standards for use.",
@@ -587,17 +592,6 @@
             "text": "The contracting officer shall insert the clause at 52.250-1, Indemnification Under Public Law 85-804, in contracts whenever the approving official determines that the contractor shall be indemnified against unusually hazardous or nuclear risks (also see 50.104-3(b)(3)). In cost-reimbursement contracts, the contracting officer shall use the clause with its Alternate I."
           }
         }
-      },
-      "text": {
-        "text": "This section prescribes standards and procedures for exercising residual powers under Pub. L. 85-804. The term “residual powers” includes all authority under Pub. L. 85-804 except—\n\n(a) That covered by section 50.103; and\n\n(b) The authority to make advance payments (see subpart 32.4)."
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part—\n\n(a)(1) Prescribes policies and procedures for entering into, amending, or modifying contracts in order to facilitate the national defense under the extraordinary emergency authority granted by Public Law 85-804 (50 U.S.C. 1431-1434) and Executive Order 10789, dated November 14, 1958. It does not cover advance payments (see subpart 32.4); and\n\n(2) Implements indemnification authority granted by Pub. L. 85-804 and paragraph 1A of E.O. 10789 with respect to any matter that has been, or could be, designated by the Secretary of Homeland Security as a qualified anti-terrorism technology as defined in the Support Anti-terrorism by Fostering Effective Technologies Act of 2002 (SAFETY Act); and\n\n(b) Implements SAFETY Act liability protections to promote development and use of anti-terrorism technologies."
       }
     }
   }

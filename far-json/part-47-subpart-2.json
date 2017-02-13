@@ -4,9 +4,7 @@
   "name": "Contracts for Transportation or for Transportation-Related Services",
   "sub": {
     "200": {
-      "number": 200,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "a": {
           "text": "This subpart prescribes procedures for the acquisition by sealed bid or negotiated contracts of—",
@@ -64,44 +62,39 @@
         "e": {
           "text": "Additional guidance for DoD acquisition of freight and passenger transportation is in the Defense Transportation Regulation."
         }
-      }
+      },
+      "sub": {}
     },
     "201": {
-      "number": 201,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“General freight” means supplies, goods, and transportable property not encompassed in the definitions of “household goods” or “office furniture.”\n\n“Office furniture” means furniture, equipment, fixtures, records, and other equipment and materials used in Government offices, hospitals, and similar establishments."
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Presolicitation planning.",
-      "sub": {},
       "text": {
         "text": "Contracting officers shall inform activities that plan to acquire transportation or transportation-related services of the applicable lead-time requirements, that is—\n\n(a) The Service Contract Labor Standards statute requirement to obtain a wage determination by accessing the Wage Determination OnLine website (http://www.wdol.gov) using the WDOL process or by submitting a request directly to the Department of Labor on this website using the e98 process before the issuance of an invitation for bid, request for proposal, or commencement of negotiations for any contract exceeding $2,500 that may be subject to the Service Contract Labor Standards statute (see subpart 22.10);\n\n(b) The possible requirement to provide, during the solicitation period, time for prospective offerors or contractors to inspect origin and destination locations; or\n\n(c) The possible requirement for inspection by agency personnel of prospective contractor facilities and equipment."
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Single-movement contracts.",
-      "sub": {},
       "text": {
         "text": "Single-movement contracts may be awarded for unique transportation services that are not otherwise available under carrier tariffs or covered by DoD or GSA contracts; e.g., special requirements at origin and/or destination."
-      }
+      },
+      "sub": {}
     },
     "205": {
-      "number": 205,
       "name": "Availability of term contracts and basic ordering agreements for transportation or for transportation-related services.",
-      "sub": {},
       "text": {
         "a": {
           "text": "All Government agencies may contract for transportation or for transportation-related services and execute basic ordering agreements (BOA’s) (see subpart 16.7) unless agency regulations prescribe otherwise. However, it is generally more economical and efficient for most agencies to make use of term contracts and basic ordering agreements that have been executed by agencies that employ personnel experienced in contracting for transportation or for transportation-related services. The Department of Defense (DoD) and the General Services Administration (GSA) contract for transportation or for transportation-related services on behalf of other activities and agencies. For instance, GSA awards term contracts for services such as local drayage, office moves, and ocean-freight forwarding (see 47.105 for assistance)."
@@ -109,12 +102,11 @@
         "b": {
           "text": "Agencies may obtain transportation or transportation-related services for which the cost does not exceed the simplified acquisition threshold if term contracts or basic ordering agreements are not available."
         }
-      }
+      },
+      "sub": {}
     },
     "206": {
-      "number": 206,
       "name": "Preparation of solicitations and contracts.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Contracting officers shall prepare solicitations and contracts for transportation or for transportation-related services as prescribed elsewhere in the FAR for fixed-price service contracts to the extent that those requirements are applicable and not inconsistent with the requirements in subpart 47.2."
@@ -122,11 +114,14 @@
         "b": {
           "text": "In addition, the contracting officer shall include in solicitations and contracts for transportation or for transportation-related services provisions, clauses, and instructions as prescribed in section 47.207."
         }
-      }
+      },
+      "sub": {}
     },
     "207": {
-      "number": 207,
       "name": "Solicitation provisions, contract clauses, and special requirements.",
+      "text": {
+        "text": "The contracting officer shall include provisions, clauses, and special requirements in solicitations and contracts for transportation or for transportation-related services as prescribed in 47.207-1 through 47.207-9."
+      },
       "sub": {
         "0": {
           "name": "Discrepancies incident to shipments.",
@@ -364,14 +359,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": "The contracting officer shall include provisions, clauses, and special requirements in solicitations and contracts for transportation or for transportation-related services as prescribed in 47.207-1 through 47.207-9."
       }
     },
     "208": {
-      "number": 208,
       "name": "Report of shipment (REPSHIP).",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Advance notice.",
@@ -385,9 +379,6 @@
             "text": "The contracting officer shall insert the clause at 52.247-68, Report of Shipment (REPSHIP), in solicitations and contracts when advance notice of shipment is required for safety or security reasons, or where carload or truckload shipments will be made to DoD installations or, as required, to civilian agency facilities."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

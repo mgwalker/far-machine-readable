@@ -4,17 +4,14 @@
   "name": "Contract Debts",
   "sub": {
     "600": {
-      "number": 600,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for identifying, collecting, and deferring collection of contract debts (including interest, if applicable).  Sections 32.607, 32.608, and 32.610 of this subpart do not apply to claims against common carriers for transportation overcharges and freight and cargo losses (31 U.S.C. 3726)."
-      }
+      },
+      "sub": {}
     },
     "601": {
-      "number": 601,
       "name": "General.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Billing and price reductions resulting from contract terms for price redetermination or for determination of prices under incentive type contracts."
@@ -72,12 +69,11 @@
         "b": {
           "text": "Contract debts include, but are not limited to, the following:"
         }
-      }
+      },
+      "sub": {}
     },
     "602": {
-      "number": 602,
       "name": "Responsibilities.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Collecting contract debts identified by contracting officers;"
@@ -94,12 +90,11 @@
         "b": {
           "text": "The payment office has primary responsibility for—"
         }
-      }
+      },
+      "sub": {}
     },
     "603": {
-      "number": 603,
       "name": "Debt determination.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Is based on the merits of the case; and"
@@ -124,12 +119,11 @@
         "b": {
           "text": "The amount of indebtedness determined by the contracting officer shall be an amount that—"
         }
-      }
+      },
+      "sub": {}
     },
     "604": {
-      "number": 604,
       "name": "Demand for payment.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Furnish a copy of the demand for payment to the contractor by certified mail, return receipt requested, or by any other method that provides evidence of receipt; and"
@@ -253,12 +247,11 @@
         "e": {
           "text": "The contracting officer shall—"
         }
-      }
+      },
+      "sub": {}
     },
     "605": {
-      "number": 605,
       "name": "Final decisions.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Furnish the decision to the contractor by certified mail, return receipt requested, or by any other method that provides evidence of receipt; and"
@@ -286,12 +279,11 @@
         "c": {
           "text": "The contracting officer shall—"
         }
-      }
+      },
+      "sub": {}
     },
     "606": {
-      "number": 606,
       "name": "Debt collection.",
-      "sub": {},
       "text": {
         "a": {
           "text": "If the contractor has not liquidated the debt within 30 days of the date due or requested installment payments or deferment of collection, the payment office shall initiate withholding of principal, interest, penalties, and administrative charges.  In the event the contract is assigned under the Assignment of Claims Act of 1940 (31 U.S.C. 3727 and 41 U.S.C. 6305), the rights of the assignee will be scrupulously respected and withholding of payments shall be consistent with those rights.  For additional information on assignment of claims, see Subpart 32.8."
@@ -302,11 +294,30 @@
         "c": {
           "text": "The contracting officer shall periodically follow up with the payment office to determine whether the debt has been collected and credited to the correct appropriation(s)."
         }
-      }
+      },
+      "sub": {}
     },
     "607": {
-      "number": 607,
       "name": "Installment payments and deferment of collection.",
+      "text": {
+        "a": {
+          "text": "The contracting officer shall not approve or deny a contractor’s request for installment payments or deferment of collections.  The office designated in agency procedures is responsible for approving or denying requests for installment payments or deferment of collections."
+        },
+        "b": {
+          "text": "If a contractor has not appealed the debt or filed an action under the Disputes clause of the contract and the contractor has submitted a proposal for debt deferment or installment payments—",
+          "sub": {
+            "1": {
+              "text": "The office designated in agency procedures may arrange for deferment/installment payments if the contractor is unable to pay at once in full or the contractor’s operations under national defense contracts would be seriously impaired.  The arrangement shall include appropriate covenants and securities and should be limited to the shortest practicable maturity; and"
+            },
+            "2": {
+              "text": "The deferment/installment agreement shall include a specific schedule or plan for payment.  It should permit the Government to make periodic financial reviews of the contractor and to require payments earlier than required by the agreement if the Government considers the contractor’s ability to pay improved.  It should also provide for required stated or measurable payments on the occurrence of specific events or contingencies that improve the contractor’s ability to pay."
+            }
+          }
+        },
+        "c": {
+          "text": "If not already applicable under the contract terms, interest on contract debt shall be made an element of any agreement entered into for installment payments or deferment of collection."
+        }
+      },
       "sub": {
         "1": {
           "name": "Installment payments.",
@@ -418,30 +429,13 @@
             }
           }
         }
-      },
-      "text": {
-        "a": {
-          "text": "The contracting officer shall not approve or deny a contractor’s request for installment payments or deferment of collections.  The office designated in agency procedures is responsible for approving or denying requests for installment payments or deferment of collections."
-        },
-        "b": {
-          "text": "If a contractor has not appealed the debt or filed an action under the Disputes clause of the contract and the contractor has submitted a proposal for debt deferment or installment payments—",
-          "sub": {
-            "1": {
-              "text": "The office designated in agency procedures may arrange for deferment/installment payments if the contractor is unable to pay at once in full or the contractor’s operations under national defense contracts would be seriously impaired.  The arrangement shall include appropriate covenants and securities and should be limited to the shortest practicable maturity; and"
-            },
-            "2": {
-              "text": "The deferment/installment agreement shall include a specific schedule or plan for payment.  It should permit the Government to make periodic financial reviews of the contractor and to require payments earlier than required by the agreement if the Government considers the contractor’s ability to pay improved.  It should also provide for required stated or measurable payments on the occurrence of specific events or contingencies that improve the contractor’s ability to pay."
-            }
-          }
-        },
-        "c": {
-          "text": "If not already applicable under the contract terms, interest on contract debt shall be made an element of any agreement entered into for installment payments or deferment of collection."
-        }
       }
     },
     "608": {
-      "number": 608,
       "name": "Interest.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Interest charges.",
@@ -483,31 +477,24 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "609": {
-      "number": 609,
       "name": "Delays in receipt of notices or demands.",
-      "sub": {},
       "text": {
         "text": "If interest is accrued based on the date of the demand letter and delivery of the demand letter is delayed by the Government (e.g., undue delay after dating at the originating office or delays in the mail), the date of the debt and accrual of interest shall be extended to a time that is fair and reasonable under the particular circumstances."
-      }
+      },
+      "sub": {}
     },
     "610": {
-      "number": 610,
       "name": "Compromising debts.",
-      "sub": {},
       "text": {
         "text": "For debts under $100,000, excluding interest, the designated agency official may compromise the debt pursuant to the Federal Claims Collection Standards (31 CFR part 902) and agency regulations.  Unless specifically authorized by agency procedures, contracting officers cannot compromise debts."
-      }
+      },
+      "sub": {}
     },
     "611": {
-      "number": 611,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall insert the clause at 52.232-17, Interest, in solicitations and contracts unless it is contemplated that the contract will be in one or more of the following categories:",
@@ -538,7 +525,8 @@
         "b": {
           "text": "The contracting officer may insert the FAR clause at 52.232-17, Interest, in solicitations and contracts when it is contemplated that the contract will be in any of the categories specified in 32.611(a)."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

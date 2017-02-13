@@ -3,10 +3,45 @@
   "number": 1,
   "name": "General Principles",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part establishes policies and procedures relating to the complete or partial termination of contracts for the convenience of the Government or for default. It prescribes contract clauses relating to termination and excusable delay and includes instructions for using termination and settlement forms."
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Definitions.",
+      "text": {
+        "text": "As used in this part—\n\n“Other work” means any current or scheduled work of the contractor, whether Government or commercial, other than work related to the terminated contract.\n\n“Plant clearance period,” as used in this subpart, means the period beginning on the effective date of contract completion or termination and ending 90 days (or such longer period as may be agreed to) after receipt by the contracting officer of acceptable inventory schedules for each property classification. The final phase of the plant clearance period means that period after receipt of acceptable inventory schedules.\n\n“Settlement agreement” means a written agreement in the form of a contract modification settling all or a severable portion of a settlement proposal.\n\n“Settlement proposal” means a proposal for effecting settlement of a contract terminated in whole or in part, submitted by a contractor or subcontractor in the form, and supported by the data, required by this part. A settlement proposal is included within the generic meaning of the word “claim” under false claims acts (see 18 U.S.C. 287 and 31 U.S.C. 3729).\n\n“Unsettled contract change” means any contract change or contract term for which a definitive modification is required but has not been executed."
+      },
+      "sub": {}
+    },
+    "2": {
+      "name": "Applicability.",
+      "text": {
+        "a": {
+          "text": "(1) This part applies to contracts that provide for termination for the convenience of the Government or for the default of the contractor (see also 12.403 and 13.302-4).",
+          "sub": {
+            "2": {
+              "text": "This part does not apply to commercial item contracts awarded using part 12 procedures. See 12.403 for termination policies for contracts for the acquisition of commercial items. However, for contracts for the acquisition of commercial items, this part provides administrative guidance which may be followed unless it is inconsistent with the requirements and procedures in 12.403, Termination, and the clause at 52.212-4, Contract Terms and Conditions—Commercial Items."
+            }
+          }
+        },
+        "b": {
+          "text": "Contractors shall use this part, unless inappropriate, to settle subcontracts terminated as a result of modification of prime contracts. The contracting officer shall use this part as a guide in evaluating settlements of subcontracts terminated for the convenience of a contractor whenever the settlement will be the basis of a proposal for reimbursement from the Government under a cost-reimbursement contract."
+        },
+        "c": {
+          "text": "The contracting officer may use this part in determining an equitable adjustment resulting from a modification under the Changes clause of any contract, except cost-reimbursement contracts."
+        },
+        "d": {
+          "text": "When action to be taken or authority to be exercised under this part depends upon the “amount” of the settlement proposal, that amount shall be determined by deducting from the gross settlement proposed the amounts payable for completed articles or work at the contract price and amounts for the settlement of subcontractor settlement proposals. Credits for retention or other disposal of termination inventory and amounts for advance or partial payments shall not be deducted."
+        }
+      },
+      "sub": {}
+    },
     "100": {
-      "number": 100,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "a": {
           "text": "This subpart deals with—",
@@ -28,12 +63,11 @@
         "b": {
           "text": "Additional principles applicable to the termination for convenience and settlement of fixed-price and cost-reimbursement contracts are included in Subparts 49.2 and 49.3. Additional principles applicable to the termination of contracts for default are included in Subpart 49.4."
         }
-      }
+      },
+      "sub": {}
     },
     "101": {
-      "number": 101,
       "name": "Authorities and responsibilities.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The termination clauses or other contract clauses authorize contracting officers to terminate contracts for convenience, or for default, and to enter into settlement agreements under this regulation."
@@ -64,12 +98,11 @@
         "f": {
           "text": "The contracting officer is responsible for the release of excess funds resulting from the termination unless this responsibility is specifically delegated to the TCO."
         }
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Notice of termination.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Circumstances clearly indicate a requirement for the terminated items; and"
@@ -117,58 +150,25 @@
         "d": {
           "text": "Reinstatement of terminated contracts. Upon written consent of the contractor, the contracting office may reinstate the terminated portion of a contract in whole or in part by amending the notice of termination if it has been determined in writing that—"
         }
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Methods of settlement.",
-      "sub": {},
       "text": {
         "text": "Settlement of terminated cost-reimbursement contracts and fixed-price contracts terminated for convenience may be effected by (a) negotiated agreement, (b) determination by the TCO, (c) costing-out under vouchers using SF 1034, Public Voucher for Purchases and Services Other Than Personal, for cost-reimbursement contracts (as prescribed in Subpart 49.3), or (d) a combination of these methods. When possible, the TCO should negotiate a fair and prompt settlement with the contractor. The TCO shall settle a settlement proposal by determination only when it cannot be settled by agreement."
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "Duties of prime contractor after receipt of notice of termination.",
-      "sub": {},
       "text": {
         "text": "After receipt of the notice of termination, the contractor shall comply with the notice and the termination clause of the contract, except as otherwise directed by the TCO. The notice and clause applicable to convenience terminations generally require that the contractor—\n\n(a) Stop work immediately on the terminated portion of the contract and stop placing subcontracts thereunder;\n\n(b) Terminate all subcontracts related to the terminated portion of the prime contract;\n\n(c) Immediately advise the TCO of any special circumstances precluding the stoppage of work;\n\n(d) Perform the continued portion of the contract and submit promptly any request for an equitable adjustment of price for the continued portion, supported by evidence of any increase in the cost, if the termination is partial;\n\n(e) Take necessary or directed action to protect and preserve property in the contractor’s possession in which the Government has or may acquire an interest and, as directed by the TCO, deliver the property to the Government;\n\n(f) Promptly notify the TCO in writing of any legal proceedings growing out of any subcontract or other commitment related to the terminated portion of the contract;\n\n(g) Settle outstanding liabilities and proposals arising out of termination of subcontracts, obtaining any approvals or ratifications required by the TCO;\n\n(h) Promptly submit the contractor’s own settlement proposal, supported by appropriate schedules; and\n\n(i) Dispose of termination inventory, as directed or authorized by the TCO."
-      }
+      },
+      "sub": {}
     },
     "105": {
-      "number": 105,
       "name": "Duties of termination contracting officer after issuance of notice of termination.",
-      "sub": {
-        "1": {
-          "name": "Termination status reports.",
-          "text": {
-            "text": "When the TCO and contracting officer are in different activities, the TCO will furnish periodic status reports on termination actions to the contracting office upon request. The contracting office shall specify the information required."
-          }
-        },
-        "2": {
-          "name": "Release of excess funds.",
-          "text": {
-            "a": {
-              "text": "The TCO shall estimate the funds required to settle the termination, and within 30 days after the receipt of the termination notice, recommend the release of excess funds to the contracting officer. The initial deobligation of excess funds should be accomplished in a timely manner by the contracting officer, or the TCO, if delegated the responsibility. The TCO shall not recommend the release of amounts under $1,000, unless requested by the contracting officer."
-            },
-            "b": {
-              "text": "The TCO shall maintain continuous surveillance of required funds to permit timely release of any additional excess funds (a recommended format for release of excess funds is in 49.604). If previous releases of excess funds result in a shortage of the amount required for settlement, the TCO shall promptly inform the contracting officer, who shall reinstate the funds within 30 days."
-            }
-          }
-        },
-        "3": {
-          "name": "Termination case file.",
-          "text": {
-            "text": "The TCO responsible for negotiating the final settlement shall establish a separate case file for each termination. This file will include memoranda and records of all actions relative to the settlement (see 4.801)."
-          }
-        },
-        "4": {
-          "name": "Cleanup of construction site.",
-          "text": {
-            "text": "In the case of terminated construction contracts, the contracting officer shall direct action to ensure the cleanup of the site, protection of serviceable materials, removal of hazards, and other action necessary to leave a safe and healthful site."
-          }
-        }
-      },
       "text": {
         "1": {
           "text": "General principles relating to the settlement of any settlement proposal, including obligations of the contractor under the termination clause of the contract;"
@@ -267,20 +267,48 @@
         "c": {
           "text": "The TCO should promptly hold a conference with the contractor to develop a definite program for effecting the settlement. When appropriate in the judgment of the TCO, after consulting with the contractor, principal subcontractors should be requested to attend. Topics that should be discussed at the conference and documented include—"
         }
+      },
+      "sub": {
+        "1": {
+          "name": "Termination status reports.",
+          "text": {
+            "text": "When the TCO and contracting officer are in different activities, the TCO will furnish periodic status reports on termination actions to the contracting office upon request. The contracting office shall specify the information required."
+          }
+        },
+        "2": {
+          "name": "Release of excess funds.",
+          "text": {
+            "a": {
+              "text": "The TCO shall estimate the funds required to settle the termination, and within 30 days after the receipt of the termination notice, recommend the release of excess funds to the contracting officer. The initial deobligation of excess funds should be accomplished in a timely manner by the contracting officer, or the TCO, if delegated the responsibility. The TCO shall not recommend the release of amounts under $1,000, unless requested by the contracting officer."
+            },
+            "b": {
+              "text": "The TCO shall maintain continuous surveillance of required funds to permit timely release of any additional excess funds (a recommended format for release of excess funds is in 49.604). If previous releases of excess funds result in a shortage of the amount required for settlement, the TCO shall promptly inform the contracting officer, who shall reinstate the funds within 30 days."
+            }
+          }
+        },
+        "3": {
+          "name": "Termination case file.",
+          "text": {
+            "text": "The TCO responsible for negotiating the final settlement shall establish a separate case file for each termination. This file will include memoranda and records of all actions relative to the settlement (see 4.801)."
+          }
+        },
+        "4": {
+          "name": "Cleanup of construction site.",
+          "text": {
+            "text": "In the case of terminated construction contracts, the contracting officer shall direct action to ensure the cleanup of the site, protection of serviceable materials, removal of hazards, and other action necessary to leave a safe and healthful site."
+          }
+        }
       }
     },
     "106": {
-      "number": 106,
       "name": "Fraud or other criminal conduct.",
-      "sub": {},
       "text": {
         "text": "If the TCO suspects fraud or other criminal conduct related to the settlement of a terminated contract, the TCO shall discontinue negotiations and report the facts under agency procedures."
-      }
+      },
+      "sub": {}
     },
     "107": {
-      "number": 107,
       "name": "Audit of prime contract settlement proposals and subcontract settlements.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The TCO shall refer each prime contractor settlement proposal of $100,000 or more to the appropriate audit agency for review and recommendations. The TCO may submit settlement proposals of less than $100,000 to the audit agency. Referrals shall indicate any specific information or data that the TCO desires and shall include facts and circumstances that will assist the audit agency in performing its function. The audit agency shall develop requested information and may make any further accounting reviews it considers appropriate. After its review, the audit agency shall submit written comments and recommendations to the TCO. When a formal examination of settlement proposals under $100,000 is not warranted, the TCO will perform or have performed a desk review and include a written summary of the review in the termination case file."
@@ -311,11 +339,14 @@
         "d": {
           "text": "The audit report is advisory only, and is for the TCO to use in negotiating a settlement or issuing a unilateral determination. Government personnel handling audit reports must be careful not to reveal privileged information or information that will jeopardize the negotiation position of the Government, the prime contractor, or a higher tier subcontractor. Consistent with this, and when in the Government’s interest, the TCO may furnish audit reports under paragraph (c) of this section to prime and higher tier subcontractors for their use in settling subcontract settlement proposals."
         }
-      }
+      },
+      "sub": {}
     },
     "108": {
-      "number": 108,
       "name": "Settlement of subcontract settlement proposals.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Subcontractor’s rights.",
@@ -479,14 +510,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "109": {
-      "number": 109,
       "name": "Settlement agreements.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -615,15 +645,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "110": {
-      "number": 110,
       "name": "Settlement negotiation memorandum.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The TCO shall, at the conclusion of negotiations, prepare a settlement negotiation memorandum describing the principal elements of the settlement for inclusion in the termination case file and for use by reviewing authorities. Pricing aspects of the settlement shall be documented in accordance with 15.406-3. The memorandum shall be distributed in accordance with 15.406-3."
@@ -631,19 +656,21 @@
         "b": {
           "text": "If the settlement was negotiated on the basis of individual items, the TCO shall specify the factors considered for each item. If the settlement was negotiated on an overall lump-sum basis, the TCO need not evaluate each item or group of items individually, but shall support the total amount of the recommended settlement in reasonable detail. The memorandum shall include explanations of matters involving differences and doubtful questions settled by agreement, and the factors considered. The TCO should include any other matters that will assist reviewing authorities in understanding the basis for the settlement."
         }
-      }
+      },
+      "sub": {}
     },
     "111": {
-      "number": 111,
       "name": "Review of proposed settlements.",
-      "sub": {},
       "text": {
         "text": "Each agency shall establish procedures, when necessary, for the administrative review of proposed termination settlements. When one agency provides termination settlement services for another agency, the agency providing the services shall also perform the settlement review function."
-      }
+      },
+      "sub": {}
     },
     "112": {
-      "number": 112,
       "name": "Payment.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Partial payments.",
@@ -741,23 +768,17 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "113": {
-      "number": 113,
       "name": "Cost principles.",
-      "sub": {},
       "text": {
         "text": "The cost principles and procedures in the applicable subpart of Part 31 shall, subject to the general principles in 49.201—\n\n(a) Be used in asserting, negotiating, or determining costs relevant to termination settlements under contracts with other than educational institutions, and\n\n(b) Be a guide for the negotiation of settlements under contracts for experimental, developmental, or research work with educational institutions (but see 31.104)."
-      }
+      },
+      "sub": {}
     },
     "114": {
-      "number": 114,
       "name": "Unsettled contract changes.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Before settlement of a completely terminated contract, the TCO shall obtain from the contracting office a list of all related unsettled contract changes. The TCO shall settle, as part of final settlement, all unsettled contract changes after obtaining the recommendations of the contracting office concerning the changes."
@@ -765,12 +786,11 @@
         "b": {
           "text": "When the contract has been partially terminated, any outstanding unsettled contract changes will usually be handled by the contracting officer. However, the contracting officer may delegate this function to the TCO."
         }
-      }
+      },
+      "sub": {}
     },
     "115": {
-      "number": 115,
       "name": "Settlement of terminated incentive contracts.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Partial termination. Under a partial termination, the TCO shall limit the settlement to an adjustment of target fee as provided in paragraph (e) of the clause at 52.216-10, Incentive Fee. The settlement agreement shall include a reservation regarding any adjustment of target cost resulting from the partial termination. The contracting officer shall adjust the target cost, if required."
@@ -792,47 +812,8 @@
         "b": {
           "text": "Cost-plus-incentive-fee contracts. The TCO shall settle terminated cost-plus-incentive-fee contracts under the clause at 52.249-6, Termination (Cost-Reimbursement)."
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part establishes policies and procedures relating to the complete or partial termination of contracts for the convenience of the Government or for default. It prescribes contract clauses relating to termination and excusable delay and includes instructions for using termination and settlement forms."
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Definitions.",
-      "sub": {},
-      "text": {
-        "text": "As used in this part—\n\n“Other work” means any current or scheduled work of the contractor, whether Government or commercial, other than work related to the terminated contract.\n\n“Plant clearance period,” as used in this subpart, means the period beginning on the effective date of contract completion or termination and ending 90 days (or such longer period as may be agreed to) after receipt by the contracting officer of acceptable inventory schedules for each property classification. The final phase of the plant clearance period means that period after receipt of acceptable inventory schedules.\n\n“Settlement agreement” means a written agreement in the form of a contract modification settling all or a severable portion of a settlement proposal.\n\n“Settlement proposal” means a proposal for effecting settlement of a contract terminated in whole or in part, submitted by a contractor or subcontractor in the form, and supported by the data, required by this part. A settlement proposal is included within the generic meaning of the word “claim” under false claims acts (see 18 U.S.C. 287 and 31 U.S.C. 3729).\n\n“Unsettled contract change” means any contract change or contract term for which a definitive modification is required but has not been executed."
-      }
-    },
-    "002": {
-      "number": 2,
-      "name": "Applicability.",
-      "sub": {},
-      "text": {
-        "a": {
-          "text": "(1) This part applies to contracts that provide for termination for the convenience of the Government or for the default of the contractor (see also 12.403 and 13.302-4).",
-          "sub": {
-            "2": {
-              "text": "This part does not apply to commercial item contracts awarded using part 12 procedures. See 12.403 for termination policies for contracts for the acquisition of commercial items. However, for contracts for the acquisition of commercial items, this part provides administrative guidance which may be followed unless it is inconsistent with the requirements and procedures in 12.403, Termination, and the clause at 52.212-4, Contract Terms and Conditions—Commercial Items."
-            }
-          }
-        },
-        "b": {
-          "text": "Contractors shall use this part, unless inappropriate, to settle subcontracts terminated as a result of modification of prime contracts. The contracting officer shall use this part as a guide in evaluating settlements of subcontracts terminated for the convenience of a contractor whenever the settlement will be the basis of a proposal for reimbursement from the Government under a cost-reimbursement contract."
-        },
-        "c": {
-          "text": "The contracting officer may use this part in determining an equitable adjustment resulting from a modification under the Changes clause of any contract, except cost-reimbursement contracts."
-        },
-        "d": {
-          "text": "When action to be taken or authority to be exercised under this part depends upon the “amount” of the settlement proposal, that amount shall be determined by deducting from the gross settlement proposed the amounts payable for completed articles or work at the contract price and amounts for the settlement of subcontractor settlement proposals. Credits for retention or other disposal of termination inventory and amounts for advance or partial payments shall not be deducted."
-        }
-      }
+      },
+      "sub": {}
     }
   }
 }

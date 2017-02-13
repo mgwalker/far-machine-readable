@@ -4,17 +4,14 @@
   "name": "Contract Administration Office Functions",
   "sub": {
     "301": {
-      "number": 301,
       "name": "General.",
-      "sub": {},
       "text": {
         "text": "When a contract is assigned for administration under Subpart 42.2, the contract administration office (CAO) shall perform contract administration functions in accordance with 48 CFR Chapter 1, the contract terms, and, unless otherwise agreed to in an interagency agreement (see 42.002), the applicable regulations of the servicing agency."
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Contract administration functions.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer normally delegates the following contract administration functions to a CAO. The contracting officer may retain any of these functions, except those in paragraphs (a)(5), (a)(9), (a)(11) and (a)(12) of this section, unless the cognizant Federal agency (see 2.101) has designated the contracting officer to perform these functions.",
@@ -317,7 +314,8 @@
         "c": {
           "text": "Any additional contract administration functions not listed in 42.302(a) and (b), or not otherwise delegated, remain the responsibility of the contracting office."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

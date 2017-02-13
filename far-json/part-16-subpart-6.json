@@ -4,17 +4,14 @@
   "name": "Time-and-Materials, Labor-Hour, and Letter Contracts",
   "sub": {
     "600": {
-      "number": 600,
       "name": "Scope.",
-      "sub": {},
       "text": {
         "text": "Time-and-materials contracts and labor-hour contracts are not fixed-price contracts."
-      }
+      },
+      "sub": {}
     },
     "601": {
-      "number": 601,
       "name": "Time-and-materials contracts.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The contracting officer shall insert the provision at 52.216-29, Time-and-Materials/Labor-Hour Proposal Requirements—Non-Commercial Item Acquisitions With Adequate Price Competition, in solicitations contemplating use of a Time-and-Materials or Labor-Hour type of contract for noncommercial items, if the price is expected to be based on adequate price competition. If authorized by agency procedures, the contracting officer may amend the provision to make mandatory one of the three approaches in paragraph (c) of the provision, and/or to require the identification of all subcontractors, divisions, subsidiaries, or affiliates included in a blended labor rate."
@@ -124,19 +121,21 @@
         "f": {
           "text": "Solicitation provisions."
         }
-      }
+      },
+      "sub": {}
     },
     "602": {
-      "number": 602,
       "name": "Labor-hour contracts.",
-      "sub": {},
       "text": {
         "text": "Description. A labor-hour contract is a variation of the time-and-materials contract, differing only in that materials are not supplied by the contractor. See 12.207(b), 16.601(c), and 16.601(d) for application and limitations, for time-and-materials contracts that also apply to labor-hour contracts. See 12.207(b) for the use of labor-hour contracts for certain commercial services."
-      }
+      },
+      "sub": {}
     },
     "603": {
-      "number": 603,
       "name": "Letter contracts.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Description.",
@@ -195,9 +194,6 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

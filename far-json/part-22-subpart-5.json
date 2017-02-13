@@ -4,25 +4,21 @@
   "name": "Use of Project Labor Agreements for Federal Construction Projects",
   "sub": {
     "501": {
-      "number": 501,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures to implement Executive Order 13502, February 6, 2009."
-      }
+      },
+      "sub": {}
     },
     "502": {
-      "number": 502,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Construction” means construction, rehabilitation, alteration, conversion, extension, repair, or improvement of buildings, highways, or other real property.\n\n“Labor organization” means a labor organization as defined in 29 U.S.C. 152(5).\n\n“Large-scale construction project” means a construction project where the total cost to the Federal Government is $25 million or more.\n\n“Project labor agreement” means a pre-hire collective bargaining agreement with one or more labor organizations that establishes the terms and conditions of employment for a specific construction project and is an agreement described in 29 U.S.C. 158(f)."
-      }
+      },
+      "sub": {}
     },
     "503": {
-      "number": 503,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The project will require multiple construction contractors and/or subcontractors employing workers in multiple crafts or trades."
@@ -59,12 +55,11 @@
         "c": {
           "text": "Agencies may also consider the following factors in deciding whether the use of a project labor agreement is appropriate for the construction project:"
         }
-      }
+      },
+      "sub": {}
     },
     "504": {
-      "number": 504,
       "name": "General requirements for project labor agreements.",
-      "sub": {},
       "text": {
         "a": {
           "text": "General. Project labor agreements established under this subpart shall fully conform to all statutes, regulations, and Executive orders."
@@ -95,15 +90,15 @@
         "c": {
           "text": "Terms and conditions.  As appropriate to advance economy and efficiency in the procurement, an agency may specify the terms and conditions of the project labor agreement in the solicitation and require the successful offeror to become a party to a project labor agreement containing these terms and conditions as a condition of receiving a contract award. An agency may seek the views of, confer with, and exchange information with prospective bidders and union representatives as part of the agency's effort to identify appropriate terms and conditions of a project labor agreement for a particular construction project and facilitate agreement on those terms and conditions."
         }
-      }
+      },
+      "sub": {}
     },
     "505": {
-      "number": 505,
       "name": "Solicitation provision and contract clause.",
-      "sub": {},
       "text": {
         "text": "For acquisition of large-scale construction projects, if the agency decides pursuant to this subpart that a project labor agreement will be required, the contracting officer shall—\n\n(a) Insert the provision at 52.222-33, Notice of Requirement for Project Labor Agreement, in all solicitations associated with the construction project.\n\n(1) Use the provision with its Alternate I if the agency decides to require the submission of a project labor agreement from only the apparent successful offeror, prior to contract award.\n\n(2) Use the provision with its Alternate II if an agency allows submission of a project labor agreement after contract award.\n\n(b)(1) Insert the clause at 52.222-34, Project Labor Agreement, in all solicitations and contracts associated with the construction project.\n\n(2) Use the clause with its Alternate I if an agency allows submission of the project labor agreement after contract award."
-      }
+      },
+      "sub": {}
     }
   }
 }

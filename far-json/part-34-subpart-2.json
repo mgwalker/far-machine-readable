@@ -4,9 +4,7 @@
   "name": "Earned Value Management System",
   "sub": {
     "201": {
-      "number": 201,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "An Earned Value Management System (EVMS) is required for major acquisitions for development, in accordance with OMB Circular A-11. The Government may also require an EVMS for other acquisitions, in accordance with agency procedures."
@@ -23,12 +21,11 @@
         "e": {
           "text": "When an offeror is required to provide an EVMS plan as part of its proposal, the contracting officer will determine the adequacy of the proposed EVMS plan prior to contract award."
         }
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Integrated Baseline Reviews.",
-      "sub": {},
       "text": {
         "a": {
           "text": "When an EVMS is required, the Government will conduct an Integrated Baseline Review (IBR)."
@@ -59,12 +56,11 @@
         "d": {
           "text": "The timing and conduct of the IBR shall be in accordance with agency procedures. If a pre-award IBR will be conducted, the solicitation must include the procedures for conducting the IBR and address whether offerors will be reimbursed for the associated costs. If permitted, reimbursement of offerors’ pre-award IBR costs is governed by the provisions of FAR Part 31."
         }
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Solicitation provisions and contract clause.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall insert a provision that is substantially the same as the provision at FAR 52.234-2, Notice of Earned Value Management System-Preaward Integrated Baseline Review, in solicitations for contracts that require the contractor to use an Earned Value Management System (EVMS) and for which the Government requires an Integrated Baseline Review (IBR) prior to award."
@@ -75,7 +71,8 @@
         "c": {
           "text": "The contracting officer shall insert a clause that is substantially the same as the clause at FAR 52.234-4, Earned Value Management System, in solicitations and contracts that require a contractor to use an EVMS."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

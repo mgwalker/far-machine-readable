@@ -4,25 +4,21 @@
   "name": "Contractor Code of Business Ethics and Conduct",
   "sub": {
     "1000": {
-      "number": 1000,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart—\n\n(a) Implements 41 U.S.C. 3509, Notification of Violations of Federal Criminal Law or Overpayments; and\n\n(b) Prescribes policies and procedures for the establishment of contractor codes of business ethics and conduct, and display of agency Office of Inspector General (OIG) fraud hotline posters."
-      }
+      },
+      "sub": {}
     },
     "1001": {
-      "number": 1001,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Subcontract” means any contract entered into by a subcontractor to furnish supplies or services for performance of a prime contract or a subcontract.\n\n“Subcontractor” means any supplier, distributor, vendor, or firm that furnished supplies or services to or for a prime contractor or another subcontractor.\n\n“United States” means the 50 States, the District of Columbia, and outlying areas."
-      }
+      },
+      "sub": {}
     },
     "1002": {
-      "number": 1002,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Are suitable to the size of the company and extent of its involvement in Government contracting;"
@@ -39,12 +35,11 @@
         "b": {
           "text": "Contractors should have a written code of business ethics and conduct. To promote compliance with such code of business ethics and conduct, contractors should have an employee business ethics and compliance training program and an internal control system that—"
         }
-      }
+      },
+      "sub": {}
     },
     "1003": {
-      "number": 1003,
       "name": "Requirements.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Agency OIGs are responsible for determining the need for, and content of, their respective agency OIG fraud hotline poster(s)."
@@ -80,15 +75,15 @@
         "c": {
           "text": "Fraud Hotline Poster."
         }
-      }
+      },
+      "sub": {}
     },
     "1004": {
-      "number": 1004,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "text": "\n\n(a) Insert the clause at FAR 52.203-13, Contractor Code of Business Ethics and Conduct, in solicitations and contracts if the value of the contract is expected to exceed $5.5 million and the performance period is 120 days or more.\n\n(b)(1) Unless the contract is for the acquisition of a commercial item or will be performed entirely outside the United States, insert the clause at FAR 52.203-14, Display of Hotline Poster(s), if—\n\n(i) The contract exceeds $5.5 million or a lesser amount established by the agency; and\n\n(ii)(A) The agency has a fraud hotline poster; or\n\n(B) The contract is funded with disaster assistance funds.\n\n(2) In paragraph (b)(3) of the clause, the contracting officer shall—\n\n(i) Identify the applicable posters; and\n\n(ii) Insert the website link(s) or other contact information for obtaining the agency and/or Department of Homeland Security poster.\n\n(3) In paragraph (d) of the clause, if the agency has established policies and procedures for display of the OIG fraud hotline poster at a lesser amount, the contracting officer shall replace “$5.5 million” with the lesser amount that the agency has established."
-      }
+      },
+      "sub": {}
     }
   }
 }

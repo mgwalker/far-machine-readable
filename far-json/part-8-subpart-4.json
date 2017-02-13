@@ -4,17 +4,14 @@
   "name": "Federal Supply Schedules",
   "sub": {
     "401": {
-      "number": 401,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Ordering activity” means an activity that is authorized to place orders, or establish blanket purchase agreements (BPA), against the General Services Administration’s (GSA) Multiple Award Schedule contracts. A list of eligible ordering activities is available at http://www.gsa.gov/schedules (click “For Customers Ordering from Schedules” and then “Eligibility to Use GSA Sources”).\n\n“Multiple Award Schedule (MAS)” means contracts awarded by GSA or the Department of Veterans Affairs (VA) for similar or comparable supplies, or services, established with more than one supplier, at varying prices. The primary statutory authorities for the MAS program are 41 U.S.C. 152(3), Competitive Procedures, and 40 U.S.C. 501, Services for Executive Agencies.\n\n“Requiring agency” means the agency needing the supplies or services.\n\n“Schedules e-Library” means the on-line source for GSA and VA Federal Supply Schedule contract award information. Schedules e-Library may be accessed at http://www.gsa.gov/elibrary.\n\n“Special Item Number (SIN)” means a group of generically similar (but not identical) supplies or services that are intended to serve the same general purpose or function."
-      }
+      },
+      "sub": {}
     },
     "402": {
-      "number": 402,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Federal Supply Schedule program is also known as the GSA Schedules Program or the Multiple Award Schedule Program. The Federal Supply Schedule program is directed and managed by GSA and provides Federal agencies (see 8.004) with a simplified process for obtaining commercial supplies and services at prices associated with volume buying. Indefinite delivery contracts are awarded to provide supplies and services at stated prices for given periods of time. GSA may delegate certain responsibilities to other agencies (e.g., GSA has delegated authority to the VA to procure medical supplies under the VA Federal Supply Schedules program). Orders issued under the VA Federal Supply Schedule program are covered by this subpart. Additionally, the Department of Defense (DoD) manages similar systems of schedule-type contracting for military items; however, DoD systems are not covered by this subpart."
@@ -67,12 +64,11 @@
         "g": {
           "text": "When using the Governmentwide commercial purchase card as a method of payment, orders at or below the micro-purchase threshold are exempt from verification in the System for Award Management database as to whether the contractor has a delinquent debt subject to collection under the Treasury Offset Program (TOP)."
         }
-      }
+      },
+      "sub": {}
     },
     "403": {
-      "number": 403,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Shall use the procedures at subpart 36.6; and"
@@ -97,12 +93,11 @@
         "c": {
           "text": "In accordance with section 1427(b) of Public Law 108-136 (40 U.S.C. 1103 note), for requirements that substantially or to a dominant extent specify performance of architect-engineer services (as defined in 2.101), agencies—"
         }
-      }
+      },
+      "sub": {}
     },
     "404": {
-      "number": 404,
       "name": "Use of Federal Supply Schedules.",
-      "sub": {},
       "text": {
         "a": {
           "text": "General. Parts 13 (except 13.303-2(c)(3)), 14, 15, and 19 (except for the requirement at 19.202-1(e)(1)(iii)) do not apply to BPAs or orders placed against Federal Supply Schedules contracts (but see 8.405-5). BPAs and orders placed against a MAS, using the procedures in this subpart, are considered to be issued using full and open competition (see 6.102(d)(3)). Therefore, when establishing a BPA (as authorized by 13.303-2(c)(3)), or placing orders under Federal Supply Schedule contracts using the procedures of 8.405, ordering activities shall not seek competition outside of the Federal Supply Schedules or synopsize the requirement; but see paragraph (g) of this section."
@@ -193,11 +188,14 @@
         "j": {
           "text": "Line items.  When placing orders or establishing BPAs, ordering activities shall reference the special item number and the corresponding line or subline item awarded (established per 4.1005) in the schedule.  If an ordering activity contracting officer adds an item not on the Federal Supply Schedule in accordance with 8.402(f), establish a new line item in accordance with subpart 4.10."
         }
-      }
+      },
+      "sub": {}
     },
     "405": {
-      "number": 405,
       "name": "Ordering procedures for Federal Supply Schedules.",
+      "text": {
+        "text": "Ordering activities shall use the ordering procedures of this section when placing an order or establishing a BPA for supplies or services. The procedures in this section apply to all schedules. For establishing BPAs and for orders under BPAs see 8.405-3."
+      },
       "sub": {
         "1": {
           "name": "Ordering procedures for supplies, and services not requiring a statement of work.",
@@ -706,14 +704,13 @@
             "text": "Agencies may make payments for oral or written orders by any authorized means, including the Governmentwide commercial purchase card (but see 32.1108(b)(2))."
           }
         }
-      },
-      "text": {
-        "text": "Ordering activities shall use the ordering procedures of this section when placing an order or establishing a BPA for supplies or services. The procedures in this section apply to all schedules. For establishing BPAs and for orders under BPAs see 8.405-3."
       }
     },
     "406": {
-      "number": 406,
       "name": "Ordering activity responsibilities.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Order placement.",
@@ -954,9 +951,6 @@
             "text": "Ordering activities must prepare at least annually and at the time the work under the order is completed, an evaluation of contractor performance for each order that exceeds the simplified acquisition threshold in accordance with 42.1502(c)."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

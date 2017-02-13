@@ -3,17 +3,61 @@
   "number": 1,
   "name": "Purpose, Authority, Issuance",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part sets forth basic policies and general information about the Federal Acquisition Regulations System including purpose, authority, applicability, issuance, arrangement, numbering, dissemination, implementation, supplementation, maintenance, administration, and deviation. Subparts 1.2, 1.3, and 1.4 prescribe administrative procedures for maintaining the FAR System."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Purpose.",
-      "sub": {},
       "text": {
         "text": "The Federal Acquisition Regulations System is established for the codification and publication of uniform policies and procedures for acquisition by all executive agencies. The Federal Acquisition Regulations System consists of the Federal Acquisition Regulation (FAR), which is the primary document, and agency acquisition regulations that implement or supplement the FAR. The FAR System does not include internal agency guidance of the type described in 1.301(a)(2)."
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Statement of guiding principles for the Federal Acquisition System.",
+      "text": {
+        "a": {
+          "text": "The vision for the Federal Acquisition System is to deliver on a timely basis the best value product or service to the customer, while maintaining the public’s trust and fulfilling public policy objectives. Participants in the acquisition process should work together as a team and should be empowered to make decisions within their area of responsibility."
+        },
+        "b": {
+          "text": "The Federal Acquisition System will—",
+          "sub": {
+            "1": {
+              "text": "Satisfy the customer in terms of cost, quality, and timeliness of the delivered product or service by, for example—",
+              "sub": {
+                "i": {
+                  "text": "Maximizing the use of commercial products and services;"
+                },
+                "ii": {
+                  "text": "Using contractors who have a track record of successful past performance or who demonstrate a current superior ability to perform; and"
+                },
+                "iii": {
+                  "text": "Promoting competition;"
+                }
+              }
+            },
+            "2": {
+              "text": "Minimize administrative operating costs;"
+            },
+            "3": {
+              "text": "Conduct business with integrity, fairness, and openness; and"
+            },
+            "4": {
+              "text": "Fulfill public policy objectives."
+            }
+          }
+        },
+        "c": {
+          "text": "The Acquisition Team consists of all participants in Government acquisition including not only representatives of the technical, supply, and procurement communities but also the customers they serve, and the contractors who provide the products and services."
+        },
+        "d": {
+          "text": "The role of each member of the Acquisition Team is to exercise personal initiative and sound business judgment in providing the best value product or service to meet the customer’s needs. In exercising initiative, Government members of the Acquisition Team may assume if a specific strategy, practice, policy or procedure is in the best interests of the Government and is not addressed in the FAR, nor prohibited by law (statute or case law), Executive order or other regulation, that the strategy, practice, policy or procedure is a permissible exercise of authority."
+        }
+      },
       "sub": {
         "1": {
           "name": "Discussion.",
@@ -111,51 +155,10 @@
             }
           }
         }
-      },
-      "text": {
-        "a": {
-          "text": "The vision for the Federal Acquisition System is to deliver on a timely basis the best value product or service to the customer, while maintaining the public’s trust and fulfilling public policy objectives. Participants in the acquisition process should work together as a team and should be empowered to make decisions within their area of responsibility."
-        },
-        "b": {
-          "text": "The Federal Acquisition System will—",
-          "sub": {
-            "1": {
-              "text": "Satisfy the customer in terms of cost, quality, and timeliness of the delivered product or service by, for example—",
-              "sub": {
-                "i": {
-                  "text": "Maximizing the use of commercial products and services;"
-                },
-                "ii": {
-                  "text": "Using contractors who have a track record of successful past performance or who demonstrate a current superior ability to perform; and"
-                },
-                "iii": {
-                  "text": "Promoting competition;"
-                }
-              }
-            },
-            "2": {
-              "text": "Minimize administrative operating costs;"
-            },
-            "3": {
-              "text": "Conduct business with integrity, fairness, and openness; and"
-            },
-            "4": {
-              "text": "Fulfill public policy objectives."
-            }
-          }
-        },
-        "c": {
-          "text": "The Acquisition Team consists of all participants in Government acquisition including not only representatives of the technical, supply, and procurement communities but also the customers they serve, and the contractors who provide the products and services."
-        },
-        "d": {
-          "text": "The role of each member of the Acquisition Team is to exercise personal initiative and sound business judgment in providing the best value product or service to meet the customer’s needs. In exercising initiative, Government members of the Acquisition Team may assume if a specific strategy, practice, policy or procedure is in the best interests of the Government and is not addressed in the FAR, nor prohibited by law (statute or case law), Executive order or other regulation, that the strategy, practice, policy or procedure is a permissible exercise of authority."
-        }
       }
     },
     "103": {
-      "number": 103,
       "name": "Authority.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The development of the FAR System is in accordance with the requirements of 41 U.S.C. chapter 13, Acquisition Councils."
@@ -163,19 +166,21 @@
         "b": {
           "text": "The FAR is prepared, issued, and maintained, and the FAR System is prescribed jointly by the Secretary of Defense, the Administrator of General Services, and the Administrator, National Aeronautics and Space Administration, under their several statutory authorities."
         }
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "text": "The FAR applies to all acquisitions as defined in Part 2 of the FAR, except where expressly excluded."
-      }
+      },
+      "sub": {}
     },
     "105": {
-      "number": 105,
       "name": "Issuance.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Publication and code arrangement.",
@@ -262,39 +267,31 @@
             "text": "Copies of the FAR in Federal Register, loose-leaf, CD-ROM, and CFR form may be purchased from the—\n\nSuperintendent of Documents\n\nGovernment Printing Office (GPO)\n\nWashington, DC 20402."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "106": {
-      "number": 106,
       "name": "OMB approval under the Paperwork Reduction Act.",
-      "sub": {},
       "text": {
         "text": "The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement on Federal agencies to obtain approval from the Office of Management and Budget (OMB) before collecting information from 10 or more members of the public. The information collection and recordkeeping requirements contained in this regulation have been approved by the OMB. The following OMB control numbers apply:\n\nNote to 1.106: By a court order issued on October 24, 2016, FAR segments “52.222-57”, “52.222-58”, and “52.222-59” and their corresponding OMB Control Number “9000-0195” are enjoined indefinitely as of the date of the order. The enjoined segments will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
-      }
+      },
+      "sub": {}
     },
     "107": {
-      "number": 107,
       "name": "Certifications.",
-      "sub": {},
       "text": {
         "text": "In accordance with 41 U.S.C. 1304, a new requirement for a certification by a contractor or offeror may not be included in this chapter unless—\n\n(a) The certification requirement is specifically imposed by statute; or\n\n(b) Written justification for such certification is provided to the Administrator for Federal Procurement Policy by the Federal Acquisition Regulatory Council, and the Administrator approves in writing the inclusion of such certification requirement."
-      }
+      },
+      "sub": {}
     },
     "108": {
-      "number": 108,
       "name": "FAR conventions.",
-      "sub": {},
       "text": {
         "text": "The following conventions provide guidance for interpreting the FAR:\n\n(a) Words and terms. Definitions in Part 2 apply to the entire regulation unless specifically defined in another part, subpart, section, provision, or clause. Words or terms defined in a specific part, subpart, section, provision, or clause have that meaning when used in that part, subpart, section, provision, or clause. Undefined words retain their common dictionary meaning.\n\n(b) Delegation of authority. Each authority is delegable unless specifically stated otherwise (see 1.102-4(b)).\n\n(c) Dollar thresholds. Unless otherwise specified, a specific dollar threshold for the purpose of applicability is the final anticipated dollar value of the action, including the dollar value of all options. If the action establishes a maximum quantity of supplies or services to be acquired or establishes a ceiling price or establishes the final price to be based on future events, the final anticipated dollar value must be the highest final priced alternative to the Government, including the dollar value of all options.\n\n(d) Application of FAR changes to solicitations and contracts. Unless otherwise specified—\n\n(1) FAR changes apply to solicitations issued on or after the effective date of the change;\n\n(2) Contracting officers may, at their discretion, include the FAR changes in solicitations issued before the effective date, provided award of the resulting contract(s) occurs on or after the effective date; and\n\n(3) Contracting officers may, at their discretion, include the changes in any existing contract with appropriate consideration.\n\n(e) Citations. When the FAR cites a statute, Executive order, Office of Management and Budget circular, Office of Federal Procurement Policy policy letter, or relevant portion of the Code of Federal Regulations, the citation includes all applicable amendments, unless otherwise stated.\n\n(f) Imperative sentences. When an imperative sentence directs action, the contracting officer is responsible for the action, unless another party is expressly cited."
-      }
+      },
+      "sub": {}
     },
     "109": {
-      "number": 109,
       "name": "Statutory acquisition–related dollar thresholds—adjustment for inflation.",
-      "sub": {},
       "text": {
         "a": {
           "text": "41 U.S.C. 1908 requires that the FAR Council periodically adjust all statutory acquisition-related dollar thresholds in the FAR for inflation, except as provided in paragraph (c) of this section. This adjustment is calculated every 5 years, starting in October 2005, using the Consumer Price Index (CPI) for all-urban consumers, and supersedes the applicability of any other provision of law that provides for the adjustment of such acquisition-related dollar thresholds."
@@ -319,12 +316,11 @@
         "d": {
           "text": "A matrix showing calculation of the most recent escalation adjustments of statutory acquisition-related dollar thresholds is available via the Internet at http://www.regulations.gov (search FAR Case 2014-022)."
         }
-      }
+      },
+      "sub": {}
     },
     "110": {
-      "number": 110,
       "name": "Positive law codification.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Public Law 107-217 revised, codified, and enacted as title 40, United States Code, Public Buildings, Property, and Works, certain general and permanent laws of the United States."
@@ -335,15 +331,8 @@
         "c": {
           "text": "The following table provides cross references between the historical titles of the acts, and the current reference in title 40 or title 41.\n\n* Except sections 3302, 3501(b), 3509, 3906, 4710, and 4711.\n\n** Except sections 1704 and 2303."
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part sets forth basic policies and general information about the Federal Acquisition Regulations System including purpose, authority, applicability, issuance, arrangement, numbering, dissemination, implementation, supplementation, maintenance, administration, and deviation. Subparts 1.2, 1.3, and 1.4 prescribe administrative procedures for maintaining the FAR System."
-      }
+      },
+      "sub": {}
     }
   }
 }

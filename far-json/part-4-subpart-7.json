@@ -4,25 +4,21 @@
   "name": "Contractor Records Retention",
   "sub": {
     "700": {
-      "number": 700,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart provides policies and procedures for retention of records by contractors to meet the records review requirements of the Government. In this subpart, the terms “contracts” and “contractors” include “subcontracts” and “subcontractors.”"
-      }
+      },
+      "sub": {}
     },
     "701": {
-      "number": 701,
       "name": "Purpose.",
-      "sub": {},
       "text": {
         "text": "The purpose of this subpart is to generally describe records retention requirements and to allow reductions in the retention period for specific classes of records under prescribed circumstances."
-      }
+      },
+      "sub": {}
     },
     "702": {
-      "number": 702,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "a": {
           "text": "This subpart applies to records generated under contracts that contain one of the following clauses:",
@@ -38,12 +34,11 @@
         "b": {
           "text": "This subpart is not mandatory on Department of Energy contracts for which the Comptroller General allows alternative records retention periods. Apart from this exception, this subpart applies to record retention periods under contracts that are subject to Chapter 137, Title 10,U.S.C., or 40 U.S.C. 101, et seq."
         }
-      }
+      },
+      "sub": {}
     },
     "703": {
-      "number": 703,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Except as stated in 4.703(b), contractors shall make available records, which includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form, and other supporting evidence to satisfy contract negotiation, administration, and audit requirements of the contracting agencies and the Comptroller General for—",
@@ -87,12 +82,11 @@
         "d": {
           "text": "If the information described in paragraph (a) of this section is maintained on a computer, contractors shall retain the computer data on a reliable medium for the time periods prescribed. Contractors may transfer computer data in machine readable form from one reliable computer medium to another. Contractors’ computer data retention and transfer procedures shall maintain the integrity, reliability, and security of the original computer data. Contractors shall also retain an audit trail describing the data transfer. For the record retention time periods prescribed, contractors shall not destroy, discard, delete, or write over such computer data."
         }
-      }
+      },
+      "sub": {}
     },
     "704": {
-      "number": 704,
       "name": "Calculation of retention periods.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The retention periods in 4.705 are calculated from the end of the contractor’s fiscal year in which an entry is made charging or allocating a cost to a Government contract or subcontract. If a specific record contains a series of entries, the retention period is calculated from the end of the contractor’s fiscal year in which the final entry is made. The contractor should cut off the records in annual blocks and retain them for block disposal under the prescribed retention periods."
@@ -103,11 +97,14 @@
         "c": {
           "text": "If two or more of the record categories described in 4.705 are interfiled and screening for disposal is not practical, the contractor shall retain the entire record series for the longest period prescribed for any category of records."
         }
-      }
+      },
+      "sub": {}
     },
     "705": {
-      "number": 705,
       "name": "Specific retention periods.",
+      "text": {
+        "text": "The contractor shall retain the records identified in 4.705-1 through 4.705-3 for the periods designated, provided retention is required under 4.702. Records are identified in this subpart in terms of their purpose or use and not by specific name or form number. Although the descriptive identifications may not conform to normal contractor usage or filing practices, these identifications apply to all contractor records that come within the description."
+      },
       "sub": {
         "1": {
           "name": "Financial and cost accounting records.",
@@ -178,9 +175,6 @@
             }
           }
         }
-      },
-      "text": {
-        "text": "The contractor shall retain the records identified in 4.705-1 through 4.705-3 for the periods designated, provided retention is required under 4.702. Records are identified in this subpart in terms of their purpose or use and not by specific name or form number. Although the descriptive identifications may not conform to normal contractor usage or filing practices, these identifications apply to all contractor records that come within the description."
       }
     }
   }

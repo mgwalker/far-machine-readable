@@ -4,24 +4,24 @@
   "name": "Commercial Item Purchase Financing",
   "sub": {
     "200": {
-      "number": 200,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart provides policies and procedures for commercial financing arrangements under commercial purchases pursuant to Part 12."
-      }
+      },
+      "sub": {}
     },
     "201": {
-      "number": 201,
       "name": "Statutory authority.",
-      "sub": {},
       "text": {
         "text": "10 U.S.C. 2307(f) and 41 U.S.C. 4505 provide that payment for commercial items may be made under such terms and conditions as the head of the agency determines are appropriate or customary in the commercial marketplace and are in the best interest of the United States."
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "General.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Policy.",
@@ -137,31 +137,24 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "203": {
-      "number": 203,
       "name": "Determining contract financing terms.",
-      "sub": {},
       "text": {
         "text": "When the criteria in 32.202-1(b) are met, the contracting officer may either specify the financing terms in the solicitation (see 32.204) or permit each offeror to propose its own customary financing terms (see 32.205). When the contracting officer has sufficient information on financing terms that are customary in the commercial marketplace for the item, those terms may be specified in the solicitation."
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Procedures for contracting officer-specified commercial contract financing.",
-      "sub": {},
       "text": {
         "text": "The financing terms shall be included in the solicitation. Contract financing shall not be a factor in the evaluation of resulting proposals, and proposals of alternative financing terms shall not be accepted (but see 14.208 and 15.206 concerning amendments of solicitations). However, an offer stating that the contracting officer-specified contract financing terms will not be used by the offeror does not alter the evaluation of the offer, nor does it render the offer nonresponsive or otherwise unacceptable. In the event of award to an offeror who declined the proposed contract financing, the contract financing provisions shall not be included in the resulting contract. Contract financing shall not be a basis for adjusting offerors’ proposed prices, because the effect of contract financing is reflected in each offeror’s proposed prices."
-      }
+      },
+      "sub": {}
     },
     "205": {
-      "number": 205,
       "name": "Procedures for offeror-proposed commercial contract financing.",
-      "sub": {},
       "text": {
         "1": {
           "text": "When contract financing terms vary among offerors, the contracting officer must adjust each proposed price for evaluation purposes to reflect the cost of providing the proposed financing in order to determine the total cost to the Government of that particular combination of price and financing."
@@ -192,12 +185,11 @@
         "c": {
           "text": "Evaluation of proposals."
         }
-      }
+      },
+      "sub": {}
     },
     "206": {
-      "number": 206,
       "name": "Solicitation provisions and contract clauses.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Description. Installment payment financing is payment by the Government to a contractor of a fixed number of equal interim financing payments prior to delivery and acceptance of a contract item. The installment payment arrangement is designed to reduce administrative costs. However, if a contract will have a large number of deliveries, the administrative costs may increase to the point where installment payments are not in the best interests of the Government."
@@ -282,12 +274,11 @@
         "g": {
           "text": "Installment payment financing for commercial items. Contracting officers may insert the clause at 52.232-30, Installment Payments for Commercial Items, in solicitations and contracts in lieu of constructing a specific clause in accordance with paragraphs (b) through (e) of this section, if the contract action qualifies under the criteria at 32.202-1(b) and installment payments for the item are either customary or are authorized in accordance with agency procedures."
         }
-      }
+      },
+      "sub": {}
     },
     "207": {
-      "number": 207,
       "name": "Administration and payment of commercial financing payments.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Responsibility. The contracting officer responsible for administration of the contract shall be responsible for review and approval of contract financing requests."
@@ -306,7 +297,8 @@
         "c": {
           "text": "Management of security. After contract award, the contracting officer responsible for approving requests for financing payments shall be responsible for determining that the security continues to be adequate. If the contractor’s financial condition is the Government’s security, this contracting officer is also responsible for monitoring the contractor’s financial condition."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

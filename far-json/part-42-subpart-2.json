@@ -4,9 +4,7 @@
   "name": "Contract Administration Services",
   "sub": {
     "201": {
-      "number": 201,
       "name": "Contract administration responsibilities.",
-      "sub": {},
       "text": {
         "a": {
           "text": "For each contract assigned for administration, the contract administration office (CAO) (see 2.101) shall—",
@@ -25,12 +23,11 @@
         "b": {
           "text": "The Defense Contract Management Agency and other agencies offer a wide variety of contract administration and support services."
         }
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Assignment of contract administration.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Delegating functions. As provided in agency procedures, contracting officers may delegate contract administration or specialized support services, either through interagency agreements or by direct request to the cognizant CAO listed in the Federal Directory of Contract Administration Services Components. The delegation should include—",
@@ -112,15 +109,15 @@
         "g": {
           "text": "Refusing delegation of contract administration. An agency may decline a request for contract administration services on a case-by-case basis if resources of the agency are inadequate to accomplish the tasks. Declinations shall be in writing."
         }
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Contract administration services directory.",
-      "sub": {},
       "text": {
         "text": "The Defense Contract Management Agency (DCMA) maintains the Federal Directory of Contract Administration Services Components. The directory lists the names and telephone numbers of those DCMA and other agency offices that offer contract administration services within designated geographic areas and at specified contractor plants. Federal agencies may access it on the Internet at\n\nhttps://pubapp.dcma.mil/CASD/main.jsp. For additional information contact—\n\nDefense Contract Management Agency\n\n3901 A Avenue\n\nBuilding 10500\n\nFt. Lee, VA 23801-1809."
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,8 +4,10 @@
   "name": "Contract Clauses",
   "sub": {
     "401": {
-      "number": 401,
       "name": "Domestic contracts.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Indefinite-delivery contracts for leased equipment.",
@@ -78,14 +80,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "402": {
-      "number": 402,
       "name": "Foreign contracts.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Foreign fixed-price contracts.",
@@ -109,9 +110,6 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

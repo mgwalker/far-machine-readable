@@ -4,17 +4,14 @@
   "name": "Support Government Property Administration",
   "sub": {
     "501": {
-      "number": 501,
       "name": "Prime contractor alternate locations.",
-      "sub": {},
       "text": {
         "text": "The property administrator assigned to the prime contract may request support property administration from another contract administration office, for purposes of evaluating prime contractor management of property located at subcontractors and alternate locations."
-      }
+      },
+      "sub": {}
     },
     "502": {
-      "number": 502,
       "name": "Subcontractor and alternate prime contractor locations.",
-      "sub": {},
       "text": {
         "a": {
           "text": "To ensure subcontractor compliance with Government property administration requirements, and with prime contractor consent, the property administrator assigned to the prime contract may request support property administration from another contract administration office.  If the prime contractor does not provide consent to support property administration at subcontractor locations, the property administrator shall refer the matter to the contracting officer for resolution."
@@ -25,15 +22,15 @@
         "c": {
           "text": "Prime contractor consent is not required for support delegations involving prime contractor alternate locations."
         }
-      }
+      },
+      "sub": {}
     },
     "503": {
-      "number": 503,
       "name": "Support property administrator findings.",
-      "sub": {},
       "text": {
         "text": "In instances where the prime contractor does not concur with the findings of the support Property Administrator, the prime property administrator shall immediately refer the matter to the contracting officer.\n\n"
-      }
+      },
+      "sub": {}
     }
   }
 }

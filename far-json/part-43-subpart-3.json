@@ -4,9 +4,7 @@
   "name": "Forms",
   "sub": {
     "301": {
-      "number": 301,
       "name": "Use of forms.",
-      "sub": {},
       "text": {
         "a": {
           "text": "(1) The Standard Form 30 (SF 30), Amendment of Solicitation/Modification of Contract, shall (except for the options stated in 43.301(a)(2) or actions processed under Part 15) be used for—",
@@ -51,7 +49,8 @@
         "b": {
           "text": "The Optional Form 336 (OF 336), Continuation Sheet, or a blank sheet of paper, may be used as a continuation sheet for a contract modification."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

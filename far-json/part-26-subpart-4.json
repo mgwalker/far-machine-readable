@@ -4,33 +4,28 @@
   "name": "Food Donations to Nonprofit Organizations",
   "sub": {
     "400": {
-      "number": 400,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This section implements the Federal Food Donation Act of 2008 (42 U.S.C 1792)."
-      }
+      },
+      "sub": {}
     },
     "401": {
-      "number": 401,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Apparently wholesome food” means food that meets all quality and labeling standards imposed by Federal, State, and local laws and regulations even though the food may not be readily marketable due to appearance, age, freshness, grade, size, surplus, or other conditions, in accordance with (b)(2) of the Bill Emerson Good Samaritan Food Donation Act (42 U.S.C. 1791(b)).\n\n“Excess food” means food that—\n\n(1) Is not required to meet the needs of the executive agencies; and\n\n(2) Would otherwise be discarded.\n\n“Food-insecure” means inconsistent access to sufficient, safe, and nutritious food.\n\n“Nonprofit organization” means any organization that is—\n\n(1) Described in section 501(c) of the Internal Revenue Code of 1986; and\n\n(2) Exempt from tax under section 501(a) of that Code."
-      }
+      },
+      "sub": {}
     },
     "402": {
-      "number": 402,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "text": "The Government encourages executive agencies and their contractors, to the maximum extent practicable and safe, to donate excess apparently wholesome food to nonprofit organizations that provide assistance to food-insecure people in the United States."
-      }
+      },
+      "sub": {}
     },
     "403": {
-      "number": 403,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Encourage donations.  In the applicable contracts stated at section 26.404, encourage contractors, to the maximum extent practicable and safe, to donate apparently wholesome excess food to nonprofit organizations that provide assistance to food-insecure people in the United States."
@@ -52,15 +47,15 @@
         "a": {
           "text": "In accordance with the Federal Food Donation Act of 2008 an executive agency shall comply with the following:"
         }
-      }
+      },
+      "sub": {}
     },
     "404": {
-      "number": 404,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "Insert the clause at 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations, in solicitations and contracts greater than $25,000 for the provision, service, or sale of food in the United States."
-      }
+      },
+      "sub": {}
     }
   }
 }

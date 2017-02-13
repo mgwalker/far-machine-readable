@@ -4,9 +4,7 @@
   "name": "Transportation in Supply Contracts",
   "sub": {
     "300": {
-      "number": 300,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Contract coverage of transportation; and"
@@ -20,11 +18,25 @@
         "b": {
           "text": "If a special requirement exists for application of any of these terms and conditions to other types of contracts; e.g., cost-reimbursement contracts, for which transportation arrangements are normally the responsibility of the contractor and transportation costs are allowable, the contracting officer shall use the terms and conditions prescribed in this subpart as a guide for—"
         }
-      }
+      },
+      "sub": {}
     },
     "301": {
-      "number": 301,
       "name": "General.",
+      "text": {
+        "1": {
+          "text": "Consider all transportation factors including present and future requirements, positioning of supplies, and subsequent distribution to the extent known or ascertainable; and"
+        },
+        "2": {
+          "text": "Provide the contracting office with information and instructions reflecting transportation factors applicable to the particular acquisition."
+        },
+        "a": {
+          "text": "Transportation and traffic management factors are important in awarding and administering contracts to ensure that (1) acquisitions are made on the basis most advantageous to the Government and (2) supplies arrive in good order and condition and on time at the required place. (See 47.104 for possible reduced transportation rates for Government shipments.)"
+        },
+        "b": {
+          "text": "The requiring activity shall—"
+        }
+      },
       "sub": {
         "1": {
           "name": "Responsibilities of contracting officers.",
@@ -71,26 +83,10 @@
             }
           }
         }
-      },
-      "text": {
-        "1": {
-          "text": "Consider all transportation factors including present and future requirements, positioning of supplies, and subsequent distribution to the extent known or ascertainable; and"
-        },
-        "2": {
-          "text": "Provide the contracting office with information and instructions reflecting transportation factors applicable to the particular acquisition."
-        },
-        "a": {
-          "text": "Transportation and traffic management factors are important in awarding and administering contracts to ensure that (1) acquisitions are made on the basis most advantageous to the Government and (2) supplies arrive in good order and condition and on time at the required place. (See 47.104 for possible reduced transportation rates for Government shipments.)"
-        },
-        "b": {
-          "text": "The requiring activity shall—"
-        }
       }
     },
     "302": {
-      "number": 302,
       "name": "Place of delivery—f.o.b. point.",
-      "sub": {},
       "text": {
         "2": {
           "text": "The fact that transportation is f.o.b. destination does not alone necessitate changing the place of acceptance from origin to destination; and the fact that acceptance is at origin does not necessitate an f.o.b. origin delivery term. Providing for inspection and acceptance at origin (if appropriate under 46.402), in conjunction with an f.o.b. destination term, may be advantageous to both the Government and the contractor. Acceptance of title at origin by the Government permits payment of the contractor, provided the invoice is supported either by a copy of the signed commercial bill of lading (indicating the carrier’s receipt of the supplies covered by the invoice for transportation to the particular destination specified in the contract) or by other appropriate evidence of shipment to the particular destination for the contractor’s account."
@@ -104,11 +100,14 @@
         "c": {
           "text": "(1) The place of performance of Government acquisition quality assurance actions and the place of acceptance shall not control the delivery term, except that if acceptance is at destination, transportation shall be f.o.b. destination (see 47.304-1(f))."
         }
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Standard delivery terms and contract clauses.",
+      "text": {
+        "text": "Standard delivery terms are listed in 47.303-1 through 47.303-16 (but see 47.300 regarding applicability to cost reimbursement contracts)."
+      },
       "sub": {
         "0": {
           "name": "F.o.b. inland carrier, point of exportation.",
@@ -515,14 +514,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": "Standard delivery terms are listed in 47.303-1 through 47.303-16 (but see 47.300 regarding applicability to cost reimbursement contracts)."
       }
     },
     "304": {
-      "number": 304,
       "name": "Determination of delivery terms.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -676,14 +674,18 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "305": {
-      "number": 305,
       "name": "Solicitation provisions, contract clauses, and transportation factors.",
+      "text": {
+        "a": {
+          "text": "The contracting officer shall coordinate transportation factors with the transportation office during the planning, solicitation, and award phases of the acquisition process (see 47.105)."
+        },
+        "b": {
+          "text": "To the extent feasible, activities shall schedule deliveries to effect savings in transportation costs, and concomitant reductions in energy consumption by carriers (see 47.305-7 and 47.305-8 for specific possibilities)."
+        }
+      },
       "sub": {
         "0": {
           "name": "Packing, marking, and consignment instructions.",
@@ -867,19 +869,13 @@
             }
           }
         }
-      },
-      "text": {
-        "a": {
-          "text": "The contracting officer shall coordinate transportation factors with the transportation office during the planning, solicitation, and award phases of the acquisition process (see 47.105)."
-        },
-        "b": {
-          "text": "To the extent feasible, activities shall schedule deliveries to effect savings in transportation costs, and concomitant reductions in energy consumption by carriers (see 47.305-7 and 47.305-8 for specific possibilities)."
-        }
       }
     },
     "306": {
-      "number": 306,
       "name": "Transportation factors in the evaluation of offers.",
+      "text": {
+        "text": "When evaluating offers, contracting officers shall consider transportation and transportation-related costs as well as the offerors’ shipping and receiving facilities."
+      },
       "sub": {
         "1": {
           "name": "Transportation cost determinations.",
@@ -917,9 +913,6 @@
             }
           }
         }
-      },
-      "text": {
-        "text": "When evaluating offers, contracting officers shall consider transportation and transportation-related costs as well as the offerors’ shipping and receiving facilities."
       }
     }
   }

@@ -4,9 +4,7 @@
   "name": "Emergency Acquisition Flexibilities",
   "sub": {
     "201": {
-      "number": 201,
       "name": "Contingency operation.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Contingency operation is defined in 2.101."
@@ -23,12 +21,11 @@
         "e": {
           "text": "Simplified procedures for certain commercial items. The threshold limits authorized for use of this authority may be increased for acquisitions to support a contingency operation. (See 13.500(c).)"
         }
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Defense or recovery from certain attacks.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Micro-purchase threshold. The threshold increases when the head of the agency determines the supplies or services are to be used to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack. (See 2.101.)"
@@ -42,12 +39,11 @@
         "d": {
           "text": "Simplified procedures for certain commercial items. The threshold limits authorized for use of this authority may be increased when it is determined the acquisition is to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack. (See 13.500(c).)"
         }
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Emergency declaration or major disaster declaration.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Disaster or emergency assistance activities. Preference will be given to local organizations, firms, and individuals when contracting for major disaster or emergency assistance activities when the President has made a declaration under the Robert T. Stafford Disaster Relief and Emergency Assistance Act. Preference may take the form of local area set-asides or an evaluation preference. (See 6.208 and Subpart 26.2.)"
@@ -55,12 +51,11 @@
         "b": {
           "text": "Ocean transportation by U.S. flag vessels. The provisions of the Cargo Preference Act of 1954 may be waived in emergency situations. (See 47.502(c).)"
         }
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Humanitarian or peacekeeping operation.",
-      "sub": {},
       "text": {
         "a": {
           "text": "A humanitarian or peacekeeping operation is defined in 2.101."
@@ -68,12 +63,11 @@
         "b": {
           "text": "Simplified acquisition threshold. The threshold increases when the head of the agency determines the supplies or services are to be used to support a humanitarian or peacekeeping operation. (See 2.101.)"
         }
-      }
+      },
+      "sub": {}
     },
     "205": {
-      "number": 205,
       "name": "Resources.",
-      "sub": {},
       "text": {
         "a": {
           "text": "National Response Framework. The National Response Framework (NRF) is a guide to how the Nation conducts all-hazards response. This key document establishes a comprehensive, national, all-hazards approach to domestic incident response. The Framework identifies the key response principles, roles and structures that organize national response. It describes how communities, States, the Federal Government, the private-sector, and nongovernmental partners apply these principles for a coordinated, effective national response. It also describes special circumstances where the Federal Government exercises a larger role, including incidents where Federal interests are involved and catastrophic incidents where a State would require significant support. The NRF is available at http://www.fema.gov/emergency/nrf/."
@@ -81,7 +75,8 @@
         "b": {
           "text": "OFPP Guidelines. The Office of Federal Procurement Policy (OFPP) “Emergency Acquisitions Guide” is available at http://www.whitehouse.gov/sites/default/files/omb/assets/procurement_guides/emergency_acquisitions_guide.pdf."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

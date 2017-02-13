@@ -3,34 +3,36 @@
   "number": 1,
   "name": "Multi-year Contracting",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures for the acquisition of supplies and services through special contracting methods, including—\n\n(a) Multi-year contracting;\n\n(b) Options; and\n\n(c) Leader company contracting."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Authority.",
-      "sub": {},
       "text": {
         "text": "This subpart implements 41 U.S.C. 3903 and 10 U.S.C. 2306b and provides policy and procedures for the use of multi-year contracting."
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "text": "For DoD, NASA, and the Coast Guard, the authorities cited in 17.101 do not apply to contracts for the purchase of supplies to which 40 U.S.C. 759 applies (information resource management supply contracts)."
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Cancellation” means the cancellation (within a contractually specified time) of the total requirements of all remaining program years. Cancellation results when the contracting officer—\n\n(1) Notifies the contractor of nonavailability of funds for contract performance for any subsequent program year; or\n\n(2) Fails to notify the contractor that funds are available for performance of the succeeding program year requirement.\n\n“Cancellation ceiling” means the maximum cancellation charge that the contractor can receive in the event of cancellation.\n\n“Cancellation charge” means the amount of unrecovered costs which would have been recouped through amortization over the full term of the contract, including the term canceled.\n\n“Multi-year contract” means a contract for the purchase of supplies or services for more than 1, but not more than 5, program years. A multi-year contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds, and (if it does so provide) may provide for a cancellation payment to be made to the contractor if appropriations are not made. The key distinguishing difference between multi-year contracts and multiple year contracts is that multi-year contracts, defined in the statutes cited at 17.101, buy more than 1 year’s requirement (of a product or service) without establishing and having to exercise an option for each program year after the first.\n\n“Nonrecurring costs” means those costs which are generally incurred on a one-time basis and include such costs as plant or equipment relocation, plant rearrangement, special tooling and special test equipment, preproduction engineering, initial spoilage and rework, and specialized work force training.\n\n“Recurring costs” means costs that vary with the quantity being produced, such as labor and materials."
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Multi-year contracting is a special contracting method to acquire known requirements in quantities and total cost not over planned requirements for up to 5 years unless otherwise authorized by statute, even though the total funds ultimately to be obligated may not be available at the time of contract award. This method may be used in sealed bidding or contracting by negotiation."
@@ -44,11 +46,14 @@
         "d": {
           "text": "The termination for convenience procedure may apply to any Government contract, including multiyear contracts. As contrasted with cancellation, termination can be effected at any time during the life of the contract (cancellation is effected between fiscal years) and can be for the total quantity or partial quantity (where as cancellation must be for all subsequent fiscal years’ quantities)."
         }
-      }
+      },
+      "sub": {}
     },
     "105": {
-      "number": 105,
       "name": "Policy.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Uses.",
@@ -98,14 +103,13 @@
             "text": "Use of multi-year contracting is encouraged to take advantage of one or more of the following:\n\n(a) Lower costs.\n\n(b) Enhancement of standardization.\n\n(c) Reduction of administrative burden in the placement and administration of contracts.\n\n(d) Substantial continuity of production or performance, thus avoiding annual startup costs, preproduction testing costs, make-ready expenses, and phaseout costs.\n\n(e) Stabilization of contractor work forces.\n\n(f) Avoidance of the need for establishing quality control techniques and procedures for a new contractor each year.\n\n(g) Broadening the competitive base with opportunity for participation by firms not otherwise willing or able to compete for lesser quantities, particularly in cases involving high startup costs.\n\n(h) Providing incentives to contractors to improve productivity through investment in capital facilities, equipment, and advanced technology."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "106": {
-      "number": 106,
       "name": "Procedures.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -187,23 +191,17 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "107": {
-      "number": 107,
       "name": "Options.",
-      "sub": {},
       "text": {
         "text": "Benefits may accrue by including options in a multi-year contract. In that event, contracting officers must follow the requirements of Subpart 17.2. Options should not include charges for plant and equipment already amortized, or other nonrecurring charges which were included in the basic contract."
-      }
+      },
+      "sub": {}
     },
     "108": {
-      "number": 108,
       "name": "Congressional notification.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Except for DoD, NASA, and the Coast Guard, a multi-year contract which includes a cancellation ceiling in excess of $13.5 million may not be awarded until the head of the agency gives written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the committees on appropriations of the House of Representatives and Senate and the appropriate oversight committees of the House and Senate for the agency in question. Information on such committees may not be readily available to contracting officers. Accordingly, agencies should provide such information through its internal regulations. The contract may not be awarded until the thirty-first day after the date of notification."
@@ -211,12 +209,11 @@
         "b": {
           "text": "For DoD, NASA, and the Coast Guard, a multi-year contract which includes a cancellation ceiling in excess of $135.5 million may not be awarded until the head of the agency gives written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the committees on armed services and appropriations of the House of Representatives and Senate. The contract may not be awarded until the thirty-first day after the date of notification."
         }
-      }
+      },
+      "sub": {}
     },
     "109": {
-      "number": 109,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Shall add the clause at 52.222-43, Fair Labor Standards Act and Service Contract Labor Standards- Price Adjustment (Multiple Year and Option Contracts), when the contract includes the clause at 52.222-41, Service Contract Labor Standards;"
@@ -233,15 +230,8 @@
         "b": {
           "text": "Economic price adjustment clauses. Economic price adjustment clauses are adaptable to multi-year contracting needs. When the period of production is likely to warrant a labor and material costs contingency in the contract price, the contracting officer should normally use an economic price adjustment clause (see 16.203). When contracting for services, the contracting officer—"
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures for the acquisition of supplies and services through special contracting methods, including—\n\n(a) Multi-year contracting;\n\n(b) Options; and\n\n(c) Leader company contracting."
-      }
+      },
+      "sub": {}
     }
   }
 }

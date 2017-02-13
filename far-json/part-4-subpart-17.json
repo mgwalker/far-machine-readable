@@ -4,25 +4,21 @@
   "name": "Service Contracts Inventory",
   "sub": {
     "1700": {
-      "number": 1700,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart implements section 743(a) of Division C of the Consolidated Appropriations Act, 2010 (Pub. L. 111-117), which requires agencies to report annually to the Office of Management and Budget (OMB) on activities performed by service contractors.  Section 743(a) applies to executive agencies, other than the Department of Defense (DoD), covered by the Federal Activities Inventory Reform Act (Pub. L. 105-270) (FAIR Act).  The information reported in the inventory will be publicly accessible."
-      }
+      },
+      "sub": {}
     },
     "1701": {
-      "number": 1701,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart–\n\n“FAIR Act agencies” means the agencies required under the FAIR Act to submit inventories annually of the activities performed by Government personnel.\n\n“First-tier subcontract” means a subcontract awarded directly by the contractor for the purpose of acquiring supplies or services (including construction) for performance of a prime contract.  It does not include the contractor’s supplier agreements with vendors, such as long-term arrangements for materials or supplies that benefit multiple contracts and/or the costs of which are normally applied to a contractor’s general and administrative expenses or indirect costs."
-      }
+      },
+      "sub": {}
     },
     "1702": {
-      "number": 1702,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "a": {
           "text": "This subpart applies to–",
@@ -44,12 +40,11 @@
         "c": {
           "text": "This subpart addresses requirements for obtaining information from, and reporting by, agency service contractors."
         }
-      }
+      },
+      "sub": {}
     },
     "1703": {
-      "number": 1703,
       "name": "Reporting requirements.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Agencies shall ensure that contractors comply with the reporting requirements of 52.204-14, Service Contract Reporting Requirements and 52.204-15, Service Contract Reporting Requirements for Indefinite-Delivery Contracts.  Agencies shall review contractor reported information for reasonableness and consistency with available contract information.  The agency is not required to address data for which the agency would not normally have supporting information.  In the event the agency believes that revisions to the contractor reported information are warranted, the agency shall notify the contractor no later than November 15.  By November 30, the contractor shall revise the report, or document its rationale for the agency. Authorized agency officials may review the reports at www.sam.gov."
@@ -94,12 +89,11 @@
         "b": {
           "text": "Agency reporting responsibilities."
         }
-      }
+      },
+      "sub": {}
     },
     "1704": {
-      "number": 1704,
       "name": "Contracting officer responsibilities.",
-      "sub": {},
       "text": {
         "a": {
           "text": "For other than indefinite-delivery contracts, the contracting officer shall ensure that 52.204-14, Service Reporting Requirement, is included in solicitations, contracts, and orders as prescribed at 4.1705. For indefinite-delivery contracts, the contracting officer who awarded the contract shall ensure that 52.204-15 Service Contract Reporting Requirements for Indefinite-Delivery Contracts, is included in solicitations and contracts as prescribed at 4.1705. The contracting officer at the order level shall verify the clause’s inclusion in the contract."
@@ -107,12 +101,11 @@
         "b": {
           "text": "If the contractor fails to submit a report in a timely manner, the contracting officer shall exercise appropriate contractual remedies. In addition, the contracting officer shall make the contractor’s failure to comply with the reporting requirements a part of the contractor’s performance information under subpart 42.15."
         }
-      }
+      },
+      "sub": {}
     },
     "1705": {
-      "number": 1705,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall insert the clause at 52.204-14, Service Contract Reporting Requirements, in solicitations and contracts for services (including construction) that meet or exceed the thresholds at 4.1703, except for indefinite-delivery contracts. This clause is not required for actions entirely funded by DoD, contracts awarded with a generic entity identifier, or in classified solicitations, contracts, or orders."
@@ -120,7 +113,8 @@
         "b": {
           "text": "The contracting officer shall insert the clause at 52.204-15, Service Contract Reporting Requirements for Indefinite-Delivery Contracts, in solicitations and indefinite-delivery contracts for services (including construction) where one or more orders issued thereunder are expected to each meet or exceed the thresholds at 4.1703. This clause is not required for actions entirely funded by DoD, contracts awarded with a generic entity identifier, or in classified solicitations, contracts, or orders."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

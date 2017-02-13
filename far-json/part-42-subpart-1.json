@@ -3,10 +3,49 @@
   "number": 1,
   "name": "Contract Audit Services",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures for assigning and performing contract administration and contract audit services."
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "[Reserved]",
+      "text": {
+        "text": ""
+      },
+      "sub": {}
+    },
+    "2": {
+      "name": "Interagency agreements.",
+      "text": {
+        "a": {
+          "text": "Agencies shall avoid duplicate audits, reviews, inspections, and examinations of contractors or subcontractors, by more than one agency, through the use of interagency agreements."
+        },
+        "b": {
+          "text": "Subject to the fiscal regulations of the agencies and applicable interagency agreements, the requesting agency shall reimburse the servicing agency for rendered services in accordance with the Economy Act (31 U.S.C. 1535)."
+        },
+        "c": {
+          "text": "When an interagency agreement is established, the agencies are encouraged to consider establishing procedures for the resolution of issues that may arise under the agreement."
+        }
+      },
+      "sub": {}
+    },
+    "3": {
+      "name": "Cognizant Federal agency.",
+      "text": {
+        "a": {
+          "text": "For contractors other than educational institutions and nonprofit organizations, the cognizant Federal agency normally will be the agency with the largest dollar amount of negotiated contracts, including options. For educational institutions (defined as institutions of higher education in the OMB Uniform Guidance at 2 CFR part 200, subpart A, and 20 U.S.C. 1001) and nonprofit organizations (as defined in the OMB Uniform Guidance at 2 CFR part 200), the cognizant Federal agency for indirect costs is established according to the OMB Uniform Guidance at 2 CFR part 200, appendices III and IV, respectively."
+        },
+        "b": {
+          "text": "Once a Federal agency assumes cognizance for a contractor, it should remain cognizant for at least 5 years to ensure continuity and ease of administration. If, at the end of the 5-year period, another agency has the largest dollar amount of negotiated contracts, including options, the two agencies shall coordinate and determine which will assume cognizance. However, if circumstances warrant it and the affected agencies agree, cognizance may transfer prior to the expiration of the 5-year period."
+        }
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Contract audit responsibilities.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The auditor is responsible for—",
@@ -25,12 +64,11 @@
         "b": {
           "text": "Normally, for contractors other than educational institutions and nonprofit organizations, the Defense Contract Audit Agency (DCAA) is the responsible Government audit agency. However, there may be instances where an agency other than DCAA desires cognizance of a particular contractor. In those instances, the two agencies shall agree on the most efficient and economical approach to meet contract audit requirements. For educational institutions (defined as institutions of higher education in the OMB Uniform Guidance at 2 CFR part 200, subpart A, and 20 U.S.C. 1001) and nonprofit organizations (as defined in the OMB Uniform Guidance at 2 CFR part 200), audit cognizance will be determined according to the provisions of the OMB Uniform Guidance at 2 CFR part 200, subpart F."
         }
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Assignment of contract audit services.",
-      "sub": {},
       "text": {
         "a": {
           "text": "As provided in agency procedures or interagency agreements, contracting officers may request audit services directly from the responsible audit agency cited in the Directory of Federal Contract Audit Offices. The audit request should include a suspense date and should identify any information needed by the contracting officer."
@@ -38,12 +76,11 @@
         "b": {
           "text": "The responsible audit agency may decline requests for services on a case-by-case basis, if resources of the audit agency are inadequate to accomplish the tasks. Declinations shall be in writing."
         }
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Contract audit services directory.",
-      "sub": {},
       "text": {
         "a": {
           "text": "DCAA maintains and distributes the Directory of Federal Contract Audit Offices. The directory identifies cognizant audit offices and the contractors over which they have cognizance. Changes to audit cognizance shall be provided to DCAA so that the directory can be updated."
@@ -51,52 +88,8 @@
         "b": {
           "text": "Agencies may obtain a copy of the directory or information concerning cognizant audit offices by contacting the—\n\nDefense Contract Audit Agency\n\nATTN: CMO\n\nPublications Officer\n\n8725 John J. Kingman Road\n\nSuite 2135\n\nFort Belvoir, VA 22060-6219.\n\nDefense Contract Audit Agency\n\nATTN: CMO\n\nPublications Officer\n\n8725 John J. Kingman Road\n\nSuite 2135\n\nFort Belvoir, VA 22060-6219."
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures for assigning and performing contract administration and contract audit services."
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "[Reserved]",
-      "sub": {},
-      "text": {
-        "text": ""
-      }
-    },
-    "002": {
-      "number": 2,
-      "name": "Interagency agreements.",
-      "sub": {},
-      "text": {
-        "a": {
-          "text": "Agencies shall avoid duplicate audits, reviews, inspections, and examinations of contractors or subcontractors, by more than one agency, through the use of interagency agreements."
-        },
-        "b": {
-          "text": "Subject to the fiscal regulations of the agencies and applicable interagency agreements, the requesting agency shall reimburse the servicing agency for rendered services in accordance with the Economy Act (31 U.S.C. 1535)."
-        },
-        "c": {
-          "text": "When an interagency agreement is established, the agencies are encouraged to consider establishing procedures for the resolution of issues that may arise under the agreement."
-        }
-      }
-    },
-    "003": {
-      "number": 3,
-      "name": "Cognizant Federal agency.",
-      "sub": {},
-      "text": {
-        "a": {
-          "text": "For contractors other than educational institutions and nonprofit organizations, the cognizant Federal agency normally will be the agency with the largest dollar amount of negotiated contracts, including options. For educational institutions (defined as institutions of higher education in the OMB Uniform Guidance at 2 CFR part 200, subpart A, and 20 U.S.C. 1001) and nonprofit organizations (as defined in the OMB Uniform Guidance at 2 CFR part 200), the cognizant Federal agency for indirect costs is established according to the OMB Uniform Guidance at 2 CFR part 200, appendices III and IV, respectively."
-        },
-        "b": {
-          "text": "Once a Federal agency assumes cognizance for a contractor, it should remain cognizant for at least 5 years to ensure continuity and ease of administration. If, at the end of the 5-year period, another agency has the largest dollar amount of negotiated contracts, including options, the two agencies shall coordinate and determine which will assume cognizance. However, if circumstances warrant it and the affected agencies agree, cognizance may transfer prior to the expiration of the 5-year period."
-        }
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,25 +4,21 @@
   "name": "Qualifications Requirements",
   "sub": {
     "200": {
-      "number": 200,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart implements 10 U.S.C. 2319 and 41 U.S.C.3311 and prescribes policies and procedures regarding qualification requirements and the acquisitions that are subject to such requirements."
-      }
+      },
+      "sub": {}
     },
     "201": {
-      "number": 201,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Qualified bidders list (QBL)” means a list of bidders who have had their products examined and tested and who have satisfied all applicable qualification requirements for that product or have otherwise satisfied all applicable qualification requirements.\n\n“Qualified manufacturers list (QML)” means a list of manufacturers who have had their products examined and tested and who have satisfied all applicable qualification requirements for that product."
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "(1) The head of the agency or designee shall, before establishing a qualification requirement, prepare a written justification—",
@@ -89,12 +85,11 @@
         "f": {
           "text": "Within 7 years following enforcement of a QPL, QML, or QBL by DoD or NASA, or within 7 years after any qualification requirement was originally established by a civilian agency other than NASA, the qualification requirement shall be examined and revalidated in accordance with the requirements of 9.202(a). For DoD and NASA, qualification requirements other than QPL’s, QML’s and QBL’s shall be examined and revalidated within 7 years after establishment of the requirement under 9.202(a). Any periods for which a waiver under 9.202(b) is in effect shall be excluded in computing the 7 years within which review and revalidation must occur."
         }
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "QPL’s, QML’s, and QBL’s.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Qualification and listing in a QPL, QML, or QBL is the process by which products are obtained from manufacturers or distributors, examined and tested for compliance with specification requirements, or manufacturers or potential offerors, are provided an opportunity to demonstrate their abilities to meet the standards specified for qualification. The names of successful products, manufacturers, or potential offerors are included on lists evidencing their status. Generally, qualification is performed in advance and independently of any specific acquisition action. After qualification, the products, manufacturers, or potential offerors are included in a Federal or Military QPL, QML, or QBL. (See 9.202(a)(2) with regard to any product, manufacturer, or potential offeror not yet included on an applicable list.)"
@@ -124,20 +119,18 @@
         "d": {
           "text": "The publications listed in paragraphs (b) and (c) of this section are sold to the public. The publications in paragraphs (b)(1) and (c)(1) of this section may be obtained from the addressee in 11.201(d)(1). The publications in paragraphs (b)(2) and (c)(2) of this section may be obtained from the addressee in 11.201(d)(2)."
         }
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Responsibilities for establishment of a qualification requirement.",
-      "sub": {},
       "text": {
         "text": "The responsibilities of agency activities that establish qualification requirements include the following:\n\n(a) Arranging publicity for the qualification requirements. If active competition on anticipated future qualification requirements is likely to be fewer than two manufacturers or the products of two manufacturers, the activity responsible for establishment of the qualification requirements must—\n\n(1) Periodically furnish through the Governmentwide point of entry (GPE) a notice seeking additional sources or products for qualification unless the contracting officer determines that such publication would compromise the national security.\n\n(2) Bear the cost of conducting the specified testing and evaluation (excluding the costs associated with producing the item or establishing the production, quality control, or other system to be tested and evaluated) for a small business concern or a product manufactured by a small business concern which has met the standards specified for qualification and which could reasonably be expected to compete for a contract for that requirement. However, such costs may be borne only if it is determined in accordance with agency procedures that such additional qualified sources or products are likely to result in cost savings from increased competition for future requirements sufficient to amortize the costs incurred by the agency within a reasonable period of time, considering the duration and dollar value of anticipated future requirements. A prospective contractor requesting the United States to bear testing and evaluation costs must certify as to its status as a small business concern under Section 3 of the Small Business Act in order to receive further consideration.\n\n(b) Qualifying products that meet specification requirements.\n\n(c) Listing manufacturers and suppliers whose products are qualified in accordance with agency procedures.\n\n(d) Furnishing QPL’s, QML’s, or QBL’s or the qualification requirements themselves to prospective offerors and the public upon request (see 9.202(a)(2)(i)).\n\n(e) Clarifying, as necessary, qualification requirements.\n\n(f) In appropriate cases, when requested by the contracting officer, providing concurrence in a decision not to enforce a qualification requirement for a solicitation.\n\n(g) Withdrawing or omitting qualification of a listed product, manufacturer or offeror, as necessary.\n\n(h) Advising persons furnished any list of products, manufacturers or offerors meeting a qualification requirement and suppliers whose products are on any such list that—\n\n(1) The list does not constitute endorsement of the product, manufacturer, or other source by the Government;\n\n(2) The products or sources listed have been qualified under the latest applicable specification;\n\n(3) The list may be amended without notice;\n\n(4) The listing of a product or source does not release the supplier from compliance with the specification; and\n\n(5) Use of the list for advertising or publicity is permitted. However, it must not be stated or implied that a particular product or source is the only product or source of that type qualified, or that the Government in any way recommends or endorses the products or the sources listed.\n\n(i) Reexamining a qualified product or manufacturer when—\n\n(1) The manufacturer has modified its product, or changed the material or the processing sufficiently so that the validity of previous qualification is questionable;\n\n(2) The requirements in the specification have been amended or revised sufficiently to affect the character of the product; or\n\n(3) It is otherwise necessary to determine that the quality of the product is maintained in conformance with the specification."
-      }
+      },
+      "sub": {}
     },
     "205": {
-      "number": 205,
       "name": "Opportunity for qualification before award.",
-      "sub": {},
       "text": {
         "a": {
           "text": "If an agency determines that a qualification requirement is necessary, the agency activity responsible for establishing the requirement must urge manufacturers and other potential sources to demonstrate their ability to meet the standards specified for qualification and, when possible, give sufficient time to arrange for qualification before award. The responsible agency activity must, before establishing any qualification requirement, furnish notice through the GPE. The notice must include—",
@@ -165,11 +158,14 @@
         "b": {
           "text": "The activity responsible for establishing a qualification requirement must keep any list maintained of those already qualified open for inclusion of additional products, manufacturers, or other potential sources."
         }
-      }
+      },
+      "sub": {}
     },
     "206": {
-      "number": 206,
       "name": "Acquisitions subject to qualification requirements.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -239,15 +235,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "207": {
-      "number": 207,
       "name": "Changes in status regarding qualification requirements.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall promptly report to the agency activity which established the qualification requirement any conditions which may merit removal or omission from a QPL, QML, or QBL or affect whether a source should continue to be otherwise identified as meeting the requirement. These conditions exist when—",
@@ -287,7 +278,8 @@
         "b": {
           "text": "After considering any of the above or other conditions reasonably related to whether a product or source continues to meet the standards specified for qualification, an agency may take appropriate action without advance notification. The agency shall, however, promptly notify the affected parties if a product or source is removed from a QPL, QML, or QBL, or will no longer be identified as meeting the standards specified for qualification. This notice shall contain specific information why the product or source no longer meets the qualification requirement."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

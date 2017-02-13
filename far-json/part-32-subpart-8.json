@@ -4,33 +4,28 @@
   "name": "Assignment of Claims",
   "sub": {
     "800": {
-      "number": 800,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for the assignment of claims under the Assignment of Claims Act of 1940, as amended, (31 U.S.C. 3727, 41 U.S.C. 6305) (hereafter referred to as “the Act”)."
-      }
+      },
+      "sub": {}
     },
     "801": {
-      "number": 801,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "“Designated agency,” as used in this subpart, means any department or agency of the executive branch of the United States Government (see 32.803(d)).\n\n“No-setoff commitment,” as used in this subpart, means a contractual undertaking that, to the extent permitted by the Act, payments by the designated agency to the assignee under an assignment of claims will not be reduced to liquidate the indebtedness of the contractor to the Government."
-      }
+      },
+      "sub": {}
     },
     "802": {
-      "number": 802,
       "name": "Conditions.",
-      "sub": {},
       "text": {
         "text": "Under the Assignment of Claims Act, a contractor may assign moneys due or to become due under a contract if all the following conditions are met:\n\n(a) The contract specifies payments aggregating $1,000 or more.\n\n(b) The assignment is made to a bank, trust company, or other financing institution, including any Federal lending agency.\n\n(c) The contract does not prohibit the assignment.\n\n(d) Unless otherwise expressly permitted in the contract, the assignment—\n\n(1) Covers all unpaid amounts payable under the contract;\n\n(2) Is made only to one party, except that any assignment may be made to one party as agent or trustee for two or more parties participating in the financing of the contract; and\n\n(3) Is not subject to further assignment.\n\n(e) The assignee sends a written notice of assignment together with a true copy of the assignment instrument to the—\n\n(1) Contracting officer or the agency head;\n\n(2) Surety on any bond applicable to the contract; and\n\n(3) Disbursing officer designated in the contract to make payment."
-      }
+      },
+      "sub": {}
     },
     "803": {
-      "number": 803,
       "name": "Policies.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Any assignment of claims that has been made under the Act to any type of financing institution listed in 32.802(b) may thereafter be further assigned and reassigned to any such institution if the conditions in 32.802(d) and (e) continue to be met."
@@ -50,12 +45,11 @@
         "e": {
           "text": "When an assigned contract does not include a no-setoff commitment, the Government may apply against payments to the assignee any liability of the contractor to the Government arising independently of the assigned contract if the liability existed at the time notice of the assignment was received even though that liability had not yet matured so as to be due and payable."
         }
-      }
+      },
+      "sub": {}
     },
     "804": {
-      "number": 804,
       "name": "Extent of assignee’s protection.",
-      "sub": {},
       "text": {
         "1": {
           "text": "When the assignee has neither made a loan under the assignment nor made a commitment to do so; or"
@@ -95,12 +89,11 @@
         "c": {
           "text": "In some circumstances, a setoff may be appropriate even though the assigned contract includes a no-setoff commitment; e.g.—"
         }
-      }
+      },
+      "sub": {}
     },
     "805": {
-      "number": 805,
       "name": "Procedure.",
-      "sub": {},
       "text": {
         "1": {
           "text": "A release of an assignment is required whenever—",
@@ -190,12 +183,11 @@
         "e": {
           "text": "Release of assignment."
         }
-      }
+      },
+      "sub": {}
     },
     "806": {
-      "number": 806,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "(1) The contracting officer shall insert the clause at 52.232-23, Assignment of Claims, in solicitations and contracts expected to exceed the micro-purchase threshold, unless the contract will prohibit the assignment of claims (see 32.803(b)). The use of the clause is not required for purchase orders. However, the clause may be used in purchase orders expected to exceed the micro-purchase threshold, that are accepted in writing by the contractor, if such use is consistent with agency policies and regulations.",
@@ -208,7 +200,8 @@
         "b": {
           "text": "The contracting officer shall insert the clause at 52.232-24, Prohibition of Assignment of Claims, in solicitations and contracts for which a determination has been made under agency regulations that the prohibition of assignment of claims is in the Government’s interest."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

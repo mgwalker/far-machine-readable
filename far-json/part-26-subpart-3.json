@@ -4,9 +4,7 @@
   "name": "Historically Black Colleges and Universities and Minority Institutions",
   "sub": {
     "300": {
-      "number": 300,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "a": {
           "text": "This subpart implements Executive Order 12928 of September 16, 1994, which promotes participation of Historically Black Colleges and Universities (HBCUs) and Minority Institutions (MIs) in Federal procurement."
@@ -14,39 +12,36 @@
         "b": {
           "text": "This subpart does not pertain to contracts performed entirely outside the United States and its outlying areas."
         }
-      }
+      },
+      "sub": {}
     },
     "301": {
-      "number": 301,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "General policy.",
-      "sub": {},
       "text": {
         "text": "It is the policy of the Government to promote participation of HBCUs and MIs in Federal procurement."
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Data collection and reporting requirements.",
-      "sub": {},
       "text": {
         "text": "Executive Order 12928 requires periodic reporting to the President on the progress of departments and agencies in complying with the laws and requirements mentioned in the Executive order."
-      }
+      },
+      "sub": {}
     },
     "304": {
-      "number": 304,
       "name": "Solicitation provision.",
-      "sub": {},
       "text": {
         "text": "Insert the provision at 52.226-2, Historically Black College or University and Minority Institution Representation, in solicitations exceeding the micro-purchase threshold, for research, studies, supplies, or services of the type normally acquired from higher educational institutions."
-      }
+      },
+      "sub": {}
     }
   }
 }

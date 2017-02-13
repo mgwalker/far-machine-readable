@@ -3,10 +3,31 @@
   "number": 1,
   "name": "Definitions",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "a": {
+          "text": "This part—",
+          "sub": {
+            "1": {
+              "text": "Defines words and terms that are frequently used in the FAR;"
+            },
+            "2": {
+              "text": "Provides cross-references to other definitions in the FAR of the same word or term; and"
+            },
+            "3": {
+              "text": "Provides for the incorporation of these definitions in solicitations and contracts by reference."
+            }
+          }
+        },
+        "b": {
+          "text": "Other parts, subparts, and sections of this regulation (48 CFR Chapter 1) may define other words or terms and those definitions only apply to the part, subpart, or section where the word or term is defined."
+        }
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Means a proposal that—",
@@ -134,31 +155,8 @@
         "see “in writing”": {
           "text": "."
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "a": {
-          "text": "This part—",
-          "sub": {
-            "1": {
-              "text": "Defines words and terms that are frequently used in the FAR;"
-            },
-            "2": {
-              "text": "Provides cross-references to other definitions in the FAR of the same word or term; and"
-            },
-            "3": {
-              "text": "Provides for the incorporation of these definitions in solicitations and contracts by reference."
-            }
-          }
-        },
-        "b": {
-          "text": "Other parts, subparts, and sections of this regulation (48 CFR Chapter 1) may define other words or terms and those definitions only apply to the part, subpart, or section where the word or term is defined."
-        }
-      }
+      },
+      "sub": {}
     }
   }
 }

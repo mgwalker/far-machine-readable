@@ -4,25 +4,21 @@
   "name": "Establishing Paid Sick Leave for Federal Contractors.",
   "sub": {
     "2100": {
-      "number": 2100,
       "name": "Scope of Subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures to implement E.O. 13706, Establishing Paid Sick Leave for Federal Contractors, dated September 7, 2015, and Department of Labor implementing regulations at 29 CFR part 13."
-      }
+      },
+      "sub": {}
     },
     "2101": {
-      "number": 2101,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart (in accordance with 29 CFR 13.2)–\n\n“Accrual year” means the 12-month period during which a contractor may limit an employee’s accrual of paid sick leave to no less than 56 hours (see 29 CFR 13.5(b)(1)).\n\n“Certification issued by a health care provider” has the meaning given in 29 CFR 13.2.\n\n“Employee”–\n\n(1)(i) Means any person engaged in performing work on or in connection with a contract covered by E.O. 13706, and\n\n(A) Whose wages under such contract are governed by the Service Contract Labor Standards statute (41 U.S.C. chapter 67), the Wage Rate Requirements (Construction) statute (40 U.S.C. chapter 31, subchapter IV), or the Fair Labor Standards Act (29 U.S.C. chapter 8),\n\n(B) Including employees who qualify for an exemption from the Fair Labor Standards Act's minimum wage and overtime provisions,\n\n(C) Regardless of the contractual relationship alleged to exist between the individual and the employer; and\n\n(ii) Includes any person performing work on or in connection with the contract and individually registered in a bona fide apprenticeship or training program registered with the Department of Labor’s Employment and Training Administration, Office of Apprenticeship, or with a State Apprenticeship Agency recognized by the Office of Apprenticeship.\n\n(2)(i) An employee performs on a contract if the employee directly performs the specific services called for by the contract; and\n\n(ii) An employee performs in connection with a contract if the employee’s work activities are necessary to the performance of a contract but are not the specific services called for by the contract.\n\n“Health care provider” has the meaning given in 29 CFR 13.2.\n\n“Multiemployer plan” means a plan to which more than one employer is required to contribute and which is maintained pursuant to one or more collective bargaining agreements between one or more employee organizations and more than one employer.\n\n“Paid sick leave” means compensated absence from employment that is required by E.O. 13706 and 29 CFR part 13."
-      }
+      },
+      "sub": {}
     },
     "2102": {
-      "number": 2102,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Government shall require contractors to allow employees performing work on or in connection with a contract covered by E.O. 13706 to accrue and use paid sick leave in accordance with the E.O. and 29 CFR part 13."
@@ -36,60 +32,53 @@
         "d": {
           "text": "Unless otherwise provided in this subpart, compliance is the responsibility of the contractor, and enforcement is the responsibility of the Department of Labor."
         }
-      }
+      },
+      "sub": {}
     },
     "2103": {
-      "number": 2103,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "text": "This subpart applies to–\n\n(a) Contracts that–\n\n(1) Are covered by the Service Contract Labor Standards statute (41 U.S.C. chapter 67, formerly known as the Service Contract Act, subpart 22.10), or the Wage Rate Requirements (Construction) statute (40 U.S.C. chapter 31, Subchapter IV, formerly known as the Davis-Bacon Act, subpart 22.4); and\n\n(2) Require performance in whole or in part within the United States. When performance is in part within and in part outside the United States, this subpart applies to the part of the contract that is performed within the United States; and\n\n(b) Employees performing on or in connection with such contracts whose wages are governed by the Service Contract Labor Standards statute, the Wage Rate Requirements (Construction) statute, or the Fair Labor Standards Act, including employees who qualify for an exemption from the Fair Labor Standards Act’s minimum wage and overtime provisions."
-      }
+      },
+      "sub": {}
     },
     "2104": {
-      "number": 2104,
       "name": "Exclusions. ",
-      "sub": {},
       "text": {
         "text": "The following are excluded from coverage under this subpart:\n\n(a) Employees performing in connection with contracts covered by the E.O. for less than 20 percent of their work hours in a given workweek. This exclusion is inapplicable to employees performing on contracts covered by the E.O., i.e., those employees directly engaged in performing the specific work called for by the contract, at any point during the workweek (see 29 CFR 13.4(e)).\n\n(b) Until the earlier of the date the agreement terminates or January 1, 2020, employees whose covered work is governed by a collective bargaining agreement ratified before September 30, 2016, that–\n\n(1) Already provides 56 hours (or 7 days, if the agreement refers to days rather than hours) of paid sick time (or paid time off that may be used for reasons related to sickness or health care) each year; or\n\n(2) Provides less than 56 hours (or 7 days, if the agreement refers to days rather than hours) of paid sick time (or paid time off that may be used for reasons related to sickness or health care) each year, provided that each year the contractor provides covered employees with the difference between 56 hours (or 7 days) and the amount provided under the existing agreement in accordance with 29 CFR 13.4(f).\n\n(c) The Government’s unilateral exercise of a pre-negotiated option to renew an existing contract that does not contain the clause at 52.222-62 will not automatically trigger the application of that clause. (See definition of “new contract” at 29 CFR 13.2)."
-      }
+      },
+      "sub": {}
     },
     "2105": {
-      "number": 2105,
       "name": "Paid sick leave for Federal contractors and subcontractors.",
-      "sub": {},
       "text": {
         "text": "In accordance with 29 CFR 13.5, and by operation of the clause at 52.222-62, Paid Sick Leave Under Executive Order 13706, the following contractor requirements apply:\n\n(a) Accrual.\n\n(1) Contractors are required to permit an employee to accrue not less than 1 hour of paid sick leave for every 30 hours worked on or in connection with a contract covered by the E.O. (see 29 CFR 13.5(a)(1)).\n\n(2) Contractors are required to inform each employee, in writing, of the amount of paid sick leave the employee has accrued but not used no less than once each pay period or each month, whichever interval is shorter, as well as upon a separation from employment and upon reinstatement of paid sick leave, pursuant to 29 CFR 13.5(b)(4) (see 29 CFR 13.5(a)(2)).\n\n(3) Contractors may choose to provide employees with at least 56 hours of paid sick leave at the beginning of each accrual year rather than allowing the employee to accrue such leave based on hours worked over time (see 29 CFR 13.5(a)(3)).\n\n(b) Maximum accrual, carryover, reinstatement, and payment for unused leave.\n\n(1) Contractors may limit the amount of paid sick leave employees are permitted to accrue to not less than 56 hours in each accrual year (see 29 CFR 13.5(b)(1)).\n\n(2) Paid sick leave shall carry over from one accrual year to the next. Paid sick leave carried over from the previous accrual year shall not count toward any limit the contractor sets on annual accrual (see 29 CFR 13.5(b)(2)).\n\n(3) Contractors may limit the amount of paid sick leave an employee is permitted to have available for use at any point to not less than 56 hours (see 29 CFR 13.5(b)(3)).\n\n(4) Contractors are required to reinstate paid sick leave for employees only when rehired by the same contractor within 12 months after a job separation (see 29 CFR 13.5(b)(4)).\n\n(5) Nothing in E.O. 13706 or 29 CFR part 13 requires contractors to make a financial payment to an employee for accrued paid sick leave that has not been used upon a separation from employment. If a contractor nevertheless makes such a payment in an amount equal to or greater than the value of the pay and benefits the employee would have received pursuant to 29 CFR 13.5(c)(3) had the employee used the paid sick leave, the contractor is relieved of the obligation to reinstate an employee’s accrued paid sick leave upon rehiring the employee within 12 months of the separation pursuant to 29 CFR 13.5(b)(4) (see 29 CFR 13.5(b)(5)).\n\n(c) Use. Contractors are required to permit an employee to use paid sick leave in accordance with 29 CFR 13.5(c).\n\n(d) Request for paid sick leave. Contractors are required to permit an employee to use any or all of the employee’s available paid sick leave upon the oral or written request of an employee that includes information sufficient to inform the contractor that the employee is seeking to be absent from work for a purpose described in 29 CFR 13.5(c) and, to the extent reasonably feasible, the anticipated duration of the leave (see 29 CFR 13.5(d)).\n\n(e) Certification or documentation for leave of 3 or more consecutive full workdays. Contractors may require certification issued by a health care provider to verify the need for paid sick leave used for a purpose described in 29 CFR 13.5(c)(1)(i), (ii), or (iii), or documentation from an appropriate individual or organization to verify the need for paid sick leave used for a purpose described in 29 CFR 13.5(c)(1)(iv), only if the employee is absent for 3 or more consecutive full workdays (see 29 CFR 13.5(e))."
-      }
+      },
+      "sub": {}
     },
     "2106": {
-      "number": 2106,
       "name": "Prohibited acts.",
-      "sub": {},
       "text": {
         "text": "In accordance with 29 CFR 13.6, and by operation of the clause at 52.222-62, Paid Sick Leave Under Executive Order 13706, a contractor may not–\n\n(a) Interfere with an employee’s accrual or use of paid sick leave as required by E.O. 13706 or 29 CFR part 13 (see 29 CFR 13.6(a));\n\n(b) Discharge or in any other manner discriminate against any employee for–\n\n(1) Using, or attempting to use, paid sick leave as provided for under E.O. 13706 and 29 CFR part 13;\n\n(2) Filing any complaint, initiating any proceeding, or otherwise asserting any right or claim under E.O. 13706 or 29 CFR part 13;\n\n(3) Cooperating in any investigation or testifying in any proceeding under E.O. 13706 or 29 CFR part 13; or\n\n(4) Informing any other person about his or her rights under E.O. 13706 or 29 CFR part 13 (see 29 CFR 13.6(b)); or\n\n(c) Fail to make and maintain or to make available to authorized representatives of the Wage and Hour Division records for inspection, copying, and transcription as required by 29 CFR 13.25, or otherwise fail to comply with the requirements of 29 CFR 13.25 (see 29 CFR 13.6(c))."
-      }
+      },
+      "sub": {}
     },
     "2107": {
-      "number": 2107,
       "name": "Waiver of rights.",
-      "sub": {},
       "text": {
         "text": "Employees cannot waive, nor may contractors induce employees to waive, their rights under E.O. 13706 or 29 CFR part 13 (see 29 CFR 13.7)."
-      }
+      },
+      "sub": {}
     },
     "2108": {
-      "number": 2108,
       "name": "Multiemployer plans or other funds, plans, or programs.",
-      "sub": {},
       "text": {
         "text": "Contractors may fulfill their obligations under E.O. 13706 and 29 CFR part 13 jointly with other contractors through a multiemployer plan, or may fulfill their obligations through an individual fund, plan, or program (see 29 CFR 13.8)."
-      }
+      },
+      "sub": {}
     },
     "2109": {
-      "number": 2109,
       "name": "Enforcement of Executive Order 13706 paid sick leave requirements.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Authority. Section 4 of the E.O. grants to the Secretary of Labor the authority for investigating potential violations of, and obtaining compliance with, the E.O. The Secretary of Labor, in promulgating the implementing regulations required by section 3 of the E.O., has assigned this authority to the Administrator of the Wage and Hour Division. Contracting agencies do not have authority to conduct compliance investigations under 29 CFR part 13 as implemented in this subpart. This does not limit the contracting officer’s authority to otherwise enforce the terms and conditions of the contract."
@@ -234,15 +223,15 @@
         "e": {
           "text": "Inclusion of contract clause. If a contracting agency fails to include the clause at FAR 52.222-62 in a contract to which the E.O. applies, the contracting officer, on his or her own initiative or within 15 days of notification by an authorized representative of the Department of Labor, shall incorporate the contract clause in the contract retroactive to commencement of performance under the contract through the exercise of any and all authority that may be needed (including, where necessary, its authority to negotiate or amend, its authority to pay any necessary additional costs, and its authority under any contract provision authorizing changes, cancellation, and termination)."
         }
-      }
+      },
+      "sub": {}
     },
     "2110": {
-      "number": 2110,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "Insert the clause at 52.222-62, Paid Sick Leave Under Executive Order 13706, in solicitations and contracts that include the clause at 52.222-6, Construction Wage Rate Requirements, or 52.222-41, Service Contract Labor Standards, where work is to be performed, in whole or in part, in the United States (the 50 States and the District of Columbia)."
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,24 +4,24 @@
   "name": "Reporting, Reutilization, and Disposal",
   "sub": {
     "600": {
-      "number": 600,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart establishes policies and procedures for the reporting, reutilization, and disposal of contractor inventory excess to contracts and of property that forms the basis of a claim against the Government (e.g., termination inventory under fixed-price contracts). This subpart does not apply to the disposal of real property or to property for which the Government has a lien or title solely as a result of advance, progress, or performance-based payments that have been liquidated."
-      }
+      },
+      "sub": {}
     },
     "601": {
-      "number": 601,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "602": {
-      "number": 602,
       "name": "Reutilization of Government property.",
+      "text": {
+        "text": "This section is applicable to the reutilization, including transfer and donation, of Government property that is not required for continued performance of a Government contract. Except for 45.602-1, this section does not apply to scrap other than scrap aircraft parts."
+      },
       "sub": {
         "1": {
           "name": "Inventory disposal schedules.",
@@ -89,15 +89,10 @@
             "text": "Agencies whose property is transferred to other agencies shall not be reimbursed for the property in any manner unless the circumstances of FMR 102-36.285 (41 CFR 102-36.285) apply. The agency receiving the property shall pay any transportation costs that are not the contractor’s responsibility and any costs to pack, crate, or otherwise prepare the property for shipment. The contract administration office shall process appropriate contract modifications. To accelerate plant clearance, the receiving agency shall promptly furnish funding data, and transfer or shipping documents to the contract administration office."
           }
         }
-      },
-      "text": {
-        "text": "This section is applicable to the reutilization, including transfer and donation, of Government property that is not required for continued performance of a Government contract. Except for 45.602-1, this section does not apply to scrap other than scrap aircraft parts."
       }
     },
     "603": {
-      "number": 603,
       "name": "Abandonment or destruction of personal property.",
-      "sub": {},
       "text": {
         "a": {
           "text": "When contractor inventory is processed through the reutilization screening process prescribed in 45.602-2 without success, and provided the property has no commercial value, does not require demilitarization, and does not constitute a danger to public health or welfare, plant clearance officers or other authorized officials may without further approval—",
@@ -130,11 +125,14 @@
         "d": {
           "text": "Unless the property qualifies for one of the exceptions under FMR 102-36.330 (41 CFR 102-36.330), the plant clearance officer or requesting official will ensure prior public notice of such actions of abandonment or destruction consistent with FMR 102-36.325 (41 CFR 102-36.325)."
         }
-      }
+      },
+      "sub": {}
     },
     "604": {
-      "number": 604,
       "name": "Sale of surplus personal property.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Sales procedures.",
@@ -160,23 +158,17 @@
             "text": "Agencies should consider the sale of property pursuant to the exchange/sale authority in FMR 102-39 (41 CFR part 102-39) when agencies are acquiring or plan to acquire similar products and other requirements of the authority are satisfied."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "605": {
-      "number": 605,
       "name": "Inventory disposal reports.",
-      "sub": {},
       "text": {
         "text": "The plant clearance officer shall promptly prepare an SF 1424, Inventory Disposal Report, following disposition of the property identified on an inventory disposal schedule and the crediting of any related proceeds. The report shall identify any lost or otherwise unaccounted for property and any changes in quantity or value of the property made by the contractor after submission of the initial inventory disposal schedule. The report shall be provided to the administrative contracting officer or, for termination inventory, to the termination contracting officer, with a copy to the property administrator."
-      }
+      },
+      "sub": {}
     },
     "606": {
-      "number": 606,
       "name": "Contractor scrap procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The property administrator should, in coordination with the plant clearance officer, ensure that contractor scrap disposal processes, methods, and practices allow for effective, efficient, and proper disposition and are properly documented in the contractor’s property management procedures."
@@ -207,7 +199,8 @@
         "c": {
           "text": "Absent contract terms and conditions to the contrary, the Government may abandon parts removed and replaced from property as a result of normal maintenance actions or removed from property as a result of the repair, maintenance, overhaul, or modification process.\n\n\n\n"
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

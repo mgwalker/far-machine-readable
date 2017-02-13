@@ -4,17 +4,14 @@
   "name": "Contractor Team Arrangements",
   "sub": {
     "601": {
-      "number": 601,
       "name": "Definition.",
-      "sub": {},
       "text": {
         "text": "“Contractor team arrangement,” as used in this subpart, means an arrangement in which—\n\n(1) Two or more companies form a partnership or joint venture to act as a potential prime contractor; or\n\n(2) A potential prime contractor agrees with one or more other companies to have them act as its subcontractors under a specified Government contract or acquisition program."
-      }
+      },
+      "sub": {}
     },
     "602": {
-      "number": 602,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Contractor team arrangements may be desirable from both a Government and industry standpoint in order to enable the companies involved to—",
@@ -33,23 +30,22 @@
         "c": {
           "text": "The companies involved normally form a contractor team arrangement before submitting an offer. However, they may enter into an arrangement later in the acquisition process, including after contract award."
         }
-      }
+      },
+      "sub": {}
     },
     "603": {
-      "number": 603,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "text": "The Government will recognize the integrity and validity of contractor team arrangements; provided, the arrangements are identified and company relationships are fully disclosed in an offer or, for arrangements entered into after submission of an offer, before the arrangement becomes effective. The Government will not normally require or encourage the dissolution of contractor team arrangements."
-      }
+      },
+      "sub": {}
     },
     "604": {
-      "number": 604,
       "name": "Limitations.",
-      "sub": {},
       "text": {
         "text": "Nothing in this subpart authorizes contractor team arrangements in violation of antitrust statutes or limits the Government’s rights to—\n\n(a) Require consent to subcontracts (see Subpart 44.2);\n\n(b) Determine, on the basis of the stated contractor team arrangement, the responsibility of the prime contractor (see Subpart 9.1);\n\n(c) Provide to the prime contractor data rights owned or controlled by the Government;\n\n(d) Pursue its policies on competitive contracting, subcontracting, and component breakout after initial production or at any other time; and\n\n(e) Hold the prime contractor fully responsible for contract performance, regardless of any team arrangement between the prime contractor and its subcontractors."
-      }
+      },
+      "sub": {}
     }
   }
 }

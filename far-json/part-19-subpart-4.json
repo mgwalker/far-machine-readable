@@ -4,9 +4,7 @@
   "name": "Cooperation with the Small Business Administration",
   "sub": {
     "401": {
-      "number": 401,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Small Business Act is the authority under which the Small Business Administration (SBA) and agencies consult and cooperate with each other in formulating policies to ensure that small business interests will be recognized and protected."
@@ -14,12 +12,11 @@
         "b": {
           "text": "The Director of Small and Disadvantaged Business Utilization serves as the agency focal point for interfacing with SBA."
         }
-      }
+      },
+      "sub": {}
     },
     "402": {
-      "number": 402,
       "name": "Small Business Administration procurement center representatives.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Reviewing proposed acquisitions to recommend—",
@@ -64,12 +61,11 @@
         "c": {
           "text": "The duties assigned by SBA to its procurement center representatives include the following:"
         }
-      }
+      },
+      "sub": {}
     },
     "403": {
-      "number": 403,
       "name": "Small Business Administration breakout procurement center representative.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The SBA is required by section 403 of Pub. L. 98-577 to assign a breakout procurement center representative to each major procurement center. A major procurement center means a procurement center that, in the opinion of the administrator, purchases substantial dollar amounts of other than commercial items, and which has the potential to incur significant savings as a result of the placement of a breakout procurement representative. The SBA breakout procurement center representative is an advocate for (1) the appropriate use of full and open competition, and (2) the breakout of items, when appropriate and while maintaining the integrity of the system in which such items are used. The SBA breakout procurement center representative is in addition to the SBA procurement center representative (see 19.402). When an SBA breakout procurement center representative is assigned, the SBA is required to assign at least two collocated small business technical advisors. Assigned SBA breakout procurement center representatives and technical advisors are required to comply with the contracting agency’s directives governing the conduct of contracting personnel and the release of contract information. The SBA must obtain for its breakout procurement center representatives and technical advisors security clearances required by the contracting agency."
@@ -123,7 +119,8 @@
         "d": {
           "text": "The duties of the SBA small business technical advisors are to assist the SBA breakout procurement center representative in carrying out the activities described in paragraphs (c)(1) through (7) of this section to assist the SBA procurement center representatives (see FAR 19.402)."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

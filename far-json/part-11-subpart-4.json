@@ -4,9 +4,7 @@
   "name": "Delivery or Performance Schedules",
   "sub": {
     "401": {
-      "number": 401,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The time of delivery or performance is an essential contract element and shall be clearly stated in solicitations. Contracting officers shall ensure that delivery or performance schedules are realistic and meet the requirements of the acquisition. Schedules that are unnecessarily short or difficult to attain—",
@@ -28,12 +26,11 @@
         "c": {
           "text": "If timely delivery or performance is unusually important to the Government, liquidated damages clauses may be used (see Subpart 11.5)."
         }
-      }
+      },
+      "sub": {}
     },
     "402": {
-      "number": 402,
       "name": "Factors to consider in establishing schedules.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Nature and complexity of the project;"
@@ -88,12 +85,11 @@
         "b": {
           "text": "Construction. When scheduling the time for completion of a construction contract, the contracting officer shall consider applicable factors such as the—"
         }
-      }
+      },
+      "sub": {}
     },
     "403": {
-      "number": 403,
       "name": "Supplies or services.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer may express contract delivery or performance schedules in terms of—",
@@ -124,12 +120,11 @@
         "e": {
           "text": "In invitations for bids, if the delivery schedule is based on the date of the contract, and a bid offers delivery based on the date the contractor receives the contract or notice of award, the contracting officer shall evaluate the bid by adding 5 calendar days (as representing the normal time for arrival through ordinary mail). If the contract or notice of award will be transmitted electronically, (1) the solicitation shall so state; and (2) the contracting officer shall evaluate delivery schedule based on the date of contract receipt or notice of award, by adding one working day. (The term “working day” excludes weekends and U.S. Federal holidays.) If the offered delivery date computed with mailing or transmittal time is later than the delivery date required by the invitation for bids, the bid shall be considered nonresponsive and rejected. If award is made, the delivery date will be the number of days offered in the bid after the contractor actually receives the notice of award."
         }
-      }
+      },
+      "sub": {}
     },
     "404": {
-      "number": 404,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Supplies or services.",
@@ -148,7 +143,8 @@
         "b": {
           "text": "Construction. The contracting officer shall insert the clause at 52.211-10, Commencement, Prosecution, and Completion of Work, in solicitations and contracts when a fixed-price construction contract is contemplated. The clause may be changed to accommodate the issuance of orders under indefinite-delivery contracts. If the completion date is expressed as a specific calendar date, computed on the basis of the contractor receiving the notice to proceed by a certain day, the contracting officer may use the clause with its Alternate I."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

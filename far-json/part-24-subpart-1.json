@@ -3,18 +3,22 @@
   "number": 1,
   "name": "Protection of Individual Privacy",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures that apply requirements of the Privacy Act of 1974 (5 U.S.C. 552a) (the Act) and OMB Circular No. A-130, December 12, 1985, to Government contracts and cites the Freedom of Information Act (5 U.S.C. 552, as amended)."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Agency” means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency.\n\n“Individual” means a citizen of the United States or an alien lawfully admitted for permanent residence.\n\n“Maintain” means maintain, collect, use, or disseminate.\n\n“Operation of a system of records” means performance of any of the activities associated with maintaining the system of records, including the collection, use, and dissemination of records.\n\n“Personally identifiable information” means information that can be used to distinguish or trace an individual’s identity, either alone or when combined with other information that is linked or linkable to a specific individual. (See Office of Management and Budget (OMB) Circular No. A-130, Managing Federal Information as a Strategic Resource).\n\n“Record” means any item, collection, or grouping of information about an individual that is maintained by an agency, including, but not limited to, education, financial transactions, medical history, and criminal or employment history, and that contains the individual’s name, or the identifying number, symbol, or other identifying particular assigned to the individual, such as a fingerprint or voiceprint or a photograph.\n\n“System of records on individuals” means a group of any records under the control of any agency from which information is retrieved by the name of the individual or by some identifying number, symbol, or other identifying particular assigned to the individual."
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Act requires that when an agency contracts for the design, development, or operation of a system of records on individuals on behalf of the agency to accomplish an agency function the agency must apply the requirements of the Act to the contractor and its employees working on the contract."
@@ -28,12 +32,11 @@
         "d": {
           "text": "Agencies, which within the limits of their authorities, fail to require that systems of records on individuals operated on their behalf under contracts be operated in conformance with the Act may be civilly liable to individuals injured as a consequence of any subsequent failure to maintain records in conformance with the Act."
         }
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Ensure that the contract work statement specifically identifies the system of records on individuals and the design, development, or operation work to be performed; and"
@@ -47,23 +50,15 @@
         "b": {
           "text": "If one or more of those tasks will be required, the contracting officer shall—"
         }
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "text": "When the design, development, or operation of a system of records on individuals is required to accomplish an agency function, the contracting officer shall insert the following clauses in solicitations and contracts:\n\n(a) The clause at 52.224-1, Privacy Act Notification.\n\n(b) The clause at 52.224-2, Privacy Act."
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures that apply requirements of the Privacy Act of 1974 (5 U.S.C. 552a) (the Act) and OMB Circular No. A-130, December 12, 1985, to Government contracts and cites the Freedom of Information Act (5 U.S.C. 552, as amended)."
-      }
+      },
+      "sub": {}
     }
   }
 }

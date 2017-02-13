@@ -4,9 +4,7 @@
   "name": "Termination for Default",
   "sub": {
     "401": {
-      "number": 401,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Termination for default is generally the exercise of the Government’s contractual right to completely or partially terminate a contract because of the contractor’s actual or anticipated failure to perform its contractual obligations."
@@ -23,11 +21,14 @@
         "e": {
           "text": "Notwithstanding the provisions of this 49.401, the contracting officer may, with the written consent of the contractor, reinstate the terminated contract by amending the notice of termination, after a written determination is made that the supplies or services are still required and reinstatement is advantageous to the Government."
         }
-      }
+      },
+      "sub": {}
     },
     "402": {
-      "number": 402,
       "name": "Termination of fixed-price contracts for default.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "The Government’s right.",
@@ -210,15 +211,10 @@
             "text": "The contracting officer, in accordance with agency procedures, shall ensure that information relating to the termination for default notice and a subsequent withdrawal or a conversion to a termination for convenience is reported in accordance with 42.1503(h)."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "403": {
-      "number": 403,
       "name": "Termination of cost-reimbursement contracts for default.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The right to terminate a cost-reimbursement contract for default is provided for in the Termination for Default or for Convenience of the Government clause at 52.249-6. A 10-day notice to the contractor before termination for default is required in every case by the clause."
@@ -237,12 +233,11 @@
         "c": {
           "text": "The contracting officer shall use the procedures in 49.402 to the extent appropriate in considering the termination for default of a cost-reimbursement contract. However, a cost-reimbursement contract does not contain any provision for recovery of excess repurchase costs after termination for default (but see paragraph (g) of the clause at 52.246-3 with respect to failure of the contractor to replace or correct defective supplies)."
         }
-      }
+      },
+      "sub": {}
     },
     "404": {
-      "number": 404,
       "name": "Surety-takeover agreements.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Any unpaid earnings of the defaulting contractor, including retained percentages and progress estimates for work accomplished before termination, must be subject to debts due the Government by the contractor, except to the extent that the unpaid earnings may be used to pay the completing surety its actual costs and expenses incurred in the completion of the work, but not including its payments and obligations under the payment bond given in connection with the contract."
@@ -280,25 +275,24 @@
         "iii": {
           "text": "Order of a court of competent jurisdiction."
         }
-      }
+      },
+      "sub": {}
     },
     "405": {
-      "number": 405,
       "name": "Completion by another contractor.",
-      "sub": {},
       "text": {
         "text": "If the surety does not arrange for completion of the contract, the contracting officer normally will arrange for completion of the work by awarding a new contract based on the same plans and specifications. The new contract may be the result of sealed bidding or any other appropriate contracting method or procedure. The contracting officer shall exercise reasonable diligence to obtain the lowest price available for completion."
-      }
+      },
+      "sub": {}
     },
     "406": {
-      "number": 406,
       "name": "Liquidation of liability.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The contract provides that the contractor and the surety are liable to the Government for resultant damages. The contracting officer shall use all retained percentages of progress payments previously made to the contractor and any progress payments due for work completed before the termination to liquidate the contractor’s and the surety’s liability to the Government. If the retained and unpaid amounts are insufficient, the contracting officer shall take steps to recover the additional sum from the contractor and the surety."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

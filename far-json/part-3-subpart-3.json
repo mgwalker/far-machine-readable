@@ -4,9 +4,7 @@
   "name": "Reports of Suspected Antitrust Violations",
   "sub": {
     "301": {
-      "number": 301,
       "name": "General.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The Attorney General under 3.303; and"
@@ -20,20 +18,18 @@
         "b": {
           "text": "Contracting personnel are an important potential source of investigative leads for antitrust enforcement and should therefore be sensitive to indications of unlawful behavior by offerors and contractors. Agency personnel shall report, in accordance with agency regulations, evidence of suspected antitrust violations in acquisitions for possible referral to—"
         }
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Identical bids” means bids for the same line item that are determined to be identical as to unit price or total line item amount, with or without the application of evaluation factors (e.g., discount or transportation cost).\n\n"
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Reporting suspected antitrust violations.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Agencies are required by 41 U.S.C. 3707 and 10 U.S.C. 2305(b)(9) to report to the Attorney General any bids or proposals that evidence a violation of the antitrust laws. These reports are in addition to those required by Subpart 9.4."
@@ -88,7 +84,8 @@
         "g": {
           "text": "Questions concerning this reporting requirement may be communicated by telephone directly to the Office of the Assistant Attorney General, Antitrust Division."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

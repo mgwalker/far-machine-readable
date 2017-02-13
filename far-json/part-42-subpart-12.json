@@ -4,33 +4,28 @@
   "name": "Novation and Change-of-Name Agreements",
   "sub": {
     "1200": {
-      "number": 1200,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for—\n\n(a) Recognition of a successor in interest to Government contracts when contractor assets are transferred;\n\n(b) Recognition of a change in a contractor’s name; and\n\n(c) Execution of novation agreements and change-of-name agreements by the responsible contracting officer."
-      }
+      },
+      "sub": {}
     },
     "1201": {
-      "number": 1201,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "1202": {
-      "number": 1202,
       "name": "Responsibility for executing agreements.",
-      "sub": {},
       "text": {
         "text": "The contracting officer responsible for processing and executing novation and change-of-name agreements shall be determined as follows:\n\n(a) If any of the affected contracts held by the transferor have been assigned to an administrative contracting officer (ACO) (see 2.1 and 42.202), the responsible contracting officer shall be—\n\n(1) This ACO; or\n\n(2) The ACO responsible for the corporate office, if affected contracts are in more than one plant or division of the transferor.\n\n(b) If none of the affected contracts held by the transferor have been assigned to an ACO, the contracting officer responsible for the largest unsettled (unbilled plus billed but unpaid) dollar balance of contracts shall be the responsible contracting officer.\n\n(c) If several transferors are involved, the responsible contracting officer shall be—\n\n(1) The ACO administering the largest unsettled dollar balance; or\n\n(2) The contracting officer (or ACO) designated by the agency having the largest unsettled dollar balance, if none of the affected contracts have been assigned to an ACO."
-      }
+      },
+      "sub": {}
     },
     "1203": {
-      "number": 1203,
       "name": "Processing agreements.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Prepare a Standard Form 30, Amendment of Solicitation/Modification of Contract, incorporating a summary of the agreement and attaching a complete list of contracts affected;"
@@ -98,12 +93,11 @@
         "h": {
           "text": "Following distribution of the agreement, the responsible contracting officer shall—"
         }
-      }
+      },
+      "sub": {}
     },
     "1204": {
-      "number": 1204,
       "name": "Applicability of novation agreements.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The Transferor confirms the transfer to the Transferee, and waives any claims and rights against the Government that it now has or may have in the future in connection with the contracts."
@@ -264,12 +258,11 @@
         "Transferor": {
           "text": ", a corporation duly organized and existing under the laws of __________ [insert State] with its principal office in ____________ [insert city]; the XYZ Corporation (Transferee), [if appropriate add “formerly known as the EFG Corporation”] a corporation duly organized and existing under the laws of _________ [insert State] with its principal office in ____________ [insert city]; and the United States of America (Government) enter into this Agreement as of ____________ [insert the date transfer of assets became effective under applicable State law].\n\nUnited States of America,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\nABC Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nXYZ Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ___________, certify that I am the Secretary of ABC Corporation, that ________________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this day of __________________ 20 ___.\n\nBy _______________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ____________, certify that I am the Secretary of XYZ Corporation, that ________________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this day of ____________________20___.\n\nBy _______________________________________________\n\n[Corporate Seal]"
         }
-      }
+      },
+      "sub": {}
     },
     "1205": {
-      "number": 1205,
       "name": "Agreement to recognize contractor’s change of name.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The contracts covered by this Agreement are amended by substituting the name “ABC Corporation” for the name “XYZ Corporation” wherever it appears in the contracts; and"
@@ -300,7 +293,8 @@
         "Contractor": {
           "text": ", a corporation duly organized and existing under the laws of __________ [insert State], and the United States of America (Government), enter into this Agreement as of __________ [insert date when the change of name became effective under applicable State law].\n\nUnited States of America,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\nABC Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ___________, certify that I am the Secretary of ABC Corporation; that ___________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this ________ day of ____________ 20___.\n\nBy _______________________________________________\n\n[Corporate Seal]"
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -3,18 +3,36 @@
   "number": 1,
   "name": "Sustainable Acquisition Policy",
   "sub": {
+    "0": {
+      "name": "Scope.",
+      "text": {
+        "text": "This part prescribes acquisition policies and procedures supporting the Government’s program for ensuring a drug-free workplace, for protecting and improving the quality of the environment, and to foster markets for sustainable technologies, materials, products, and services, and for encouraging the safe operation of vehicles.\n\n"
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Definitions.",
+      "text": {
+        "text": "As used in this part—\n\n“Environmental” means environmental aspects of internal agency operations and activities, including those aspects related to energy and transportation functions.\n\n“Greenhouse gases” means carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, nitrogen triflouride, and sulfur hexafluoride.\n\n“Toxic chemical” means a chemical or chemical category listed in 40 CFR 372.65.\n\n“United States”, except as used in subpart 23.10, means—\n\n(1) The fifty States;\n\n(2) The District of Columbia;\n\n(3) The commonwealths of Puerto Rico and the Northern Mariana Islands;\n\n(4) The territories of Guam, American Samoa, and the United States Virgin Islands; and\n\n(5) Associated territorial waters and airspace."
+      },
+      "sub": {}
+    },
+    "2": {
+      "name": "Policy.",
+      "text": {
+        "text": "Executive Order 13423 sections 3(e) and (f) require that contracts for contractor operation of a Government-owned or -leased facility and contracts for support services at a Government-owned or -operated facility include provisions that obligate the contractor to comply with the requirements of the order to the same extent as the agency would be required to comply if the agency operated or supported the facility. Compliance includes developing programs to promote and implement cost-effective waste reduction."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Definition.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Contract action” means any oral or written action that results in the purchase, rent, or lease of supplies or equipment, services, or construction using appropriated dollars, including purchases below the micro-purchase threshold. Contract action does not include grants, cooperative agreements, other transactions, real property leases, requisitions from Federal stock, training authorizations, or other non-FAR based transactions."
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Authorities.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Executive Order 13423 of January 24, 2007, Strengthening Federal Environmental, Energy, and Transportation Management."
@@ -25,12 +43,11 @@
         "c": {
           "text": "All of the authorities specified in subparts 23.2, 23.4, 23.7, 23.8, 23.9, and 23.10."
         }
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Sustainable acquisitions.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Federal agencies shall advance sustainable acquisition by ensuring that 95 percent of new contract actions for the supply of products and for the acquisition of services (including construction) require that the products are—",
@@ -75,20 +92,18 @@
         "d": {
           "text": "For purposes of meeting the 95 percent sustainable acquisition requirement, the term “contract actions” includes new contracts (and task and delivery orders placed against them) and new task and delivery orders on existing contracts."
         }
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "Exceptions.",
-      "sub": {},
       "text": {
         "text": "This subpart does not apply to the following acquisitions:\n\n(a) Contracts performed outside of the United States, unless the agency head determines that such application is in the interest of the United States.\n\n(b) Weapon systems."
-      }
+      },
+      "sub": {}
     },
     "105": {
-      "number": 105,
       "name": "Exemption authority.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The head of an agency may exempt—",
@@ -113,31 +128,8 @@
         "c": {
           "text": "The agency head may submit through the Chair of the Council on Environmental Quality a request for exemption of an agency activity other than those activities listed in paragraph (a) of this section and related personnel, resources, and facilities."
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes acquisition policies and procedures supporting the Government’s program for ensuring a drug-free workplace, for protecting and improving the quality of the environment, and to foster markets for sustainable technologies, materials, products, and services, and for encouraging the safe operation of vehicles.\n\n"
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Definitions.",
-      "sub": {},
-      "text": {
-        "text": "As used in this part—\n\n“Environmental” means environmental aspects of internal agency operations and activities, including those aspects related to energy and transportation functions.\n\n“Greenhouse gases” means carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, nitrogen triflouride, and sulfur hexafluoride.\n\n“Toxic chemical” means a chemical or chemical category listed in 40 CFR 372.65.\n\n“United States”, except as used in subpart 23.10, means—\n\n(1) The fifty States;\n\n(2) The District of Columbia;\n\n(3) The commonwealths of Puerto Rico and the Northern Mariana Islands;\n\n(4) The territories of Guam, American Samoa, and the United States Virgin Islands; and\n\n(5) Associated territorial waters and airspace."
-      }
-    },
-    "002": {
-      "number": 2,
-      "name": "Policy.",
-      "sub": {},
-      "text": {
-        "text": "Executive Order 13423 sections 3(e) and (f) require that contracts for contractor operation of a Government-owned or -leased facility and contracts for support services at a Government-owned or -operated facility include provisions that obligate the contractor to comply with the requirements of the order to the same extent as the agency would be required to comply if the agency operated or supported the facility. Compliance includes developing programs to promote and implement cost-effective waste reduction."
-      }
+      },
+      "sub": {}
     }
   }
 }

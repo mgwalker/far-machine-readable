@@ -3,18 +3,22 @@
   "number": 1,
   "name": "General",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures for preparing and processing contract modifications for all types of contracts including construction and architect-engineer contracts. It does not apply to—\n\n(a) Orders for supplies or services not otherwise changing the terms of contracts or agreements (e.g., delivery orders under indefinite-delivery contracts); or\n\n(b) Modifications for extraordinary contractual relief (see Subpart 50.1)."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this part—\n\n“Administrative change” means a unilateral (see 43.103(b)) contract change, in writing, that does not affect the substantive rights of the parties (e.g., a change in the paying office or the appropriation data).\n\n“Effective date”—\n\n(1) For a solicitation amendment, change order, or administrative change, the effective date shall be the issue date of the amendment, change order, or administrative change.\n\n(2) For a supplemental agreement, the effective date shall be the date agreed upon by the contracting parties.\n\n(3) For a modification issued as a confirming notice of termination for the convenience of the Government, the effective date of the confirming notice shall be the same as the effective date of the initial notice.\n\n(4) For a modification converting a termination for default to a termination for the convenience of the Government, the effective date shall be the same as the effective date of the termination for default.\n\n(5) For a modification confirming the termination contracting officer’s previous letter determination of the amount due in settlement of a contract termination for convenience, the effective date shall be the same as the effective date of the previous letter determination."
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Only contracting officers acting within the scope of their authority are empowered to execute contract modifications on behalf of the Government. Other Government personnel shall not—",
@@ -33,20 +37,18 @@
         "b": {
           "text": "Contract modifications, including changes that could be issued unilaterally, shall be priced before their execution if this can be done without adversely affecting the interest of the Government. If a significant cost increase could result from a contract modification and time does not permit negotiation of a price, at least a ceiling price shall be negotiated unless impractical."
         }
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Types of contract modifications.",
-      "sub": {},
       "text": {
         "text": "Contract modifications are of the following types:\n\n(a) Bilateral. A bilateral modification (supplemental agreement) is a contract modification that is signed by the contractor and the contracting officer. Bilateral modifications are used to—\n\n(1) Make negotiated equitable adjustments resulting from the issuance of a change order;\n\n(2) Definitize letter contracts; and\n\n(3) Reflect other agreements of the parties modifying the terms of contracts.\n\n(b) Unilateral. A unilateral modification is a contract modification that is signed only by the contracting officer. Unilateral modifications are used, for example, to—\n\n(1) Make administrative changes;\n\n(2) Issue change orders;\n\n(3) Make changes authorized by clauses other than a changes clause (e.g., Property clause, Options clause, or Suspension of Work clause); and\n\n(4) Issue termination notices."
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "Notification of contract changes.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Incorporates the policy expressed in paragraph (a) of this section;"
@@ -74,12 +76,11 @@
         "b": {
           "text": "The clause at 52.243-7, Notification of Changes, which is prescribed in 43.107—"
         }
-      }
+      },
+      "sub": {}
     },
     "105": {
-      "number": 105,
       "name": "Availability of funds.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall not execute a contract modification that causes or will cause an increase in funds without having first obtained a certification of fund availability, except for modifications to contracts that—",
@@ -95,31 +96,22 @@
         "b": {
           "text": "The certification required by paragraph (a) of this section shall be based on the negotiated price, except that modifications executed before agreement on price may be based on the best available estimate of cost."
         }
-      }
+      },
+      "sub": {}
     },
     "106": {
-      "number": 106,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "107": {
-      "number": 107,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "The contracting officer may insert a clause substantially the same as the clause at 52.243-7, Notification of Changes, in solicitations and contracts. The clause is available for use primarily in negotiated research and development or supply contracts for the acquisition of major weapon systems or principal subsystems. If the contract amount is expected to be less than $1,000,000, the clause shall not be used, unless the contracting officer anticipates that situations will arise that may result in a contractor alleging that the Government has effected changes other than those identified as such in writing and signed by the contracting officer."
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures for preparing and processing contract modifications for all types of contracts including construction and architect-engineer contracts. It does not apply to—\n\n(a) Orders for supplies or services not otherwise changing the terms of contracts or agreements (e.g., delivery orders under indefinite-delivery contracts); or\n\n(b) Modifications for extraordinary contractual relief (see Subpart 50.1)."
-      }
+      },
+      "sub": {}
     }
   }
 }

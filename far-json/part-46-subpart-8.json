@@ -4,17 +4,14 @@
   "name": "Contractor Liability for Loss of or Damage to Property of the Government",
   "sub": {
     "800": {
-      "number": 800,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for limiting contractor liability for loss of or damage to property of the Government that—\n\n(a) Occurs after acceptance and\n\n(b) Results from defects or deficiencies in the supplies delivered or services performed."
-      }
+      },
+      "sub": {}
     },
     "801": {
-      "number": 801,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "a": {
           "text": "This subpart applies to contracts other than those for (1) information technology, including telecommunications, (2) construction, (3) architect-engineer services, and (4) maintenance and rehabilitation of real property. This subpart does not apply to commercial items."
@@ -22,20 +19,18 @@
         "b": {
           "text": "See Subpart 46.7, Warranties, for policies and procedures concerning contractor liability caused by nonconforming technical data."
         }
-      }
+      },
+      "sub": {}
     },
     "802": {
-      "number": 802,
       "name": "Definition.",
-      "sub": {},
       "text": {
         "text": "“High-value item,” as used in this subpart, means a contract end item that—\n\n(1) Has a high unit cost (normally exceeding $100,000 per unit), such as an aircraft, an aircraft engine, a communication system, a computer system, a missile, or a ship, and\n\n(2) Is designated by the contracting officer as a high-value item."
-      }
+      },
+      "sub": {}
     },
     "803": {
-      "number": 803,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "1": {
           "text": "To the extent that contractor liability is expressly provided under a contract clause authorized by this regulation;"
@@ -66,20 +61,18 @@
         "d": {
           "text": "Limitations. Subject to the specific terms of the limitation of liability clause included in the contract, the relief provided under paragraphs (a) and (b) of this section does not apply—"
         }
-      }
+      },
+      "sub": {}
     },
     "804": {
-      "number": 804,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "805": {
-      "number": 805,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Contracts that exceed the simplified acquisition threshold. The contracting officer shall insert the appropriate clause or combination of clauses specified in paragraphs (a)(1) through (a)(5) of this section in solicitations and contracts when the contract amount is expected to be in excess of the simplified acquisition threshold and the contract is subject to the requirements of this subpart as indicated in 46.801:",
@@ -104,7 +97,8 @@
         "b": {
           "text": "Acquisitions at or below the simplified acquisition threshold. The clauses prescribed by paragraph (a) of this section are not required for contracts at or below the simplified acquisition threshold. However, in response to a contractor’s specific request, the contracting officer may insert the clauses prescribed in paragraph (a)(1) or (a)(4) of this section in a contract at or below the simplified acquisition threshold and may obtain any price reduction that is appropriate."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

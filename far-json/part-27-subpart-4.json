@@ -4,25 +4,21 @@
   "name": "Rights in Data and Copyrights",
   "sub": {
     "400": {
-      "number": 400,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart sets forth policies and procedures regarding rights in data and copyrights, and acquisition of data. The policy statement in 27.402 applies to all executive agencies. The remainder of the subpart applies to all executive agencies except the Department of Defense."
-      }
+      },
+      "sub": {}
     },
     "401": {
-      "number": 401,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Data” means recorded information, regardless of form or the media on which it may be recorded. The term includes technical data and computer software. The term does not include information incidental to contract administration, such as financial, administrative, cost or pricing, or management information.\n\n“Form, fit, and function data” means data relating to items, components, or processes that are sufficient to enable physical and functional interchangeability, and data identifying source, size, configuration, mating and attachment characteristics, functional characteristics, and performance requirements. For computer software it means data identifying source, functional characteristics, and performance requirements, but specifically excludes the source code, algorithms, processes, formulas, and flow charts of the software.\n\n“Limited rights” means the rights of the Government in limited rights data as set forth in a Limited Rights Notice.\n\n“Limited rights data” means data, other than computer software, that embody trade secrets or are commercial or financial and confidential or privileged, to the extent that such data pertain to items, components, or processes developed at private expense, including minor modifications. (Agencies may, however, adopt the following alternate definition: Limited rights data means data (other than computer software) developed at private expense that embody trade secrets or are commercial or financial and confidential or privileged (see 27.404-2(b)).\n\n“Restricted computer software” means computer software developed at private expense and that is a trade secret, is commercial or financial and confidential or privileged, or is copyrighted computer software, including minor modifications of the computer software.\n\n“Restricted rights” means the rights of the Government in restricted computer software as set forth in a Restricted Rights Notice.\n\n“Unlimited rights” means the rights of the Government to use, disclose, reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly, in any manner and for any purpose, and to have or permit others to do so."
-      }
+      },
+      "sub": {}
     },
     "402": {
-      "number": 402,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "To carry out their missions and programs, agencies acquire or obtain access to many kinds of data produced during or used in the performance of their contracts. Agencies require data to—",
@@ -47,19 +43,21 @@
         "b": {
           "text": "Contractors may have proprietary interests in data. In order to prevent the compromise of these interests, agencies shall protect proprietary data from unauthorized use and disclosure. The protection of such data is also necessary to encourage qualified contractors to participate in and apply innovative concepts to Government programs. In light of these considerations, agencies shall balance the Government’s needs and the contractor’s legitimate proprietary interests."
         }
-      }
+      },
+      "sub": {}
     },
     "403": {
-      "number": 403,
       "name": "Data rights—General.",
-      "sub": {},
       "text": {
         "text": "All contracts that require data to be produced, furnished, acquired, or used in meeting contract performance requirements, must contain terms that delineate the respective rights and obligations of the Government and the contractor regarding the use, reproduction, and disclosure of that data. Data rights clauses do not specify the type, quantity or quality of data that is to be delivered, but only the respective rights of the Government and the contractor regarding the use, disclosure, or reproduction of the data. Accordingly, the contract shall specify the data to be delivered."
-      }
+      },
+      "sub": {}
     },
     "404": {
-      "number": 404,
       "name": "Basic rights in data clause.",
+      "text": {
+        "text": "This section describes the operation of the clause at 52.227-14, Rights in Data—General, and also the use of the provision at 52.227-15, Representation of Limited Rights Data and Restricted Computer Software."
+      },
       "sub": {
         "1": {
           "name": "Unlimited rights data.",
@@ -293,14 +291,13 @@
             "text": "Contracting officers may obtain the right to inspect data at the contractor’s facility by use of the clause at 52.227-14 with its Alternate V, which adds paragraph (j) to provide that right. Agencies may also adopt Alternate V for general use. The data subject to inspection may be data withheld or withholdable under paragraph (g)(1) of the clause. Inspection may be made by the contracting officer or designee (including nongovernmental personnel under the same conditions as the contracting officer) for the purpose of verifying a contractor’s assertion regarding the limited rights or restricted rights status of the data, or for evaluating work performance under the contract. This right may be exercised up to 3 years after acceptance of all items to be delivered under the contract. The contract may specify data items that are not subject to inspection under paragraph (j) of the Alternate. If the contractor demonstrates to the contracting officer that there would be a possible conflict of interest if inspection were made by a particular representative, the contracting officer shall designate an alternate representative."
           }
         }
-      },
-      "text": {
-        "text": "This section describes the operation of the clause at 52.227-14, Rights in Data—General, and also the use of the provision at 52.227-15, Representation of Limited Rights Data and Restricted Computer Software."
       }
     },
     "405": {
-      "number": 405,
       "name": "Other data rights provisions.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Special works.",
@@ -396,14 +393,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "406": {
-      "number": 406,
       "name": "Acquisition of data.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -450,23 +446,17 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "407": {
-      "number": 407,
       "name": "Rights to technical data in successful proposals.",
-      "sub": {},
       "text": {
         "text": "The clause at 52.227-23, Rights to Proposal Data (Technical), allows the Government to acquire unlimited rights to technical data in successful proposals. Pursuant to the clause, the prospective contractor is afforded the opportunity to specifically identify pages containing technical data to be excluded from the grant of unlimited rights. This exclusion is not dispositive of the protective status of the data, but any excluded technical data, as well as any commercial and financial information contained in the proposal, will remain subject to the policies in Subpart 15.2 or 15.6 (or agency supplements) relating to proposal information (e.g., will be used for evaluation purposes only). If there is a need to have access to any of the excluded technical data during contract performance, consideration should be given to acquiring the data with limited rights, if they so qualify, in accordance with 27.404-2(c)."
-      }
+      },
+      "sub": {}
     },
     "408": {
-      "number": 408,
       "name": "Cosponsored research and development activities.",
-      "sub": {},
       "text": {
         "a": {
           "text": "In contracts involving cosponsored research and development that require the contractor to make substantial contributions of funds or resources (e.g., by cost-sharing or by repayment of nonrecurring costs), and the contractor’s and the Government’s respective contributions to any item, component, process, or computer software, developed or produced under the contract are not readily segregable, the contracting officer may limit the acquisition of, or acquire less than unlimited rights to, any data developed and delivered under the contract. Agencies may regulate the use of this authority in their supplements. Lesser rights shall, at a minimum, assure use of the data for agreed-to Governmental purposes (including reprocurement rights as appropriate), and address any disclosure limitations or restrictions to be imposed on the data. Also, consideration may be given to requiring the contractor to directly license others if needed to carry out the objectives of the contract. Since the purpose of the cosponsored research and development, the legitimate proprietary interests of the contractor, the needs of the Government, and the respective contributions of both parties may vary, no specific clauses are prescribed, but a clause providing less than unlimited rights in the Government for data developed and delivered under the contract (such as license rights) may be tailored to the circumstances consistent with the foregoing and the policy set forth in 27.402. As a guide, a clause may be appropriate when the contractor contributes money or resources, or agrees to make repayment of nonrecurring costs, of a value of approximately 50 percent of the total cost of the contract (i.e., Government, contractor, and/or third party paid costs), and the respective contributions are not readily segregable for any work element to be performed under the contract. A clause may be used for all or for only specifically identified tasks or work elements under the contract. In the latter instance, its use will be in addition to whatever other data rights clause is prescribed under this subpart, with the contract specifically identifying which clause is to apply to which tasks or work elements. Further, this type of clause may not be appropriate where the purpose of the contract is to produce data for dissemination to the public, or to develop or demonstrate technologies that will be available, in any event, to the public for its direct use."
@@ -474,12 +464,11 @@
         "b": {
           "text": "Where the contractor’s contributions are readily segregable (by performance requirements and the funding for the contract) and so identified in the contract, any resulting data may be treated under this clause as limited rights data or restricted computer software in accordance with 27.404-2(c) or (d), as applicable; or if this treatment is inconsistent with the purpose of the contract, rights to the data may, if so negotiated and stated in the contract, be treated in a manner consistent with paragraph (a) of this section."
         }
-      }
+      },
+      "sub": {}
     },
     "409": {
-      "number": 409,
       "name": "Solicitation provisions and contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Generally, a contract should contain only one data rights clause. However, where more than one is needed, the contract should distinguish the portion of contract performance to which each pertains."
@@ -580,7 +569,8 @@
         "l": {
           "text": "In accordance with 27.407, if a contracting officer desires to acquire unlimited rights in technical data contained in a successful proposal upon which a contract award is based, insert the clause at 52.227-23, Rights to Proposal Data (Technical). Rights to technical data in a proposal are not acquired by mere incorporation by reference of the proposal in the contract, and if a proposal is incorporated by reference, the contracting officer shall follow 27.404 to assure that the rights are appropriately addressed."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

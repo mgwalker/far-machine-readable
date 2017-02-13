@@ -3,10 +3,15 @@
   "number": 1,
   "name": "General",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures for (a) using tax clauses in contracts (including foreign contracts), (b) asserting immunity or exemption from taxes, and (c) obtaining tax refunds. It explains Federal, State, and local taxes on certain supplies and services acquired by executive agencies and the applicability of such taxes to the Federal Government. It is for the general information of Government personnel and does not present the full scope of the tax laws and regulations."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Resolving tax problems.",
-      "sub": {},
       "text": {
         "1": {
           "text": "For information on foreign tax treaties and agreements in force and on the implementation of any foreign-tax-relief programs; and"
@@ -42,15 +47,8 @@
         "d": {
           "text": "Before purchasing goods or services from a foreign source, the contracting officer should consult the agency-designated counsel—"
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures for (a) using tax clauses in contracts (including foreign contracts), (b) asserting immunity or exemption from taxes, and (c) obtaining tax refunds. It explains Federal, State, and local taxes on certain supplies and services acquired by executive agencies and the applicability of such taxes to the Federal Government. It is for the general information of Government personnel and does not present the full scope of the tax laws and regulations."
-      }
+      },
+      "sub": {}
     }
   }
 }

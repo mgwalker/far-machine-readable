@@ -4,8 +4,10 @@
   "name": "CAS Program Requirements",
   "sub": {
     "201": {
-      "number": 201,
       "name": "Contract requirements.",
+      "text": {
+        "text": "Title 48 CFR 9903.201-1 (FAR Appendix) describes the rules for determining whether a proposed contract or subcontract is exempt from CAS. Negotiated contracts not exempt in accordance with 48 CFR 9903.201-1(b) shall be subject to CAS. A CAS-covered contract may be subject to either full or modified coverage. The rules for determining whether full or modified coverage applies are in 48 CFR 9903.201-2 (FAR Appendix)."
+      },
       "sub": {
         "1": {
           "name": "CAS applicability.",
@@ -185,14 +187,13 @@
             "text": "See 48 CFR 9903.201-7 (FAR Appendix)."
           }
         }
-      },
-      "text": {
-        "text": "Title 48 CFR 9903.201-1 (FAR Appendix) describes the rules for determining whether a proposed contract or subcontract is exempt from CAS. Negotiated contracts not exempt in accordance with 48 CFR 9903.201-1(b) shall be subject to CAS. A CAS-covered contract may be subject to either full or modified coverage. The rules for determining whether full or modified coverage applies are in 48 CFR 9903.201-2 (FAR Appendix)."
       }
     },
     "202": {
-      "number": 202,
       "name": "Disclosure requirements.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General requirements.",
@@ -313,9 +314,6 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

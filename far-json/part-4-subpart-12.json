@@ -4,17 +4,14 @@
   "name": "Representations and Certifications",
   "sub": {
     "1200": {
-      "number": 1200,
       "name": "Scope.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for requiring submission and maintenance of representations and certifications via the System for Award Management (SAM) to—\n\n(a) Eliminate the administrative burden for contractors of submitting the same information to various contracting offices;\n\n(b) Establish a common source for this information to procurement offices across the Government; and\n\n(c) Incorporate by reference the contractor’s representations and certifications in the awarded contract."
-      }
+      },
+      "sub": {}
     },
     "1201": {
-      "number": 1201,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Prospective contractors shall complete electronic annual representations and certifications at SAM accessed via https://www.acquisition.gov as a part of required registration (see FAR 4.1102)."
@@ -33,12 +30,11 @@
         "d": {
           "text": "The contracting officer shall incorporate the representations and certifications by reference in the contract (see 52.204-19, or for acquisitions of commercial items see 52.212-4(v))."
         }
-      }
+      },
+      "sub": {}
     },
     "1202": {
-      "number": 1202,
       "name": "Solicitation provision and contract clause.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Except for commercial item solicitations issued under FAR part 12, insert in solicitations the provision at 52.204-8, Annual Representations and Certifications. The contracting officer shall check the applicable provisions at 52.204-8(c)(2). When the provision at 52.204-7, System for Award Management, is included in the solicitation, do not include the following representations and certifications:\n\nNote to paragraph (a)(22):  By a court order issued on October 24, 2016, this paragraph (a)(22) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.",
@@ -153,7 +149,8 @@
         "b": {
           "text": "The contracting officer shall insert the clause at 52.204-19, Incorporation by Reference of Representations and Certifications, in solicitations and contracts."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

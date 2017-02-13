@@ -4,9 +4,7 @@
   "name": "CAS Administration",
   "sub": {
     "601": {
-      "number": 601,
       "name": "Responsibility.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The CFAO shall perform CAS administration for all contracts and subcontracts in a business unit, even when the contracting officer retains other administration functions. The CFAO shall make all CAS-related required determinations and findings (see Subpart 1.7) for all CAS-covered contracts and subcontracts, including—",
@@ -25,12 +23,11 @@
         "c": {
           "text": "In performing CAS administration, the CFAO shall request and consider the advice of the auditor as appropriate (see 1.602-2)."
         }
-      }
+      },
+      "sub": {}
     },
     "602": {
-      "number": 602,
       "name": "Materiality.",
-      "sub": {},
       "text": {
         "a": {
           "text": "In determining materiality, the CFAO shall use the criteria in 48 CFR 9903.305 (FAR Appendix)."
@@ -69,11 +66,14 @@
         "d": {
           "text": "For required, unilateral, and desirable changes, and CAS noncompliances, when the amount involved is material, the CFAO shall follow the applicable provisions in 30.603, 30.604, 30.605, and 30.606."
         }
-      }
+      },
+      "sub": {}
     },
     "603": {
-      "number": 603,
       "name": "Changes to disclosed or established cost accounting practices.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Required changes.",
@@ -209,15 +209,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "604": {
-      "number": 604,
       "name": "Processing changes to disclosed or established cost accounting practices.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Estimate the general dollar magnitude of the cost impact on affected CAS-covered contracts and subcontracts; and"
@@ -403,12 +398,11 @@
         "iv": {
           "text": "Calculate the increased cost to the Government in the aggregate."
         }
-      }
+      },
+      "sub": {}
     },
     "605": {
-      "number": 605,
       "name": "Processing noncompliances.",
-      "sub": {},
       "text": {
         "4": {
           "text": "For noncompliances that involve accumulating costs, determine the increased or decreased cost to the Government for flexibly-priced contracts and subcontracts as follows:",
@@ -667,12 +661,11 @@
         "ii": {
           "text": "When the negotiated contract or subcontract price is less than what the negotiated price would have been had the contractor used a compliant practice, the difference is decreased cost to the Government;"
         }
-      }
+      },
+      "sub": {}
     },
     "606": {
-      "number": 606,
       "name": "Resolving cost impacts.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The CFAO may use an alternate method instead of adjusting contracts to resolve the cost impact, provided the Government will not pay more, in the aggregate, than would be paid if the CFAO did not use the alternate method and the contracting parties agree on the use of that alternate method."
@@ -834,15 +827,15 @@
         "ii": {
           "text": "Adjust the exclusion to reflect the Government participation rate for flexibly-priced contracts and subcontracts. For example, if there are aggregate increased costs to the Government of $100,000, and the indirect cost pool where the adjustment is to be effected has a Government participation rate of 50 percent for flexibly-priced contracts and subcontracts, the contractor shall exclude $200,000 from the indirect cost pool ($100,000/50% = $200,000)."
         }
-      }
+      },
+      "sub": {}
     },
     "607": {
-      "number": 607,
       "name": "Subcontract administration.",
-      "sub": {},
       "text": {
         "text": "When a negotiated CAS price adjustment or a determination of noncompliance is required at the subcontract level, the CFAO for the subcontractor shall furnish a copy of the negotiation memorandum or the determination to the CFAO for the contractor of the next higher-tier subcontractor. The CFAO of the contractor or the next higher-tier subcontractor shall not change the determination of the CFAO for the lower-tier subcontractor. If the subcontractor refuses to submit a GDM or DCI proposal, remedies are made at the prime contractor level."
-      }
+      },
+      "sub": {}
     }
   }
 }

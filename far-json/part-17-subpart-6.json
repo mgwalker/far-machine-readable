@@ -4,25 +4,21 @@
   "name": "Management and Operating Contracts",
   "sub": {
     "600": {
-      "number": 600,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for management and operating contracts for the Department of Energy and any other agency having requisite statutory authority."
-      }
+      },
+      "sub": {}
     },
     "601": {
-      "number": 601,
       "name": "Definition.",
-      "sub": {},
       "text": {
         "text": "“Management and operating contract” means an agreement under which the Government contracts for the operation, maintenance, or support, on its behalf, of a Government-owned or -controlled research, development, special production, or testing establishment wholly or principally devoted to one or more major programs of the contracting Federal agency."
-      }
+      },
+      "sub": {}
     },
     "602": {
-      "number": 602,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Identify, modify as necessary, and authorize management and operating contracts; and"
@@ -39,12 +35,11 @@
         "c": {
           "text": "Within 2 years of the effective date of this regulation, agencies shall review their current contractual arrangements in the light of the guidance of this subpart, in order to—"
         }
-      }
+      },
+      "sub": {}
     },
     "603": {
-      "number": 603,
       "name": "Limitations.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Management and operating contracts shall not be authorized for—",
@@ -72,20 +67,18 @@
         "c": {
           "text": "For use of project labor agreements, see subpart 22.5."
         }
-      }
+      },
+      "sub": {}
     },
     "604": {
-      "number": 604,
       "name": "Identifying management and operating contracts.",
-      "sub": {},
       "text": {
         "text": "A management and operating contract is characterized both by its purpose (see 17.601) and by the special relationship it creates between Government and contractor. The following criteria can generally be applied in identifying management and operating contracts:\n\n(a) Government-owned or -controlled facilities must be utilized; for instance—\n\n(1) In the interest of national defense or mobilization readiness;\n\n(2) To perform the agency’s mission adequately; or\n\n(3) Because private enterprise is unable or unwilling to use its own facilities for the work.\n\n(b) Because of the nature of the work, or because it is to be performed in Government facilities, the Government must maintain a special, close relationship with the contractor and the contractor’s personnel in various important areas (e.g., safety, security, cost control, site conditions).\n\n(c) The conduct of the work is wholly or at least substantially separate from the contractor’s other business, if any.\n\n(d) The work is closely related to the agency’s mission and is of a long-term or continuing nature, and there is a need—\n\n(1) To ensure its continuity; and\n\n(2) For special protection covering the orderly transition of personnel and work in the event of a change in contractors."
-      }
+      },
+      "sub": {}
     },
     "605": {
-      "number": 605,
       "name": "Award, renewal, and extension.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The incumbent contractor’s overall performance, including, specifically, technical, administrative, and cost performance;"
@@ -105,7 +98,8 @@
         "c": {
           "text": "Replacement of an incumbent contractor is usually based largely upon expectation of meaningful improvement in performance or cost. Therefore, when reviewing contractor performance, contracting officers should consider—"
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,25 +4,21 @@
   "name": "Contract Work Hours and Safety Standards Act",
   "sub": {
     "300": {
-      "number": 300,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for applying the requirements of 40 U.S.C. chapter 37, Contract Work Hours and Safety Standards (the statute) to contracts that may require or involve laborers or mechanics.  In this subpart, the term “laborers or mechanics” includes apprentices, trainees, helpers, watchmen, guards, firefighters, fireguards, and workmen who perform services in connection with dredging or rock excavation in rivers or harbors, but does not include any employee employed as a seaman."
-      }
+      },
+      "sub": {}
     },
     "301": {
-      "number": 301,
       "name": "Statutory requirement.",
-      "sub": {},
       "text": {
         "text": "The statute requires that certain contracts contain a clause specifying that no laborer or mechanic doing any part of the work contemplated by the contract shall be required or permitted to work more than 40 hours in any workweek unless paid for all such overtime hours at not less than 1 1/2 times the basic rate of pay."
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Liquidated damages and overtime pay.",
-      "sub": {},
       "text": {
         "a": {
           "text": "When an overtime computation discloses under-payments, the responsible contractor or subcontractor must pay the affected employee any unpaid wages and pay liquidated damages to the Government. The contracting officer must assess liquidated damages at the rate of $10 per affected employee for each calendar day on which the employer required or permitted the employee to work in excess of the standard workweek of 40 hours without paying overtime wages required by the statute."
@@ -55,20 +51,18 @@
         "d": {
           "text": "After the contracting officer determines the liquidated damages and the contractor makes appropriate payments, disburse any remaining assessments in accordance with agency procedures."
         }
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Administration and enforcement.",
-      "sub": {},
       "text": {
         "text": "The procedures and reports required for construction contracts in subpart 22.4 also apply to investigations of alleged violations of the statute on other than construction contracts."
-      }
+      },
+      "sub": {}
     },
     "304": {
-      "number": 304,
       "name": "Variations, tolerances, and exemptions.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Secretary of Labor, under 40 U.S.C. 3706, upon the Secretary’s initiative or at the request of any Federal agency, may provide reasonable limitations and allow variations, tolerances, and exemptions to and from any or all provisions of the statute (see 29 CFR 5.15)."
@@ -76,15 +70,15 @@
         "b": {
           "text": "The Secretary of Labor may make variations, tolerances, and exemptions from the regulatory requirements of applicable parts of 29 CFR when the Secretary finds that such action is necessary and proper in the public interest or to prevent injustice and undue hardship (see 29 CFR 5.14)."
         }
-      }
+      },
+      "sub": {}
     },
     "305": {
-      "number": 305,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "Insert the clause at 52.222-4, Contract Work Hours and Safety Standards—Overtime Compensation, in solicitations and contracts (including, for this purpose, basic ordering agreements) when the contract may require or involve the employment of laborers or mechanics.  However, do not include the clause in solicitations and contracts—\n\n(a) Valued at or below $150,000;\n\n(b) For commercial items;\n\n(c) For transportation or the transmission of intelligence;\n\n(d) To be performed outside the United States, Puerto Rico, American Samoa, Guam, the U.S. Virgin Islands, Johnston Island, Wake Island, and the outer Continental Shelf as defined in the Outer Continental Shelf Lands Act (43 U.S.C. 1331) (29 CFR 5.15);\n\n(e) )  For work to be done solely in accordance with 41 U.S.C. chapter 65, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000 (see subpart 22.6);\n\n(f) For supplies that include incidental services that do not require substantial employment of laborers or mechanics; or\n\n(g) Exempt under regulations of the Secretary of Labor (29 CFR 5.15)."
-      }
+      },
+      "sub": {}
     }
   }
 }

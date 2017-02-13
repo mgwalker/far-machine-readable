@@ -4,17 +4,14 @@
   "name": "Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items",
   "sub": {
     "300": {
-      "number": 300,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart establishes provisions and clauses to be used when acquiring commercial items."
-      }
+      },
+      "sub": {}
     },
     "301": {
-      "number": 301,
       "name": "Solicitation provisions and contract clauses for the acquisition of commercial items.",
-      "sub": {},
       "text": {
         "a": {
           "text": "In accordance with 41 U.S.C. 3307, contracts for the acquisition of commercial items shall, to the maximum extent practicable, include only those clauses—",
@@ -116,12 +113,11 @@
         "f": {
           "text": "Agencies may supplement the provisions and clauses prescribed in this part (to require use of additional provisions and clauses) only as necessary to reflect agency unique statutes applicable to the acquisition of commercial items or as may be approved by the agency senior procurement executive, or the individual responsible for representing the agency on the FAR Council, without power of delegation."
         }
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Tailoring of provisions and clauses for the acquisition of commercial items.",
-      "sub": {},
       "text": {
         "a": {
           "text": "General. The provisions and clauses established in this subpart are intended to address, to the maximum extent practicable, commercial market practices for a wide range of potential Government acquisitions of commercial items. However, because of the broad range of commercial items acquired by the Government, variations in commercial practices, and the relative volume of the Government’s acquisitions in the specific market, contracting officers may, within the limitations of this subpart, and after conducting appropriate market research, tailor the provision at 52.212-1, Instructions to Offerors—Commercial Items, and the clause at 52.212-4, Contract Terms and Conditions—Commercial Items, to adapt to the market conditions for each acquisition."
@@ -158,15 +154,15 @@
         "d": {
           "text": "Tailoring shall be by addenda to the solicitation and contract. The contracting officer shall indicate in Block 27a of the SF 1449 if addenda are attached. These addenda may include, for example, a continuation of the schedule of supplies/services to be acquired from blocks 18 through 21 of the SF 1449; a continuation of the description of the supplies/services being acquired; further elaboration of any other item(s) on the SF 1449; any other terms or conditions necessary for the performance of the proposed contract (such as options, ordering procedures for indefinite-delivery type contracts, warranties, contract financing arrangements, etc.)."
         }
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Contract format.",
-      "sub": {},
       "text": {
         "text": "Solicitations and contracts for the acquisition of commercial items prepared using this Part 12 shall be assembled, to the maximum extent practicable, using the following format:\n\n(a) Standard Form (SF) 1449;\n\n(b) Continuation of any block from SF 1449, such as—\n\n(1) Block 10 if an incentive subcontracting clause is used (the contracting officer shall indicate the applicable percentage);\n\n(2) Block 18B for remittance address;\n\n(3) Block 19 for line item numbers;\n\n(4) Block 20 for schedule of supplies/services; or\n\n(5) Block 25 for accounting data;\n\n(c) Contract clauses—\n\n(1) 52.212-4, Contract Terms and Conditions—Commercial Items, by reference (see SF 1449 block 27a);\n\n(2) Any addendum to 52.212-4; and\n\n(3) 52.212-5, Contract Terms and Conditions Required to Implement Statutes and Executive orders;\n\n(d) Any contract documents, exhibits or attachments; and\n\n(e) Solicitation provisions—\n\n(1) 52.212-1, Instructions to Offerors—Commercial Items, by reference (see SF 1449, Block 27a);\n\n(2) Any addendum to 52.212-1;\n\n(3) 52.212-2, Evaluation—Commercial Items, or other description of evaluation factors for award, if used; and\n\n(4) 52.212-3, Offeror Representations and Certifications—Commercial Items."
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,25 +4,21 @@
   "name": "Hazardous Material Identification and Material Safety Data",
   "sub": {
     "300": {
-      "number": 300,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for acquiring deliverable items, other than ammunition and explosives, that require the furnishing of data involving hazardous materials. Agencies may prescribe special procedures for ammunition and explosives."
-      }
+      },
+      "sub": {}
     },
     "301": {
-      "number": 301,
       "name": "Definition.",
-      "sub": {},
       "text": {
         "text": "“Hazardous material” is defined in the latest version of Federal Standard No. 313 (Federal Standards are sold to the public and Federal agencies through—\n\nGeneral Services Administration\n\nSpecifications Unit (3FBP-W)\n\n7th & D Sts. SW\n\nWashington, DC 20407."
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Occupational Safety and Health Administration (OSHA) is responsible for issuing and administering regulations that require Government activities to apprise their employees of—",
@@ -66,12 +62,11 @@
         "e": {
           "text": "The contracting officer shall provide a copy of all MSDS’s received to the safety officer or other designated individual."
         }
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall insert the clause at 52.223-3, Hazardous Material Identification and Material Safety Data, in solicitations and contracts if the contract will require the delivery of hazardous materials as defined in 23.301."
@@ -79,7 +74,8 @@
         "b": {
           "text": "If the contract is awarded by an agency other than the Department of Defense, the contracting officer shall use the clause at 52.223-3 with its Alternate I."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

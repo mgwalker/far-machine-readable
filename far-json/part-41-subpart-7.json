@@ -4,9 +4,7 @@
   "name": "Formats",
   "sub": {
     "701": {
-      "number": 701,
       "name": "Formats for utility service specifications.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The following specification formats for use in acquiring utility services are available from the address specified at 41.301(a) and may be used and modified at the agency’s discretion:",
@@ -34,12 +32,11 @@
         "c": {
           "text": "The specifications and attachments (see paragraph (b) of this section) shall be inserted in Section C of the utility service solicitation and contract."
         }
-      }
+      },
+      "sub": {}
     },
     "702": {
-      "number": 702,
       "name": "Formats for annual utility service review.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Formats for use in conducting annual reviews of the following utility services are available from the address specified at 41.301(a) and may be used at the agency’s discretion:",
@@ -58,7 +55,8 @@
         "b": {
           "text": "Contracting officers may modify the annual utility service review format as necessary to fully cover the service used."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

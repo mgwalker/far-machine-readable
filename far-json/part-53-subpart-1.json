@@ -3,50 +3,57 @@
   "number": 1,
   "name": "General",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part—\n\n(a) Prescribes standard forms (SF’s) and references optional forms (OF’s) and agency-prescribed forms for use in acquisition;\n\n(b) Contains requirements and information generally applicable to the forms; and\n\n(c) Illustrates the forms."
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Definitions.",
+      "text": {
+        "text": "“Exception,” as used in this part, means an approved departure from the established design, content, printing specifications, or conditions for use of any standard form."
+      },
+      "sub": {}
+    },
     "100": {
-      "number": 100,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart contains requirements and information generally applicable to the forms prescribed in this regulation."
-      }
+      },
+      "sub": {}
     },
     "101": {
-      "number": 101,
       "name": "Requirements for use of forms.",
-      "sub": {},
       "text": {
         "text": "The requirements for use of the forms prescribed or referenced in this part are contained in Parts 1 through 52, where the subject matter applicable to each form is addressed. The specific location of each requirement is identified in Subpart 53.2."
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Current editions.",
-      "sub": {},
       "text": {
         "text": "The form prescriptions in Subpart 53.2 and the illustrations in Subpart 53.3 contain current edition dates. Contracting officers shall use the current editions unless otherwise authorized under this regulation."
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Exceptions.",
-      "sub": {},
       "text": {
         "text": "Agencies shall not—\n\n(a) Alter a standard form prescribed by this regulation; or\n\n(b) Use for the same purpose any form other than the standard form prescribed by this regulation without receiving in advance an exception to the form."
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "Overprinting.",
-      "sub": {},
       "text": {
         "text": "Standard and optional forms (obtained as required by 53.107) may be overprinted with names, addresses, and other uniform entries that are consistent with the purpose of the form and that do not alter the form in any way. Exception approval for overprinting is not needed."
-      }
+      },
+      "sub": {}
     },
     "105": {
-      "number": 105,
       "name": "Computer generation.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The forms prescribed by this part may be computer generated without exception approval (see 53.103), provided—",
@@ -62,20 +69,18 @@
         "b": {
           "text": "The standards listed in paragraph (a)(2) of this section may also be used for submission of data set forth in other parts for which specific forms have not been prescribed."
         }
-      }
+      },
+      "sub": {}
     },
     "106": {
-      "number": 106,
       "name": "Special construction and printing.",
-      "sub": {},
       "text": {
         "text": "Contracting offices may request exceptions (see 53.103) to standard forms for special construction and printing. Examples of common exceptions are as follows:"
-      }
+      },
+      "sub": {}
     },
     "107": {
-      "number": 107,
       "name": "Obtaining forms.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Executive agencies shall obtain standard and optional forms from the General Services Administration (GSA) by using GSA Supply Catalog—Office Products (see 41 CFR 101-26.302). Standard forms adapted for computer preparation (see 53.105) or with special construction and printing (see 53.106) that are not available from GSA may be ordered directly from the Government Printing Office (GPO)."
@@ -86,55 +91,36 @@
         "c": {
           "text": "Agency forms may be obtained from the prescribing agency."
         }
-      }
+      },
+      "sub": {}
     },
     "108": {
-      "number": 108,
       "name": "Recommendations concerning forms.",
-      "sub": {},
       "text": {
         "text": "Users of this regulation may recommend new forms or the revision, elimination, or consolidation of the forms prescribed or referenced in this regulation. Recommendations from within an executive agency shall be submitted to the cognizant council in accordance with agency procedures. Recommendations from other than executive agencies should be submitted directly to the FAR Secretariat."
-      }
+      },
+      "sub": {}
     },
     "109": {
-      "number": 109,
       "name": "Forms prescribed by other regulations.",
-      "sub": {},
       "text": {
         "text": "Certain forms referred to in Subpart 53.2 are prescribed in other regulations and are specified by the FAR for use in acquisition. For each of these forms, the prescribing agency is identified by means of a parenthetical notation after the form number. For example, SF 1165, which is prescribed by the Government Accountability Office (GAO), is identified as SF 1165 (GAO)."
-      }
+      },
+      "sub": {}
     },
     "110": {
-      "number": 110,
       "name": "Continuation sheets.",
-      "sub": {},
       "text": {
         "text": "Except as may be otherwise indicated in the FAR, all standard forms prescribed by the FAR may be continued on (a) plain paper of similar specification, or (b) specially constructed continuation sheets (e.g., OF 336). Continuation sheets shall be annotated in the upper right-hand corner with the reference number of the document being continued and the serial page number."
-      }
+      },
+      "sub": {}
     },
     "111": {
-      "number": 111,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "Contracting officers shall insert the clause at 52.253-1, Computer Generated Forms, in solicitations and contracts that require the contractor to submit data on Standard or Optional Forms prescribed by this regulation; and, unless prohibited by agency regulations, forms prescribed by agency supplements."
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part—\n\n(a) Prescribes standard forms (SF’s) and references optional forms (OF’s) and agency-prescribed forms for use in acquisition;\n\n(b) Contains requirements and information generally applicable to the forms; and\n\n(c) Illustrates the forms."
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Definitions.",
-      "sub": {},
-      "text": {
-        "text": "“Exception,” as used in this part, means an approved departure from the established design, content, printing specifications, or conditions for use of any standard form."
-      }
+      },
+      "sub": {}
     }
   }
 }

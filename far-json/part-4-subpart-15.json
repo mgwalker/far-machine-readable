@@ -4,28 +4,25 @@
   "name": "[Reserved]",
   "sub": {
     "1500": {
-      "number": 1500,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "1501": {
-      "number": 1501,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "1502": {
-      "number": 1502,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     }
   }
 }

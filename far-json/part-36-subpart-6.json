@@ -4,16 +4,17 @@
   "name": "Architect-Engineer Services",
   "sub": {
     "600": {
-      "number": 600,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures applicable to the acquisition of architect-engineer services, including orders for architect-engineer services under multi-agency contracts (see 16.505(a)(9))."
-      }
+      },
+      "sub": {}
     },
     "601": {
-      "number": 601,
       "name": "Policy.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Public announcement.",
@@ -74,14 +75,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "602": {
-      "number": 602,
       "name": "Selection of firms for architect-engineer contracts.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Selection criteria.",
@@ -168,15 +168,10 @@
             "text": "When authorized by the agency, either or both of the short processes described in this subsection may be used to select firms for contracts not expected to exceed the simplified acquisition threshold. Otherwise, the procedures prescribed in 36.602-3 and 36.602-4 shall be followed.\n\n(a) Selection by the board. The board shall review and evaluate architect-engineer firms in accordance with 36.602-3, except that the selection report shall serve as the final selection list and shall be provided directly to the contracting officer. The report shall serve as an authorization for the contracting officer to commence negotiations in accordance with 36.606.\n\n(b) Selection by the chairperson of the board. When the board decides that formal action by the board is not necessary in connection with a particular selection, the following procedures shall be followed:\n\n(1) The chairperson of the board shall perform the functions required in 36.602-3.\n\n(2) The agency head or designated selection authority shall review the report and approve it or return it to the chairperson for appropriate revision.\n\n(3) Upon receipt of an approved report, the chairperson of the board shall furnish the contracting officer a copy of the report which will serve as an authorization for the contracting officer to commence negotiations in accordance with 36.606."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "603": {
-      "number": 603,
       "name": "Collecting data on and appraising firms qualifications.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Establishing offices. Agencies shall maintain offices or permanent evaluation boards, or arrange to use the offices or boards of other agencies, to receive and maintain data on firms wishing to be considered for Government contracts. Each office or board shall be assigned a jurisdiction by its parent agency, making it responsible for a geographical region or area, or a specialized type of construction."
@@ -227,20 +222,18 @@
         "e": {
           "text": "Use of data files. Evaluation boards and other appropriate Government employees, including contracting officers, shall use data files on firms."
         }
-      }
+      },
+      "sub": {}
     },
     "604": {
-      "number": 604,
       "name": "Performance evaluation.",
-      "sub": {},
       "text": {
         "text": "See 42.1502(f) for the requirements for preparing past performance evaluations for architect-engineer contracts."
-      }
+      },
+      "sub": {}
     },
     "605": {
-      "number": 605,
       "name": "Government cost estimate for architect-engineer work.",
-      "sub": {},
       "text": {
         "a": {
           "text": "An independent Government estimate of the cost of architect-engineer services shall be prepared and furnished to the contracting officer before commencing negotiations for each proposed contract or contract modification expected to exceed the simplified acquisition threshold. The estimate shall be prepared on the basis of a detailed analysis of the required work as though the Government were submitting a proposal."
@@ -248,12 +241,11 @@
         "b": {
           "text": "Access to information concerning the Government estimate shall be limited to Government personnel whose official duties require knowledge of the estimate. An exception to this rule may be made during contract negotiations to allow the contracting officer to identify a specialized task and disclose the associated cost breakdown figures in the Government estimate, but only to the extent deemed necessary to arrive at a fair and reasonable price. The overall amount of the Government’s estimate shall not be disclosed except as permitted by agency regulations."
         }
-      }
+      },
+      "sub": {}
     },
     "606": {
-      "number": 606,
       "name": "Negotiations.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Unless otherwise specified by the selection authority, the final selection authorizes the contracting officer to begin negotiations. Negotiations shall be conducted in accordance with Part 15 of this chapter, beginning with the most preferred firm in the final selection (see 15.404-4(c)(4)(i) on fee limitation)."
@@ -273,12 +265,11 @@
         "f": {
           "text": "If a mutually satisfactory contract cannot be negotiated, the contracting officer shall obtain a written final proposal revision from the firm, and notify the firm that negotiations have been terminated. The contracting officer shall then initiate negotiations with the next firm on the final selection list. This procedure shall be continued until a mutually satisfactory contract has been negotiated. If negotiations fail with all selected firms, the contracting officer shall refer the matter to the selection authority who, after consulting with the contracting officer as to why a contract cannot be negotiated, may direct the evaluation board to recommend additional firms in accordance with 36.602."
         }
-      }
+      },
+      "sub": {}
     },
     "607": {
-      "number": 607,
       "name": "Release of information on firm selection.",
-      "sub": {},
       "text": {
         "a": {
           "text": "After final selection has taken place, the contracting officer may release information identifying only the architect-engineer firm with which a contract will be negotiated for certain work. The work should be described in any release only in general terms, unless information relating to the work is classified. If negotiations are terminated without awarding a contract to the highest rated firm, the contracting officer may release that information and state that negotiations will be undertaken with another (named) architect-engineer firm. When an award has been made, the contracting officer may release award information (see 5.401)."
@@ -286,19 +277,21 @@
         "b": {
           "text": "Debriefings of successful and unsuccessful firms will be held after final selection has taken place and will be conducted, to the extent practicable, in accordance with 15.503, 15.506(b) through (f), and 15.507(c). Note that 15.506(d)(2) through (d)(5) do not apply to architect-engineer contracts."
         }
-      }
+      },
+      "sub": {}
     },
     "608": {
-      "number": 608,
       "name": "Liability for Government costs resulting from design errors or deficiencies.",
-      "sub": {},
       "text": {
         "text": "Architect-engineer contractors shall be responsible for the professional quality, technical accuracy, and coordination of all services required under their contracts. A firm may be liable for Government costs resulting from errors or deficiencies in designs furnished under its contract. Therefore, when a modification to a construction contract is required because of an error or deficiency in the services provided under an architect-engineer contract, the contracting officer (with the advice of technical personnel and legal counsel) shall consider the extent to which the architect-engineer contractor may be reasonably liable. The contracting officer shall enforce the liability and issue a demand for payment of the amount due, if the recoverable cost will exceed the administrative cost involved or is otherwise in the Government’s interest. The contracting officer shall include in the contract file a written statement of the reasons for the decision to recover or not to recover the costs from the firm."
-      }
+      },
+      "sub": {}
     },
     "609": {
-      "number": 609,
       "name": "Contract clauses.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Design within funding limitations.",
@@ -346,9 +339,6 @@
             "text": "Insert the clause at 52.236-25, Requirements for Registration of Designers, in architect-engineer contracts, except that it may be omitted when the design will be performed—\n\n(a) Outside the United States and its outlying areas; or\n\n(b) In a State or outlying area of the United States that does not have registration requirements for the particular field involved."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

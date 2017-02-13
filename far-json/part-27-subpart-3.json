@@ -4,25 +4,21 @@
   "name": "Patent Rights under Government Contracts",
   "sub": {
     "300": {
-      "number": 300,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies, procedures, solicitation provisions, and contract clauses pertaining to inventions made in the performance of work under a Government contract or subcontract for experimental, developmental, or research work. Agency policies, procedures, solicitation provisions, and contract clauses may be specified in agency supplemental regulations as permitted by law, including 37 CFR 401.1."
-      }
+      },
+      "sub": {}
     },
     "301": {
-      "number": 301,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Invention” means any invention or discovery that is or may be patentable or otherwise protectable under title 35 of the U.S. Code, or any variety of plant that is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321, et seq.)\n\n“Made” means—\n\n(1) When used in relation to any invention other than a plant variety, means the conception or first actual reduction to practice of the invention; or\n\n(2) When used in relation to a plant variety, means that the contractor has at least tentatively determined that the variety has been reproduced with recognized characteristics.\n\n“Nonprofit organization” means a university or other institution of higher education or an organization of the type described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)) and exempt from taxation under section 501(a) of the Internal Revenue Code (26 U.S.C. 501(a)), or any nonprofit scientific or educational organization qualified under a State nonprofit organization statute.\n\n“Practical application” means to manufacture, in the case of a composition or product; to practice, in the case of a process or method; or to operate, in the case of a machine or system; and, in each case, under such conditions as to establish that the invention is being utilized and that its benefits are, to the extent permitted by law or Government regulations, available to the public on reasonable terms.\n\n“Subject invention” means any invention of the contractor made in the performance of work under a Government contract."
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Introduction. In accordance with chapter 18 of title 35, U.S.C. (as implemented by 37 CFR part 401), Presidential Memorandum on Government Patent Policy to the Heads of Executive Departments and Agencies dated February 18, 1983, and Executive Order 12591, Facilitating Access to Science and Technology dated April 10, 1987, it is the policy and objective of the Government to—",
@@ -185,12 +181,11 @@
         "j": {
           "text": "Confidentiality of inventions. Publishing information concerning an invention before a patent application is filed on a subject invention may create a bar to a valid patent. To avoid this bar, agencies may withhold information from the public that discloses any invention in which the Government owns or may own a right, title, or interest (including a nonexclusive license) (see 35 U.S.C. 205 and 37 CFR part 401). Agencies may only withhold information concerning inventions for a reasonable time in order for a patent application to be filed. Once filed in any patent office, agencies are not required to release copies of any document that is a part of a patent application for those subject inventions. (See also 27.305-4.)"
         }
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "2": {
           "text": "If an agency exercises the exceptions at paragraph (e)(1)(ii) or (iii) of this section in a contract with a small business concern or a nonprofit organization, the contracting officer shall use the clause at 52.227-11 with only those modifications necessary to address the exceptional circumstances and shall include in the modified clause greater rights determinations procedures equivalent to those at 52.227-13(b)(2)."
@@ -312,11 +307,14 @@
         "iv": {
           "text": "The contract includes the operation of a Government-owned, contractor-operated facility of DOE primarily dedicated to that Department’s naval nuclear propulsion or weapons related programs."
         }
-      }
+      },
+      "sub": {}
     },
     "304": {
-      "number": 304,
       "name": "Procedures.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -417,14 +415,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "305": {
-      "number": 305,
       "name": "Administration of patent rights clauses.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Goals.",
@@ -524,15 +521,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "306": {
-      "number": 306,
       "name": "Licensing background patent rights to third parties.",
-      "sub": {},
       "text": {
         "a": {
           "text": "A contract with a small business concern or nonprofit organization shall not contain a provision allowing the Government to require the licensing to third parties of inventions owned by the contractor that are not subject inventions unless the agency head has approved and signed a written justification in accordance with paragraph (b) of this section. The agency head may not delegate this authority and may exercise the authority only if it is determined that the—",
@@ -548,7 +540,8 @@
         "b": {
           "text": "Any determination will be on the record after an opportunity for a hearing, and the agency shall notify the contractor of the determination by certified or registered mail. The notification shall include a statement that the contractor must bring any action for judicial review of the determination within 60 days after the notification."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

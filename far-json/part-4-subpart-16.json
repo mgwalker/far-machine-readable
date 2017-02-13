@@ -4,17 +4,14 @@
   "name": "Unique Procurement Instrument Identifiers",
   "sub": {
     "1600": {
-      "number": 1600,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for assigning unique Procurement Instrument Identifiers (PIID) for each solicitation, contract, agreement, or order and related procurement instrument."
-      }
+      },
+      "sub": {}
     },
     "1601": {
-      "number": 1601,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Agencies shall not change the PIID unless one of the following two circumstances apply:",
@@ -39,12 +36,11 @@
         "c": {
           "text": "Change in the Procurement Instrument Identifier after its assignment."
         }
-      }
+      },
+      "sub": {}
     },
     "1602": {
-      "number": 1602,
       "name": "Identifying the PIID and supplementary PIID.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Identifying the PIID in solicitation and contract award documentation (including forms and electronic generated formats). Agencies shall include all PIIDs for all related procurement actions as identified in paragraphs (a)(1) through (a)(5) of this section.",
@@ -80,12 +76,11 @@
         "c": {
           "text": "Additional agency specific identification information.  If agency procedures require additional identification information in solicitations, contracts, or other related procurement instruments for administrative purposes, separate and clearly identify the additional information from the PIID."
         }
-      }
+      },
+      "sub": {}
     },
     "1603": {
-      "number": 1603,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Amendments to solicitations.  Number amendments to solicitations sequentially using a four position numeric serial number added to the 13-17 character PIID beginning with 0001."
@@ -125,7 +120,8 @@
         "unless provided otherwise in agency procedures": {
           "text": ".  Do not assign the numbers until it has been determined that a modification is to be issued."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

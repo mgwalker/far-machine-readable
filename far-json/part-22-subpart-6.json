@@ -4,32 +4,31 @@
   "name": "Contracts For Materials, Supplies, Articles, and Equipment Exceeding $15,000",
   "sub": {
     "601": {
-      "number": 601,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "602": {
-      "number": 602,
       "name": "Statutory requirements.",
-      "sub": {},
       "text": {
         "text": "Except for the exemptions at 22.604, all contracts subject to 41 U.S.C. chapter 65, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000 (the statute), and entered into by any executive department, independent establishment, or other agency or instrumentality of the United States, or by the District of Columbia, or by any corporation (all the stock of which is beneficially owned by the United States) for the manufacture or furnishing of materials, supplies, articles, and equipment (referred to in this subpart as supplies) in any amount exceeding $15,000, shall include or incorporate by reference the stipulations required by the statute pertaining to such matters as minimum wages, maximum hours, child labor, convict labor, and safe and sanitary working conditions."
-      }
+      },
+      "sub": {}
     },
     "603": {
-      "number": 603,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "text": "The requirements in 22.602 apply to contracts (including for this purpose, indefinite-delivery contracts, basic ordering agreements, and blanket purchase agreements) and subcontracts under Section 8(a) of the Small Business Act, for the manufacture or furnishing of supplies that—\n\n(a) Will be performed in the United States, Puerto Rico, or the U.S. Virgin Islands;\n\n(b) Exceed or may exceed $15,000; and\n\n(c) Are not exempt under 22.604."
-      }
+      },
+      "sub": {}
     },
     "604": {
-      "number": 604,
       "name": "Exemptions.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Statutory exemptions.",
@@ -65,15 +64,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "605": {
-      "number": 605,
       "name": "Rulings and interpretations of the statute.",
-      "sub": {},
       "text": {
         "a": {
           "text": "As authorized by the Act, the Secretary of Labor has issued rulings and interpretations concerning the administration of the statute (see 41 CFR 50-206). The substance of certain rulings and interpretations is as follows:",
@@ -98,28 +92,25 @@
         "b": {
           "text": "[Reserved]"
         }
-      }
+      },
+      "sub": {}
     },
     "606": {
-      "number": 606,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "607": {
-      "number": 607,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "608": {
-      "number": 608,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Award. When a contract subject to the statute is awarded, the contracting officer, in accordance with regulations or instructions issued by the Secretary of Labor and individual agency procedures, shall furnish to the contractor DOL publication WH-1313, Notice to Employees Working on Government Contracts."
@@ -127,23 +118,22 @@
         "b": {
           "text": "Breach of stipulation. In the event of a violation of a stipulation required under the statute, the contracting officer shall, in accordance with agency procedures, notify the appropriate regional office of the DOL, Wage and Hour Division (see 29 CFR part 1, Appendix B), and furnish any information available."
         }
-      }
+      },
+      "sub": {}
     },
     "609": {
-      "number": 609,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "610": {
-      "number": 610,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall insert the clause at 52.222-20, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000, in solicitations and contracts covered by the statute (see 22.603, 22.604, and 22.605)."
-      }
+      },
+      "sub": {}
     }
   }
 }

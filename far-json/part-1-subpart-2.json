@@ -4,8 +4,10 @@
   "name": "Administration",
   "sub": {
     "201": {
-      "number": 201,
       "name": "Maintenance of the FAR.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "The two councils.",
@@ -87,18 +89,14 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "202": {
-      "number": 202,
       "name": "Agency compliance with the FAR.",
-      "sub": {},
       "text": {
         "text": "Agency compliance with the FAR (see 1.304) is the responsibility of the Secretary of Defense (for the military departments and defense agencies), the Administrator of General Services (for civilian agencies other than NASA), and the Administrator of NASA (for NASA activities)."
-      }
+      },
+      "sub": {}
     }
   }
 }

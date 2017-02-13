@@ -4,9 +4,7 @@
   "name": "Fast Payment Procedure",
   "sub": {
     "401": {
-      "number": 401,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The fast payment procedure allows payment under limited conditions to a contractor prior to the Government’s verification that supplies have been received and accepted. The procedure provides for payment for supplies based on the contractor’s submission of an invoice that constitutes a certification that the contractor—",
@@ -22,31 +20,29 @@
         "b": {
           "text": "The contracting officer shall be primarily responsible for determining the amount of debts resulting from failure of contractors to properly replace, repair, or correct supplies lost, damaged, or not conforming to purchase requirements (see 32.602 and 32.603)."
         }
-      }
+      },
+      "sub": {}
     },
     "402": {
-      "number": 402,
       "name": "Conditions for use.",
-      "sub": {},
       "text": {
         "text": "If the conditions in paragraphs (a) through (f) of this section are present, the fast payment procedure may be used, provided that use of the procedure is consistent with the other conditions of the purchase. The conditions for use of the fast payment procedure are as follows:\n\n(a) Individual purchasing instruments do not exceed $35,000, except that executive agencies may permit higher dollar limitations for specified activities or items on a case-by-case basis.\n\n(b) Deliveries of supplies are to occur at locations where there is both a geographical separation and a lack of adequate communications facilities between Government receiving and disbursing activities that will make it impractical to make timely payment based on evidence of Government acceptance.\n\n(c) Title to the supplies passes to the Government—\n\n(1) Upon delivery to a post office or common carrier for mailing or shipment to destination; or\n\n(2) Upon receipt by the Government if the shipment is by means other than Postal Service or common carrier.\n\n(d) The supplier agrees to replace, repair, or correct supplies not received at destination, damaged in transit, or not conforming to purchase requirements.\n\n(e) The purchasing instrument is a firm-fixed-price contract, a purchase order, or a delivery order for supplies.\n\n(f) A system is in place to ensure—\n\n(1) Documentation of evidence of contractor performance under fast payment purchases;\n\n(2) Timely feedback to the contracting officer in case of contractor deficiencies; and\n\n(3) Identification of suppliers that have a current history of abusing the fast payment procedure (also see Subpart 9.1)."
-      }
+      },
+      "sub": {}
     },
     "403": {
-      "number": 403,
       "name": "Preparation and execution of orders.",
-      "sub": {},
       "text": {
         "text": "Priced or unpriced contracts, purchase orders, or BPAs using the fast payment procedure shall include the following:\n\n(a) A requirement that the supplies be shipped transportation or postage prepaid.\n\n(b) A requirement that invoices be submitted directly to the finance or other office designated in the order, or in the case of unpriced purchase orders, to the contracting officer (see 13.302-2(c)).\n\n(c) The following statement on the consignee’s copy:\n\nConsignee’s Notification to Purchasing Activity of Nonreceipt, Damage, or Nonconformance\n\nThe consignee shall notify the purchasing office promptly after the specified date of delivery of supplies not received, damaged in transit, or not conforming to specifications of the purchase order. Unless extenuating circumstances exist, the notification should be made not later than 60 days after the specified date of delivery."
-      }
+      },
+      "sub": {}
     },
     "404": {
-      "number": 404,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall insert the clause at 52.213-1, Fast Payment Procedure, in solicitations and contracts when the conditions in 13.402 are applicable and it is intended that the fast payment procedure be used in the contract (in the case of BPAs, the contracting officer may elect to insert the clause either in the BPA or in orders under the BPA)."
-      }
+      },
+      "sub": {}
     }
   }
 }

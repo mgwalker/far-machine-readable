@@ -4,17 +4,14 @@
   "name": "Two-Phase Design-Build Selection Procedures",
   "sub": {
     "300": {
-      "number": 300,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for the use of the two-phase design-build selection procedures authorized by 10 U.S.C. 2305a and 41 U.S.C. 3309."
-      }
+      },
+      "sub": {}
     },
     "301": {
-      "number": 301,
       "name": "Use of two-phase design-build selection procedures.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Three or more offers are anticipated."
@@ -49,19 +46,21 @@
         "vi": {
           "text": "Other criteria established by the head of the contracting activity."
         }
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Scope of work.",
-      "sub": {},
       "text": {
         "text": "The agency shall develop, either in-house or by contract, a scope of work that defines the project and states the Government’s requirements. The scope of work may include criteria and preliminary design, budget parameters, and schedule or delivery requirements. If the agency contracts for development of the scope of work, the procedures in Subpart 36.6 shall be used."
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Procedures.",
+      "text": {
+        "text": "One solicitation may be issued covering both phases, or two solicitations may be issued in sequence. Proposals will be evaluated in Phase One to determine which offerors will submit proposals for Phase Two. One contract will be awarded using competitive negotiation."
+      },
       "sub": {
         "1": {
           "name": "Phase One.",
@@ -119,9 +118,6 @@
             }
           }
         }
-      },
-      "text": {
-        "text": "One solicitation may be issued covering both phases, or two solicitations may be issued in sequence. Proposals will be evaluated in Phase One to determine which offerors will submit proposals for Phase Two. One contract will be awarded using competitive negotiation."
       }
     }
   }

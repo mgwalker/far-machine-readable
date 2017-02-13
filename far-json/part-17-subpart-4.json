@@ -4,17 +4,14 @@
   "name": "Leader Company Contracting",
   "sub": {
     "401": {
-      "number": 401,
       "name": "General.",
-      "sub": {},
       "text": {
         "text": "Leader company contracting is an extraordinary acquisition technique that is limited to special circumstances and utilized only when its use is in accordance with agency procedures. A developer or sole producer of a product or system is designated under this acquisition technique to be the leader company, and to furnish assistance and know-how under an approved contract to one or more designated follower companies, so they can become a source of supply. The objectives of this technique are one or more of the following:\n\n(a) Reduce delivery time.\n\n(b) Achieve geographic dispersion of suppliers.\n\n(c) Maximize the use of scarce tooling or special equipment.\n\n(d) Achieve economies in production.\n\n(e) Ensure uniformity and reliability in equipment, compatibility or standardization of components, and interchangeability of parts.\n\n(f) Eliminate problems in the use of proprietary data that cannot be resolved by more satisfactory solutions.\n\n(g) Facilitate the transition from development to production and to subsequent competitive acquisition of end items or major components."
-      }
+      },
+      "sub": {}
     },
     "402": {
-      "number": 402,
       "name": "Limitations.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Leader company contracting is to be used only when—",
@@ -36,12 +33,11 @@
         "b": {
           "text": "When leader company contracting is used, the Government shall reserve the right to approve subcontracts between the leader company and the follower(s)."
         }
-      }
+      },
+      "sub": {}
     },
     "403": {
-      "number": 403,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer may award a prime contract to a—",
@@ -60,7 +56,8 @@
         "b": {
           "text": "The contracting officer shall ensure that any contract awarded under this arrangement contains a firm agreement regarding disclosure, if any, of contractor trade secrets, technical designs or concepts, and specific data, or software, of a proprietary nature."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

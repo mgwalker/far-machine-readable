@@ -3,58 +3,22 @@
   "number": 1,
   "name": "Excess Personal Property",
   "sub": {
-    "101": {
-      "number": 101,
-      "name": "[Reserved]",
-      "sub": {},
-      "text": {
-        "text": ""
-      }
-    },
-    "102": {
-      "number": 102,
-      "name": "Policy.",
-      "sub": {},
-      "text": {
-        "text": "When practicable, agencies must use excess personal property as the first source of supply for agency and cost-reimbursement contractor requirements. Agency personnel must make positive efforts to satisfy agency requirements by obtaining and using excess personal property (including that suitable for adaptation or substitution) before initiating a contract action."
-      }
-    },
-    "103": {
-      "number": 103,
-      "name": "Information on available excess personal property.",
-      "sub": {},
-      "text": {
-        "text": "Information regarding the availability of excess personal property can be obtained through—\n\n(a) Review of excess personal property catalogs and bulletins issued by the General Services Administration (GSA);\n\n(b) Personal contact with GSA or the activity holding the property;\n\n(c) Submission of supply requirements to the regional offices of GSA (GSA Form 1539, Request for Excess Personal Property, is available for this purpose); and\n\n(d) Examination and inspection of reports and samples of excess personal property in GSA regional offices."
-      }
-    },
-    "104": {
-      "number": 104,
-      "name": "Obtaining nonreportable property.",
-      "sub": {},
-      "text": {
-        "text": "GSA will assist agencies in meeting their requirements for supplies of the types excepted from reporting as excess by the Federal Management Regulations (41 CFR 102-36.90). Federal agencies requiring such supplies should contact the appropriate GSA regional office."
-      }
-    },
-    "000": {
-      "number": 0,
+    "0": {
       "name": "Scope of part.",
-      "sub": {},
       "text": {
         "text": "This part deals with prioritizing sources of supplies and services for use by the Government."
-      }
+      },
+      "sub": {}
     },
-    "001": {
-      "number": 1,
+    "1": {
       "name": "General.",
-      "sub": {},
       "text": {
         "text": "Regardless of the source of supplies or services to be acquired, information technology acquisitions shall comply with capital planning and investment control requirements in 40 U.S.C. 11312 and OMB Circular A-130."
-      }
+      },
+      "sub": {}
     },
-    "002": {
-      "number": 2,
+    "2": {
       "name": "Priorities for use of mandatory Government sources.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Except as required by 8.003, or as otherwise provided by law, agencies shall satisfy requirements for supplies and services from or through the sources and publications listed below in descending order of priority:",
@@ -90,31 +54,57 @@
         "c": {
           "text": "The statutory obligation for Government agencies to satisfy their requirements for supplies or services available from the Committee for Purchase From People Who Are Blind or Severely Disabled also applies when contractors purchase the supplies or services for Government use."
         }
-      }
+      },
+      "sub": {}
     },
-    "003": {
-      "number": 3,
+    "3": {
       "name": "Use of other mandatory sources.",
-      "sub": {},
       "text": {
         "text": "Agencies shall satisfy requirements for the following supplies or services from or through specified sources, as applicable:\n\n(a) Public utility services (see part 41).\n\n(b) Printing and related supplies (see subpart 8.8).\n\n(c) Leased motor vehicles (see subpart 8.11).\n\n(d) Strategic and critical materials (e.g., metals and ores) from inventories exceeding Defense National Stockpile requirements (detailed information is available from the DLA Strategic Materials, 8725 John J. Kingman Rd., Suite 3229, Fort Belvoir, VA 22060-6223).\n\n(e) Helium (see subpart 8.5—Acquisition of Helium)."
-      }
+      },
+      "sub": {}
     },
-    "004": {
-      "number": 4,
+    "4": {
       "name": "Use of other sources.",
-      "sub": {},
       "text": {
         "text": "If an agency is unable to satisfy requirements for supplies and services from the mandatory sources listed in 8.002 and 8.003, agencies are encouraged to consider satisfying requirements from or through the non-mandatory sources listed in paragraph (a) of this section (not listed in any order of priority) before considering the non-mandatory source listed in paragraph (b) of this section.  When satisfying requirements from non-mandatory sources, see 7.105(b) and part 19 regarding consideration of small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business (including 8(a) participants), and women-owned small business concerns.\n\n(a)(1) Supplies.  Federal Supply Schedules, Governmentwide acquisition contracts, multi-agency contracts, and any other procurement instruments intended for use by multiple agencies, including blanket purchase agreements (BPAs) under Federal Supply Schedule contracts (e.g., Federal Strategic Sourcing Initiative (FSSI) agreements accessible at http://www.gsa.gov/fssi (see also 5.601)).\n\n(2) Services.  Agencies are encouraged to consider Federal Prison Industries, Inc., as well as the sources listed in paragraph (a)(1) of this section (see subpart 8.6).\n\n(b) Commercial sources (including educational and non-profit institutions) in the open market."
-      }
+      },
+      "sub": {}
     },
-    "005": {
-      "number": 5,
+    "5": {
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "Insert the clause at 52.208-9, Contractor Use of Mandatory Sources of Supply and Services, in solicitations and contracts that require a contractor to provide supplies or services for Government use that are on the Procurement List maintained by the Committee for Purchase From People Who Are Blind or Severely Disabled. The contracting officer shall identify in the contract schedule the supplies or services that shall be purchased from a mandatory source and the specific source."
-      }
+      },
+      "sub": {}
+    },
+    "101": {
+      "name": "[Reserved]",
+      "text": {
+        "text": ""
+      },
+      "sub": {}
+    },
+    "102": {
+      "name": "Policy.",
+      "text": {
+        "text": "When practicable, agencies must use excess personal property as the first source of supply for agency and cost-reimbursement contractor requirements. Agency personnel must make positive efforts to satisfy agency requirements by obtaining and using excess personal property (including that suitable for adaptation or substitution) before initiating a contract action."
+      },
+      "sub": {}
+    },
+    "103": {
+      "name": "Information on available excess personal property.",
+      "text": {
+        "text": "Information regarding the availability of excess personal property can be obtained through—\n\n(a) Review of excess personal property catalogs and bulletins issued by the General Services Administration (GSA);\n\n(b) Personal contact with GSA or the activity holding the property;\n\n(c) Submission of supply requirements to the regional offices of GSA (GSA Form 1539, Request for Excess Personal Property, is available for this purpose); and\n\n(d) Examination and inspection of reports and samples of excess personal property in GSA regional offices."
+      },
+      "sub": {}
+    },
+    "104": {
+      "name": "Obtaining nonreportable property.",
+      "text": {
+        "text": "GSA will assist agencies in meeting their requirements for supplies of the types excepted from reporting as excess by the Federal Management Regulations (41 CFR 102-36.90). Federal agencies requiring such supplies should contact the appropriate GSA regional office."
+      },
+      "sub": {}
     }
   }
 }

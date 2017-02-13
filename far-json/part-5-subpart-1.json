@@ -3,10 +3,36 @@
   "number": 1,
   "name": "Dissemination of Information",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures for publicizing contract opportunities and award information."
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Definition.",
+      "text": {
+        "text": "“Contract action,” as used in this part, means an action resulting in a contract, as defined in Subpart 2.1, including actions for additional supplies or services outside the existing contract scope, but not including actions that are within the scope and under the terms of the existing contract, such as contract modifications issued pursuant to the Changes clause, or funding and other administrative changes."
+      },
+      "sub": {}
+    },
+    "2": {
+      "name": "Policy.",
+      "text": {
+        "text": "Contracting officers must publicize contract actions in order to—\n\n(a) Increase competition;\n\n(b) Broaden industry participation in meeting Government requirements; and\n\n(c) Assist small business concerns, veteran-owned small business concerns, service-disabled veteran-owned small business concerns, HUBZone small business concerns, small disadvantaged business concerns, and women-owned small business concerns in obtaining contracts and subcontracts."
+      },
+      "sub": {}
+    },
+    "3": {
+      "name": "Governmentwide point of entry.",
+      "text": {
+        "text": "For any requirement in the FAR to publish a notice, the contracting officer must transmit the notices to the GPE."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Methods of disseminating information.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Preparing periodic handouts listing proposed contracts, and displaying them as in 5.101(a)(2)."
@@ -52,12 +78,11 @@
         "iii": {
           "text": "Advertisements published in newspapers must be under proper written authority in accordance with 44 U.S.C. 3702 (see 5.502(a))."
         }
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Availability of solicitations.",
-      "sub": {},
       "text": {
         "a": {
           "text": "(1) Except as provided in paragraph (a)(5) of this section, the contracting officer must make available through the GPE solicitations synopsized through the GPE, including specifications, technical data, and other pertinent information determined necessary by the contracting officer. Transmissions to the GPE must be in accordance with the interface description available via the Internet at http://www.fedbizopps.gov.",
@@ -135,39 +160,8 @@
         "f": {
           "text": "This section 5.102 applies to classified contracts to the extent consistent with agency security requirements (see 5.202(a)(1))."
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures for publicizing contract opportunities and award information."
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Definition.",
-      "sub": {},
-      "text": {
-        "text": "“Contract action,” as used in this part, means an action resulting in a contract, as defined in Subpart 2.1, including actions for additional supplies or services outside the existing contract scope, but not including actions that are within the scope and under the terms of the existing contract, such as contract modifications issued pursuant to the Changes clause, or funding and other administrative changes."
-      }
-    },
-    "002": {
-      "number": 2,
-      "name": "Policy.",
-      "sub": {},
-      "text": {
-        "text": "Contracting officers must publicize contract actions in order to—\n\n(a) Increase competition;\n\n(b) Broaden industry participation in meeting Government requirements; and\n\n(c) Assist small business concerns, veteran-owned small business concerns, service-disabled veteran-owned small business concerns, HUBZone small business concerns, small disadvantaged business concerns, and women-owned small business concerns in obtaining contracts and subcontracts."
-      }
-    },
-    "003": {
-      "number": 3,
-      "name": "Governmentwide point of entry.",
-      "sub": {},
-      "text": {
-        "text": "For any requirement in the FAR to publish a notice, the contracting officer must transmit the notices to the GPE."
-      }
+      },
+      "sub": {}
     }
   }
 }

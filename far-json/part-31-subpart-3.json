@@ -4,25 +4,21 @@
   "name": "Contracts with Educational Institutions",
   "sub": {
     "301": {
-      "number": 301,
       "name": "Purpose.",
-      "sub": {},
       "text": {
         "text": "This subpart provides the principles for determining the cost of research and development, training, and other work performed by educational institutions under contracts with the Government."
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "General.",
-      "sub": {},
       "text": {
         "text": "The OMB Uniform Guidance at 2 CFR part 200, subpart E and appendix III, provides principles for determining the costs applicable to research and development, training, and other work performed by educational institutions (defined as institutions of higher education in the OMB Uniform Guidance at 2 CFR part 200, subpart A, and 20 U.S.C. 1001) under contracts with the Government."
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Requirements.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Contracts that refer to this subpart 31.3 for determining allowable costs under contracts with educational institutions (defined as institutions of higher education in the OMB Uniform Guidance at 2 CFR part 200, subpart A, and 20 U.S.C. 1001) shall be deemed to refer to, and shall have the allowability of costs determined by the contracting officer in accordance with, the OMB Uniform Guidance at 2 CFR part 200, subpart E and appendix III, in effect on the date of the contract."
@@ -30,7 +26,8 @@
         "b": {
           "text": "Agencies are not expected to place additional restrictions on individual items of cost."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

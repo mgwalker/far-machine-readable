@@ -3,18 +3,43 @@
   "number": 1,
   "name": "Full and Open Competition",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures to promote full and open competition in the acquisition process and to provide for full and open competition, full and open competition after exclusion of sources, other than full and open competition, and advocates for competition. This part does not deal with the results of competition (e.g., adequate price competition), that are addressed in other parts (e.g., Part 15)."
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Applicability.",
+      "text": {
+        "text": "This part applies to all acquisitions except—\n\n(a) Contracts awarded using the simplified acquisition procedures of Part 13 (but see 13.501 for requirements pertaining to sole source acquisitions of commercial items under subpart 13.5);\n\n(b) Contracts awarded using contracting procedures (other than those addressed in this part) that are expressly authorized by statute;\n\n(c) Contract modifications, including the exercise of priced options that were evaluated as part of the initial competition (see 17.207(f)), that are within the scope and under the terms of an existing contract;\n\n(d) Orders placed under requirements contracts or definite-quantity contracts;\n\n(e) Orders placed under indefinite-quantity contracts that were entered into pursuant to this part when—\n\n(1) The contract was awarded under subpart 6.1 or 6.2 and all responsible sources were realistically permitted to compete for the requirements contained in the order; or\n\n(2) The contract was awarded under subpart 6.3 and the required justification and approval adequately covers the requirements contained in the order; or\n\n(f) Orders placed against task order and delivery order contracts entered into pursuant to subpart 16.5."
+      },
+      "sub": {}
+    },
+    "2": {
+      "name": "Limitations.",
+      "text": {
+        "text": "No agency shall contract for supplies or services from another agency for the purpose of avoiding the requirements of this part."
+      },
+      "sub": {}
+    },
+    "3": {
+      "name": "[Reserved]",
+      "text": {
+        "text": ""
+      },
+      "sub": {}
+    },
     "100": {
-      "number": 100,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes the policy and procedures that are to be used to promote and provide for full and open competition."
-      }
+      },
+      "sub": {}
     },
     "101": {
-      "number": 101,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "10 U.S.C. 2304 and 41 U.S.C. 3301 require, with certain limited exceptions (see subpart 6.2 and 6.3), that contracting officers shall promote and provide for full and open competition in soliciting offers and awarding Government contracts."
@@ -22,47 +47,15 @@
         "b": {
           "text": "Contracting officers shall provide for full and open competition through use of the competitive procedure(s) contained in this subpart that are best suited to the circumstances of the contract action and consistent with the need to fulfill the Government’s requirements efficiently (10 U.S.C. 2304 and 41 U.S.C. 3301)."
         }
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Use of competitive procedures.",
-      "sub": {},
       "text": {
         "text": "The competitive procedures available for use in fulfilling the requirement for full and open competition are as follows:\n\n(a) Sealed bids. (See 6.401(a).)\n\n(b) Competitive proposals. (See 6.401(b).) If sealed bids are not appropriate under paragraph (a) of this section, contracting officers shall request competitive proposals or use the other competitive procedures under paragraph (c) or (d) of this section.\n\n(c) Combination of competitive procedures. If sealed bids are not appropriate, contracting officers may use any combination of competitive procedures (e.g., two-step sealed bidding).\n\n(d) Other competitive procedures.\n\n(1) Selection of sources for architect-engineer contracts in accordance with the provisions of 40 U.S.C. 1102 et seq. is a competitive procedure (see subpart 36.6 for procedures).\n\n(2) Competitive selection of basic and applied research and that part of development not related to the development of a specific system or hardware procurement is a competitive procedure if award results from—\n\n(i) A broad agency announcement that is general in nature identifying areas of research interest, including criteria for selecting proposals, and soliciting the participation of all offerors capable of satisfying the Government’s needs; and\n\n(ii) A peer or scientific review.\n\n(3) Use of multiple award schedules issued under the procedures established by the Administrator of General Services consistent with the requirement of 41 U.S.C. 152(3)(A) for the multiple award schedule program of the General Services Administration is a competitive procedure."
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures to promote full and open competition in the acquisition process and to provide for full and open competition, full and open competition after exclusion of sources, other than full and open competition, and advocates for competition. This part does not deal with the results of competition (e.g., adequate price competition), that are addressed in other parts (e.g., Part 15)."
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Applicability.",
-      "sub": {},
-      "text": {
-        "text": "This part applies to all acquisitions except—\n\n(a) Contracts awarded using the simplified acquisition procedures of Part 13 (but see 13.501 for requirements pertaining to sole source acquisitions of commercial items under subpart 13.5);\n\n(b) Contracts awarded using contracting procedures (other than those addressed in this part) that are expressly authorized by statute;\n\n(c) Contract modifications, including the exercise of priced options that were evaluated as part of the initial competition (see 17.207(f)), that are within the scope and under the terms of an existing contract;\n\n(d) Orders placed under requirements contracts or definite-quantity contracts;\n\n(e) Orders placed under indefinite-quantity contracts that were entered into pursuant to this part when—\n\n(1) The contract was awarded under subpart 6.1 or 6.2 and all responsible sources were realistically permitted to compete for the requirements contained in the order; or\n\n(2) The contract was awarded under subpart 6.3 and the required justification and approval adequately covers the requirements contained in the order; or\n\n(f) Orders placed against task order and delivery order contracts entered into pursuant to subpart 16.5."
-      }
-    },
-    "002": {
-      "number": 2,
-      "name": "Limitations.",
-      "sub": {},
-      "text": {
-        "text": "No agency shall contract for supplies or services from another agency for the purpose of avoiding the requirements of this part."
-      }
-    },
-    "003": {
-      "number": 3,
-      "name": "[Reserved]",
-      "sub": {},
-      "text": {
-        "text": ""
-      }
+      },
+      "sub": {}
     }
   }
 }

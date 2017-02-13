@@ -4,8 +4,10 @@
   "name": "Determination of Small Business Status for Small Business Programs",
   "sub": {
     "301": {
-      "number": 301,
       "name": "Representations and rerepresentations.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Representation by the offeror.",
@@ -70,15 +72,10 @@
             "text": "A contractor that represented itself as other than small before contract award may, but is not required to, rerepresent its size status when—\n\n(a) The conditions in 19.301-2(b) apply; and\n\n(b) The contractor qualifies as a small business concern under the applicable size standard in effect at the time of its rerepresentation."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "302": {
-      "number": 302,
       "name": "Protesting a small business representation or rerepresentation.",
-      "sub": {},
       "text": {
         "a": {
           "text": "(1) The Small Business Administration (SBA) regulations on small business size and size protests are found at 13 CFR part 121.",
@@ -196,12 +193,11 @@
         "j": {
           "text": "When a concern is found to be other than small under a protest concerning a size status rerepresentation made in accordance with the clause at 52.219-28, Post-Award Small Business Program Rerepresentation, a contracting officer may permit contract performance to continue, issue orders, or exercise option(s), because the contract remains a valid contract."
         }
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Determining North American Industry Classification System codes and size standards.",
-      "sub": {},
       "text": {
         "a": {
           "text": "(1) The contracting officer shall determine the appropriate North American Industry Classification System (NAICS) code and related small business size standard and include them in solicitations above the micro-purchase threshold.  For information on size standards matched to industry NAICS codes, including the use of new NAICS codes, see also 19.102(a).",
@@ -276,12 +272,11 @@
         "d": {
           "text": "SBA’s regulations concerning appeals of NAICS code designations are found at 13 CFR 121.1101 to 121.1103 and 13 CFR part 134."
         }
-      }
+      },
+      "sub": {}
     },
     "304": {
-      "number": 304,
       "name": "Small disadvantaged business status.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer may accept an offeror’s representation that it is a small disadvantaged business concern (SDB) concern."
@@ -295,20 +290,18 @@
         "d": {
           "text": "Any person or entity that misrepresents a firm's status as an SDB concern in order to obtain a contracting opportunity in accordance with section 8(d) of the Small Business Act, (15 U.S.C. 637(d)) will be subject to the penalties imposed by section 16(d) of the Small Business Act, (15 U.S.C. 645(d)), as well as any other penalty authorized by law."
         }
-      }
+      },
+      "sub": {}
     },
     "305": {
-      "number": 305,
       "name": "Reviews and protests of SDB status.",
-      "sub": {},
       "text": {
         "text": "This section applies to reviews and protests of a small business concern’s SDB status as a prime contractor or subcontractor.\n\n(a) SBA may initiate the review of SDB status on any firm that has represented itself to be an SDB on a prime contract or subcontract to a Federal prime contract whenever it receives credible information calling into question the SDB status of the firm.\n\n(b) Requests for an SBA review of SDB status may be forwarded to the Small Business Administration, Assistant Administrator for SDBCE, 409 Third Street, SW, Washington, DC 20416.\n\n(c) An SBA review of a subcontractor’s SDB status differs from a formal protest. Protests of a small business concern’s SDB status as a subcontractor are processed under 19.703(e). Protests of a concern’s size as a prime contractor are processed under 19.302. Protests of a concern’s size as a subcontractor are processed under 19.703(b)."
-      }
+      },
+      "sub": {}
     },
     "306": {
-      "number": 306,
       "name": "Protesting a firm’s status as a HUBZone small business concern.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Definition. As used in this section—\n\n“Interested party” has the meaning given in 13 CFR 126.103.",
@@ -506,12 +499,11 @@
         "n": {
           "text": "The AA/GC&BD will make its decision within 5 business days of the receipt of the appeal, if practicable, and will base its decision only on the information and documentation in the protest record as supplemented by the appeal. SBA will provide a copy of the decision to the contracting officer, the protester, and the protested HUBZone small business concern. The SBA decision, if received before award, will apply to the pending acquisition. SBA rulings received after award will not apply to that acquisition. The AA/GC&BD’s decision is the final decision."
         }
-      }
+      },
+      "sub": {}
     },
     "307": {
-      "number": 307,
       "name": "Protesting a firm’s status as a service-disabled veteran-owned small business concern.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Definition. Interested party, as used in this section, has the meaning given in 13 CFR 125.8(b)."
@@ -697,12 +689,11 @@
         "m": {
           "text": "OHA will make its decision within 15 business days of the receipt of the appeal, if practicable. SBA will provide a copy of the decision to the contracting officer, the protester, and the protested SDVOSB small business concern. The OHA decision regarding the status of the concern is final and is binding on the parties."
         }
-      }
+      },
+      "sub": {}
     },
     "308": {
-      "number": 308,
       "name": "Protesting a firm’s status as an economically disadvantaged women-owned small business concern or women-owned small business concern eligible under the Women-Owned Small Business Program.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Definition. Interested party, as used in this section, has the meaning given in 13 CFR 127.102."
@@ -891,12 +882,11 @@
         "m": {
           "text": "OHA will make its decision within 15 business days of the receipt of the appeal, if practicable.  SBA will provide a copy of the decision to the contracting officer, the protester, and the protested EDWOSB concern or WOSB concern eligible under the WOSB program.  The OHA decision is the final agency decision and is binding on the parties."
         }
-      }
+      },
+      "sub": {}
     },
     "309": {
-      "number": 309,
       "name": "Solicitation provisions and contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "(1) Insert the provision at 52.219-1, Small Business Program Representations, in solicitations exceeding the micro-purchase threshold when the contract will be performed in the United States or its outlying areas.",
@@ -912,7 +902,8 @@
         "c": {
           "text": "Insert the clause at 52.219-28, Post-Award Small Business Program Rerepresentation, in solicitations and contracts exceeding the micro-purchase threshold when the contract will be performed in the United States or its outlying areas."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

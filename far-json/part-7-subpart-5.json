@@ -4,33 +4,28 @@
   "name": "Inherently Governmental Functions",
   "sub": {
     "500": {
-      "number": 500,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "The purpose of this subpart is to prescribe policies and procedures to ensure that inherently governmental functions are not performed by contractors."
-      }
+      },
+      "sub": {}
     },
     "501": {
-      "number": 501,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "502": {
-      "number": 502,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "text": "The requirements of this subpart apply to all contracts for services. This subpart does not apply to services obtained through either personnel appointments, advisory committees, or personal services contracts issued under statutory authority."
-      }
+      },
+      "sub": {}
     },
     "503": {
-      "number": 503,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Contracts shall not be used for the performance of inherently governmental functions."
@@ -202,7 +197,8 @@
         "e": {
           "text": "Agency implementation shall include procedures requiring the agency head or designated requirements official to provide the contracting officer, concurrent with transmittal of the statement of work (or any modification thereof), a written determination that none of the functions to be performed are inherently governmental. This assessment should place emphasis on the degree to which conditions and facts restrict the discretionary authority, decision-making responsibility, or accountability of Government officials using contractor services or work products. Disagreements regarding the determination will be resolved in accordance with agency procedures before issuance of a solicitation."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

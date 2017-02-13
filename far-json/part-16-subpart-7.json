@@ -4,17 +4,14 @@
   "name": "Agreements",
   "sub": {
     "701": {
-      "number": 701,
       "name": "Scope.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for establishing and using basic agreements and basic ordering agreements. (See 13.303 for blanket purchase agreements (BPA’s) and see 35.015(b) for additional coverage of basic agreements with educational institutions and nonprofit organizations.)"
-      }
+      },
+      "sub": {}
     },
     "702": {
-      "number": 702,
       "name": "Basic agreements.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Each contract incorporating a basic agreement shall include a scope of work and price, delivery, and other appropriate terms that apply to the particular contract. The basic agreement shall be incorporated into the contract by specific reference (including reference to each amendment) or by attachment."
@@ -73,12 +70,11 @@
         "d": {
           "text": "Contracts incorporating basic agreements."
         }
-      }
+      },
+      "sub": {}
     },
     "703": {
-      "number": 703,
       "name": "Basic ordering agreements.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Before issuing an order under a basic ordering agreement, the contracting officer shall—",
@@ -160,7 +156,8 @@
         "ii": {
           "text": "The need for the supplies or services is compelling and unusually urgent (i.e., when the Government would be seriously injured, financially or otherwise, if the requirement is not met sooner than would be possible if prices were established before the work began). The contracting officer shall proceed with pricing as soon as practical. In no event shall an entire order be priced retroactively."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

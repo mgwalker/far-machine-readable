@@ -4,17 +4,14 @@
   "name": "Contract Termination Clauses",
   "sub": {
     "501": {
-      "number": 501,
       "name": "General.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes the principal contract termination clauses.  This subpart does not apply to contracts that use the clause at 52.213-4, Terms and Conditions—Simplified Acquisitions (Other Than Commercial Items).  In appropriate cases, agencies may authorize the use of special purpose clauses, if consistent with this chapter."
-      }
+      },
+      "sub": {}
     },
     "502": {
-      "number": 502,
       "name": "Termination for convenience of the Government.",
-      "sub": {},
       "text": {
         "1": {
           "text": "General use. The prime contractor may find the clause at 52.249-1, Termination for Convenience of the Government (Fixed-Price) (Short Form), or at 52.249-2, Termination for Convenience of the Government (Fixed-Price), as appropriate, suitable for use in fixed-price subcontracts, except as noted in paragraph (e)(2) of this section; provided, that the relationship between the contractor and subcontractor is clearly indicated. Inapplicable conditions (e.g., paragraph (d)) in 52.249-2 should be deleted and the periods reduced for submitting the subcontractor’s termination settlement proposal (e.g., 6 months), and for requesting an equitable price adjustment (e.g., 45 days)."
@@ -84,12 +81,11 @@
         "e": {
           "text": "Subcontracts—"
         }
-      }
+      },
+      "sub": {}
     },
     "503": {
-      "number": 503,
       "name": "Termination for convenience of the Government and default.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Cost-reimbursement contracts—",
@@ -114,12 +110,11 @@
         "c": {
           "text": "Subcontracts. The prime contractor may find the clause at 52.249-6, Termination (Cost-Reimbursement), suitable for use in cost-reimbursement subcontracts; provided, that the relationship between the contractor and subcontractor is clearly indicated. Inapplicable conditions (e.g., paragraphs (e), (j) and (n)) should be deleted and the period for submitting the subcontractor’s termination settlement proposal should be reduced (e.g., 6 months)."
         }
-      }
+      },
+      "sub": {}
     },
     "504": {
-      "number": 504,
       "name": "Termination of fixed-price contracts for default.",
-      "sub": {},
       "text": {
         "2": {
           "text": "Dismantling and demolition. If the contract is for dismantling, demolition, or removal of improvements, the contracting officer shall use the clause with its Alternate I."
@@ -147,12 +142,11 @@
         "ii": {
           "text": "With its Alternate III when a contract for dismantling, demolition, or removal of improvements is contemplated."
         }
-      }
+      },
+      "sub": {}
     },
     "505": {
-      "number": 505,
       "name": "Other termination clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Personal service contracts. The contracting officer shall insert the clause at 52.249-12, Termination (Personal Services), in solicitations and contracts for personal services (see Part 37)."
@@ -163,7 +157,8 @@
         "c": {
           "text": "Communication service contracts. This regulation does not prescribe a clause for the cancellation or termination of orders under communication service contracts with common carriers because of special agency requirements that apply to these services. An appropriate clause, however, shall be prescribed at agency level, within those agencies contracting for these services."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,25 +4,21 @@
   "name": "Suspension of Work, Stop-Work Orders, and Government Delay of Work",
   "sub": {
     "1301": {
-      "number": 1301,
       "name": "General.",
-      "sub": {},
       "text": {
         "text": "Situations may occur during contract performance that cause the Government to order a suspension of work, or a work stoppage. This subpart provides clauses to meet these situations and a clause for settling contractor claims for unordered Government caused delays that are not otherwise covered in the contract."
-      }
+      },
+      "sub": {}
     },
     "1302": {
-      "number": 1302,
       "name": "Suspension of work.",
-      "sub": {},
       "text": {
         "text": "A suspension of work under a construction or architect-engineer contract may be ordered by the contracting officer for a reasonable period of time. If the suspension is unreasonable, the contractor may submit a written claim for increases in the cost of performance, excluding profit."
-      }
+      },
+      "sub": {}
     },
     "1303": {
-      "number": 1303,
       "name": "Stop-work orders.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Terminate the contract;"
@@ -62,12 +58,11 @@
         "e": {
           "text": "As soon as feasible after a stop-work order is issued, but before its expiration, the contracting officer shall take appropriate action to—"
         }
-      }
+      },
+      "sub": {}
     },
     "1304": {
-      "number": 1304,
       "name": "Government delay of work.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The clause at 52.242-17, Government Delay of Work, provides for the administrative settlement of contractor claims that arise from delays and interruptions in the contract work caused by the acts, or failures to act, of the contracting officer. This clause is not applicable if the contract otherwise specifically provides for an equitable adjustment because of the delay or interruption; e.g., when the Changes clause is applicable."
@@ -81,12 +76,11 @@
         "d": {
           "text": "The contracting officer shall retain in the file a record of all negotiations leading to any adjustment made under the clause, and related certified cost or pricing data, or data other than certified cost or pricing data."
         }
-      }
+      },
+      "sub": {}
     },
     "1305": {
-      "number": 1305,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall insert the clause at 52.242-14, Suspension of Work, in solicitations and contracts when a fixed-price construction or architect-engineer contract is contemplated."
@@ -102,7 +96,8 @@
         "c": {
           "text": "The contracting officer shall insert the clause at 52.242-17, Government Delay of Work, in solicitations and contracts when a fixed-price contract is contemplated for supplies other than commercial or modified-commercial items. The clause use is optional when a fixed-price contract is contemplated for services, or for supplies that are commercial or modified-commercial items."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,9 +4,7 @@
   "name": "Historically Underutilized Business Zone (HUBZone) Program",
   "sub": {
     "1301": {
-      "number": 1301,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Historically Underutilized Business Zone (HUBZone) Act of 1997 (15 U.S.C. 631 note) created the HUBZone Program."
@@ -14,20 +12,18 @@
         "b": {
           "text": "The purpose of the HUBZone Program is to provide Federal contracting assistance for qualified small business concerns located in historically underutilized business zones, in an effort to increase employment opportunities, investment, and economic development in those areas."
         }
-      }
+      },
+      "sub": {}
     },
     "1302": {
-      "number": 1302,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "text": "The procedures in this subpart apply to all Federal agencies that employ one or more contracting officers."
-      }
+      },
+      "sub": {}
     },
     "1303": {
-      "number": 1303,
       "name": "Status as a HUBZone small business concern.",
-      "sub": {},
       "text": {
         "1": {
           "text": "There are no waivers to the nonmanufacturer rule for HUBZone contracts."
@@ -50,20 +46,18 @@
         "e": {
           "text": "A HUBZone small business concern may submit an offer for supplies as a nonmanufacturer if it meets the requirements of the nonmanufacturer rule set forth at 13 CFR 121.406(b)(1) and if the small business manufacturer providing the end item is also a HUBZone small business concern."
         }
-      }
+      },
+      "sub": {}
     },
     "1304": {
-      "number": 1304,
       "name": "Exclusions.",
-      "sub": {},
       "text": {
         "text": "This subpart does not apply to—\n\n(a) Requirements that can be satisfied through award to—\n\n(1) Federal Prison Industries, Inc. (see Subpart 8.6); or\n\n(2) AbilityOne participating non-profit agencies for the blind or severely disabled (see Subpart 8.7);\n\n(b) Orders under indefinite-delivery contracts (see subpart 16.5).  (But see 16.505(b)(2)(i)(F) for discretionary set-asides of orders);\n\n(c) Orders against Federal Supply Schedules (see subpart 8.4).  (But see 8.405-5 for discretionary set-asides of orders);\n\n(d) Requirements currently being performed by an 8(a) participant or requirements SBA has accepted for performance under the authority of the 8(a) program, unless SBA has consented to release the requirements from the 8(a) program;\n\n(e) Requirements that do not exceed the micro-purchase threshold; or\n\n(f) Requirements for commissary or exchange resale items."
-      }
+      },
+      "sub": {}
     },
     "1305": {
-      "number": 1305,
       "name": "HUBZone set-aside procedures.",
-      "sub": {},
       "text": {
         "1": {
           "text": "When the SBA intends to appeal a contracting officer’s decision to reject a recommendation of the SBA procurement center representative (or, if a procurement center representative is not assigned, see 19.402(a)) to set aside an acquisition for competition restricted to HUBZone small business concerns, the SBA procurement center representative shall notify the contracting officer, in writing, of its intent within 5 business days of receiving the contracting officer’s notice of rejection."
@@ -105,12 +99,11 @@
         "d": {
           "text": "The procedures at 19.202-1 and, except for acquisitions not exceeding the simplified acquisition threshold, at 19.402 apply to this section."
         }
-      }
+      },
+      "sub": {}
     },
     "1306": {
-      "number": 1306,
       "name": "HUBZone sole source awards.",
-      "sub": {},
       "text": {
         "a": {
           "text": "A contracting officer shall consider a contract award to a HUBZone small business concern on a sole source basis (see 6.302-5(b)(5)) before considering a small business set-aside (see 19.203 and subpart 19.5), provided none of the exclusions at 19.1304 apply; and—",
@@ -146,12 +139,11 @@
         "b": {
           "text": "The SBA has the right to appeal the contracting officer’s decision not to make a HUBZone sole source award."
         }
-      }
+      },
+      "sub": {}
     },
     "1307": {
-      "number": 1307,
       "name": "Price evaluation preference for HUBZone small business concerns.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The price evaluation preference for HUBZone small business concerns shall be used in acquisitions conducted using full and open competition. The preference shall not be used—",
@@ -181,12 +173,11 @@
         "d": {
           "text": "When the two highest rated offerors are a HUBZone small business concern and a large business, and the evaluated offer of the HUBZone small business concern is equal to the evaluated offer of the large business after considering the price evaluation preference, the contracting officer shall award the contract to the HUBZone small business concern."
         }
-      }
+      },
+      "sub": {}
     },
     "1308": {
-      "number": 1308,
       "name": "Performance of work requirements (limitations on subcontracting) for general construction or construction by special trade contractors.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Before issuing a solicitation for general construction or construction by special trade contractors, the contracting officer shall determine if at least two HUBZone small business concerns can spend at least 50 percent of the cost of contract performance to be incurred for personnel on their own employees or subcontract employees of other HUBZone small business concerns."
@@ -205,12 +196,11 @@
         "c": {
           "text": "See 13 CFR 125.6 for definitions of terms used in paragraph (a) of this section."
         }
-      }
+      },
+      "sub": {}
     },
     "1309": {
-      "number": 1309,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The contracting officer shall use the clause with its Alternate I to waive the 50 percent requirement if the conditions at 19.1308(b) apply."
@@ -232,7 +222,8 @@
         "b": {
           "text": "The contracting officer shall insert the clause at FAR 52.219-4, Notice of Price Evaluation Preference for HUBZone Small Business Concerns, in solicitations and contracts for acquisitions conducted using full and open competition."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

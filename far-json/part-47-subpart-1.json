@@ -3,10 +3,42 @@
   "number": 1,
   "name": "General",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "a": {
+          "text": "This part prescribes policies and procedures for—",
+          "sub": {
+            "1": {
+              "text": "Applying transportation and traffic management considerations in the acquisition of supplies; and"
+            },
+            "2": {
+              "text": "Acquiring transportation or transportation-related services by contract methods other than bills of lading, transportation requests, transportation warrants, and similar transportation forms. Transportation and transportation services can be obtained by acquisition subject to the FAR or by acquisition under 49 U.S.C. 10721 or 49 U.S.C. 13712. Even though the FAR does not regulate the acquisition of transportation or transportation-related services when the bill of lading is the contract, this contract method is widely used and, therefore, relevant guidance on the use of the bill of lading is provided in this part (see 47.104)."
+            }
+          }
+        },
+        "b": {
+          "text": "The definitions in this part have been condensed from statutory definitions. In case of inconsistency between the language of this part and the statutory requirements, the statute shall prevail."
+        }
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Definitions.",
+      "text": {
+        "text": "As used in this part—\n\n“Bill of lading” means a transportation document, used as a receipt of goods, as documentary evidence of title, for clearing customs, and generally used as a contract of carriage.\n\n(1) “Commercial bill of lading (CBL)”, unlike the Government bill of lading, is not an accountable transportation document.\n\n(2) “Government bill of lading (GBL)” is an accountable transportation document, authorized and prepared by a Government official.\n\n“Carrier” or “commercial carrier” means a common carrier or a contract carrier.\n\n“Common carrier” means a person holding itself out to the general public to provide transportation for compensation.\n\n“Contract carrier” means a person providing transportation for compensation under continuing agreements with one person or a limited number of persons.\n\n“Government rate tender” under 49 U.S.C. 10721 and 13712 means an offer by a common carrier to the United States at a rate below the regulated rate offered to the general public.\n\n“Household goods” in accordance with 49 U.S.C. 13102 means personal effects and property used or to be used in a dwelling, when a part of the equipment or supply of such dwelling, and similar property if the transportation of such effects or property is arranged and paid for by—\n\n(1) The householder, except such term does not include property moving from a factory or store, other than property that the householder has purchased with the intent to use in his or her dwelling and is transported at the request of, and the transportation charges are paid to the carrier by, the householder; or\n\n(2) Another party.\n\n“Noncontiguous domestic trade” means transportation (except with regard to bulk cargo, forest products, recycled metal scrap, waste paper, and paper waste) subject to regulation by the Surface Transportation Board involving traffic originating in or destined to Alaska, Hawaii, or a territory or possession of the United States (see 49 U.S.C. 13102(15) and 13702).\n\n“Released or declared value” means the assigned value of the cargo for reimbursement purposes, not necessarily the actual value of the cargo. Released value may be more or less than the actual value of the cargo. The released value is the maximum amount that could be recovered by the agency in the event of loss or damage for the shipments of freight and household goods."
+      },
+      "sub": {}
+    },
+    "2": {
+      "name": "Applicability.",
+      "text": {
+        "text": "All Government personnel concerned with the following activities shall follow the regulations in Part 47 as applicable:\n\n(a) Acquisition of supplies.\n\n(b) Acquisition of transportation and transportation-related services.\n\n(c) Transportation assistance and traffic management.\n\n(d) Administration of transportation contracts, transportation-related services, and other contracts that involve transportation.\n\n(e) The making and administration of contracts under which payments are made from Government funds for—\n\n(1) The transportation of supplies;\n\n(2) Transportation-related services; or\n\n(3) Transportation of contractor personnel and their personal belongings."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Policies.",
-      "sub": {},
       "text": {
         "a": {
           "text": "For domestic shipments, the contracting officer shall authorize shipments on commercial bills of lading (CBL’s). Government bills of lading (GBL’s) may be used for international or noncontiguous domestic trade shipments or when otherwise authorized."
@@ -60,12 +92,11 @@
         "h": {
           "text": "When a contract specifies delivery of supplies f.o.b. origin with transportation costs to be paid by the Government, the contractor shall make shipments on bills of lading, or on other shipping documents prescribed by Military Surface Deployment and Distribution Command (SDDC) in the case of seavan containers, either at the direction of or furnished by the CAO or the appropriate agency transportation office."
         }
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Transportation insurance.",
-      "sub": {},
       "text": {
         "2": {
           "text": "The contracting officer shall document the need and authorization for insurance coverage in the contract file."
@@ -93,11 +124,14 @@
         "ii": {
           "text": "Funds for insurance are available."
         }
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Transportation Payment and Audit Regulation.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -145,14 +179,27 @@
             "text": "Complete and insert the clause at 52.247-67, Submission of Transportation Documents for Audit, in solicitations and contracts when a cost-reimbursement contract is contemplated and the contract or a first-tier cost-reimbursement subcontract thereunder will authorize reimbursement of transportation as a direct charge to the contract or subcontract."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "104": {
-      "number": 104,
       "name": "Government rate tenders under sections 10721 and 13712 of the Interstate Commerce Act (49 U.S.C. 10721 and 13712).",
+      "text": {
+        "1": {
+          "text": "For Government rate tenders submitted by a rail carrier, a rate reduced from the applicable commercial rate is a rate reduced from a rate regulated by the Surface Transportation Board."
+        },
+        "2": {
+          "text": "For Government rate tenders submitted for the movement of household goods, “a rate reduced from the applicable commercial rate” is a rate reduced from a rate contained in a published tariff subject to regulation by the Surface Transportation Board."
+        },
+        "3": {
+          "text": "For Government rate tenders submitted for movement by or with a water carrier in noncontiguous domestic trade, “a rate reduced from the applicable commercial rate” is a rate reduced from a rate contained in a published tariff required to be filed with the Surface Transportation Board."
+        },
+        "a": {
+          "text": "This section explains statutory authority for common carriers subject to the jurisdiction of the Surface Transportation Board (motor carrier, water carrier, freight forwarder, rail carrier) to offer to transport persons or property for the account of the United States without charge or at “a rate reduced from the applicable commercial rate.” Reduced rates are offered in a Government rate tender. Additional information for civilian agencies is available in the Federal Management Regulation (41 CFR parts 102-117 and 102-118) and for DoD in the Defense Transportation Regulation (DoD 4500.9-R)."
+        },
+        "b": {
+          "text": "Reduced rates offered in a Government rate tender are authorized for transportation provided by a rail carrier, for the movement of household goods, and for movement by or with a water carrier in noncontiguous domestic trade."
+        }
+      },
       "sub": {
         "1": {
           "name": "Government rate tender procedures.",
@@ -252,29 +299,10 @@
             "text": "When 49 U.S.C. 10721 and 13712 rates apply, transportation offices or contractors, as appropriate, shall identify the applicable Government rate tender by endorsement on bills of lading."
           }
         }
-      },
-      "text": {
-        "1": {
-          "text": "For Government rate tenders submitted by a rail carrier, a rate reduced from the applicable commercial rate is a rate reduced from a rate regulated by the Surface Transportation Board."
-        },
-        "2": {
-          "text": "For Government rate tenders submitted for the movement of household goods, “a rate reduced from the applicable commercial rate” is a rate reduced from a rate contained in a published tariff subject to regulation by the Surface Transportation Board."
-        },
-        "3": {
-          "text": "For Government rate tenders submitted for movement by or with a water carrier in noncontiguous domestic trade, “a rate reduced from the applicable commercial rate” is a rate reduced from a rate contained in a published tariff required to be filed with the Surface Transportation Board."
-        },
-        "a": {
-          "text": "This section explains statutory authority for common carriers subject to the jurisdiction of the Surface Transportation Board (motor carrier, water carrier, freight forwarder, rail carrier) to offer to transport persons or property for the account of the United States without charge or at “a rate reduced from the applicable commercial rate.” Reduced rates are offered in a Government rate tender. Additional information for civilian agencies is available in the Federal Management Regulation (41 CFR parts 102-117 and 102-118) and for DoD in the Defense Transportation Regulation (DoD 4500.9-R)."
-        },
-        "b": {
-          "text": "Reduced rates offered in a Government rate tender are authorized for transportation provided by a rail carrier, for the movement of household goods, and for movement by or with a water carrier in noncontiguous domestic trade."
-        }
       }
     },
     "105": {
-      "number": 105,
       "name": "Transportation assistance.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Civilian Government activities that do not have transportation officers, or otherwise need assistance on transportation matters, shall obtain assistance from—",
@@ -290,44 +318,8 @@
         "b": {
           "text": "Military installations shall obtain transportation assistance from the transportation office of the contracting activity, unless another military activity has been designated as responsible for furnishing assistance, guidance, or data. Military transportation offices shall request needed additional aid from the Military Surface Deployment and Distribution Command (SDDC)."
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "a": {
-          "text": "This part prescribes policies and procedures for—",
-          "sub": {
-            "1": {
-              "text": "Applying transportation and traffic management considerations in the acquisition of supplies; and"
-            },
-            "2": {
-              "text": "Acquiring transportation or transportation-related services by contract methods other than bills of lading, transportation requests, transportation warrants, and similar transportation forms. Transportation and transportation services can be obtained by acquisition subject to the FAR or by acquisition under 49 U.S.C. 10721 or 49 U.S.C. 13712. Even though the FAR does not regulate the acquisition of transportation or transportation-related services when the bill of lading is the contract, this contract method is widely used and, therefore, relevant guidance on the use of the bill of lading is provided in this part (see 47.104)."
-            }
-          }
-        },
-        "b": {
-          "text": "The definitions in this part have been condensed from statutory definitions. In case of inconsistency between the language of this part and the statutory requirements, the statute shall prevail."
-        }
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Definitions.",
-      "sub": {},
-      "text": {
-        "text": "As used in this part—\n\n“Bill of lading” means a transportation document, used as a receipt of goods, as documentary evidence of title, for clearing customs, and generally used as a contract of carriage.\n\n(1) “Commercial bill of lading (CBL)”, unlike the Government bill of lading, is not an accountable transportation document.\n\n(2) “Government bill of lading (GBL)” is an accountable transportation document, authorized and prepared by a Government official.\n\n“Carrier” or “commercial carrier” means a common carrier or a contract carrier.\n\n“Common carrier” means a person holding itself out to the general public to provide transportation for compensation.\n\n“Contract carrier” means a person providing transportation for compensation under continuing agreements with one person or a limited number of persons.\n\n“Government rate tender” under 49 U.S.C. 10721 and 13712 means an offer by a common carrier to the United States at a rate below the regulated rate offered to the general public.\n\n“Household goods” in accordance with 49 U.S.C. 13102 means personal effects and property used or to be used in a dwelling, when a part of the equipment or supply of such dwelling, and similar property if the transportation of such effects or property is arranged and paid for by—\n\n(1) The householder, except such term does not include property moving from a factory or store, other than property that the householder has purchased with the intent to use in his or her dwelling and is transported at the request of, and the transportation charges are paid to the carrier by, the householder; or\n\n(2) Another party.\n\n“Noncontiguous domestic trade” means transportation (except with regard to bulk cargo, forest products, recycled metal scrap, waste paper, and paper waste) subject to regulation by the Surface Transportation Board involving traffic originating in or destined to Alaska, Hawaii, or a territory or possession of the United States (see 49 U.S.C. 13102(15) and 13702).\n\n“Released or declared value” means the assigned value of the cargo for reimbursement purposes, not necessarily the actual value of the cargo. Released value may be more or less than the actual value of the cargo. The released value is the maximum amount that could be recovered by the agency in the event of loss or damage for the shipments of freight and household goods."
-      }
-    },
-    "002": {
-      "number": 2,
-      "name": "Applicability.",
-      "sub": {},
-      "text": {
-        "text": "All Government personnel concerned with the following activities shall follow the regulations in Part 47 as applicable:\n\n(a) Acquisition of supplies.\n\n(b) Acquisition of transportation and transportation-related services.\n\n(c) Transportation assistance and traffic management.\n\n(d) Administration of transportation contracts, transportation-related services, and other contracts that involve transportation.\n\n(e) The making and administration of contracts under which payments are made from Government funds for—\n\n(1) The transportation of supplies;\n\n(2) Transportation-related services; or\n\n(3) Transportation of contractor personnel and their personal belongings."
-      }
+      },
+      "sub": {}
     }
   }
 }

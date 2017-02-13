@@ -3,18 +3,29 @@
   "number": 1,
   "name": "Contract Execution",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures relating to the administrative aspects of contract execution, contractor-submitted paper documents, distribution, reporting, retention, and files."
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Definition.",
+      "text": {
+        "text": "As used in this part—\n\n“Procurement Instrument Identifier (PIID)” means the Government-unique identifier for each solicitation, contract, agreement, or order.  For example, an agency may use as its PIID for procurement actions, such as delivery and task orders or basic ordering agreements, the order or agreement number in conjunction with the contract number (see 4.1602).\n\n“Supplementary procurement instrument identifier” means the non-unique identifier for a procurement action that is used in conjunction with the Government-unique identifier.  For example, an agency may use as its PIID for an amended solicitation, the Government-unique identifier for a solicitation number (e.g., N0002309R0009) in conjunction with a non-unique amendment number (e.g., 0001).  The non-unique amendment number represents the supplementary PIID."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Contracting officer’s signature.",
-      "sub": {},
       "text": {
         "text": "Only contracting officers shall sign contracts on behalf of the United States. The contracting officer’s name and official title shall be typed, stamped, or printed on the contract. The contracting officer normally signs the contract after it has been signed by the contractor. The contracting officer shall ensure that the signer(s) have authority to bind the contractor (see specific requirements in 4.102 of this subpart)."
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Contractor’s signature.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Individuals. A contract with an individual shall be signed by that individual. A contract with an individual doing business as a firm shall be signed by that individual, and the signature shall be followed by the individual’s typed, stamped, or printed name and the words, “an individual doing business as _________” [insert name of firm]."
@@ -31,31 +42,15 @@
         "e": {
           "text": "Agents. When an agent is to sign the contract, other than as stated in paragraphs (a) through (d) of this section, the agent’s authorization to bind the principal must be established by evidence satisfactory to the contracting officer."
         }
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall insert the clause at 52.204-1, Approval of Contract, in solicitations and contracts if required by agency procedures."
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures relating to the administrative aspects of contract execution, contractor-submitted paper documents, distribution, reporting, retention, and files."
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Definition.",
-      "sub": {},
-      "text": {
-        "text": "As used in this part—\n\n“Procurement Instrument Identifier (PIID)” means the Government-unique identifier for each solicitation, contract, agreement, or order.  For example, an agency may use as its PIID for procurement actions, such as delivery and task orders or basic ordering agreements, the order or agreement number in conjunction with the contract number (see 4.1602).\n\n“Supplementary procurement instrument identifier” means the non-unique identifier for a procurement action that is used in conjunction with the Government-unique identifier.  For example, an agency may use as its PIID for an amended solicitation, the Government-unique identifier for a solicitation number (e.g., N0002309R0009) in conjunction with a non-unique amendment number (e.g., 0001).  The non-unique amendment number represents the supplementary PIID."
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,25 +4,21 @@
   "name": "Employment of Workers with Disabilities",
   "sub": {
     "1400": {
-      "number": 1400,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for implementing section 503 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 793) (the Act); Executive Order 11758, January 15, 1974; and the regulations of the Secretary of Labor (41 CFR Part 60-741). In this subpart, the terms “contract” and “contractor” include “subcontract” and “subcontractor.”"
-      }
+      },
+      "sub": {}
     },
     "1401": {
-      "number": 1401,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "text": "Contractors and subcontractors, when entering into contracts and subcontracts subject to the Act, are required to—\n\n(a) Take affirmative action to employ, and advance in employment, qualified individuals with disabilities, and to otherwise treat qualified individuals without discrimination based on their physical or mental disability;\n\n(b) Undertake appropriate outreach and positive recruitment activities that are reasonably designed to effectively recruit qualified individuals with disabilities; and\n\n(c) Compare the utilization of individuals with disabilities in their workforces to the utilization goal, as prescribed in the regulations of the Secretary of Labor, on an annual basis."
-      }
+      },
+      "sub": {}
     },
     "1402": {
-      "number": 1402,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Section 503 of the Act applies to all Government contracts in excess of $15,000 for supplies and services (including construction) except as waived by the Secretary of Labor. The clause at 52.222-36, Equal Opportunity for Workers with Disabilities, implements the Act."
@@ -30,12 +26,11 @@
         "b": {
           "text": "The requirements of the clause at 52.222-36, Equal Opportunity for Workers with Disabilities, in any contract with a State or local government (or any agency, instrumentality, or subdivision) shall not apply to any agency, instrumentality, or subdivision of that government that does not participate in work on or under the contract."
         }
-      }
+      },
+      "sub": {}
     },
     "1403": {
-      "number": 1403,
       "name": "Waivers.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Director of the Office of Federal Contract Compliance Programs of the U.S. Department of Labor (Director of OFCCP), may waive the application of any or all of the terms of the clause at 52.222-36, Equal Opportunity for Workers with Disabilities, for—",
@@ -63,28 +58,25 @@
         "d": {
           "text": "A waiver granted for a particular class of contracts may be withdrawn for any contract within that class whenever considered necessary by the Director of OFCCP to achieve the purposes of the Act. The withdrawal shall not apply to contracts awarded before the withdrawal. The withdrawal shall not apply to solicitations under any means of sealed bidding unless it is made more than 10 days before the date set for bid opening."
         }
-      }
+      },
+      "sub": {}
     },
     "1404": {
-      "number": 1404,
       "name": "Department of Labor notices.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall furnish to the contractor appropriate notices that state the contractor’s obligations and the rights of individuals with disabilities. The contracting officer may obtain these notices from the Office of Federal Contract Compliance Programs (OFCCP) regional office."
-      }
+      },
+      "sub": {}
     },
     "1405": {
-      "number": 1405,
       "name": "Collective bargaining agreements.",
-      "sub": {},
       "text": {
         "text": "If performance under the clause at 52.222-36, Equal Opportunity for Workers with Disabilities, may necessitate a revision of a collective bargaining agreement, the contracting officer shall advise the affected labor unions that the Department of Labor will give them appropriate opportunity to present their views. However, neither the contracting officer nor any representative of the contracting officer shall discuss with the contractor or any labor representative any aspect of the collective bargaining agreement."
-      }
+      },
+      "sub": {}
     },
     "1406": {
-      "number": 1406,
       "name": "Complaint procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Following agency procedures, the contracting office shall forward any complaints received about the administration of the Act to—",
@@ -100,20 +92,18 @@
         "b": {
           "text": "The OFCCP shall institute investigation of each complaint and shall be responsible for developing a complete case record."
         }
-      }
+      },
+      "sub": {}
     },
     "1407": {
-      "number": 1407,
       "name": "Actions because of noncompliance.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall take necessary action, as soon as possible upon notification by the appropriate agency official, to implement any sanctions imposed on a contractor by the Department of Labor for violations of the clause at 52.222-36, Equal Opportunity for Workers with Disabilities. These sanctions (see 41 CFR 60-741.66) may include—\n\n(a) Withholding from payments otherwise due;\n\n(b) Termination or suspension of the contract; or\n\n(c) Debarment of the contractor."
-      }
+      },
+      "sub": {}
     },
     "1408": {
-      "number": 1408,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Insert the clause at 52.222-36, Equal Opportunity for Workers with Disabilities, in solicitations and contracts that exceed or are expected to exceed $15,000, except when—",
@@ -129,7 +119,8 @@
         "b": {
           "text": "If the Director of OFCCP or agency head waives one or more (but not all) of the terms of the clause in accordance with 22.1403(a) or 22.1403(b), use the basic clause with its Alternate I."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,9 +4,7 @@
   "name": "Synopses of Proposed Contract Actions",
   "sub": {
     "201": {
-      "number": 201,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "As required by the Small Business Act (15 U.S.C. 637(e)) and the Office of Federal Procurement Policy Act (41 U.S.C. 1708), agencies must make notices of proposed contract actions available as specified in paragraph (b) of this section."
@@ -34,36 +32,32 @@
         "d": {
           "text": "The GPE may be accessed via the Internet at http://www.fedbizopps.gov."
         }
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Exceptions.",
-      "sub": {},
       "text": {
         "text": "The contracting officer need not submit the notice required by 5.201 when—\n\n(a) The contracting officer determines that—\n\n(1) The synopsis cannot be worded to preclude disclosure of an agency’s needs and such disclosure would compromise the national security (e.g., would result in disclosure of classified information). The fact that a proposed solicitation or contract action contains classified information, or that access to classified matter may be necessary to submit a proposal or perform the contract does not, in itself, justify use of this exception to synopsis;\n\n(2) The proposed contract action is made under the conditions described in 6.302-2 (or, for purchases conducted using simplified acquisition procedures, if unusual and compelling urgency precludes competition to the maximum extent practicable) and the Government would be seriously injured if the agency complies with the time periods specified in 5.203;\n\n(3) The proposed contract action is one for which either the written direction of a foreign government reimbursing the agency for the cost of the acquisition of the supplies or services for such government, or the terms of an international agreement or treaty between the United States and a foreign government, or international organizations, has the effect of requiring that the acquisition shall be from specified sources;\n\n(4) The proposed contract action is expressly authorized or required by a statute to be made through another Government agency, including acquisitions from the Small Business Administration (SBA) using the authority of section 8(a) of the Small Business Act (but see 5.205(f)), or from a specific source such as a workshop for the blind under the rules of the Committee for Purchase from People Who Are Blind or Severely Disabled;\n\n(5) The proposed contract action is for utility services other than telecommunications services and only one source is available;\n\n(6) The proposed contract action is an order placed under subpart 16.5. When the order contains brand-name specifications, see especially 16.505(a)(4);\n\n(7) The proposed contract action results from acceptance of a proposal under the Small Business Innovation Development Act of 1982 (Pub. L. 97-219);\n\n(8) The proposed contract action results from the acceptance of an unsolicited research proposal that demonstrates a unique and innovative concept (see 2.101) and publication of any notice complying with 5.207 would improperly disclose the originality of thought or innovativeness of the proposed research, or would disclose proprietary information associated with the proposal. This exception does not apply if the proposed contract action results from an unsolicited research proposal and acceptance is based solely upon the unique capability of the source to perform the particular research services proposed (see 6.302-1(a)(2)(i));\n\n(9) The proposed contract action is made for perishable subsistence supplies, and advance notice is not appropriate or reasonable;\n\n(10) The proposed contract action is made under conditions described in 6.302-3, or 6.302-5 with regard to brand name commercial items for authorized resale, or 6.302-7, and advance notice is not appropriate or reasonable;\n\n(11) The proposed contract action is made under the terms of an existing contract that was previously synopsized in sufficient detail to comply with the requirements of 5.207 with respect to the current proposed contract action;\n\n(12) The proposed contract action is by a Defense agency and the proposed contract action will be made and performed outside the United States and its outlying areas, and only local sources will be solicited. This exception does not apply to proposed contract actions covered by the World Trade Organization Government Procurement Agreement or a Free Trade Agreement (see subpart 25.4);\n\n(13) The proposed contract action—\n\n(i) Is for an amount not expected to exceed the simplified acquisition threshold;\n\n(ii) Will be made through a means that provides access to the notice of proposed contract action through the GPE; and\n\n(iii) Permits the public to respond to the solicitation electronically; or\n\n(14) The proposed contract action is made under conditions described in 6.302-3 with respect to the services of an expert to support the Federal Government in any current or anticipated litigation or dispute.\n\n(b) The head of the agency determines in writing, after consultation with the Administrator for Federal Procurement Policy and the Administrator of the Small Business Administration, that advance notice is not appropriate or reasonable."
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Publicizing and response time.",
-      "sub": {},
       "text": {
         "text": "Whenever agencies are required to publicize notice of proposed contract actions under 5.201, they must proceed as follows:\n\n(a) An agency must transmit a notice of proposed contract action to the GPE (see 5.201). All publicizing and response times are calculated based on the date of publication. The publication date is the date the notice appears on the GPE. The notice must be published at least 15 days before issuance of a solicitation, or a proposed contract action the Government intends to solicit and negotiate with only one source under the authority of 6.302, except that, for acquisitions of commercial items, the contracting officer may—\n\n(1) Establish a shorter period for issuance of the solicitation; or\n\n(2) Use the combined synopsis and solicitation procedure (see 12.603).\n\n(b) The contracting officer must establish a solicitation response time that will afford potential offerors a reasonable opportunity to respond to each proposed contract action, (including actions where the notice of proposed contract action and solicitation information is accessible through the GPE), in an amount estimated to be greater than $25,000, but not greater than the simplified acquisition threshold; or each contract action for the acquisition of commercial items in an amount estimated to be greater than $25,000. The contracting officer should consider the circumstances of the individual acquisition, such as the complexity, commerciality, availability, and urgency, when establishing the solicitation response time.\n\n(c) Except for the acquisition of commercial items (see 5.203(b)), agencies shall allow at least a 30-day response time for receipt of bids or proposals from the date of issuance of a solicitation, if the proposed contract action is expected to exceed the simplified acquisition threshold.\n\n(d) Agencies shall allow at least a 30 day response time from the date of publication of a proper notice of intent to contract for architect-engineer services or before issuance of an order under a basic ordering agreement or similar arrangement if the proposed contract action is expected to exceed the simplified acquisition threshold.\n\n(e) Agencies must allow at least a 45-day response time for receipt of bids or proposals from the date of publication of the notice required in 5.201 for proposed contract actions categorized as research and development if the proposed contract action is expected to exceed the simplified acquisition threshold.\n\n(f) Nothing in this subpart prohibits officers or employees of agencies from responding to requests for information.\n\n(g) Contracting officers may, unless they have evidence to the contrary, presume the notice was published one day after transmission to the GPE. This presumption does not negate the mandatory waiting or response times specified in paragraphs (a) through (d) of this section. Upon learning that a particular notice has not in fact been published within the presumed timeframes, contracting officers should consider whether the date for receipt of offers can be extended or whether circumstances have become sufficiently compelling to justify proceeding with the proposed contract action under the authority of 5.202(a)(2).\n\n(h) In addition to other requirements set forth in this section, for acquisitions covered by the World Trade Organization Government Procurement Agreement or a Free Trade Agreement (see subpart 25.4), the period of time between publication of the synopsis notice and receipt of offers must be no less than 40 days. However, if the acquisition falls within a general category identified in an annual forecast, the availability of which is published, the contracting officer may reduce this time period to as few as 10 days."
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Presolicitation notices.",
-      "sub": {},
       "text": {
         "text": "Contracting officers must provide access to presolicitation notices through the GPE (see 15.201 and 36.213-2). The contracting officer must synopsize a proposed contract action before issuing any resulting solicitation (see 5.201 and 5.203)."
-      }
+      },
+      "sub": {}
     },
     "205": {
-      "number": 205,
       "name": "Special situations.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Research and development (R&D) advance notices. Contracting officers may transmit to the GPE advance notices of their interest in potential R&D programs whenever market research does not produce a sufficient number of concerns to obtain adequate competition. Advance notices must not be used where security considerations prohibit such publication. Advance notices will enable potential sources to learn of R&D programs and provide these sources with an opportunity to submit information which will permit evaluation of their capabilities. Contracting officers must consider potential sources which respond to advance notices for a subsequent solicitation. Advanced notices must be entitled “Research and Development Sources Sought” and include the name and telephone number of the contracting officer or other contracting activity official from whom technical details of the project can be obtained. This will enable sources to submit information for evaluation of their R&D capabilities. Contracting officers must synopsize (see 5.201) all subsequent solicitations for R&D contracts, including those resulting from a previously synopsized advance notice, unless one of the exceptions in 5.202 applies."
@@ -116,12 +110,11 @@
         "g": {
           "text": "Notification to the public of rationale for bundled requirement. The agency is encouraged to provide notification of the rationale for any bundled requirement to the GPE before issuing the solicitation of any bundled requirement (see 7.107-5(b)(2))."
         }
-      }
+      },
+      "sub": {}
     },
     "206": {
-      "number": 206,
       "name": "Notices of subcontracting opportunities.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The business opportunity;"
@@ -146,12 +139,11 @@
         "b": {
           "text": "The notices must describe—"
         }
-      }
+      },
+      "sub": {}
     },
     "207": {
-      "number": 207,
       "name": "Preparation and transmittal of synopses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Content. Each synopsis transmitted to the GPE must address the following data elements, as applicable:",
@@ -307,7 +299,8 @@
         "f": {
           "text": "Notice of solicitation cancellation.  Contracting officers may publish notices of solicitation cancellations (or indefinite suspensions) of proposed contract actions in the GPE."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

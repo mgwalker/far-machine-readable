@@ -4,16 +4,17 @@
   "name": "Patents and Copyrights",
   "sub": {
     "200": {
-      "number": 200,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures with respect to—\n\n(a) Patent and copyright infringement liability;\n\n(b) Royalties;\n\n(c) Security requirements for patent applications containing classified subject matter; and\n\n(d) Patented technology under trade agreements."
-      }
+      },
+      "sub": {}
     },
     "201": {
-      "number": 201,
       "name": "Patent and copyright infringement liability.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -105,14 +106,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "202": {
-      "number": 202,
       "name": "Royalties.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Reporting of royalties.",
@@ -218,14 +218,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "203": {
-      "number": 203,
       "name": "Security requirements for patent applications containing classified subject matter.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -250,14 +249,13 @@
             "text": "Insert the clause at 52.227-10, Filing of Patent Applications—Classified Subject Matter, in all classified solicitations and contracts and in all solicitations and contracts where the nature of the work reasonably might result in a patent application containing classified subject matter."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "204": {
-      "number": 204,
       "name": "Patented technology under trade agreements.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Use of patented technology under the North American Free Trade Agreement.",
@@ -291,9 +289,6 @@
             "text": "Article 31 of Annex 1C, Agreement on Trade-Related Aspects of Intellectual Property Rights, to GATT (Uruguay Round) addresses situations where the law of a member country allows for use of a patent without authorization, including use by the Government."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

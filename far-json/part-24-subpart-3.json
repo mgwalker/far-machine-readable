@@ -4,9 +4,7 @@
   "name": "Privacy Training",
   "sub": {
     "301": {
-      "number": 301,
       "name": "Privacy training.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Contractors are responsible for ensuring that initial privacy training, and annual privacy training thereafter, is completed by contractor employees who–",
@@ -54,12 +52,11 @@
         "e": {
           "text": "No contractor employee shall be permitted to have or retain access to a system of records, create, collect, use, process, store, maintain, disseminate, disclose, or dispose, or otherwise handle personally identifiable information, or design, develop, maintain, or operate a system of records, unless the employee has completed privacy training that, at a minimum, addresses the elements in paragraph (b) of this section."
         }
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Contract Clause.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall insert the clause at FAR 52.224-3, Privacy Training, in solicitations and contracts when, on behalf of the agency, contractor employees will–",
@@ -78,7 +75,8 @@
         "b": {
           "text": "When an agency specifies that only its agency-provided training is acceptable, use the clause with its Alternate I."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

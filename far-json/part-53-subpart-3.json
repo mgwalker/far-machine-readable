@@ -4,36 +4,32 @@
   "name": "Illustration of Forms",
   "sub": {
     "300": {
-      "number": 300,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart contains illustrations of forms used in acquisitions."
-      }
+      },
+      "sub": {}
     },
     "301": {
-      "number": 301,
       "name": "Standard forms.",
-      "sub": {},
       "text": {
         "text": "This section illustrates the standard forms that are specified by the FAR for use in acquisitions. The forms are illustrated in numerical order. The subsection numbers correspond with the standard form numbers (e.g., Standard Form 18 appears as 53.301-18)."
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Optional forms.",
-      "sub": {},
       "text": {
         "text": "This section illustrates the optional forms that are specified by the FAR for use in acquisitions. The numbering system is as indicated in 53.301."
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Agency forms.",
-      "sub": {},
       "text": {
         "text": "This section illustrates agency forms that are specified by the FAR for use in acquisitions. The forms are arranged numerically by agency. The numbering system is as indicated in 53.301."
-      }
+      },
+      "sub": {}
     }
   }
 }

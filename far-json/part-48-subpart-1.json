@@ -3,10 +3,22 @@
   "number": 1,
   "name": "Policies and Procedures",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures for using and administering value engineering techniques in contracts."
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Definitions.",
+      "text": {
+        "text": "As used in this part—\n\n“Acquisition savings” means savings resulting from the application of a value engineering change proposal (VECP) to contracts awarded by the same contracting office or its successor for essentially the same unit. Acquisition savings include—\n\n(1) Instant contract savings, that are the net cost reductions on the contract under which the VECP is submitted and accepted, and that are equal to the instant unit cost reduction multiplied by the number of instant contract units affected by the VECP, less the contractor’s allowable development and implementation costs;\n\n(2) Concurrent contract savings, that are net reductions in the prices of other contracts that are definitized and ongoing at the time the VECP is accepted; and\n\n(3) Future contract savings, that are the product of the future unit cost reduction multiplied by the number of future contract units in the sharing base. On an instant contract, future contract savings include savings on increases in quantities after VECP acceptance that are due to contract modifications, exercise of options, additional orders, and funding of subsequent year requirements on a multiyear contract.\n\n“Collateral costs” means agency costs of operation, maintenance, logistic support, or Government-furnished property.\n\n“Collateral savings” means those measurable net reductions resulting from a VECP in the agency’s overall projected collateral costs, exclusive of acquisition savings, whether or not the acquisition cost changes.\n\n“Contracting office” includes any contracting office that the acquisition is transferred to, such as another branch of the agency or another agency’s office that is performing a joint acquisition action.\n\n“Contractor’s development and implementation costs” means those costs the contractor incurs on a VECP specifically in developing, testing, preparing, and submitting the VECP, as well as those costs the contractor incurs to make the contractual changes required by Government acceptance of a VECP.\n\n“Future unit cost reduction” means the instant unit cost reduction adjusted as the contracting officer considers necessary for projected learning or changes in quantity during the sharing period. It is calculated at the time the VECP is accepted and applies either—\n\n(1) Throughout the sharing period, unless the contracting officer decides that recalculation is necessary because conditions are significantly different from those previously anticipated, or\n\n(2) To the calculation of a lump-sum payment, that cannot later be revised.\n\n“Government costs” means those agency costs that result directly from developing and implementing the VECP, such as any net increases in the cost of testing, operations, maintenance, and logistics support. The term does not include the normal administrative costs of processing the VECP or any increase in instant contract cost or price resulting from negative instant contract savings, except that for use in 52.248-3, see the definition at 52.248-3(b).\n\n“Instant contract” means the contract under which the VECP is submitted. It does not include increases in quantities after acceptance of the VECP that are due to contract modifications, exercise of options, or additional orders. If the contract is a multiyear contract, the term does not include quantities funded after VECP acceptance. In a fixed-price contract with prospective price redetermination, the term refers to the period for which firm prices have been established.\n\n“Instant unit cost reduction” means the amount of the decrease in unit cost of performance (without deducting any contractor’s development or implementation costs) resulting from using the VECP on the instant contract. In service contracts, the instant unit cost reduction is normally equal to the number of hours per line-item task saved by using the VECP on the instant contract, multiplied by the appropriate contract labor rate.\n\n“Negative instant contract savings” means the increase in the instant contract cost or price when the acceptance of a VECP results in an excess of the contractor’s allowable development and implementation costs over the product of the instant unit cost reduction multiplied by the number of instant contract units affected.\n\n“Net acquisition savings” means total acquisition savings, including instant, concurrent, and future contract savings, less Government costs.\n\n“Sharing base” means the number of affected end items on contracts of the contracting office accepting the VECP.\n\n“Sharing period” means the period beginning with acceptance of the first unit incorporating the VECP and ending at a calendar date or event determined by the contracting officer for each VECP.\n\n“Unit” means the item or task to which the contracting officer and the contractor agree the VECP applies.\n\n“Value engineering proposal” means, in connection with an A-E contract, a change proposal developed by employees of the Federal Government or contractor value engineering personnel under contract to an agency to provide value engineering services for the contract or program."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "General.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The first is an incentive approach in which contractor participation is voluntary and the contractor uses its own resources to develop and submit any value engineering change proposals (VECP’s). The contract provides for sharing of savings and for payment of the contractor’s allowable development and implementation costs only if a VECP is accepted. This voluntary approach should not in itself increase costs to the Government."
@@ -20,12 +32,11 @@
         "b": {
           "text": "There are two value engineering approaches:"
         }
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Policies.",
-      "sub": {},
       "text": {
         "a": {
           "text": "As required by 41 U.S.C. 1711, agencies shall establish and maintain cost-effective value engineering procedures and processes. Agencies shall provide contractors a substantial financial incentive to develop and submit VECP’s. Contracting activities will include value engineering provisions in appropriate supply, service, architect-engineer and construction contracts as prescribed by 48.201 and 48.202 except where exemptions are granted on a case-by-case basis, or for specific classes of contracts, by the agency head."
@@ -99,12 +110,11 @@
         "i": {
           "text": "Agencies shall establish procedures for funding and payment of the contractor’s share of collateral savings and future contract savings."
         }
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Processing value engineering change proposals.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The decision to accept or reject a VECP."
@@ -127,11 +137,14 @@
         "c": {
           "text": "The following Government decisions are unilateral decisions made solely at the discretion of the Government:"
         }
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "Sharing arrangements.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Determining sharing period.",
@@ -237,34 +250,14 @@
             "text": "In selecting an appropriate mechanism for incorporating a VECP into a contract, the contracting officer shall analyze the different approaches available to determine which one would be in the Government’s best interest. Contracting officers should balance the administrative costs of negotiating a settlement against the anticipated savings. A no-cost settlement may be used if, in the contracting officer’s judgment, reliance on other VECP approaches likely would not be more cost-effective, and the no-cost settlement would provide adequate consideration to the Government. Under this method of settlement, the contractor would keep all of the savings on the instant contract, and all savings on its concurrent contracts only. The Government would keep all savings resulting from concurrent contracts placed with other sources, savings from all future contracts, and all collateral savings. Use of this method must be by mutual agreement of both parties for individual VECPs."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "105": {
-      "number": 105,
       "name": "Relationship to other incentives.",
-      "sub": {},
       "text": {
         "text": "Contractors should be offered the fullest possible range of motivation, yet the benefits of an accepted VECP should not be rewarded both as value engineering shares and under performance, design-to-cost, or similar incentives of the contract. To that end, when performance, design-to-cost, or similar targets are set and incentivized, the targets of such incentives affected by the VECP are not to be adjusted because of the acceptance of the VECP. Only those benefits of an accepted VECP not rewardable under other incentives are rewarded under a value engineering clause."
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures for using and administering value engineering techniques in contracts."
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Definitions.",
-      "sub": {},
-      "text": {
-        "text": "As used in this part—\n\n“Acquisition savings” means savings resulting from the application of a value engineering change proposal (VECP) to contracts awarded by the same contracting office or its successor for essentially the same unit. Acquisition savings include—\n\n(1) Instant contract savings, that are the net cost reductions on the contract under which the VECP is submitted and accepted, and that are equal to the instant unit cost reduction multiplied by the number of instant contract units affected by the VECP, less the contractor’s allowable development and implementation costs;\n\n(2) Concurrent contract savings, that are net reductions in the prices of other contracts that are definitized and ongoing at the time the VECP is accepted; and\n\n(3) Future contract savings, that are the product of the future unit cost reduction multiplied by the number of future contract units in the sharing base. On an instant contract, future contract savings include savings on increases in quantities after VECP acceptance that are due to contract modifications, exercise of options, additional orders, and funding of subsequent year requirements on a multiyear contract.\n\n“Collateral costs” means agency costs of operation, maintenance, logistic support, or Government-furnished property.\n\n“Collateral savings” means those measurable net reductions resulting from a VECP in the agency’s overall projected collateral costs, exclusive of acquisition savings, whether or not the acquisition cost changes.\n\n“Contracting office” includes any contracting office that the acquisition is transferred to, such as another branch of the agency or another agency’s office that is performing a joint acquisition action.\n\n“Contractor’s development and implementation costs” means those costs the contractor incurs on a VECP specifically in developing, testing, preparing, and submitting the VECP, as well as those costs the contractor incurs to make the contractual changes required by Government acceptance of a VECP.\n\n“Future unit cost reduction” means the instant unit cost reduction adjusted as the contracting officer considers necessary for projected learning or changes in quantity during the sharing period. It is calculated at the time the VECP is accepted and applies either—\n\n(1) Throughout the sharing period, unless the contracting officer decides that recalculation is necessary because conditions are significantly different from those previously anticipated, or\n\n(2) To the calculation of a lump-sum payment, that cannot later be revised.\n\n“Government costs” means those agency costs that result directly from developing and implementing the VECP, such as any net increases in the cost of testing, operations, maintenance, and logistics support. The term does not include the normal administrative costs of processing the VECP or any increase in instant contract cost or price resulting from negative instant contract savings, except that for use in 52.248-3, see the definition at 52.248-3(b).\n\n“Instant contract” means the contract under which the VECP is submitted. It does not include increases in quantities after acceptance of the VECP that are due to contract modifications, exercise of options, or additional orders. If the contract is a multiyear contract, the term does not include quantities funded after VECP acceptance. In a fixed-price contract with prospective price redetermination, the term refers to the period for which firm prices have been established.\n\n“Instant unit cost reduction” means the amount of the decrease in unit cost of performance (without deducting any contractor’s development or implementation costs) resulting from using the VECP on the instant contract. In service contracts, the instant unit cost reduction is normally equal to the number of hours per line-item task saved by using the VECP on the instant contract, multiplied by the appropriate contract labor rate.\n\n“Negative instant contract savings” means the increase in the instant contract cost or price when the acceptance of a VECP results in an excess of the contractor’s allowable development and implementation costs over the product of the instant unit cost reduction multiplied by the number of instant contract units affected.\n\n“Net acquisition savings” means total acquisition savings, including instant, concurrent, and future contract savings, less Government costs.\n\n“Sharing base” means the number of affected end items on contracts of the contracting office accepting the VECP.\n\n“Sharing period” means the period beginning with acceptance of the first unit incorporating the VECP and ending at a calendar date or event determined by the contracting officer for each VECP.\n\n“Unit” means the item or task to which the contracting officer and the contractor agree the VECP applies.\n\n“Value engineering proposal” means, in connection with an A-E contract, a change proposal developed by employees of the Federal Government or contractor value engineering personnel under contract to an agency to provide value engineering services for the contract or program."
-      }
+      },
+      "sub": {}
     }
   }
 }

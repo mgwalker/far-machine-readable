@@ -4,8 +4,10 @@
   "name": "Consent to Subcontracts",
   "sub": {
     "201": {
-      "number": 201,
       "name": "Consent and advance notification requirements.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Consent requirements.",
@@ -44,14 +46,13 @@
             "text": "Under cost-reimbursement contracts, the contractor is required by statute to notify the contracting officer as follows:\n\n(a) For the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration, unless the contractor maintains an approved purchasing system, 10 U.S.C. 2306 requires notification before the award of any cost-plus-fixed-fee subcontract, or any fixed-price subcontract that exceeds the greater of the simplified acquisition threshold or 5 percent of the total estimated cost of the contract.\n\n(b) For civilian agencies other than the Coast Guard and the National Aeronautics and Space Administration, even if the contractor has an approved purchasing system, 41 U.S.C. 3905 requires notification before the award of any cost-plus-fixed-fee subcontract, or any fixed-price subcontract that exceeds either the simplified acquisition threshold or 5 percent of the total estimated cost of the contract."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "202": {
-      "number": 202,
       "name": "Contracting officer’s evaluation.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Responsibilities.",
@@ -139,15 +140,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "203": {
-      "number": 203,
       "name": "Consent limitations.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer’s consent to a subcontract or approval of the contractor’s purchasing system does not constitute a determination of the acceptability of the subcontract terms or price, or of the allowability of costs, unless the consent or approval specifies otherwise."
@@ -175,12 +171,11 @@
         "c": {
           "text": "Contracting officers should not refuse consent to a subcontract merely because it contains a clause giving the subcontractor the right of indirect appeal to an agency board of contract appeals if the subcontractor is affected by a dispute between the Government and the prime contractor. Indirect appeal means assertion by the subcontractor of the prime contractor’s right to appeal or the prosecution of an appeal by the prime contractor on the subcontractor’s behalf. The clause may also provide that the prime contractor and subcontractor shall be equally bound by the contracting officer’s or board’s decision. The clause may not attempt to obligate the contracting officer or the appeals board to decide questions that do not arise between the Government and the prime contractor or that are not cognizable under the clause at 52.233-1, Disputes."
         }
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "1": {
           "text": "A firm-fixed-price contract, awarded on the basis of adequate price competition or whose prices are set by law or regulation, is contemplated; or"
@@ -220,7 +215,8 @@
         "c": {
           "text": "The contracting officer shall, when contracting by negotiation, insert the clause at 52.244-5, Competition in Subcontracting, in solicitations and contracts when the contract amount is expected to exceed the simplified acquisition threshold, unless—"
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

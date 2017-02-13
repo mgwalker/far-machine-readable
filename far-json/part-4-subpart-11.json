@@ -4,25 +4,21 @@
   "name": "System for Award Management",
   "sub": {
     "1100": {
-      "number": 1100,
       "name": "Scope.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for requiring contractor registration in the System for Award Management (SAM) database to—\n\n(a) Increase visibility of vendor sources (including their geographical locations) for specific supplies and services; and\n\n(b) Establish a common source of vendor data for the Government."
-      }
+      },
+      "sub": {}
     },
     "1101": {
-      "number": 1101,
       "name": "Definition.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Agreement” means basic agreement, basic ordering agreement, or blanket purchase agreement."
-      }
+      },
+      "sub": {}
     },
     "1102": {
-      "number": 1102,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "2": {
           "text": "The contractor shall not change the name or address for electronic funds transfer payments (EFT) or manual payments, as appropriate, in the SAM record to reflect an assignee for the purpose of assignment of claims (see Subpart 32.8, Assignment of Claims)."
@@ -76,12 +72,11 @@
         "ii": {
           "text": "If the contractor fails to comply with the requirements of paragraph (c)(1)(i) of the clause at 52.204-13, System for Award Management Maintenance, or fails to perform the agreement at 52.204-13, paragraph (c)(1)(i)(C),  and, in the absence of a properly executed novation or change-of-name agreement, the SAM information that shows the contractor to be other than the contractor indicated in the contract will be considered to be incorrect information within the meaning of the “Suspension of Payment” paragraph of the EFT clause of the contract."
         }
-      }
+      },
+      "sub": {}
     },
     "1103": {
-      "number": 1103,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Unless the acquisition is exempt under 4.1102, the contracting officer—",
@@ -125,20 +120,18 @@
         "d": {
           "text": "The contracting officer shall, on contractual documents transmitted to the payment office, provide the unique entity identifier and, if applicable, the Electronic Funds Transfer indicator, in accordance with agency procedures."
         }
-      }
+      },
+      "sub": {}
     },
     "1104": {
-      "number": 1104,
       "name": "Disaster Response Registry.",
-      "sub": {},
       "text": {
         "text": "Contracting officers shall consult the Disaster Response Registry via https://www.acquisition.gov when contracting for debris removal, distribution of supplies, reconstruction, and other disaster or emergency relief activities inside the United States and outlying areas.  (See 26.205)."
-      }
+      },
+      "sub": {}
     },
     "1105": {
-      "number": 1105,
       "name": "Solicitation provision and contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "(1) Except as provided in 4.1102(a), use the provisions at 52.204-7, System for Award Management, in solicitations.",
@@ -151,7 +144,8 @@
         "b": {
           "text": "Insert the clause at 52.204-13, System for Award Management Maintenance, in solicitations that contain the provision at 52.204-7, and resulting contracts."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

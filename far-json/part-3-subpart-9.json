@@ -4,41 +4,35 @@
   "name": "Whistleblower Protections for Contractor Employees",
   "sub": {
     "900": {
-      "number": 900,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart implements various statutory whistleblower programs. This subpart does not implement 10 U.S.C. 2409, which is applicable only to DoD, NASA, and the Coast Guard.\n\n(a) 41 U.S.C. 4705 (in effect before July 1, 2013 and on or after January 2, 2017).  Sections 3.901 through 3.906 of this subpart implement 41 U.S.C. 4705, applicable to civilian agencies other than NASA and the Coast Guard, except as provided in paragraph (c) of this section.  These sections are not in effect for the duration of the pilot program described in paragraph (b) of this section.\n\n(b) 41 U.S.C. 4712 (in effect on July 1, 2013 through January 1, 2017). Section 3.908 of this subpart implements the pilot program, applicable to civilian agencies other than NASA and the Coast Guard, except as provided in paragraph (c) of this section.\n\n(c) Section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions), implemented in 3.909, applicable to all agencies.\n\n(d) Contracts funded by the American Recovery and Reinvestment Act. Section 3.907 of this subpart implements section 1553 of the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5), and applies to all contracts funded in whole or in part by that Act."
-      }
+      },
+      "sub": {}
     },
     "901": {
-      "number": 901,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Authorized official of an agency” means an officer or employee responsible for contracting, program management, audit, inspection, investigation, or enforcement of any law or regulation relating to Government procurement or the subject matter of the contract.\n\n“Authorized official of the Department of Justice” means any person responsible for the investigation, enforcement, or prosecution of any law or regulation.\n\n“Inspector General” means an Inspector General appointed under the Inspector General Act of 1978, as amended. In the Department of Defense that is the DoD Inspector General. In the case of an executive agency that does not have an Inspector General, the duties shall be performed by an official designated by the head of the executive agency.\n\n“Internal confidentiality agreement or statement” means a confidentiality agreement or any other written statement that the contractor requires any of its employees or subcontractors to sign regarding nondisclosure of contractor information, except that it does not include confidentiality agreements arising out of civil litigation or confidentiality agreements that contractor employees or subcontractors sign at the behest of a Federal agency.\n\n“Subcontract” means any contract as defined in subpart 2.1 entered into by a subcontractor to furnish supplies or services for performance of a prime contract or a subcontract. It includes but is not limited to purchase orders, and changes and modifications to purchase orders.\n\n“Subcontractor” means any supplier, distributor, vendor, or firm (including a consultant) that furnishes supplies or services to or for a prime contractor or another subcontractor."
-      }
+      },
+      "sub": {}
     },
     "902": {
-      "number": 902,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "903": {
-      "number": 903,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "text": "Government contractors shall not discharge, demote or otherwise discriminate against an employee as a reprisal for disclosing information to a Member of Congress, or an authorized official of an agency or of the Department of Justice, relating to a substantial violation of law related to a contract (including the competition for or negotiation of a contract)."
-      }
+      },
+      "sub": {}
     },
     "904": {
-      "number": 904,
       "name": "Procedures for filing complaints.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The name of the contractor;"
@@ -61,12 +55,11 @@
         "b": {
           "text": "The complaint shall be signed and shall contain—"
         }
-      }
+      },
+      "sub": {}
     },
     "905": {
-      "number": 905,
       "name": "Procedures for investigating complaints.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Upon receipt of a complaint, the Inspector General shall conduct an initial inquiry. If the Inspector General determines that the complaint is frivolous or for other reasons does not merit further investigation, the Inspector General shall advise the complainant that no further action on the complaint will be taken."
@@ -94,12 +87,11 @@
         "e": {
           "text": "At any time, the head of the agency or designee may request additional investigative work be done on the complaint."
         }
-      }
+      },
+      "sub": {}
     },
     "906": {
-      "number": 906,
       "name": "Remedies.",
-      "sub": {},
       "text": {
         "a": {
           "text": "If the head of the agency or designee determines that a contractor has subjected one of its employees to a reprisal for providing information to a Member of Congress, or an authorized official of an agency or of the Department of Justice, the head of the agency or designee may take one or more of the following actions:",
@@ -121,11 +113,14 @@
         "c": {
           "text": "Any person adversely affected or aggrieved by an order issued under this section may obtain review of the order’s conformance with the law, and this subpart, in the United States Court of Appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the agency or designee. Review shall conform to Chapter 7 of Title 5, United States Code."
         }
-      }
+      },
+      "sub": {}
     },
     "907": {
-      "number": 907,
       "name": "Whistleblower Protections Under the American Recovery and Reinvestment Act of 2009 (the Recovery Act).",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Definitions.",
@@ -280,14 +275,13 @@
             "text": "Use the clause at 52.203-15, Whistleblower Protections Under the American Recovery and Reinvestment Act of 2009 in all solicitations and contracts funded in whole or in part with Recovery Act funds."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "908": {
-      "number": 908,
       "name": "Pilot program for enhancement of contractor employee whistleblower protections.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Scope of section.",
@@ -454,14 +448,13 @@
             "text": "The contracting officer shall insert the clause at 52.203-17, Contractor Employee Whistleblower Rights and Requirement to Inform Employees of Whistleblower Rights, in all solicitations and contracts that exceed the simplified acquisition threshold."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "909": {
-      "number": 909,
       "name": "Prohibition on providing funds to an entity that requires certain internal confidentiality agreements or statements.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Prohibition.",
@@ -491,9 +484,6 @@
             "text": "When using funding subject to the prohibitions in 3.909-1(a), the contracting officer shall–\n\n(a)(1) Include the provision at 52.203-18, Prohibition on Contracting with Entities that Require Certain Internal Confidentiality Agreements or Statements-Representation, in all solicitations, except as provided in paragraph (a)(2) of this section; and\n\n(2) Do not insert the provision in solicitations for a personal services contract with an individual if the services are to be performed entirely by the individual, rather than by an employee of the contractor or a subcontractor.\n\n(b)(1) Include the clause at 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements, in all solicitations and resultant contracts, other than personal services contracts with individuals.\n\n(2) Modify existing contracts, other than personal services contracts with individuals, to include the clause before obligating FY 2015 or subsequent FY funds that are subject to the same prohibition on internal confidentiality agreements or statements."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

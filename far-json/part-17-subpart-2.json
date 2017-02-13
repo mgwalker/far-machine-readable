@@ -4,25 +4,21 @@
   "name": "Options",
   "sub": {
     "200": {
-      "number": 200,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for the use of option solicitation provisions and contract clauses. Except as provided in agency regulations, this subpart does not apply to contracts for (a) services involving the construction, alteration, or repair (including dredging, excavating, and painting) of buildings, bridges, roads, or other kinds of real property; (b) architect-engineer services; and (c) research and development services. However, it does not preclude the use of options in those contracts."
-      }
+      },
+      "sub": {}
     },
     "201": {
-      "number": 201,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Use of options.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The Government’s need in certain service contracts for continuity of operations; and"
@@ -75,12 +71,11 @@
         "d": {
           "text": "In recognition of—"
         }
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Solicitations.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Solicitations shall include appropriate option provisions and clauses when resulting contracts will provide for the exercise of options (see 17.208)."
@@ -122,12 +117,11 @@
         "h": {
           "text": "Include the value of options in determining if the acquisition will exceed the World Trade Organization Government Procurement Agreement or Free Trade Agreement thresholds."
         }
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Contracts.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contract shall specify limits on the purchase of additional supplies or services, or the overall duration of the term of the contract, including any extension."
@@ -161,12 +155,11 @@
         "g": {
           "text": "Contracts may express extensions of the term of the contract as an amended completion date or as additional time for performance; e.g., days, weeks, or months."
         }
-      }
+      },
+      "sub": {}
     },
     "205": {
-      "number": 205,
       "name": "Documentation.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall justify in writing the quantities or the term under option, the notification period for exercising the option, and any limitation on option price under 17.203(g); and shall include the justification document in the contract file."
@@ -174,12 +167,11 @@
         "b": {
           "text": "Any justifications and approvals and any determination and findings required by Part 6 shall specify both the basic requirement and the increase permitted by the option."
         }
-      }
+      },
+      "sub": {}
     },
     "206": {
-      "number": 206,
       "name": "Evaluation.",
-      "sub": {},
       "text": {
         "a": {
           "text": "In awarding the basic contract, the contracting officer shall, except as provided in paragraph (b) of this section, evaluate offers for any option quantities or periods contained in a solicitation when it has been determined prior to soliciting offers that the Government is likely to exercise the options. (See 17.208.)"
@@ -187,12 +179,11 @@
         "b": {
           "text": "The contracting officer need not evaluate offers for any option quantities when it is determined that evaluation would not be in the best interests of the Government and this determination is approved at a level above the contracting officer. An example of a circumstance that may support a determination not to evaluate offers for option quantities is when there is a reasonable certainty that funds will be unavailable to permit exercise of the option."
         }
-      }
+      },
+      "sub": {}
     },
     "207": {
-      "number": 207,
       "name": "Exercise of options.",
-      "sub": {},
       "text": {
         "a": {
           "text": "When exercising an option, the contracting officer shall provide written notice to the contractor within the time period specified in the contract."
@@ -288,12 +279,11 @@
         "g": {
           "text": "The contract modification or other written document which notifies the contractor of the exercise of the option shall cite the option clause as authority."
         }
-      }
+      },
+      "sub": {}
     },
     "208": {
-      "number": 208,
       "name": "Solicitation provisions and contract clauses.",
-      "sub": {},
       "text": {
         "1": {
           "text": "A requirement that the Government must give the contractor a preliminary written notice of its intent to extend the contract."
@@ -339,7 +329,8 @@
         "g": {
           "text": "Insert a clause substantially the same as the clause at 52.217-9, Option to Extend the Term of the Contract, in solicitations and contracts when the inclusion of an option is appropriate (see 17.200 and 17.202) and it is necessary to include in the contract any or all of the following:"
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

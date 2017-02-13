@@ -3,18 +3,29 @@
   "number": 1,
   "name": "General",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes the policies, procedures, solicitation provisions, and contract clauses pertaining to patents, data, and copyrights."
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Definition.",
+      "text": {
+        "text": "“United States,” as used in this part, means the 50 States and the District of Columbia, U.S. territories and possessions, Puerto Rico, and the Northern Mariana Islands."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "text": "This part applies to all agencies. However, agencies are authorized to adopt alternative policies, procedures, solicitation provisions, and contract clauses to the extent necessary to meet the specific requirements of laws, executive orders, treaties, or international agreements. Any agency adopting alternative policies, procedures, solicitation provisions, and contract clauses should include them in the agency’s published regulations."
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "General guidance.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Government encourages the maximum practical commercial use of inventions made under Government contracts."
@@ -31,23 +42,8 @@
         "e": {
           "text": "Generally, the Government requires that contractors obtain permission from copyright owners before including copyrighted works, owned by others, in data to be delivered to the Government."
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes the policies, procedures, solicitation provisions, and contract clauses pertaining to patents, data, and copyrights."
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Definition.",
-      "sub": {},
-      "text": {
-        "text": "“United States,” as used in this part, means the 50 States and the District of Columbia, U.S. territories and possessions, Puerto Rico, and the Northern Mariana Islands."
-      }
+      },
+      "sub": {}
     }
   }
 }

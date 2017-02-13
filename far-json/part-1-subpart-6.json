@@ -4,9 +4,7 @@
   "name": "Career Development, Contracting Authority, and Responsibilities",
   "sub": {
     "601": {
-      "number": 601,
       "name": "General.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Assign contracting functions and responsibilities from one agency to another; and"
@@ -20,11 +18,14 @@
         "b": {
           "text": "Agency heads may mutually agree to—"
         }
-      }
+      },
+      "sub": {}
     },
     "602": {
-      "number": 602,
       "name": "Contracting officers.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Authority.",
@@ -103,14 +104,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "603": {
-      "number": 603,
       "name": "Selection, appointment, and termination of appointment for contracting officers.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -141,18 +141,14 @@
             "text": "Termination of a contracting officer appointment will be by letter, unless the Certificate of Appointment contains other provisions for automatic termination. Terminations may be for reasons such as reassignment, termination of employment, or unsatisfactory performance. No termination shall operate retroactively."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "604": {
-      "number": 604,
       "name": "Contracting Officer’s Representative (COR).",
-      "sub": {},
       "text": {
         "text": "A contracting officer’s representative (COR) assists in the technical monitoring or administration of a contract (see 1.602-2(d)). The COR shall maintain a file for each assigned contract. The file must include, at a minimum\n         \n−\n\n(a) A copy of the contracting officer’s letter of designation and other documents describing the COR’s duties and responsibilities;\n\n(b) A copy of the contract administration functions delegated to a contract administration office which may not be delegated to the COR (see 1.602-2(d)(4)); and\n\n(c) Documentation of COR actions taken in accordance with the delegation of authority."
-      }
+      },
+      "sub": {}
     }
   }
 }

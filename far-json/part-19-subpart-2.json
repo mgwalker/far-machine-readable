@@ -4,9 +4,7 @@
   "name": "Policies",
   "sub": {
     "201": {
-      "number": 201,
       "name": "General policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "It is the policy of the Government to provide maximum practicable opportunities in its acquisitions to small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. Such concerns must also have the maximum practicable opportunity to participate as subcontractors in the contracts awarded by any executive agency, consistent with efficient contract performance. The Small Business Administration (SBA) counsels and assists small business concerns and assists contracting personnel to ensure that a fair proportion of contracts for supplies and services is placed with small business."
@@ -88,11 +86,14 @@
         "d": {
           "text": "Small Business Specialists must be appointed and act in accordance with agency regulations."
         }
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Specific policies.",
+      "text": {
+        "text": "In order to further the policy in 19.201(a), contracting officers shall comply with the specific policies listed in this section and shall consider recommendations of the agency Director of Small and Disadvantaged Business Utilization, or the Director’s designee, as to whether a particular acquisition should be awarded under subpart 19.5, 19.8, 19.13, 19.14, or 19.15. Agencies shall establish procedures including dollar thresholds for review of acquisitions by the Director or the Director’s designee for the purpose of making these recommendations. The contracting officer shall document the contract file whenever the Director’s recommendations are not accepted."
+      },
       "sub": {
         "1": {
           "name": "Encouraging small business participation in acquisitions.",
@@ -152,15 +153,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": "In order to further the policy in 19.201(a), contracting officers shall comply with the specific policies listed in this section and shall consider recommendations of the agency Director of Small and Disadvantaged Business Utilization, or the Director’s designee, as to whether a particular acquisition should be awarded under subpart 19.5, 19.8, 19.13, 19.14, or 19.15. Agencies shall establish procedures including dollar thresholds for review of acquisitions by the Director or the Director’s designee for the purpose of making these recommendations. The contracting officer shall document the contract file whenever the Director’s recommendations are not accepted."
       }
     },
     "203": {
-      "number": 203,
       "name": "Relationship among small business programs.",
-      "sub": {},
       "text": {
         "a": {
           "text": "There is no order of precedence among the 8(a) Program (subpart 19.8), HUBZone Program (subpart 19.13), Service-Disabled Veteran-Owned Small Business (SDVOSB) Procurement Program (subpart 19.14), or the Women-Owned Small Business (WOSB) Program (subpart 19.15)."
@@ -185,7 +181,8 @@
         "e": {
           "text": "Small business set-asides have priority over acquisitions using full and open competition. See requirements for establishing a small business set-aside at subpart 19.5."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

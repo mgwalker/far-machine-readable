@@ -4,9 +4,7 @@
   "name": "Applicability of Certain Laws to the Acquisition of Commercial Items and Commercially Available Off-The-Shelf Items",
   "sub": {
     "500": {
-      "number": 500,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "a": {
           "text": "As required by 41 U.S.C. 1906 and 1907, this subpart lists provisions of law that are not applicable to—",
@@ -25,12 +23,11 @@
         "b": {
           "text": "This subpart also lists provisions of law that have been amended to eliminate or modify their applicability to either contracts or subcontracts for the acquisition of commercial items."
         }
-      }
+      },
+      "sub": {}
     },
     "501": {
-      "number": 501,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "a": {
           "text": "This subpart applies to any contract or subcontract at any tier for the acquisition of commercial items."
@@ -41,12 +38,11 @@
         "c": {
           "text": "For purposes of this subpart, contractors awarded subcontracts under subpart 19.8, Contracting with the Small Business Administration (the 8(a) Program), shall be considered prime contractors."
         }
-      }
+      },
+      "sub": {}
     },
     "502": {
-      "number": 502,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The FAR prescription for the provision or clause for each of the laws listed in 12.503 has been revised in the appropriate part to reflect its proper application to prime contracts for the acquisition of commercial items."
@@ -57,12 +53,11 @@
         "c": {
           "text": "The FAR prescription for the provision or clause for each of the laws listed in 12.505 has been revised in the appropriate part to reflect its proper application to contracts and subcontracts for the acquisition of COTS items."
         }
-      }
+      },
+      "sub": {}
     },
     "503": {
-      "number": 503,
       "name": "Applicability of certain laws to Executive agency contracts for the acquisition of commercial items.",
-      "sub": {},
       "text": {
         "1": {
           "text": "41 U.S.C. 4704 and 10 U.S.C. 2402, Prohibition on Limiting Subcontractor Direct Sales to the United States (see 3.503)."
@@ -122,12 +117,11 @@
         "c": {
           "text": "The applicability of the following laws have been modified in regards to Executive agency contracts for the acquisition of commercial items:"
         }
-      }
+      },
+      "sub": {}
     },
     "504": {
-      "number": 504,
       "name": "Applicability of certain laws to subcontracts for the acquisition of commercial items.",
-      "sub": {},
       "text": {
         "1": {
           "text": "41 U.S.C. 4704 and 10 U.S.C. 2402, Prohibition on Limiting Subcontractor Direct Sales to the United States (see subpart 3.5)."
@@ -188,15 +182,15 @@
         "c": {
           "text": "The applicability of the following laws has been modified in regards to subcontracts at any tier for the acquisition of commercial items or commercial components:"
         }
-      }
+      },
+      "sub": {}
     },
     "505": {
-      "number": 505,
       "name": "Applicability of certain laws to contracts for the acquisition of COTS items.",
-      "sub": {},
       "text": {
         "text": "COTS items are a subset of commercial items. Therefore, any laws listed in sections 12.503 and 12.504 are also inapplicable or modified in their applicability to contracts or subcontracts for the acquisition of COTS items. In addition, the following laws are not applicable to contracts for the acquisition of COTS items:\n\n(a)(1) The portion of 41 U.S.C. 8302(a)(1), that reads “substantially all from articles, materials, or supplies mined, produced, or manufactured, in the United States,” Buy American- Supplies, component test (see 52.225-1 and 52.225-3).\n\n(2) The portion of 41 U.S.C. 8303(a)(2), that reads “substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States,” Buy American- Construction Materials, component test (see 52.225-9 and 52.225-11).\n\n(b) 42 U.S.C. 6962(c)(3)(A), Certification and Estimate of Percentage of Recovered Material.\n\n(c) Compliance Plan and Certification Requirement, section 1703 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239), Title XVII, Ending trafficking in Government Contracting (see 52.222-50(h) and 52.222-56)."
-      }
+      },
+      "sub": {}
     }
   }
 }

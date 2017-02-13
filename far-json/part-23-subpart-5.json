@@ -4,41 +4,35 @@
   "name": "Drug-Free Workplace",
   "sub": {
     "500": {
-      "number": 500,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart implements 41 U.S.C. chapter 81, Drug-Free Workplace."
-      }
+      },
+      "sub": {}
     },
     "501": {
-      "number": 501,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "text": "This subpart applies to contracts, including contracts with 8(a) contractors under FAR Subpart 19.8 and modifications that require a justification and approval (see Subpart 6.3), except contracts—\n\n(a) At or below the simplified acquisition threshold; however, the requirements of this subpart apply to all contracts of any value awarded to an individual;\n\n(b) For the acquisition of commercial items (see Part 12);\n\n(c) Performed outside the United States and its outlying areas or any part of a contract performed outside the United States and its outlying areas;\n\n(d) By law enforcement agencies, if the head of the law enforcement agency or designee involved determines that application of this subpart would be inappropriate in connection with the law enforcement agency’s undercover operations; or\n\n(e) Where application would be inconsistent with the international obligations of the United States or with the laws and regulations of a foreign country."
-      }
+      },
+      "sub": {}
     },
     "502": {
-      "number": 502,
       "name": "Authority.",
-      "sub": {},
       "text": {
         "text": "41 U.S.C. chapter 81, Drug-Free Workplace."
-      }
+      },
+      "sub": {}
     },
     "503": {
-      "number": 503,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Controlled substance” means a controlled substance in schedules I through V of section 202 of the Controlled Substances Act (21 U.S.C. 812), and as further defined in regulation at 21 CFR 1308.11–1308.15.\n\n“Conviction” means a finding of guilt (including a plea of nolo contendere) or imposition of sentence, or both, by any judicial body charged with the responsibility to determine violations of the Federal or State criminal drug statutes.\n\n“Criminal drug statute” means a Federal or non-Federal criminal statute involving the manufacture, distribution, dispensing, possession, or use of any controlled substance.\n\n“Employee” means an employee of a contractor directly engaged in the performance of work under a Government contract. “Directly engaged” is defined to include all direct cost employees and any other contract employee who has other than a minimal impact or involvement in contract performance.\n\n“Individual” means an offeror/contractor that has no more than one employee including the offeror/contractor."
-      }
+      },
+      "sub": {}
     },
     "504": {
-      "number": 504,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "No offeror other than an individual shall be considered a responsible source (see 9.104-1(g) and 19.602-1(a)(2)(i)) for a contract that exceeds the simplified acquisition threshold, unless it agrees that it will provide a drug-free workplace by—",
@@ -102,20 +96,18 @@
         "c": {
           "text": "For a contract of 30 days or more performance duration, the contractor shall comply with the provisions of paragraph (a) of this section within 30 days after contract award, unless the contracting officer agrees in writing that circumstances warrant a longer period of time to comply. Before granting such an extension, the contracting officer shall consider such factors as the number of contractor employees at the worksite, whether the contractor has or must develop a drug-free workplace program, and the number of contractor worksites. For contracts of less than 30 days performance duration, the contractor shall comply with the provisions of paragraph (a) of this section as soon as possible, but in any case, by a date prior to when performance is expected to be completed."
         }
-      }
+      },
+      "sub": {}
     },
     "505": {
-      "number": 505,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "Except as provided in 23.501, insert the clause at 52.223-6, Drug-Free Workplace, in solicitations and contracts."
-      }
+      },
+      "sub": {}
     },
     "506": {
-      "number": 506,
       "name": "Suspension of payments, termination of contract, and debarment and suspension actions.",
-      "sub": {},
       "text": {
         "a": {
           "text": "After determining in writing that adequate evidence to suspect any of the causes at paragraph (d) of this section exists, the contracting officer may suspend contract payments in accordance with the procedures at 32.503-6(a)(1)."
@@ -140,7 +132,8 @@
         "e": {
           "text": "A determination under this section to suspend contract payments, terminate a contract for default, or debar or suspend a contractor may be waived by the agency head for a particular contract, in accordance with agency procedures, only if such waiver is necessary to prevent a severe disruption of the agency operation to the detriment of the Federal Government or the general public (see Subpart 9.4). The waiver authority of the agency head cannot be delegated."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

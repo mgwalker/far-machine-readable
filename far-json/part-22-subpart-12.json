@@ -4,25 +4,21 @@
   "name": "Nondisplacement of Qualified Workers Under Service Contracts",
   "sub": {
     "1200": {
-      "number": 1200,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for implementing Executive Order 13495 of January 30, 2009, Nondisplacement of Qualified Workers Under Service Contracts, and related Secretary of Labor regulations and instructions (see 29 CFR part 9)."
-      }
+      },
+      "sub": {}
     },
     "1201": {
-      "number": 1201,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“United States” means the 50 States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, Johnston Island, Wake Island, and outer Continental Shelf as defined in the Outer Continental Shelf Lands Act (43 U.S.C. 1331, et seq.), but does not include any other place subject to United States jurisdiction or any United States base or possession in a foreign country (see 29 CFR 4.112)."
-      }
+      },
+      "sub": {}
     },
     "1202": {
-      "number": 1202,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "When a service contract succeeds a contract for performance of the same or similar services, as defined at 29 CFR 9.2, at the same location, the successor contractor and its subcontractors are required to offer those service employees that are employed under the predecessor contract, and whose employment will be terminated as a result of the award of the successor contract, a right of first refusal of employment under the contract in positions for which they are qualified.  Executive Order 13495 generally prohibits employment openings under the successor contract until such right of first refusal has been provided, when consistent with applicable law."
@@ -30,11 +26,14 @@
         "b": {
           "text": "Nothing in Executive Order 13495 shall be construed to permit a contractor or subcontractor to fail to comply with any provision of any other Executive order or law.  For example, the requirements of the HUBZone Program (see subpart 19.13), Executive Order 11246 (Equal Employment Opportunity), and the Vietnam Era Veterans’ Readjustment Assistance Act of 1974 may, in certain circumstances, conflict with the requirements of Executive Order 13495.  All applicable laws and Executive orders must be satisfied in tandem with, and if necessary prior to, the requirements of Executive Order 13495 and this subpart."
         }
-      }
+      },
+      "sub": {}
     },
     "1203": {
-      "number": 1203,
       "name": "Applicability. ",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -121,15 +120,10 @@
             "text": "A successor contractor and its subcontractors may employ fewer service employees than the predecessor contractor employed in connection with performance of the work.  Thus, the successor contractor need not offer employment on the contract to all service employees on the predecessor contract, but must offer employment only to the number of eligible service employees the successor contractor believes necessary to meet its anticipated staffing pattern.  Where a successor contractor does not initially offer employment to all the predecessor contract service employees, the obligation to offer employment shall continue for 90 days after the successor contractor’s first date of performance on the contract.  (See 29 CFR 9.12(d) for regulatory provisions addressing circumstances in which reduced staffing can occur.)"
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "1204": {
-      "number": 1204,
       "name": "Certified service employee lists. ",
-      "sub": {},
       "text": {
         "a": {
           "text": "Not less than 30 days before completion of the contract, the predecessor contractor is required to furnish to the contracting officer a certified list of the names of all service employees working under the contract and its subcontracts at the time the list is submitted.  The certified list must also contain anniversary dates of employment of each service employee under the contract and subcontracts for services.  The information on this list is the same as that on the seniority list required by paragraph (n) of the clause at 52.222-41, Service Contract Labor Standards.  If there are no changes to the workforce before the predecessor contract is completed, then the predecessor contractor is not required to submit a revised list 10 days prior to completion of performance and the requirements of 52.222-41(n) are met.  When there are changes to the workforce after submission of the 30-day list, the predecessor contractor shall submit a revised certified list not less than 10 days prior to performance completion."
@@ -137,12 +131,11 @@
         "b": {
           "text": "Immediately upon receipt of the certified service employee list but not before contract award, the contracting officer shall provide the certified service employee list to the successor contractor, and, if requested, to employees of the predecessor contractor or subcontractors or their authorized representatives."
         }
-      }
+      },
+      "sub": {}
     },
     "1205": {
-      "number": 1205,
       "name": "Notification to contractors and service employees. ",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall direct that the predecessor contractor provides written notice to service employees of their possible right to an offer of employment with the successor contractor.  The written notice shall be—",
@@ -158,12 +151,11 @@
         "b": {
           "text": "Contracting officers may advise contractors to provide the notice in Appendix B to 29 CFR chapter 9.  Where a significant portion of the predecessor contractor’s workforce is not fluent in English, the contractor shall provide the notice in English and the language(s) with which service employees are more familiar.  English and Spanish versions of the notice are available on the Department of Labor website at http://www.dol.gov/whd/govcontracts."
         }
-      }
+      },
+      "sub": {}
     },
     "1206": {
-      "number": 1206,
       "name": "Remedies and sanctions for violations of this subpart. ",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Secretary of Labor has the authority to issue orders prescribing appropriate remedies, including, but not limited to, requiring the successor contractor to offer employment, in positions for which the employees are qualified, to service employees from the predecessor contract and payment of wages lost. (See 29 CFR 9.24(a))."
@@ -177,15 +169,15 @@
         "d": {
           "text": "The Secretary of Labor may also suspend or debar a contractor or subcontractor for a period of up to three years for violations of 29 CFR part 9."
         }
-      }
+      },
+      "sub": {}
     },
     "1207": {
-      "number": 1207,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall insert the clause at 52.222-17, Nondisplacement of Qualified Workers, in solicitations and contracts for (1) service contracts, as defined at 22.001, (2) that succeed contracts for performance of the same or similar work at the same location and (3) that are not exempted by 22.1203-2 or waived in accordance with 22.1203-3."
-      }
+      },
+      "sub": {}
     }
   }
 }

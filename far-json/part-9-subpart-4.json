@@ -4,9 +4,7 @@
   "name": "Debarment, Suspension, and Ineligibility",
   "sub": {
     "400": {
-      "number": 400,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "a": {
           "text": "This subpart—",
@@ -25,20 +23,18 @@
         "b": {
           "text": "Although this subpart does cover the listing of ineligible contractors (9.404) and the effect of this listing (9.405(b)), it does not prescribe policies and procedures governing declarations of ineligibility."
         }
-      }
+      },
+      "sub": {}
     },
     "401": {
-      "number": 401,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "text": "In accordance with Public Law 103-355, Section 2455 (31 U.S.C. 6101, note), and Executive Order 12689, any debarment, suspension or other Governmentwide exclusion initiated under the Nonprocurement Common Rule implementing Executive Order 12549 on or after August 25, 1995, shall be recognized by and effective for Executive Branch agencies as a debarment or suspension under this subpart. Similarly, any debarment, suspension, proposed debarment or other Governmentwide exclusion initiated on or after August 25, 1995, under this subpart shall also be recognized by and effective for those agencies and participants as an exclusion under the Nonprocurement Common Rule."
-      }
+      },
+      "sub": {}
     },
     "402": {
-      "number": 402,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Agencies shall solicit offers from, award contracts to, and consent to subcontracts with responsible contractors only. Debarment and suspension are discretionary actions that, taken in accordance with this subpart, are appropriate means to effectuate this policy."
@@ -55,20 +51,18 @@
         "e": {
           "text": "Agencies shall establish appropriate procedures to implement the policies and procedures of this subpart."
         }
-      }
+      },
+      "sub": {}
     },
     "403": {
-      "number": 403,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Affiliates.” Business concerns, organizations, or individuals are affiliates of each other if, directly or indirectly, (1) either one controls or has the power to control the other, or (2) a third party controls or has the power to control both. Indicia of control include, but are not limited to, interlocking management or ownership, identity of interests among family members, shared facilities and equipment, common use of employees, or a business entity organized following the debarment, suspension, or proposed debarment of a contractor which has the same or similar management, ownership, or principal employees as the contractor that was debarred, suspended, or proposed for debarment.\n\n“Agency” means any executive department, military department or defense agency, or other agency or independent establishment of the executive branch.\n\n“Civil judgment” means a judgment or finding of a civil offense by any court of competent jurisdiction.\n\n“Contractor” means any individual or other legal entity that—\n\n(1) Directly or indirectly (e.g., through an affiliate), submits offers for or is awarded, or reasonably may be expected to submit offers for or be awarded, a Government contract, including a contract for carriage under Government or commercial bills of lading, or a subcontract under a Government contract; or\n\n(2) Conducts business, or reasonably may be expected to conduct business, with the Government as an agent or representative of another contractor.\n\n“Debarring official” means—\n\n(1) An agency head; or\n\n(2) A designee authorized by the agency head to impose debarment.\n\n“Indictment” means indictment for a criminal offense. An information or other filing by competent authority charging a criminal offense is given the same effect as an indictment.\n\n“Legal proceedings” means any civil judicial proceeding to which the Government is a party or any criminal proceeding. The term includes appeals from such proceedings.\n\n“Nonprocurement Common Rule” means the procedures used by Federal Executive Agencies to suspend, debar, or exclude individuals or entities from participation in nonprocurement transactions under Executive Order 12549. Examples of nonprocurement transactions are grants, cooperative agreements, scholarships, fellowships, contracts of assistance, loans, loan guarantees, subsidies, insurance, payments for specified use, and donation agreements.\n\n“Suspending official” means—\n\n(1) An agency head; or\n\n(2) A designee authorized by the agency head to impose suspension.\n\n“Unfair trade practices” means the commission of any or the following acts by a contractor:\n\n(1) A violation of Section 337 of the Tariff Act of 1930 (19 U.S.C. 1337) as determined by the International Trade Commission.\n\n(2) A violation, as determined by the Secretary of Commerce, of any agreement of the group known as the “Coordination Committee” for purposes of the Export Administration Act of 1979 (50 U.S.C. App. 2401, et seq.) or any similar bilateral or multilateral export control agreement.\n\n(3) A knowingly false statement regarding a material element of a certification concerning the foreign content of an item of supply, as determined by the Secretary of the Department or the head of the agency to which such certificate was furnished."
-      }
+      },
+      "sub": {}
     },
     "404": {
-      "number": 404,
       "name": "System for Award Management Exclusions.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The General Services Administration (GSA)—",
@@ -145,11 +139,34 @@
         "d": {
           "text": "SAM is available via https://www.acquisition.gov."
         }
-      }
+      },
+      "sub": {}
     },
     "405": {
-      "number": 405,
       "name": "Effect of listing.",
+      "text": {
+        "2": {
+          "text": "Bids received from any listed contractor in response to an invitation for bids shall be entered on the abstract of bids, and rejected unless the agency head determines in writing that there is a compelling reason to consider the bid."
+        },
+        "3": {
+          "text": "Proposals, quotations, or offers received from any listed contractor shall not be evaluated for award or included in the competitive range, nor shall discussions be conducted with a listed offeror during a period of ineligibility, unless the agency head determines, in writing, that there is a compelling reason to do so. If the period of ineligibility expires or is terminated prior to award, the contracting officer may, but is not required to, consider such proposals, quotations, or offers."
+        },
+        "4": {
+          "text": "Immediately prior to award, the contracting officer shall again review SAM Exclusions to ensure that no award is made to a listed contractor."
+        },
+        "a": {
+          "text": "Contractors debarred, suspended, or proposed for debarment are excluded from receiving contracts, and agencies shall not solicit offers from, award contracts to, or consent to subcontracts with these contractors, unless the agency head determines that there is a compelling reason for such action (see 9.405-1(b), 9.405-2, 9.406-1(c), 9.407-1(d), and 23.506(e)). Contractors debarred, suspended, or proposed for debarment are also excluded from conducting business with the Government as agents or representatives of other contractors."
+        },
+        "b": {
+          "text": "Contractors included in SAM Exclusions as having been declared ineligible on the basis of statutory or other regulatory procedures are excluded from receiving contracts, and if applicable, subcontracts, under the conditions and for the period set forth in the statute or regulation. Agencies shall not solicit offers from, award contracts to, or consent to subcontracts with these contractors under those conditions and for that period."
+        },
+        "c": {
+          "text": "Contractors debarred, suspended, or proposed for debarment are excluded from acting as individual sureties (see Part 28)."
+        },
+        "d": {
+          "text": "(1) After the opening of bids or receipt of proposals, the contracting officer shall review SAM Exclusions."
+        }
+      },
       "sub": {
         "1": {
           "name": "Continuation of current contracts.",
@@ -199,34 +216,13 @@
             }
           }
         }
-      },
-      "text": {
-        "2": {
-          "text": "Bids received from any listed contractor in response to an invitation for bids shall be entered on the abstract of bids, and rejected unless the agency head determines in writing that there is a compelling reason to consider the bid."
-        },
-        "3": {
-          "text": "Proposals, quotations, or offers received from any listed contractor shall not be evaluated for award or included in the competitive range, nor shall discussions be conducted with a listed offeror during a period of ineligibility, unless the agency head determines, in writing, that there is a compelling reason to do so. If the period of ineligibility expires or is terminated prior to award, the contracting officer may, but is not required to, consider such proposals, quotations, or offers."
-        },
-        "4": {
-          "text": "Immediately prior to award, the contracting officer shall again review SAM Exclusions to ensure that no award is made to a listed contractor."
-        },
-        "a": {
-          "text": "Contractors debarred, suspended, or proposed for debarment are excluded from receiving contracts, and agencies shall not solicit offers from, award contracts to, or consent to subcontracts with these contractors, unless the agency head determines that there is a compelling reason for such action (see 9.405-1(b), 9.405-2, 9.406-1(c), 9.407-1(d), and 23.506(e)). Contractors debarred, suspended, or proposed for debarment are also excluded from conducting business with the Government as agents or representatives of other contractors."
-        },
-        "b": {
-          "text": "Contractors included in SAM Exclusions as having been declared ineligible on the basis of statutory or other regulatory procedures are excluded from receiving contracts, and if applicable, subcontracts, under the conditions and for the period set forth in the statute or regulation. Agencies shall not solicit offers from, award contracts to, or consent to subcontracts with these contractors under those conditions and for that period."
-        },
-        "c": {
-          "text": "Contractors debarred, suspended, or proposed for debarment are excluded from acting as individual sureties (see Part 28)."
-        },
-        "d": {
-          "text": "(1) After the opening of bids or receipt of proposals, the contracting officer shall review SAM Exclusions."
-        }
       }
     },
     "406": {
-      "number": 406,
       "name": "Debarment.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -458,14 +454,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "407": {
-      "number": 407,
       "name": "Suspension.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -711,26 +706,21 @@
             "text": "The scope of suspension shall be the same as that for debarment (see 9.406-5), except that the procedures of 9.407-3 shall be used in imposing suspension."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "408": {
-      "number": 408,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "409": {
-      "number": 409,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "\n\nThe contracting officer shall insert the clause at 52.209-6, Protecting the Government’s Interests when Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment, in solicitations and contracts where the contract value exceeds $35,000."
-      }
+      },
+      "sub": {}
     }
   }
 }

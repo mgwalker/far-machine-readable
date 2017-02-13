@@ -3,17 +3,32 @@
   "number": 1,
   "name": "Bonds and Other Financial Protections",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes requirements for obtaining financial protection against losses under contracts that result from the use of the sealed bid or negotiated methods. It covers bid guarantees, bonds, alternative payment protections, security for bonds, and insurance."
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Definitions.",
+      "text": {
+        "text": "As used in this part—\n\n“Attorney-in-fact” means an agent, independent agent, underwriter, or any other company or individual holding a power of attorney granted by a surety (see also “power of attorney” at 2.101).\n\n“Bid” means any response to a solicitation, including a proposal under a negotiated acquisition. See the definition of “offer” at 2.101.\n\n“Bid guarantee” means a form of security assuring that the bidder—\n\n(1) Will not withdraw a bid within the period specified for acceptance; and\n\n(2) Will execute a written contract and furnish required bonds, including any necessary coinsurance or reinsurance agreements, within the time specified in the bid, unless a longer time allowed, after receipt of the specified forms.\n\n“Bidder” means any entity that is responding or has responded to a solicitation, including an offeror under a negotiated acquisition.\n\n“Bond” means a written instrument executed by a bidder or contractor (the “principal”), and a second party (the “surety” or “sureties”) (except as provided in 28.204), to assure fulfillment of the principal’s obligations to a third party (the “obligee” or “Government”), identified in the bond. If the principal’s obligations are not met, the bond assures payment, to the extent stipulated, of any loss sustained by the obligee. The types of bonds and related documents are as follows:\n\n(1) An advance payment bond secures fulfillment of the contractor’s obligations under an advance payment provision.\n\n(2) An annual bid bond is a single bond furnished by a bidder, in lieu of separate bonds, which secure all bids (on other than construction contracts) requiring bonds submitted during a specific Government fiscal year.\n\n(3) An annual performance bond is a single bond furnished by a contractor, in lieu of separate performance bonds, to secure fulfillment of the contractor’s obligations under contracts (other than construction contracts) requiring bonds entered into during a specific Government fiscal year.\n\n(4) A patent infringement bond secures fulfillment of the contractor’s obligations under a patent provision.\n\n(5) A payment bond assures payments as required by law to all persons supplying labor or material in the prosecution of the work provided for in the contract.\n\n(6) A performance bond secures performance and fulfillment of the contractor’s obligations under the contract.\n\n“Consent of surety” means an acknowledgment by a surety that its bond given in connection with a contract continues to apply to the contract as modified.\n\n“Penal sum” or “penal amount” means the amount of money specified in a bond (or a percentage of the bid price in a bid bond) as the maximum payment for which the surety is obligated or the amount of security required to be pledged to the Government in lieu of a corporate or individual surety for the bond.\n\n“Reinsurance” means a transaction which provides that a surety, for a consideration, agrees to indemnify another surety against loss which the latter may sustain under a bond which it has issued."
+      },
+      "sub": {}
+    },
     "100": {
-      "number": 100,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes requirements and procedures for the use of bonds, alternative payment protections, and all types of bid guarantees."
-      }
+      },
+      "sub": {}
     },
     "101": {
-      "number": 101,
       "name": "Bid guarantees.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Policy on use.",
@@ -143,14 +158,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "102": {
-      "number": 102,
       "name": "Performance and payment bonds and alternative payment protections for construction contracts.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -275,14 +289,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "103": {
-      "number": 103,
       "name": "Performance and payment bonds for other than construction contracts.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -343,15 +356,10 @@
             "text": "The contracting officer shall insert a clause substantially the same as the clause at 52.228-16, Performance and Payment Bonds—Other than Construction, in solicitations and contracts that contain a requirement for both payment and performance bonds. The contracting officer shall determine the amount of each bond for insertion in the clause. The amount shall be adequate to protect the interest of the Government. The contracting officer shall also set a period of time (normally 10 days) for return of executed bonds. Alternate I shall be used when only performance bonds are required."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "104": {
-      "number": 104,
       "name": "Annual performance bonds.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Annual performance bonds only apply to nonconstruction contracts. They shall provide a gross penal sum applicable to the total amount of all covered contracts."
@@ -359,11 +367,14 @@
         "b": {
           "text": "When the penal sums obligated by contracts are approximately equal to or exceed the penal sum of the annual performance bond, an additional bond will be required to cover additional contracts."
         }
-      }
+      },
+      "sub": {}
     },
     "105": {
-      "number": 105,
       "name": "Other types of bonds.",
+      "text": {
+        "text": "The head of the contracting activity may approve using other types of bonds in connection with acquiring particular supplies or services. These types include advance payment bonds and patent infringement bonds."
+      },
       "sub": {
         "1": {
           "name": "Advance payment bonds.",
@@ -390,14 +401,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": "The head of the contracting activity may approve using other types of bonds in connection with acquiring particular supplies or services. These types include advance payment bonds and patent infringement bonds."
       }
     },
     "106": {
-      "number": 106,
       "name": "Administration.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Bonds and bond-related forms.",
@@ -517,25 +527,6 @@
             "text": "The contracting officer will only authorize payment to subcontractors or suppliers from an ILC (or any other cash equivalent security) upon a judicial determination of the rights of the parties, a signed notarized statement by the contractor that the payment is due and owed, or a signed agreement between the parties as to amount due and owed."
           }
         }
-      },
-      "text": {
-        "text": ""
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes requirements for obtaining financial protection against losses under contracts that result from the use of the sealed bid or negotiated methods. It covers bid guarantees, bonds, alternative payment protections, security for bonds, and insurance."
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Definitions.",
-      "sub": {},
-      "text": {
-        "text": "As used in this part—\n\n“Attorney-in-fact” means an agent, independent agent, underwriter, or any other company or individual holding a power of attorney granted by a surety (see also “power of attorney” at 2.101).\n\n“Bid” means any response to a solicitation, including a proposal under a negotiated acquisition. See the definition of “offer” at 2.101.\n\n“Bid guarantee” means a form of security assuring that the bidder—\n\n(1) Will not withdraw a bid within the period specified for acceptance; and\n\n(2) Will execute a written contract and furnish required bonds, including any necessary coinsurance or reinsurance agreements, within the time specified in the bid, unless a longer time allowed, after receipt of the specified forms.\n\n“Bidder” means any entity that is responding or has responded to a solicitation, including an offeror under a negotiated acquisition.\n\n“Bond” means a written instrument executed by a bidder or contractor (the “principal”), and a second party (the “surety” or “sureties”) (except as provided in 28.204), to assure fulfillment of the principal’s obligations to a third party (the “obligee” or “Government”), identified in the bond. If the principal’s obligations are not met, the bond assures payment, to the extent stipulated, of any loss sustained by the obligee. The types of bonds and related documents are as follows:\n\n(1) An advance payment bond secures fulfillment of the contractor’s obligations under an advance payment provision.\n\n(2) An annual bid bond is a single bond furnished by a bidder, in lieu of separate bonds, which secure all bids (on other than construction contracts) requiring bonds submitted during a specific Government fiscal year.\n\n(3) An annual performance bond is a single bond furnished by a contractor, in lieu of separate performance bonds, to secure fulfillment of the contractor’s obligations under contracts (other than construction contracts) requiring bonds entered into during a specific Government fiscal year.\n\n(4) A patent infringement bond secures fulfillment of the contractor’s obligations under a patent provision.\n\n(5) A payment bond assures payments as required by law to all persons supplying labor or material in the prosecution of the work provided for in the contract.\n\n(6) A performance bond secures performance and fulfillment of the contractor’s obligations under the contract.\n\n“Consent of surety” means an acknowledgment by a surety that its bond given in connection with a contract continues to apply to the contract as modified.\n\n“Penal sum” or “penal amount” means the amount of money specified in a bond (or a percentage of the bid price in a bid bond) as the maximum payment for which the surety is obligated or the amount of security required to be pledged to the Government in lieu of a corporate or individual surety for the bond.\n\n“Reinsurance” means a transaction which provides that a surety, for a consideration, agrees to indemnify another surety against loss which the latter may sustain under a bond which it has issued."
       }
     }
   }

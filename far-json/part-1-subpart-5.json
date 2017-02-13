@@ -4,8 +4,10 @@
   "name": "Agency and Public Participation",
   "sub": {
     "501": {
-      "number": 501,
       "name": "Solicitation of agency and public views.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Definition.",
@@ -49,26 +51,21 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "502": {
-      "number": 502,
       "name": "Unsolicited proposed revisions.",
-      "sub": {},
       "text": {
         "text": "Consideration shall also be given to unsolicited recommendations for revisions that have been submitted in writing with sufficient data and rationale to permit their evaluation."
-      }
+      },
+      "sub": {}
     },
     "503": {
-      "number": 503,
       "name": "Public meetings.",
-      "sub": {},
       "text": {
         "text": "Public meetings may be appropriate when a decision to adopt, amend, or delete FAR coverage is likely to benefit from significant additional views and discussion."
-      }
+      },
+      "sub": {}
     }
   }
 }

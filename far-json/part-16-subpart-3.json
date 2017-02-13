@@ -4,8 +4,10 @@
   "name": "Cost-Reimbursement Contracts",
   "sub": {
     "301": {
-      "number": 301,
       "name": "General.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Description.",
@@ -63,15 +65,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "302": {
-      "number": 302,
       "name": "Cost contracts.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Description. A cost contract is a cost-reimbursement contract in which the contractor receives no fee."
@@ -82,12 +79,11 @@
         "c": {
           "text": "Limitations. See 16.301-3."
         }
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Cost-sharing contracts.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Description. A cost-sharing contract is a cost-reimbursement contract in which the contractor receives no fee and is reimbursed only for an agreed-upon portion of its allowable costs."
@@ -98,28 +94,25 @@
         "c": {
           "text": "Limitations. See 16.301-3."
         }
-      }
+      },
+      "sub": {}
     },
     "304": {
-      "number": 304,
       "name": "Cost-plus-incentive-fee contracts.",
-      "sub": {},
       "text": {
         "text": "A cost-plus-incentive-fee contract is a cost-reimbursement contract that provides for an initially negotiated fee to be adjusted later by a formula based on the relationship of total allowable costs to total target costs. Cost-plus-incentive-fee contracts are covered in Subpart 16.4, Incentive Contracts. See 16.405-1 for a more complete description and discussion of application of these contracts. See 16.301-3 for limitations."
-      }
+      },
+      "sub": {}
     },
     "305": {
-      "number": 305,
       "name": "Cost-plus-award-fee contracts.",
-      "sub": {},
       "text": {
         "text": "A cost-plus-award-fee contract is a cost-reimbursement contract that provides for a fee consisting of (a) a base amount (which may be zero) fixed at inception of the contract and (b) an award amount, based upon a judgmental evaluation by the Government, sufficient to provide motivation for excellence in contract performance. Cost-plus-award-fee contracts are covered in Subpart 16.4, Incentive Contracts. See 16.401(e) for a more complete description and discussion of the application of these contracts. See 16.301-3 and 16.401(e)(5) for limitations."
-      }
+      },
+      "sub": {}
     },
     "306": {
-      "number": 306,
       "name": "Cost-plus-fixed-fee contracts.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The completion form describes the scope of work by stating a definite goal or target and specifying an end product. This form of contract normally requires the contractor to complete and deliver the specified end product (e.g., a final report of research accomplishing the goal or target) within the estimated cost, if possible, as a condition for payment of the entire fixed fee. However, in the event the work cannot be completed within the estimated cost, the Government may require more effort without increase in fee, provided the Government increases the estimated cost."
@@ -161,12 +154,11 @@
         "d": {
           "text": "Completion and term forms. A cost-plus-fixed-fee contract may take one of two basic forms—completion or term."
         }
-      }
+      },
+      "sub": {}
     },
     "307": {
-      "number": 307,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "(1) The contracting officer shall insert the clause at 52.216-7, Allowable Cost and Payment, in solicitations and contracts when a cost-reimbursement contract or a time-and-materials contract (other than a contract for a commercial item) is contemplated. If the contract is a time-and-materials contract , the clause at 52.216-7 applies in conjunction with the clause at 52.232-7), but only to the portion of the contract that provides for reimbursement of materials (as defined in the clause at 52.232-7) at actual cost. Further, the clause at 52.216-7 does not apply to labor-hour contracts.",
@@ -213,7 +205,8 @@
         "g": {
           "text": "The contracting officer shall insert the clause at 52.216-15, Predetermined Indirect Cost Rates, in solicitations and contracts when a cost-reimbursement research and development contract with an educational institution (see 42.705-3(b)) is contemplated and predetermined indirect cost rates are to be used."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

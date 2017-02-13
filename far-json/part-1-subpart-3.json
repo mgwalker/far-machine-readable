@@ -4,9 +4,7 @@
   "name": "Agency Acquisition Regulations",
   "sub": {
     "301": {
-      "number": 301,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The military departments and defense agencies, issued subject to the authority of the Secretary of Defense;"
@@ -34,20 +32,18 @@
         "d": {
           "text": "Agency acquisition regulations implementing or supplementing the FAR are, for—"
         }
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Limitations.",
-      "sub": {},
       "text": {
         "text": "Agency acquisition regulations shall be limited to—\n\n(a) Those necessary to implement FAR policies and procedures within the agency; and\n\n(b) Additional policies, procedures, solicitation provisions, or contract clauses that supplement the FAR to satisfy the specific needs of the agency."
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Publication and codification.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Agency-wide acquisition regulations shall be published in the Federal Register as required by law, shall be codified under an assigned chapter in Title 48, Code of Federal Regulations, and shall parallel the FAR in format, arrangement, and numbering system (but see 1.105-1(c)). Coverage in an agency acquisition regulation that implements a specific part, subpart, section, or subsection of the FAR shall be numbered and titled to correspond to the appropriate FAR number and title. Supplementary material for which there is no counterpart in the FAR shall be codified using chapter, part, subpart, section, or subsection numbers of 70 and up (e.g., for the Department of Interior, whose assigned chapter number in Title 48 is 14, Part 1470, Subpart 1401.70, section 1401.370, or subsection 1401.301-70)."
@@ -55,12 +51,11 @@
         "b": {
           "text": "Issuances under 1.301(a)(2) need not be published in the Federal Register."
         }
-      }
+      },
+      "sub": {}
     },
     "304": {
-      "number": 304,
       "name": "Agency control and compliance procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Under the authorities of 1.301(d), agencies shall control and limit issuance of agency acquisition regulations and, in particular, local agency directives that restrain the flexibilities found in the FAR, and shall establish formal procedures for the review of these documents to assure compliance with this Part 1."
@@ -79,7 +74,8 @@
         "c": {
           "text": "Agencies shall evaluate all regulatory coverage in agency acquisition regulations to determine if it could apply to other agencies. Coverage that is not peculiar to one agency shall be recommended for inclusion in the FAR."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,33 +4,28 @@
   "name": "Production Surveillance and Reporting",
   "sub": {
     "1101": {
-      "number": 1101,
       "name": "General.",
-      "sub": {},
       "text": {
         "text": "Production surveillance is a function of contract administration used to determine contractor progress and to identify any factors that may delay performance. Production surveillance involves Government review and analysis of—\n\n(a) Contractor performance plans, schedules, controls, and industrial processes; and\n\n(b) The contractor’s actual performance under them."
-      }
+      },
+      "sub": {}
     },
     "1102": {
-      "number": 1102,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "text": "This subpart applies to all contracts for supplies or services other than construction contracts, and Federal Supply Schedule contracts. See Part 37, especially Subpart 37.6, regarding surveillance of contracts for services."
-      }
+      },
+      "sub": {}
     },
     "1103": {
-      "number": 1103,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "text": "The contractor is responsible for timely contract performance. The Government will maintain surveillance of contractor performance as necessary to protect its interests. When the contracting office retains a contract for administration, the contracting officer administering the contract shall determine the extent of surveillance."
-      }
+      },
+      "sub": {}
     },
     "1104": {
-      "number": 1104,
       "name": "Surveillance requirements.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Be inconsistent with any contract requirement; or"
@@ -79,20 +74,18 @@
         "d": {
           "text": "In performing surveillance, contract administration office personnel shall avoid any action that may—"
         }
-      }
+      },
+      "sub": {}
     },
     "1105": {
-      "number": 1105,
       "name": "Assignment of criticality designator.",
-      "sub": {},
       "text": {
         "text": "Contracting officers shall assign a criticality designator to each contract in the space for designating the contract administration office, as follows:"
-      }
+      },
+      "sub": {}
     },
     "1106": {
-      "number": 1106,
       "name": "Reporting requirements.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Be in writing;"
@@ -112,12 +105,11 @@
         "c": {
           "text": "The contract administration office may at any time initiate a report to advise the contracting officer (and the inventory manager, if one is designated in the contract) of any potential or actual delay in performance. This advice shall—"
         }
-      }
+      },
+      "sub": {}
     },
     "1107": {
-      "number": 1107,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall insert the clause at 52.242-2, Production Progress Reports, in solicitations and contracts when production progress reporting is required; unless a construction contract, or a Federal Supply Schedule contract is contemplated."
@@ -125,7 +117,8 @@
         "b": {
           "text": "When the clause at 52.242-2 is used, the contracting officer shall specify appropriate reporting instructions in the Schedule (see 42.1106(a))."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

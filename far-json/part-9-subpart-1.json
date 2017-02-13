@@ -3,26 +3,29 @@
   "number": 1,
   "name": "Responsible Prospective Contractors",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies, standards, and procedures pertaining to prospective contractors’ responsibility; debarment, suspension, and ineligibility; qualified products; first article testing and approval; contractor team arrangements; defense production pools and research and development pools; and organizational conflicts of interest."
+      },
+      "sub": {}
+    },
     "100": {
-      "number": 100,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies, standards, and procedures for determining whether prospective contractors and subcontractors are responsible."
-      }
+      },
+      "sub": {}
     },
     "101": {
-      "number": 101,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "“Administrative proceeding” means a non-judicial process that is adjudicatory in nature in order to make a determination of fault or liability (e.g., Securities and Exchange Commission Administrative Proceedings, Civilian Board of Contract Appeals Proceedings, and Armed Services Board of Contract Appeals Proceedings). This includes administrative proceedings at the Federal and state level but only in connections with performance of a Federal contract or grant. It does not include agency actions such as contract audits, site visits, corrective plans, or inspection of deliverables.\n\n“Surveying activity,” as used in this subpart, means the cognizant contract administration office or, if there is no such office, another organization designated by the agency to conduct preaward surveys."
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Foreign, State, or local governments;"
@@ -47,12 +50,11 @@
         "b": {
           "text": "This subpart does not apply to proposed contracts with—"
         }
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Purchases shall be made from, and contracts shall be awarded to, responsible prospective contractors only."
@@ -63,11 +65,14 @@
         "c": {
           "text": "The award of a contract to a supplier based on lowest evaluated price alone can be false economy if there is subsequent default, late deliveries, or other unsatisfactory performance resulting in additional contractual or administrative costs. While it is important that Government purchases be made at the lowest price, this does not require an award to a supplier solely because that supplier submits the lowest offer. A prospective contractor must affirmatively demonstrate its responsibility, including, when necessary, the responsibility of its proposed subcontractors."
         }
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "Standards.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General standards.",
@@ -258,14 +263,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "105": {
-      "number": 105,
       "name": "Procedures.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Obtaining information.",
@@ -403,14 +407,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "106": {
-      "number": 106,
       "name": "Preaward surveys.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Conditions for preaward surveys.",
@@ -455,15 +458,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "107": {
-      "number": 107,
       "name": "Surveys of nonprofit agencies participating in the AbilityOne Program.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Committee for Purchase From People Who Are Blind or Severely Disabled (Committee), as authorized by 41 U.S.C. chapter 85, determines what supplies and services Federal agencies are required to purchase from AbilityOne participating nonprofit agencies serving people who are blind or have other severe disabilities (see subpart 8.7).  The Committee is required to find an AbilityOne participating nonprofit agency capable of furnishing the supplies or services before the nonprofit agency can be designated as a mandatory source under the AbilityOne Program.  The Committee may request a contracting office to assist in assessing the capabilities of a nonprofit agency."
@@ -477,11 +475,14 @@
         "d": {
           "text": "The contracting office shall furnish a copy of the completed survey, or notice that the AbilityOne participating nonprofit agency is capable and the survey is waived, to the Executive Director, Committee for Purchase From People Who Are Blind or Severely Disabled."
         }
-      }
+      },
+      "sub": {}
     },
     "108": {
-      "number": 108,
       "name": "Prohibition on contracting with inverted domestic corporations.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Definitions.",
@@ -526,17 +527,6 @@
             "text": "The contracting officer shall—\n\n(a) Include the provision at 52.209-2, Prohibition on Contracting with Inverted Domestic Corporations—Representation, in each solicitation for the acquisition of products or services (including construction); and\n\n(b) Include the clause at 52.209-10, Prohibition on Contracting with Inverted Domestic Corporations, in each solicitation and contract for the acquisition of products or services (including construction)."
           }
         }
-      },
-      "text": {
-        "text": ""
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies, standards, and procedures pertaining to prospective contractors’ responsibility; debarment, suspension, and ineligibility; qualified products; first article testing and approval; contractor team arrangements; defense production pools and research and development pools; and organizational conflicts of interest."
       }
     }
   }

@@ -3,9 +3,25 @@
   "number": 1,
   "name": "Basic Labor Policies",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part—\n\n(a) Prescribes general policies regarding contractor labor relations as they pertain to the acquisition process;\n\n(b) Prescribes contracting policy and procedures to implement each pertinent labor law and Executive order; and\n\n(c) Prescribes contract clauses with respect to each pertinent labor law and Executive order."
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Definitions.",
+      "text": {
+        "text": "“Administrator” or “Administrator, Wage and Hour Division,” as used in this part, means the—\n\nAdministrator\n\nWage and Hour Division\n\nEmployment Standards Administration\n\nU.S. Department of Labor\n\nWashington, DC 20210\n\nor an authorized representative.\n\n“Agency labor advisor” means an individual responsible for advising contracting agency officials on Federal contract labor matters.\n\n“e98” means the Department of Labor’s approved electronic application (http://www.wdol.gov), whereby a contracting officer submits pertinent information to the Department of Labor and requests a Service Contract Labor Standards statute wage determination directly from the Wage and Hour Division.\n\n“Service contract” means any Government contract, or subcontract thereunder, the principal purpose of which is to furnish services in the United States through the use of service employees, except as exempted by 41 U.S.C. chapter 67, Service Contract Labor Standards; see 22.1003-3 and 22.1003-4).  See 22.1003-5 and 29 CFR 4.130 for a partial list of services covered by the Service Contract Labor Standards statute.\n\n“Service employee” means any person engaged in the performance of a service contract other than any person employed in a bona fide executive, administrative, or professional capacity, as those terms are defined in 29 CFR part 541.  The term “service employee” includes all such persons regardless of any contractual relationship that may be alleged to exist between a contractor or subcontractor and such persons.\n\n“Wage Determinations OnLine (WDOL)” means the Government Internet website for both Construction Wage Rate Requirements statute and Service Contract Labor Standards statute wage determinations available at http://www.wdol.gov."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Labor relations.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -105,14 +121,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "102": {
-      "number": 102,
       "name": "Federal and State labor requirements.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Policy.",
@@ -155,14 +170,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "103": {
-      "number": 103,
       "name": "Overtime.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Definition.",
@@ -258,15 +272,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "104": {
-      "number": 104,
       "name": "Agency labor advisors.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Appointment of agency labor advisors. Agencies may designate or appoint labor advisors, according to agency procedures."
@@ -294,23 +303,8 @@
         "d": {
           "text": ":  By a court order issued on October 24, 2016, this paragraph (d) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part—\n\n(a) Prescribes general policies regarding contractor labor relations as they pertain to the acquisition process;\n\n(b) Prescribes contracting policy and procedures to implement each pertinent labor law and Executive order; and\n\n(c) Prescribes contract clauses with respect to each pertinent labor law and Executive order."
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Definitions.",
-      "sub": {},
-      "text": {
-        "text": "“Administrator” or “Administrator, Wage and Hour Division,” as used in this part, means the—\n\nAdministrator\n\nWage and Hour Division\n\nEmployment Standards Administration\n\nU.S. Department of Labor\n\nWashington, DC 20210\n\nor an authorized representative.\n\n“Agency labor advisor” means an individual responsible for advising contracting agency officials on Federal contract labor matters.\n\n“e98” means the Department of Labor’s approved electronic application (http://www.wdol.gov), whereby a contracting officer submits pertinent information to the Department of Labor and requests a Service Contract Labor Standards statute wage determination directly from the Wage and Hour Division.\n\n“Service contract” means any Government contract, or subcontract thereunder, the principal purpose of which is to furnish services in the United States through the use of service employees, except as exempted by 41 U.S.C. chapter 67, Service Contract Labor Standards; see 22.1003-3 and 22.1003-4).  See 22.1003-5 and 29 CFR 4.130 for a partial list of services covered by the Service Contract Labor Standards statute.\n\n“Service employee” means any person engaged in the performance of a service contract other than any person employed in a bona fide executive, administrative, or professional capacity, as those terms are defined in 29 CFR part 541.  The term “service employee” includes all such persons regardless of any contractual relationship that may be alleged to exist between a contractor or subcontractor and such persons.\n\n“Wage Determinations OnLine (WDOL)” means the Government Internet website for both Construction Wage Rate Requirements statute and Service Contract Labor Standards statute wage determinations available at http://www.wdol.gov."
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,9 +4,7 @@
   "name": "Simplified Procedures for Certain Commercial Items",
   "sub": {
     "500": {
-      "number": 500,
       "name": "General.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The acquisition is for commercial items that, as determined by the head of the agency, are to be used in support of a contingency operation or to facilitate the defense against or recovery from nuclear, biological, chemical, or radiological attack; or"
@@ -23,12 +21,11 @@
         "c": {
           "text": "Under 41 U.S.C. 1903, the simplified acquisition procedures authorized in this subpart may be used for acquisitions that do not exceed $13 million when—"
         }
-      }
+      },
+      "sub": {}
     },
     "501": {
-      "number": 501,
       "name": "Special documentation requirements.",
-      "sub": {},
       "text": {
         "1": {
           "text": "A brief written description of the procedures used in awarding the contract, including the fact that the procedures in FAR subpart 13.5 were used;"
@@ -82,7 +79,8 @@
         "b": {
           "text": "Contract file documentation. The contract file must include—"
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,17 +4,14 @@
   "name": "Other International Agreements and Coordination",
   "sub": {
     "801": {
-      "number": 801,
       "name": "General.",
-      "sub": {},
       "text": {
         "text": "Treaties and agreements between the United States and foreign governments affect the evaluation of offers from foreign entities and the performance of contracts in foreign countries."
-      }
+      },
+      "sub": {}
     },
     "802": {
-      "number": 802,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "When placing contracts with contractors located outside the United States, for performance outside the United States, contracting officers must—",
@@ -33,7 +30,8 @@
         "c": {
           "text": "Contracting officers must award all contracts with Taiwanese firms or organizations through the American Institute of Taiwan (AIT). AIT is under contract to the Department of State."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

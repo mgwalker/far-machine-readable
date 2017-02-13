@@ -4,17 +4,14 @@
   "name": "Other Than Full and Open Competition",
   "sub": {
     "300": {
-      "number": 300,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures, and identifies the statutory authorities, for contracting without providing for full and open competition."
-      }
+      },
+      "sub": {}
     },
     "301": {
-      "number": 301,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "41 U.S.C. 3304 and 10 U.S.C. 2304(c) each authorize, under certain conditions, contracting without providing for full and open competition. The Department of Defense, Coast Guard, and National Aeronautics and Space Administration are subject to 10 U.S.C. 2304(c). Other executive agencies are subject to 41 U.S.C. 3304. Contracting without providing for full and open competition or full and open competition after exclusion of sources is a violation of statute, unless permitted by one of the exceptions in 6.302."
@@ -39,11 +36,14 @@
         "e": {
           "text": "For contracts under this subpart, the contracting officer shall use the contracting procedures prescribed in 6.102(a) or (b), if appropriate, or any other procedures authorized by this regulation."
         }
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Circumstances permitting other than full and open competition.",
+      "text": {
+        "text": "The following statutory authorities (including applications and limitations) permit contracting without providing for full and open competition. Requirements for justifications to support the use of these authorities are in 6.303."
+      },
       "sub": {
         "1": {
           "name": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
@@ -498,14 +498,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": "The following statutory authorities (including applications and limitations) permit contracting without providing for full and open competition. Requirements for justifications to support the use of these authorities are in 6.303."
       }
     },
     "303": {
-      "number": 303,
       "name": "Justifications.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Requirements.",
@@ -628,15 +627,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "304": {
-      "number": 304,
       "name": "Approval of the justification.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Except for paragraph (b) of this section, the justification for other than full and open competition shall be approved in writing—",
@@ -672,12 +666,11 @@
         "d": {
           "text": "The estimated dollar value of all options shall be included in determining the approval level of a justification."
         }
-      }
+      },
+      "sub": {}
     },
     "305": {
-      "number": 305,
       "name": "Availability of the justification.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The agency shall make publicly available the justification required by 6.303-1 as required by 10 U.S.C. 2304(l) and 41 U.S.C. 3304(f). Except for the circumstances in paragraphs (b) and (c) of this section, the justification shall be made publicly available within 14 days after contract award."
@@ -708,7 +701,8 @@
         "f": {
           "text": "The requirements of paragraphs (a) through (d) do not apply if posting the justification would disclose the executive agency’s needs and disclosure of such needs would compromise national security or create other security risks."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

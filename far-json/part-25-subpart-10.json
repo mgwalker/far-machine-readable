@@ -4,9 +4,7 @@
   "name": "Additional Foreign Acquisition Regulations",
   "sub": {
     "1001": {
-      "number": 1001,
       "name": "Waiver of right to examination of records.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Identify the contract and its purpose, and identify if the contract is with a foreign contractor or with a foreign government or an agency of a foreign government;"
@@ -46,12 +44,11 @@
         "b": {
           "text": "Determination and findings. The determination and findings must—"
         }
-      }
+      },
+      "sub": {}
     },
     "1002": {
-      "number": 1002,
       "name": "Use of foreign currency.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Unless an international agreement or the WTO GPA (see 25.408(a)(4)) requires a specific currency, contracting officers must determine whether solicitations for contracts to be entered into and performed outside the United States will require submission of offers in U.S. currency or a specified foreign currency. In unusual circumstances, the contracting officer may permit submission of offers in other than a specified currency."
@@ -76,7 +73,8 @@
         "c": {
           "text": "If a contract is priced in foreign currency, the agency must ensure that adequate funds are available to cover currency fluctuations to avoid a violation of the Anti-Deficiency Act (31 U.S.C. 1341, 1342, 1511-1519)."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

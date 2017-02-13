@@ -4,17 +4,14 @@
   "name": "Paid Advertisements",
   "sub": {
     "501": {
-      "number": 501,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Advertisement” means any single message prepared for placement in communication media, regardless of the number of placements.\n\n“Publication” means—\n\n(1) The placement of an advertisement in a newspaper, magazine, trade or professional journal, or any other printed medium; or\n\n(2) The broadcasting of an advertisement over radio or television."
-      }
+      },
+      "sub": {}
     },
     "502": {
-      "number": 502,
       "name": "Authority.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Newspapers. Authority to approve the publication of paid advertisements in newspapers is vested in the head of each agency (44 U.S.C. 3702). This approval authority may be delegated (5 U.S.C. 302(b)). Contracting officers shall obtain written authorization in accordance with policy procedures before advertising in newspapers."
@@ -22,12 +19,11 @@
         "b": {
           "text": "Other media. Unless the agency head determines otherwise, advance written authorization is not required to place advertisements in media other than newspapers."
         }
-      }
+      },
+      "sub": {}
     },
     "503": {
-      "number": 503,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "General.",
@@ -49,12 +45,11 @@
         "d": {
           "text": "Payment. Upon receipt of an invoice supported by proof of advertising, the contracting officer shall attach a copy of the written authority (see 5.502(a)) and submit the invoice for payment under agency procedures."
         }
-      }
+      },
+      "sub": {}
     },
     "504": {
-      "number": 504,
       "name": "Use of advertising agencies.",
-      "sub": {},
       "text": {
         "a": {
           "text": "General. Basic ordering agreements may be placed with advertising agencies for assistance in producing and placing advertisements when a significant number will be placed in several publications and in national media. Services of advertising agencies include, but are not limited to, counseling as to selection of the media for placement of the advertisement, contacting the media in the interest of the Government, placing orders, selecting and ordering typography, copywriting, and preparing rough layouts."
@@ -76,7 +71,8 @@
         "d": {
           "text": "Art work, supplies, and incidentals. The basic ordering agreement also may provide for the furnishing by the advertising agency of art work, supplies, and incidentals, including brochures and pamphlets, but not their printing. “Incidentals” may include telephone calls, and postage incurred by the advertising agency on behalf of the Government."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

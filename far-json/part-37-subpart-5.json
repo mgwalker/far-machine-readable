@@ -4,25 +4,21 @@
   "name": "Management Oversight of Service Contracts",
   "sub": {
     "500": {
-      "number": 500,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart establishes responsibilities for implementing Office of Federal Procurement Policy (OFPP) Policy Letter 93-1, Management Oversight of Service Contracting."
-      }
+      },
+      "sub": {}
     },
     "501": {
-      "number": 501,
       "name": "Definition.",
-      "sub": {},
       "text": {
         "text": "“Best practices,” as used in this subpart, means techniques that agencies may use to help detect problems in the acquisition, management, and administration of service contracts. Best practices are practical techniques gained from experience that agencies may use to improve the procurement process."
-      }
+      },
+      "sub": {}
     },
     "502": {
-      "number": 502,
       "name": "Exclusions.",
-      "sub": {},
       "text": {
         "a": {
           "text": "This subpart does not apply to services that are—",
@@ -44,23 +40,22 @@
         "b": {
           "text": "Services obtained under contracts below the simplified acquisition threshold and services incidental to supply contracts also are excluded from the requirements of this subpart. However, good management practices and contract administration techniques should be used regardless of the contracting method."
         }
-      }
+      },
+      "sub": {}
     },
     "503": {
-      "number": 503,
       "name": "Agency-head responsibilities.",
-      "sub": {},
       "text": {
         "text": "The agency head or designee should ensure that—\n\n(a) Requirements for services are clearly defined and appropriate performance standards are developed so that the agency’s requirements can be understood by potential offerors and that performance in accordance with contract terms and conditions will meet the agency’s requirements;\n\n(b) Service contracts are awarded and administered in a manner that will provide the customer its supplies and services within budget and in a timely manner;\n\n(c) Specific procedures are in place before contracting for services to ensure that inherently governmental functions are performed by Government personnel; and\n\n(d) Strategies are developed and necessary staff training is initiated to ensure effective implementation of the policies in 37.102."
-      }
+      },
+      "sub": {}
     },
     "504": {
-      "number": 504,
       "name": "Contracting officials’ responsibilities.",
-      "sub": {},
       "text": {
         "text": "Contracting officials should ensure that “best practices” techniques are used when contracting for services and in contract management and administration (see OFPP Policy Letter 93-1)."
-      }
+      },
+      "sub": {}
     }
   }
 }

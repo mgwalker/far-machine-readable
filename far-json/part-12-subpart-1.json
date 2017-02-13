@@ -3,18 +3,29 @@
   "number": 1,
   "name": "Acquisition of Commercial Items—General",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures unique to the acquisition of commercial items. It implements the Federal Government’s preference for the acquisition of commercial items contained in 41 U.S.C. 1906, 1907, and 3307 and 10 U.S.C. 2375-2377 by establishing acquisition policies more closely resembling those of the commercial marketplace and encouraging the acquisition of commercial items and components."
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Definition.",
+      "text": {
+        "text": "“Subcontract,” as used in this part, includes, but is not limited to, a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "text": "Agencies shall—\n\n(a) Conduct market research to determine whether commercial items or nondevelopmental items are available that could meet the agency’s requirements;\n\n(b) Acquire commercial items or nondevelopmental items when they are available to meet the needs of the agency; and\n\n(c) Require prime contractors and subcontractors at all tiers to incorporate, to the maximum extent practicable, commercial items or nondevelopmental items as components of items supplied to the agency."
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "2": {
           "text": "In exercising the authority specified in paragraph (g)(1) of this section, the contracting officer may tailor paragraph (a) of the clause at FAR 52.212-4 as may be necessary to ensure the contract’s remedies adequately protect the Government’s interests."
@@ -89,31 +100,15 @@
         "vii": {
           "text": "Is awarded to an entity that provides similar services to the general public under terms and conditions similar to those in the contract or task order."
         }
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Commercially available off-the-shelf (COTS) items.",
-      "sub": {},
       "text": {
         "text": "Commercially available off-the-shelf (COTS) items are defined in 2.101. Unless indicated otherwise, all of the policies that apply to commercial items also apply to COTS items. Section 12.505 lists the laws that are not applicable to COTS (in addition to 12.503 and 12.504)."
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures unique to the acquisition of commercial items. It implements the Federal Government’s preference for the acquisition of commercial items contained in 41 U.S.C. 1906, 1907, and 3307 and 10 U.S.C. 2375-2377 by establishing acquisition policies more closely resembling those of the commercial marketplace and encouraging the acquisition of commercial items and components."
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Definition.",
-      "sub": {},
-      "text": {
-        "text": "“Subcontract,” as used in this part, includes, but is not limited to, a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor."
-      }
+      },
+      "sub": {}
     }
   }
 }

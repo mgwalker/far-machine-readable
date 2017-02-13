@@ -4,9 +4,7 @@
   "name": "Convict Labor",
   "sub": {
     "201": {
-      "number": 201,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Executive Order 11755, December 29, 1973, as amended by Executive Order 12608, September 9, 1987, and Executive Order 12943, December 13, 1994, states: “The development of the occupational and educational skills of prison inmates is essential to their rehabilitation and to their ability to make an effective return to free society. Meaningful employment serves to develop those skills. It is also true, however, that care must be exercised to avoid either the exploitation of convict labor or any unfair competition between convict labor and free labor in the production of goods and services.” The Executive order does not prohibit the contractor, in performing the contract, from employing—",
@@ -52,15 +50,15 @@
         "b": {
           "text": "Department of Justice regulations authorize the Director of the Bureau of Justice Assistance to exercise the power and authority vested in the Attorney General by the Executive order to certify and to revoke the certification of work-release laws or regulations (see 28 CFR 0.94-1(b))."
         }
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "Insert the clause at 52.222-3, Convict Labor, in solicitations and contracts above the micro-purchase threshold, when the contract will be performed in the United States, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, or the U.S. Virgin Islands; unless—\n\n(a) The contract will be subject to 41 U.S.C. chapter 65, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000 (see subpart 22.6), which contains a separate prohibition against the employment of convict labor;\n\n(b) The supplies or services are to be purchased from Federal Prison Industries, Inc. (see subpart 8.6); or\n\n(c) The acquisition involves the purchase, from any State prison, of finished supplies that may be secured in the open market or from existing stocks, as distinguished from supplies requiring special fabrication."
-      }
+      },
+      "sub": {}
     }
   }
 }

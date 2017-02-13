@@ -4,9 +4,7 @@
   "name": "Incentive Contracts",
   "sub": {
     "401": {
-      "number": 401,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Incentive contracts as described in this subpart are appropriate when a firm-fixed-price contract is not appropriate and the required supplies or services can be acquired at lower costs and, in certain instances, with improved delivery or technical performance, by relating the amount of profit or fee payable under the contract to the contractor’s performance. Incentive contracts are designed to obtain specific acquisition objectives by—",
@@ -103,11 +101,14 @@
         "g": {
           "text": "Incentive- and Award-Fee Best Practices. Each agency head shall provide mechanisms for sharing proven incentive strategies for the acquisition of different types of products and services among contracting and program management officials."
         }
-      }
+      },
+      "sub": {}
     },
     "402": {
-      "number": 402,
       "name": "Application of predetermined, formula-type incentives.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Cost incentives.",
@@ -175,14 +176,32 @@
             "text": "A properly structured multiple-incentive arrangement should—\n\n(a) Motivate the contractor to strive for outstanding results in all incentive areas; and\n\n(b) Compel trade-off decisions among the incentive areas, consistent with the Government’s overall objectives for the acquisition. Because of the interdependency of the Government’s cost, the technical performance, and the delivery goals, a contract that emphasizes only one of the goals may jeopardize control over the others. Because outstanding results may not be attainable for each of the incentive areas, all multiple-incentive contracts must include a cost incentive (or constraint) that operates to preclude rewarding a contractor for superior technical performance or delivery results when the cost of those results outweighs their value to the Government."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "403": {
-      "number": 403,
       "name": "Fixed-price incentive contracts.",
+      "text": {
+        "a": {
+          "text": "Description. A fixed-price incentive contract is a fixed-price contract that provides for adjusting profit and establishing the final contract price by application of a formula based on the relationship of total final negotiated cost to total target cost. The final price is subject to a price ceiling, negotiated at the outset. The two forms of fixed-price incentive contracts, firm target and successive targets, are further described in 16.403-1 and 16.403-2 below."
+        },
+        "b": {
+          "text": "Application. A fixed-price incentive contract is appropriate when—",
+          "sub": {
+            "1": {
+              "text": "A firm-fixed-price contract is not suitable;"
+            },
+            "2": {
+              "text": "The nature of the supplies or services being acquired and other circumstances of the acquisition are such that the contractor’s assumption of a degree of cost responsibility will provide a positive profit incentive for effective cost control and performance; and"
+            },
+            "3": {
+              "text": "If the contract also includes incentives on technical performance and/or delivery, the performance requirements provide a reasonable opportunity for the incentives to have a meaningful impact on the contractor’s management of the work."
+            }
+          }
+        },
+        "c": {
+          "text": "Billing prices. In fixed-price incentive contracts, billing prices are established as an interim basis for payment. These billing prices may be adjusted, within the ceiling limits, upon request of either party to the contract, when it becomes apparent that final negotiated cost will be substantially different from the target cost."
+        }
+      },
       "sub": {
         "1": {
           "name": "Fixed-price incentive (firm target) contracts.",
@@ -276,41 +295,20 @@
             }
           }
         }
-      },
-      "text": {
-        "a": {
-          "text": "Description. A fixed-price incentive contract is a fixed-price contract that provides for adjusting profit and establishing the final contract price by application of a formula based on the relationship of total final negotiated cost to total target cost. The final price is subject to a price ceiling, negotiated at the outset. The two forms of fixed-price incentive contracts, firm target and successive targets, are further described in 16.403-1 and 16.403-2 below."
-        },
-        "b": {
-          "text": "Application. A fixed-price incentive contract is appropriate when—",
-          "sub": {
-            "1": {
-              "text": "A firm-fixed-price contract is not suitable;"
-            },
-            "2": {
-              "text": "The nature of the supplies or services being acquired and other circumstances of the acquisition are such that the contractor’s assumption of a degree of cost responsibility will provide a positive profit incentive for effective cost control and performance; and"
-            },
-            "3": {
-              "text": "If the contract also includes incentives on technical performance and/or delivery, the performance requirements provide a reasonable opportunity for the incentives to have a meaningful impact on the contractor’s management of the work."
-            }
-          }
-        },
-        "c": {
-          "text": "Billing prices. In fixed-price incentive contracts, billing prices are established as an interim basis for payment. These billing prices may be adjusted, within the ceiling limits, upon request of either party to the contract, when it becomes apparent that final negotiated cost will be substantially different from the target cost."
-        }
       }
     },
     "404": {
-      "number": 404,
       "name": "Fixed-price contracts with award fees.",
-      "sub": {},
       "text": {
         "text": "Award-fee provisions may be used in fixed-price contracts when the Government wishes to motivate a contractor and other incentives cannot be used because contractor performance cannot be measured objectively. Such contracts shall establish a fixed price (including normal profit) for the effort.  This price will be paid for satisfactory contract performance.  Award fee earned (if any) will be paid in addition to that fixed price. See 16.401(e) for the requirements relative to utilizing this contract type."
-      }
+      },
+      "sub": {}
     },
     "405": {
-      "number": 405,
       "name": "Cost-reimbursement incentive contracts.",
+      "text": {
+        "text": "See 16.301 for requirements applicable to all cost-reimbursement contracts, for use in conjunction with the following subsections."
+      },
       "sub": {
         "1": {
           "name": "Cost-plus-incentive-fee contracts.",
@@ -351,15 +349,10 @@
             "text": "A cost-plus-award-fee contract is a cost-reimbursement contract that provides for a fee consisting of (1) a base amount fixed at inception of the contract, if applicable and at the discretion of the contracting officer, and (2) an award amount that the contractor may earn in whole or in part during performance and that is sufficient to provide motivation for excellence in the areas of cost, schedule, and technical performance. See 16.401(e) for the requirements relative to utilizing this contract type."
           }
         }
-      },
-      "text": {
-        "text": "See 16.301 for requirements applicable to all cost-reimbursement contracts, for use in conjunction with the following subsections."
       }
     },
     "406": {
-      "number": 406,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Is prescribed by or approved under agency acquisition regulations;"
@@ -385,7 +378,8 @@
         "e": {
           "text": "Insert an appropriate award-fee clause in solicitations and contracts when an award-fee contract is contemplated, provided that the clause—"
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

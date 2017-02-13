@@ -4,33 +4,28 @@
   "name": "Source Selection",
   "sub": {
     "300": {
-      "number": 300,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for selection of a source or sources in competitive negotiated acquisitions."
-      }
+      },
+      "sub": {}
     },
     "301": {
-      "number": 301,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Source selection objective.",
-      "sub": {},
       "text": {
         "text": "The objective of source selection is to select the proposal that represents the best value."
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Responsibilities.",
-      "sub": {},
       "text": {
         "1": {
           "text": "After release of a solicitation, serve as the focal point for inquiries from actual or prospective offerors;"
@@ -70,12 +65,11 @@
         "c": {
           "text": "The contracting officer shall—"
         }
-      }
+      },
+      "sub": {}
     },
     "304": {
-      "number": 304,
       "name": "Evaluation factors and significant subfactors.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Significantly more important than cost or price;"
@@ -134,12 +128,11 @@
         "e": {
           "text": "The solicitation shall also state, at a minimum, whether all evaluation factors other than cost or price, when combined, are—"
         }
-      }
+      },
+      "sub": {}
     },
     "305": {
-      "number": 305,
       "name": "Proposal evaluation.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Proposal evaluation is an assessment of the proposal and the offeror’s ability to perform the prospective contract successfully. An agency shall evaluate competitive proposals and then assess their relative qualities solely on the factors and subfactors specified in the solicitation. Evaluations may be conducted using any rating method or combination of methods, including color or adjectival ratings, numerical weights, and ordinal rankings. The relative strengths, deficiencies, significant weaknesses, and risks supporting proposal evaluation shall be documented in the contract file.",
@@ -192,12 +185,11 @@
         "c": {
           "text": "For restrictions on the use of support contractor personnel in proposal evaluation, see 37.203(d)."
         }
-      }
+      },
+      "sub": {}
     },
     "306": {
-      "number": 306,
       "name": "Exchanges with offerors after receipt of proposals.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Favors one offeror over another;"
@@ -304,12 +296,11 @@
         "e": {
           "text": "Limits on exchanges. Government personnel involved in the acquisition shall not engage in conduct that—"
         }
-      }
+      },
+      "sub": {}
     },
     "307": {
-      "number": 307,
       "name": "Proposal revisions.",
-      "sub": {},
       "text": {
         "a": {
           "text": "If an offeror’s proposal is eliminated or otherwise removed from the competitive range, no further revisions to that offeror’s proposal shall be accepted or considered."
@@ -317,15 +308,15 @@
         "b": {
           "text": "The contracting officer may request or allow proposal revisions to clarify and document understandings reached during negotiations. At the conclusion of discussions, each offeror still in the competitive range shall be given an opportunity to submit a final proposal revision. The contracting officer is required to establish a common cut-off date only for receipt of final proposal revisions. Requests for final proposal revisions shall advise offerors that the final proposal revisions shall be in writing and that the Government intends to make award without obtaining further revisions."
         }
-      }
+      },
+      "sub": {}
     },
     "308": {
-      "number": 308,
       "name": "Source selection decision.",
-      "sub": {},
       "text": {
         "text": "The source selection authority’s (SSA) decision shall be based on a comparative assessment of proposals against all source selection criteria in the solicitation. While the SSA may use reports and analyses prepared by others, the source selection decision shall represent the SSA’s independent judgment. The source selection decision shall be documented, and the documentation shall include the rationale for any business judgments and tradeoffs made or relied on by the SSA, including benefits associated with additional costs. Although the rationale for the selection decision must be documented, that documentation need not quantify the tradeoffs that led to the decision."
-      }
+      },
+      "sub": {}
     }
   }
 }

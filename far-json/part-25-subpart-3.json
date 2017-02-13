@@ -4,8 +4,10 @@
   "name": "Contracts Performed Outside the United States",
   "sub": {
     "301": {
-      "number": 301,
       "name": "Contractor personnel in a designated operational area or supporting a diplomatic or consular mission outside the United States.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Scope.",
@@ -85,14 +87,13 @@
             "text": "Insert the clause at 52.225-19, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States, in solicitations and contracts, other than personal service contracts with individuals, that will require contractor personnel to perform outside the United States—\n\n(a) In a designated operational area during—\n\n(1) Contingency operations;\n\n(2) Humanitarian or peacekeeping operations; or\n\n(3) Other military operations or military exercises, when designated by the combatant commander; or\n\n(b) When supporting a diplomatic or consular mission—\n\n(1) That has been designated by the Department of State as a danger pay post (see http://aoprals.state.gov/Web920/danger_pay_all.asp); or\n\n(2) That the contracting officer determines is a post at which application of the clause FAR 52.225-19, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States, is appropriate."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "302": {
-      "number": 302,
       "name": "Contractors performing private security functions outside the United States. ",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Scope.",
@@ -209,9 +210,6 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

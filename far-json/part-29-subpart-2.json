@@ -4,9 +4,7 @@
   "name": "Federal Excise Taxes",
   "sub": {
     "201": {
-      "number": 201,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Federal excise taxes are levied on the sale or use of particular supplies or services. Subtitle D of the Internal Revenue Code of 1954, Miscellaneous Excise Taxes, 26 U.S.C. 4041, et seq., and its implementing regulations, 26 CFR parts 40 through 299, cover miscellaneous federal excise tax requirements. Questions arising in this area should be directed to the agency-designated counsel. The most common excise taxes are—",
@@ -25,20 +23,18 @@
         "c": {
           "text": "Executive agencies shall take maximum advantage of available Federal excise tax exemptions."
         }
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "General exemptions.",
-      "sub": {},
       "text": {
         "text": "No Federal manufacturers’ or special-fuels excise taxes are imposed in many contracting situations as, for example, when the supplies are for any of the following:\n\n(a) The exclusive use of any State or political subdivision, including the District of Columbia (26 U.S.C. 4041 and 4221).\n\n(b) Shipment for export to a foreign country or an outlying area of the United States. Shipment must occur within 6 months of the time title passes to the Government. When the exemption is claimed, the words “for export” must appear on the contract or purchase document, and the contracting officer must furnish the seller proof of export (see 26 CFR 48.4221-3).\n\n(c) Further manufacture, or resale for further manufacture (this exemption does not include tires and inner tubes) (26 CFR 48.4221-2).\n\n(d) Use as fuel supplies, ships or sea stores, or legitimate equipment on vessels of war, including (1) aircraft owned by the United States and constituting a part of the armed forces and (2) guided missiles and pilotless aircraft owned or chartered by the United States. When this exemption is to be claimed, the purchase should be made on a tax-exclusive basis. The contracting officer shall furnish the seller an exemption certificate for Supplies for Vessels of War (an example is given in 26 CFR 48.4221-4(d)(2); the IRS will accept one certificate covering all orders under a single contract for a specified period of up to 12 calendar quarters) (26 U.S.C. 4041 and 4221).\n\n(e) A nonprofit educational organization (26 U.S.C. 4041 and 4221).\n\n(f) Emergency vehicles (26 U.S.C. 4053 and 4064(b)(1)(c))."
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Other Federal tax exemptions.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Pursuant to 26 U.S.C. 4293, the Secretary of the Treasury has exempted the United States from the communications excise tax imposed in 26 U.S.C. 4251, when the supplies and services are for the exclusive use of the United States. (Secretarial Authorization, June 20, 1947, Internal Revenue Cumulative Bulletin, 1947-1, 205.)"
@@ -46,7 +42,8 @@
         "b": {
           "text": "Pursuant to 26 U.S.C. 4483(b), the Secretary of the Treasury has exempted the United States from the federal highway vehicle users tax imposed in 26 U.S.C. 4481. The exemption applies whether the vehicle is owned or leased by the United States. (Secretarial Authorization, Internal Revenue Cumulative Bulletin, 1956-2, 1369.)"
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

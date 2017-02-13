@@ -3,18 +3,42 @@
   "number": 1,
   "name": "General",
   "sub": {
+    "0": {
+      "name": "Scope of part. ",
+      "text": {
+        "1": {
+          "text": "Government property provided under any statutory leasing authority, except as to non-Government use of property under 45.301(f);"
+        },
+        "2": {
+          "text": "Property to which the Government has acquired a lien or title solely because of partial, advance, progress, or performance based payments;"
+        },
+        "3": {
+          "text": "Disposal of real property;"
+        },
+        "4": {
+          "text": "Software and intellectual property; or"
+        },
+        "5": {
+          "text": "Government property that is incidental to the place of performance, when the contract requires contractor personnel to be located on a Government site or installation, and when the property used by the contractor within the location remains accountable to the Government. Items considered to be incidental to the place of performance include, for example, office space, desks, chairs, telephones, computers, and fax machines."
+        },
+        "a": {
+          "text": "This part prescribes policies and procedures for providing Government property to contractors; contractors’ management and use of Government property; and reporting, redistributing, and disposing of contractor inventory."
+        },
+        "b": {
+          "text": "It does not apply to—"
+        }
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this part—\n\n\n\n“Cannibalize” means to remove parts from Government property for use or for installation on other Government property.\n\n“Contractor-acquired property” means property acquired, fabricated, or otherwise provided by the contractor for performing a contract and to which the Government has title.\n\n“Contractor inventory” means—\n\n(1) Any property acquired by and in the possession of a contractor or subcontractor under a contract for which title is vested in the Government and which exceeds the amounts needed to complete full performance under the entire contract;\n\n(2) Any property that the Government is obligated or has the option to take over under any type of contract, e.g., as a result either of any changes in the specifications or plans thereunder or of the termination of the contract (or subcontract thereunder), before completion of the work, for the convenience or at the option of the Government; and\n\n(3) Government-furnished property that exceeds the amounts needed to complete full performance under the entire contract.\n\nContractor’s managerial personnel means the contractor’s directors, officers, managers, superintendents, or equivalent representatives who have supervision or direction of—\n\n(1) All or substantially all of the contractor’s business;\n\n(2) All or substantially all of the contractor’s operation at any one plant or separate location; or\n\n(3) A separate and complete major industrial operation.\n\n“Demilitarization” means rendering a product unusable for, and not restorable to, the purpose for which it was designed or is customarily used.\n\n“Discrepancies incident to shipment” means any differences (e.g., count or condition) between the items documented to have been shipped and items actually received.\n\n“Equipment” means a tangible item that is functionally complete for its intended purpose, durable, nonexpendable, and needed for the performance of a contract.  Equipment is not intended for sale, and does not ordinarily lose its identity or become a component part of another article when put into use.  Equipment does not include material, real property, special test equipment or special tooling.\n\n“Government-furnished property” means property in the possession of, or directly acquired by, the Government and subsequently furnished to the contractor for performance of a contract.  Government-furnished property includes, but is not limited to, spares and property furnished for repair, maintenance, overhaul, or modification.  Government-furnished property also includes contractor-acquired property if the contractor-acquired property is a deliverable under a cost contract when accepted by the Government for continued use under the contract.\n\n“Government property” means all property owned or leased by the Government. Government property includes both Government-furnished property and contractor-acquired property. Government property includes material, equipment, special tooling, special test equipment, and real property.  Government property does not include intellectual property and software.\n\n“Loss of Government property” means unintended, unforeseen or accidental loss, damage, or destruction of Government property that reduces the Government’s expected economic benefits of the property. Loss of Government property does not include occurrences such as purposeful destructive testing, obsolescence, normal wear and tear, or manufacturing defects. Loss of Government property includes, but is not limited to—\n\n(1) Items that cannot be found after a reasonable search;\n\n(2) Theft;\n\n(3) Damage resulting in unexpected harm to property requiring repair to restore the item to usable condition; or\n\n(4) Destruction resulting from incidents that render the item useless for its intended purpose or beyond economical repair.\n\n“Material” means property that may be consumed or expended during the performance of a contract, component parts of a higher assembly, or items that lose their individual identity through incorporation into an end-item. Material does not include equipment, special tooling, special test equipment or real property.\n\n“Nonseverable” means property that cannot be removed after construction or installation without substantial loss of value or damage to the installed property or to the premises where installed.\n\n“Precious metals” means silver, gold, platinum, palladium, iridium, osmium, rhodium, and ruthenium.\n\n“Production scrap” means unusable material resulting from production, engineering, operations and maintenance, repair, and research and development contract activities. Production scrap may have value when re-melted or reprocessed, e.g., textile and metal clippings, borings, and faulty castings and forgings.\n\n“Property” means all tangible property, both real and personal.\n\n“Property Administrator” means an authorized representative of the contracting officer appointed in accordance with agency procedures, responsible for administering the contract requirements and obligations relating to Government property in the possession of a contractor.\n\n“Property records” means the records created and maintained by the contractor in support of its stewardship responsibilities for the management of Government property.\n\n“Provide” means to furnish, as in Government-furnished property, or to acquire, as in contractor-acquired property.\n\n“Real property” See Federal Management Regulation 102-71.20 (41 CFR 102-71.20).\n\n“Sensitive property” means property potentially dangerous to the public safety or security if stolen, lost, or misplaced, or that shall be subject to exceptional physical security, protection, control, and accountability. Examples include weapons, ammunition, explosives, controlled substances, radioactive materials, hazardous materials or wastes, or precious metals.\n\n\n\n“Unit acquisition cost” means—\n\n(1)  For Government-furnished property, the dollar value assigned by the Government and identified in the contract; and\n\n(2)  For contractor-acquired property, the cost derived from the contractor’s records that reflect consistently applied generally accepted accounting principles."
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Contractors are ordinarily required to furnish all property necessary to perform Government contracts."
@@ -45,12 +69,11 @@
         "e": {
           "text": "Government property, other than foundations and similar improvements necessary for installing special tooling, special test equipment, or equipment, shall not be installed or constructed on contractor-owned real property in such fashion as to become nonseverable, unless the head of the contracting activity determines that such installation or construction is necessary and in the Government’s interest."
         }
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Agencies shall—",
@@ -78,12 +101,11 @@
         "b": {
           "text": "Agencies will not generally require contractors to establish property management systems that are separate from a contractor’s established procedures, practices, and systems used to account for and manage contractor-owned property."
         }
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "Responsibility and liability for Government property.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Generally, contractors are not held liable for loss of Government property under the following types of contracts:",
@@ -122,12 +144,11 @@
         "e": {
           "text": "Any monies received as financial restitution shall be credited to the Treasury of the United States as miscellaneous receipts, unless otherwise authorized by statute (31 U.S.C. 3302(b))."
         }
-      }
+      },
+      "sub": {}
     },
     "105": {
-      "number": 105,
       "name": "Contractors’ property management system compliance.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The agency responsible for contract administration shall conduct an analysis of the contractor’s property management policies, procedures, practices, and systems. This analysis shall be accomplished as frequently as conditions warrant, in accordance with agency procedures."
@@ -149,20 +170,18 @@
         "d": {
           "text": "When the property administrator determines that a reported case of loss of Government property is a risk assumed by the Government, the property administrator shall notify the contractor in writing that it is granted relief of stewardship responsibility and liability in accordance with 52.245-1(f)(1)(vii). Where the property administrator determines that the risk of loss of Government property is not assumed by the Government, the property administrator shall request that the contracting officer hold the contractor responsible and liable."
         }
-      }
+      },
+      "sub": {}
     },
     "106": {
-      "number": 106,
       "name": "Transferring accountability.",
-      "sub": {},
       "text": {
         "text": "Government property shall be transferred from one contract to another only when firm requirements exist under the gaining contract (see 45.102). Such transfers shall be documented by modifications to both gaining and losing contracts. Once transferred, all property shall be considered Government-furnished property to the gaining contract. The warranties of suitability of use and timely delivery of Government-furnished property do not apply to property acquired or fabricated by the contractor as contractor-acquired property that is subsequently transferred to another contract with the same contractor."
-      }
+      },
+      "sub": {}
     },
     "107": {
-      "number": 107,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "(1) Except as provided in paragraph (d) of this section, the contracting officer shall insert the clause at 52.245-1, Government Property, in—",
@@ -193,35 +212,8 @@
         "d": {
           "text": "Purchase orders for property repair need not include a Government property clause when the unit acquisition cost of Government property to be repaired does not exceed the simplified acquisition threshold, unless other Government property (not for repair) is provided."
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part. ",
-      "sub": {},
-      "text": {
-        "1": {
-          "text": "Government property provided under any statutory leasing authority, except as to non-Government use of property under 45.301(f);"
-        },
-        "2": {
-          "text": "Property to which the Government has acquired a lien or title solely because of partial, advance, progress, or performance based payments;"
-        },
-        "3": {
-          "text": "Disposal of real property;"
-        },
-        "4": {
-          "text": "Software and intellectual property; or"
-        },
-        "5": {
-          "text": "Government property that is incidental to the place of performance, when the contract requires contractor personnel to be located on a Government site or installation, and when the property used by the contractor within the location remains accountable to the Government. Items considered to be incidental to the place of performance include, for example, office space, desks, chairs, telephones, computers, and fax machines."
-        },
-        "a": {
-          "text": "This part prescribes policies and procedures for providing Government property to contractors; contractors’ management and use of Government property; and reporting, redistributing, and disposing of contractor inventory."
-        },
-        "b": {
-          "text": "It does not apply to—"
-        }
-      }
+      },
+      "sub": {}
     }
   }
 }

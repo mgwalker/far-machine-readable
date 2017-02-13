@@ -3,17 +3,44 @@
   "number": 1,
   "name": "Source Selection Processes and Techniques",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures governing competitive and noncompetitive negotiated acquisitions. A contract awarded using other than sealed bidding procedures is a negotiated contract (see 14.101)."
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Definitions.",
+      "text": {
+        "text": "As used in this part—\n\n“Deficiency” is a material failure of a proposal to meet a Government requirement or a combination of significant weaknesses in a proposal that increases the risk of unsuccessful contract performance to an unacceptable level.\n\n“Proposal modification” is a change made to a proposal before the solicitation closing date and time, or made in response to an amendment, or made to correct a mistake at any time before award.\n\n“Proposal revision” is a change to a proposal made after the solicitation closing date, at the request of or as allowed by a contracting officer, as the result of negotiations.\n\n“Weakness” means a flaw in the proposal that increases the risk of unsuccessful contract performance. A “significant weakness” in the proposal is a flaw that appreciably increases the risk of unsuccessful contract performance."
+      },
+      "sub": {}
+    },
+    "2": {
+      "name": "Types of negotiated acquisition.",
+      "text": {
+        "a": {
+          "text": "Sole source acquisitions. When contracting in a sole source environment, the request for proposals (RFP) should be tailored to remove unnecessary information and requirements; e.g., evaluation criteria and voluminous proposal preparation instructions."
+        },
+        "b": {
+          "text": "Competitive acquisitions. When contracting in a competitive environment, the procedures of this part are intended to minimize the complexity of the solicitation, the evaluation, and the source selection decision, while maintaining a process designed to foster an impartial and comprehensive evaluation of offerors’ proposals, leading to selection of the proposal representing the best value to the Government (see 2.101)."
+        }
+      },
+      "sub": {}
+    },
     "100": {
-      "number": 100,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart describes some of the acquisition processes and techniques that may be used to design competitive acquisition strategies suitable for the specific circumstances of the acquisition."
-      }
+      },
+      "sub": {}
     },
     "101": {
-      "number": 101,
       "name": "Best value continuum.",
+      "text": {
+        "text": "An agency can obtain best value in negotiated acquisitions by using any one or a combination of source selection approaches. In different types of acquisitions, the relative importance of cost or price may vary. For example, in acquisitions where the requirement is clearly definable and the risk of unsuccessful contract performance is minimal, cost or price may play a dominant role in source selection. The less definitive the requirement, the more development work required, or the greater the performance risk, the more technical or past performance considerations may play a dominant role in source selection."
+      },
       "sub": {
         "1": {
           "name": "Tradeoff process.",
@@ -60,15 +87,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": "An agency can obtain best value in negotiated acquisitions by using any one or a combination of source selection approaches. In different types of acquisitions, the relative importance of cost or price may vary. For example, in acquisitions where the requirement is clearly definable and the risk of unsuccessful contract performance is minimal, cost or price may play a dominant role in source selection. The less definitive the requirement, the more development work required, or the greater the performance risk, the more technical or past performance considerations may play a dominant role in source selection."
       }
     },
     "102": {
-      "number": 102,
       "name": "Oral presentations.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Oral presentations by offerors as requested by the Government may substitute for, or augment, written information. Use of oral presentations as a substitute for portions of a proposal can be effective in streamlining the source selection process. Oral presentations may occur at any time in the acquisition process, and are subject to the same restrictions as written information, regarding timing (see 15.208) and content (see 15.306). Oral presentations provide an opportunity for dialogue among the parties. Pre-recorded videotaped presentations that lack real-time interactive dialogue are not considered oral presentations for the purposes of this section, although they may be included in offeror submissions, when appropriate."
@@ -125,36 +147,8 @@
         "g": {
           "text": "If, during an oral presentation, the Government conducts discussions (see 15.306(d)), the Government must comply with 15.306 and 15.307."
         }
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures governing competitive and noncompetitive negotiated acquisitions. A contract awarded using other than sealed bidding procedures is a negotiated contract (see 14.101)."
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Definitions.",
-      "sub": {},
-      "text": {
-        "text": "As used in this part—\n\n“Deficiency” is a material failure of a proposal to meet a Government requirement or a combination of significant weaknesses in a proposal that increases the risk of unsuccessful contract performance to an unacceptable level.\n\n“Proposal modification” is a change made to a proposal before the solicitation closing date and time, or made in response to an amendment, or made to correct a mistake at any time before award.\n\n“Proposal revision” is a change to a proposal made after the solicitation closing date, at the request of or as allowed by a contracting officer, as the result of negotiations.\n\n“Weakness” means a flaw in the proposal that increases the risk of unsuccessful contract performance. A “significant weakness” in the proposal is a flaw that appreciably increases the risk of unsuccessful contract performance."
-      }
-    },
-    "002": {
-      "number": 2,
-      "name": "Types of negotiated acquisition.",
-      "sub": {},
-      "text": {
-        "a": {
-          "text": "Sole source acquisitions. When contracting in a sole source environment, the request for proposals (RFP) should be tailored to remove unnecessary information and requirements; e.g., evaluation criteria and voluminous proposal preparation instructions."
-        },
-        "b": {
-          "text": "Competitive acquisitions. When contracting in a competitive environment, the procedures of this part are intended to minimize the complexity of the solicitation, the evaluation, and the source selection decision, while maintaining a process designed to foster an impartial and comprehensive evaluation of offerors’ proposals, leading to selection of the proposal representing the best value to the Government (see 2.101)."
-        }
-      }
+      },
+      "sub": {}
     }
   }
 }

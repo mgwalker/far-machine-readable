@@ -4,25 +4,21 @@
   "name": "The Small Business Subcontracting Program",
   "sub": {
     "701": {
-      "number": 701,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Alaska Native Corporation (ANC)” means any Regional Corporation, Village Corporation, Urban Corporation, or Group Corporation organized under the laws of the State of Alaska in accordance with the Alaska Native Claims Settlement Act, as amended (43 U.S.C. 1601, et seq.) and which is considered a minority and economically disadvantaged concern under the criteria at 43 U.S.C. 1626(e)(1). This definition also includes ANC direct and indirect subsidiary corporations, joint ventures, and partnerships that meet the requirements of 43 U.S.C. 1626(e)(2).\n\n“Commercial plan” means a subcontracting plan (including goals) that covers the offeror’s fiscal year and that applies to the entire production of commercial items sold by either the entire company or a portion thereof (e.g., division, plant, or product line).\n\n“Electronic Subcontracting Reporting System (eSRS)” means the Governmentwide, electronic, web-based system for small business subcontracting program reporting.\n\n“Failure to make a good faith effort to comply with the subcontracting plan” means willful or intentional failure to perform in accordance with the requirements of the subcontracting plan, or willful or intentional action to frustrate the plan.\n\n“Indian tribe” means any Indian tribe, band, group, pueblo, or community, including native villages and native groups (including corporations organized by Kenai, Juneau, Sitka, and Kodiak) as defined in the Alaska Native Claims Settlement Act (43 U.S.C.A. 1601 et seq.), that is recognized by the Federal Government as eligible for services from the Bureau of Indian Affairs in accordance with 25 U.S.C. 1452(c). This definition also includes Indian-owned economic enterprises that meet the requirements of 25 U.S.C. 1452(e).\n\n“Individual subcontracting plan” means a subcontracting plan that covers the entire contract period (including option periods), applies to a specific contract, and has goals that are based on the offeror’s planned subcontracting in support of the specific contract, except that indirect costs incurred for common or joint purposes may be allocated on a prorated basis to the contract.\n\n“Master subcontracting plan” means a subcontracting plan that contains all the required elements of an individual subcontracting plan, except goals, and may be incorporated into individual subcontracting plans, provided the master subcontracting plan has been approved.\n\n“Reduced payment” means a payment that is for less than the amount agreed upon in a subcontract in accordance with its terms and conditions, for supplies and services for which the Government has paid the prime contractor.\n\n“Subcontract” means any agreement (other than one involving an employer-employee relationship) entered into by a Government prime contractor or subcontractor calling for supplies and/or services required for performance of the contract, contract modification, or subcontract.\n\n“Total contract dollars” means the final anticipated dollar value, including the dollar value of all options.\n\n“Untimely payment” means a payment to a subcontractor that is more than 90 days past due under the terms and conditions of a subcontract for supplies and services for which the Government has paid the prime contractor."
-      }
+      },
+      "sub": {}
     },
     "702": {
-      "number": 702,
       "name": "Statutory requirements.",
-      "sub": {},
       "text": {
         "text": "Any contractor receiving a contract with a value greater than the simplified acquisition threshold must agree in the contract that small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns will have the maximum practicable opportunity to participate in contract performance consistent with its efficient performance. It is further the policy of the United States that its prime contractors establish procedures to ensure the timely payment of amounts due pursuant to the terms of their subcontracts with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns.\n\n(a) Except as stated in paragraph (b) of this section, section 8(d) of the Small Business Act (15 U.S.C. 637(d)) imposes the following requirements regarding subcontracting with small businesses and small business subcontracting plans:\n\n(1) In negotiated acquisitions, each solicitation of offers to perform a contract that is expected to exceed $700,000 ($1.5 million for construction) and that has subcontracting possibilities, shall require the apparently successful offeror to submit an acceptable subcontracting plan. If the apparently successful offeror fails to negotiate a subcontracting plan acceptable to the contracting officer within the time limit prescribed by the contracting officer, the offeror will be ineligible for award.\n\n(2) In sealed bidding acquisitions, each invitation for bids to perform a contract that is expected to exceed $700,000 ($1.5 million for construction) and that has subcontracting possibilities, shall require the bidder selected for award to submit a subcontracting plan. If the selected bidder fails to submit a plan within the time limit prescribed by the contracting officer, the bidder will be ineligible for award.\n\n(3) Each contract modification that causes the value of a contract without a subcontracting plan to exceed $700,000 ($1.5 million for construction), shall require the contractor to submit a subcontracting plan for the contract, if the contracting officer determines that subcontracting opportunities exist.\n\n(b) Subcontracting plans (see paragraphs (a)(1) and (2) of this section) are not required—\n\n(1) From small business concerns;\n\n(2) For personal services contracts;\n\n(3) For contracts or contract modifications that will be performed entirely outside of the United States and its outlying areas; or\n\n(4) For modifications that are within the scope of the contract and the contract does not contain the clause at 52.219-8, Utilization of Small Business Concerns.\n\n(c) As stated in 15 U.S.C. 637(d)(8), any contractor or subcontractor failing to comply in good faith with the requirements of the subcontracting plan is in material breach of its contract. Further, 15 U.S.C. 637(d)(4)(F) directs that a contractor’s failure to make a good faith effort to comply with the requirements of the subcontracting plan shall result in the imposition of liquidated damages.\n\n(d) As authorized by 15 U.S.C. 637(d)(11), certain costs incurred by a mentor firm in providing developmental assistance to a protégé firm under the Department of Defense Pilot Mentor-Protégé Program, may be credited as if they were subcontract awards to a protégé firm for the purpose of determining whether the mentor firm attains the applicable goals under any subcontracting plan entered into with any executive agency. However, the mentor-protégé agreement must have been approved by the Director, Small Business Programs of the cognizant DoD military department or defense agency, before developmental assistance costs may be credited against subcontract goals. A list of approved agreements may be obtained at http://www.acq.osd.mil/osbp/mentor_protege/."
-      }
+      },
+      "sub": {}
     },
     "703": {
-      "number": 703,
       "name": "Eligibility requirements for participating in the program.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Except as provided in paragraph (c) of this section, to be eligible as a subcontractor under the program, a concern must represent itself as a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concern.",
@@ -99,12 +95,11 @@
         "e": {
           "text": "The contracting officer or the SBA may protest the disadvantaged status of a proposed subcontractor. Protests challenging a subcontractor’s small disadvantaged business representation must be filed in accordance with 13 CFR 124.1007 through 124.1014. Other interested parties may submit information to the contracting officer or the SBA in an effort to persuade the contracting officer or the SBA to initiate a protest. Such protests, in order to be considered timely, must be submitted to the SBA prior to completion of performance by the intended subcontractor."
         }
-      }
+      },
+      "sub": {}
     },
     "704": {
-      "number": 704,
       "name": "Subcontracting plan requirements.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Submit the commercial plan to either the first contracting officer awarding a contract subject to the plan during the contractor’s fiscal year, or, if the contractor has ongoing contracts with commercial plans, to the contracting officer responsible for the contract with the latest completion date. The contracting officer shall negotiate the commercial plan for the Government. The approved commercial plan shall remain in effect during the contractor’s fiscal year for all Government contracts in effect during that period;"
@@ -214,11 +209,14 @@
         "d": {
           "text": "A commercial plan (as defined in 19.701) is the preferred type of subcontracting plan for contractors furnishing commercial items. Once a contractor’s commercial plan has been approved, the Government shall not require another subcontracting plan from the same contractor while the plan remains in effect, as long as the product or service being provided by the contractor continues to meet the definition of a commercial item. The contractor shall—"
         }
-      }
+      },
+      "sub": {}
     },
     "705": {
-      "number": 705,
       "name": "Responsibilities of the contracting officer under the subcontracting assistance program.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -340,23 +338,17 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "706": {
-      "number": 706,
       "name": "Responsibilities of the cognizant administrative contracting officer.",
-      "sub": {},
       "text": {
         "text": "The administrative contracting officer is responsible for assisting in evaluating subcontracting plans, and for monitoring, evaluating, and documenting contractor performance under the clause prescribed in 19.708(b) and any subcontracting plan included in the contract. The contract administration office shall provide the necessary information and advice to support the contracting officer, as appropriate, by furnishing—\n\n(a) Documentation on the contractor’s performance and compliance with subcontracting plans under previous contracts;\n\n(b) Information on the extent to which the contractor is meeting the plan’s goals for subcontracting with eligible small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns;\n\n(c) Information on whether the contractor’s efforts to ensure the participation of small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns are in accordance with its subcontracting plan;\n\n(d) Information on whether the contractor is requiring its subcontractors to adopt similar subcontracting plans;\n\n(e) Immediate notice if, during performance, the contractor is failing to meet its commitments under the clause prescribed in 19.708(b) or the subcontracting plan;\n\n(f) Immediate notice and rationale if, during performance, the contractor is failing to comply in good faith with the subcontracting plan; and\n\n(g) Immediate notice that performance under a contract is complete, that the goals were or were not met, and, if not met, whether there is any indication of a lack of a good faith effort to comply with the subcontracting plan."
-      }
+      },
+      "sub": {}
     },
     "707": {
-      "number": 707,
       "name": "The Small Business Administration’s role in carrying out the program.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Prescribe the extent to which any contractor or subcontractor shall subcontract,"
@@ -387,12 +379,11 @@
         "b": {
           "text": "The SBA is not authorized to—"
         }
-      }
+      },
+      "sub": {}
     },
     "708": {
-      "number": 708,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "2": {
           "text": "Various approaches may be used in the development of small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns’ subcontracting incentives. They can take many forms, from a fully quantified schedule of payments based on actual subcontract achievement to an award-fee approach employing subjective evaluation criteria (see paragraph (c)(3) of this section). The incentive should not reward the contractor for results other than those that are attributable to the contractor’s efforts under the incentive subcontracting program."
@@ -434,7 +425,8 @@
         "c": {
           "text": "(1) The contracting officer may, when contracting by negotiation, insert in solicitations and contracts a clause substantially the same as the clause at 52.219-10, Incentive Subcontracting Program, when a subcontracting plan is required (see 19.702), and inclusion of a monetary incentive is, in the judgment of the contracting officer, necessary to increase subcontracting opportunities for small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, and is commensurate with the efficient and economical performance of the contract; unless the conditions in paragraph (c)(3) of this section are applicable. The contracting officer may vary the terms of the clause as specified in paragraph (c)(2) of this section."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

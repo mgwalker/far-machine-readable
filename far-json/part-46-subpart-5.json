@@ -4,41 +4,35 @@
   "name": "Acceptance",
   "sub": {
     "501": {
-      "number": 501,
       "name": "General.",
-      "sub": {},
       "text": {
         "text": "Acceptance constitutes acknowledgment that the supplies or services conform with applicable contract quality and quantity requirements, except as provided in this subpart and subject to other terms and conditions of the contract. Acceptance may take place before delivery, at the time of delivery, or after delivery, depending on the provisions of the terms and conditions of the contract. Supplies or services shall ordinarily not be accepted before completion of Government contract quality assurance actions (however, see 46.504). Acceptance shall ordinarily be evidenced by execution of an acceptance certificate on an inspection or receiving report form or commercial shipping document/packing list."
-      }
+      },
+      "sub": {}
     },
     "502": {
-      "number": 502,
       "name": "Responsibility for acceptance.",
-      "sub": {},
       "text": {
         "text": "Acceptance of supplies or services is the responsibility of the contracting officer. When this responsibility is assigned to a cognizant contract administration office or to another agency (see 42.202(g)), acceptance by that office or agency is binding on the Government."
-      }
+      },
+      "sub": {}
     },
     "503": {
-      "number": 503,
       "name": "Place of acceptance.",
-      "sub": {},
       "text": {
         "text": "Each contract shall specify the place of acceptance. Contracts that provide for Government contract quality assurance at source shall ordinarily provide for acceptance at source. Contracts that provide for Government contract quality assurance at destination shall ordinarily provide for acceptance at destination. (For transportation terms, see Subpart 47.3.) Supplies accepted at a place other than destination shall not be reinspected at destination for acceptance purposes, but should be examined at destination for quantity, damage in transit, and possible substitution or fraud."
-      }
+      },
+      "sub": {}
     },
     "504": {
-      "number": 504,
       "name": "Certificate of conformance.",
-      "sub": {},
       "text": {
         "text": "A certificate of conformance (see 46.315) may be used in certain instances instead of source inspection (whether the contract calls for acceptance at source or destination) at the discretion of the contracting officer if the following conditions apply:\n\n(a) Acceptance on the basis of a contractor’s certificate of conformance is in the Government’s interest.\n\n(b)(1) Small losses would be incurred in the event of a defect; or\n\n(2) Because of the contractor’s reputation or past performance, it is likely that the supplies or services furnished will be acceptable and any defective work would be replaced, corrected, or repaired without contest. In no case shall the Government’s right to inspect supplies under the inspection provisions of the contract be prejudiced."
-      }
+      },
+      "sub": {}
     },
     "505": {
-      "number": 505,
       "name": "Transfer of title and risk of loss.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Title to supplies shall pass to the Government upon formal acceptance, regardless of when or where the Government takes physical possession, unless the contract specifically provides for earlier passage of title."
@@ -63,7 +57,8 @@
         "e": {
           "text": "The policy expressed in (a) through (d) of this section is specified in the clause at 52.246-16, Responsibility for Supplies, which is prescribed in 46.316."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

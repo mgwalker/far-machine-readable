@@ -4,33 +4,28 @@
   "name": "Advisory and Assistance Services",
   "sub": {
     "200": {
-      "number": 200,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for acquiring advisory and assistance services by contract. The subpart applies to contracts, whether made with individuals or organizations, that involve either personal or nonpersonal services."
-      }
+      },
+      "sub": {}
     },
     "201": {
-      "number": 201,
       "name": "Definition.",
-      "sub": {},
       "text": {
         "text": "“Covered personnel” means—\n\n(1) An officer or an individual who is appointed in the civil service by one of the following acting in an official capacity—\n\n(i) The President;\n\n(ii) A Member of Congress;\n\n(iii) A member of the uniformed services;\n\n(iv) An individual who is an employee under 5 U.S.C. 2105;\n\n(v) The head of a Government-controlled corporation; or\n\n(vi) An adjutant general appointed by the Secretary concerned under 32 U.S.C. 709(c).\n\n(2) A member of the Armed Services of the United States.\n\n(3) A person assigned to a Federal agency who has been transferred to another position in the competitive service in another agency."
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Exclusions.",
-      "sub": {},
       "text": {
         "text": "The following activities and programs are excluded or exempted from the definition of advisory or assistance services:\n\n(a) Routine information technology services unless they are an integral part of a contract for the acquisition of advisory and assistance services.\n\n(b) Architectural and engineering services as defined in 40 U.S.C. 1102.\n\n(c) Research on theoretical mathematics and basic research involving medical, biological, physical, social, psychological, or other phenomena."
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Neither covered personnel from the requesting agency, nor from another agency, with adequate training and capabilities to perform the required proposal evaluation, are readily available and a written determination is made in accordance with 37.204;"
@@ -90,12 +85,11 @@
         "d": {
           "text": "Limitation on payment for advisory and assistance services. Contractors may not be paid for services to conduct evaluations or analyses of any aspect of a proposal submitted for an initial contract award unless—"
         }
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Guidelines for determining availability of personnel.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The head of an agency shall determine, for each evaluation or analysis of proposals, if sufficient personnel with the requisite training and capabilities are available within the agency to perform the evaluation or analysis of proposals submitted for the acquisition."
@@ -120,15 +114,15 @@
         "e": {
           "text": "An agency may make a determination regarding the availability of covered personnel for a class of proposals for which evaluation and analysis would require expertise so unique or specialized that it is not reasonable to expect such personnel to be available."
         }
-      }
+      },
+      "sub": {}
     },
     "205": {
-      "number": 205,
       "name": "Contracting officer responsibilities.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall ensure that the determination required in accordance with the guidelines at 37.204 has been made prior to issuing a solicitation."
-      }
+      },
+      "sub": {}
     }
   }
 }

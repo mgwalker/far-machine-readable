@@ -4,9 +4,7 @@
   "name": "Synopses of Contract Awards",
   "sub": {
     "301": {
-      "number": 301,
       "name": "General.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Contracts awarded using other than full and open competition in accordance with 6.305;"
@@ -90,20 +88,18 @@
         "d": {
           "text": "Posting is required of the justifications for—"
         }
-      }
+      },
+      "sub": {}
     },
     "302": {
-      "number": 302,
       "name": "Preparation and transmittal of synopses of awards.",
-      "sub": {},
       "text": {
         "text": "Contracting officers shall transmit synopses of contract awards in the same manner as prescribed in 5.207."
-      }
+      },
+      "sub": {}
     },
     "303": {
-      "number": 303,
       "name": "Announcement of contract awards.",
-      "sub": {},
       "text": {
         "1": {
           "text": "For awards after sealed bidding, a statement that the contract was awarded after competition by sealed bidding, the number of offers solicited and received, and the basis for selection (e.g., the lowest responsible bidder); or"
@@ -128,7 +124,8 @@
         "b": {
           "text": "Local announcement. Agencies may also release information on contract awards to the local press or other media. When local announcements are made for contract awards in excess of the simplified acquisition threshold, they shall include—"
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,9 +4,7 @@
   "name": "Additional Principles for Fixed-Price Contracts Terminated for Convenience",
   "sub": {
     "201": {
-      "number": 201,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "A settlement should compensate the contractor fairly for the work done and the preparations made for the terminated portions of the contract, including a reasonable allowance for profit. Fair compensation is a matter of judgment and cannot be measured exactly. In a given case, various methods may be equally appropriate for arriving at fair compensation. The use of business judgment, as distinguished from strict accounting principles, is the heart of a settlement."
@@ -17,12 +15,11 @@
         "c": {
           "text": "Cost and accounting data may provide guides, but are not rigid measures, for ascertaining fair compensation. In appropriate cases, costs may be estimated, differences compromised, and doubtful questions settled by agreement. Other types of data, criteria, or standards may furnish equally reliable guides to fair compensation. The amount of recordkeeping, reporting, and accounting related to the settlement of terminated contracts should be kept to a minimum compatible with the reasonable protection of the public interest."
         }
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Profit.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Comply with paragraphs (a) and (b) of this section;"
@@ -85,12 +82,11 @@
         "c": {
           "text": "When computing profit on the terminated portion of a construction contract, the contracting officer shall—"
         }
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Adjustment for loss.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The amount negotiated or determined for settlement expenses."
@@ -130,20 +126,18 @@
         "ii": {
           "text": "The remainder plus the estimated cost to complete the entire contract."
         }
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Deductions.",
-      "sub": {},
       "text": {
         "text": "From the amount payable to the contractor under a settlement, the TCO shall deduct—\n\n(a) The agreed price for any part of the termination inventory purchased or retained by the contractor, and the proceeds from any materials sold that have not been paid or credited to the Government;\n\n(b) The fair value, as determined by the TCO, of any part of the termination inventory that, before transfer of title to the Government or to a buyer under Part 45, is lost or so damaged as to become undeliverable (normal spoilage is excepted, as is inventory for which the Government has expressly assumed the risk of loss); and\n\n(c) Any other amounts as appropriate in the particular case."
-      }
+      },
+      "sub": {}
     },
     "205": {
-      "number": 205,
       "name": "Completed end items.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Promptly after the effective date of termination, the TCO shall (1) have all undelivered completed end items inspected and accepted if they comply with the contract requirements, and (2) determine which accepted end items are to be delivered under the contract. The contractor shall invoice accepted and delivered end items at the contract price in the usual manner and shall not include them in the settlement proposal. When completed end items, though accepted, are not to be delivered under the contract, the contractor shall include them in the settlement proposal at the contract price, adjusted for any saving of freight or other charges, together with any credits for their purchase, retention, or sale."
@@ -151,11 +145,14 @@
         "b": {
           "text": "Work in place accepted by the Government under a construction contract is not considered a completed item even though that work may have been paid for at unit prices specified in the contract."
         }
-      }
+      },
+      "sub": {}
     },
     "206": {
-      "number": 206,
       "name": "Settlement proposals.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Submission of settlement proposals.",
@@ -271,26 +268,21 @@
             "text": "Subject to the terms of the termination clause, and whenever termination inventory is involved, the contractor shall submit complete inventory disposal schedules to the TCO reflecting inventory that is allocable to the terminated portion of the contract. The inventory disposal schedules shall be submitted within 120 days from the effective date of termination unless otherwise extended by the TCO based on a written justification to support the extension. The inventory schedules shall be prepared on Standard Form 1428, Inventory Disposal Schedule."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "207": {
-      "number": 207,
       "name": "Limitation on settlements.",
-      "sub": {},
       "text": {
         "text": "The total amount payable to the contractor for a settlement, before deducting disposal or other credits and exclusive of settlement costs, must not exceed the contract price less payments otherwise made or to be made under the contract."
-      }
+      },
+      "sub": {}
     },
     "208": {
-      "number": 208,
       "name": "Equitable adjustment after partial termination.",
-      "sub": {},
       "text": {
         "text": "Under the termination clause, after partial termination, a contractor may request an equitable adjustment in the price or prices of the continued portion of a fixed-price contract. The TCO shall forward the proposal to the contracting officer except when negotiation authority is delegated to the TCO. The contractor shall submit the proposal in the format of Table 15-2 of 15.408.\n\n(a) When the contracting officer retains responsibility for negotiating the equitable adjustment and executing a supplemental agreement, the contracting officer shall ensure that no portion of an increase in price is included in a termination settlement made or in process.\n\n(b) The TCO shall also ensure that no portion of the costs included in the equitable adjustment are included in the termination settlement."
-      }
+      },
+      "sub": {}
     }
   }
 }

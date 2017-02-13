@@ -4,9 +4,7 @@
   "name": "Change Orders",
   "sub": {
     "201": {
-      "number": 201,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Generally, Government contracts contain a changes clause that permits the contracting officer to make unilateral changes, in designated areas, within the general scope of the contract. These are accomplished by issuing written change orders on Standard Form 30, Amendment of Solicitation/Modification of Contract (SF 30), unless otherwise provided (see 43.301)."
@@ -17,20 +15,18 @@
         "c": {
           "text": "The contracting officer may issue a change order by electronic means without a SF 30 under unusual or urgent circumstances, provided that the message contains substantially the information required by the SF 30 and immediate action is taken to issue the SF 30."
         }
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Authority to issue change orders.",
-      "sub": {},
       "text": {
         "text": "Change orders shall be issued by the contracting officer except when authority is delegated to an administrative contracting officer (see 42.202(c))."
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Change order accounting procedures.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Nonrecurring costs (e.g., engineering costs and costs of obsolete or reperformed work)."
@@ -47,12 +43,11 @@
         "b": {
           "text": "The following categories of direct costs normally are segregable and accountable under the terms of the Change Order Accounting clause:"
         }
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Administration.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Ensure that all elements of the equitable adjustment have been presented and resolved; and"
@@ -113,12 +108,11 @@
         "s": {
           "text": "agreed to herein as complete equitable adjustments for the Contractor’s _______ (describe) _________ “proposal(s) for adjustment,” the Contractor hereby releases the Government from any and all liability under this contract for further equitable adjustments attributable to such facts or circumstances giving rise to the “proposal(s) for adjustment” (except for ____________)."
         }
-      }
+      },
+      "sub": {}
     },
     "205": {
-      "number": 205,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "(1) The contracting officer shall insert the clause at 52.243-1, Changes—Fixed-Price, in solicitations and contracts when a fixed-price contract for supplies is contemplated.",
@@ -180,7 +174,8 @@
         "f": {
           "text": "The contracting officer may insert a clause, substantially the same as the clause at 52.243-6, Change Order Accounting, in solicitations and contracts for supply and research and development contracts of significant technical complexity, if numerous changes are anticipated. The clause may be included in solicitations and contracts for construction if deemed appropriate by the contracting officer."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

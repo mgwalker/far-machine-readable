@@ -4,17 +4,14 @@
   "name": "Prompt Payment",
   "sub": {
     "900": {
-      "number": 900,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies, procedures, and clauses for implementing Office of Management and Budget (OMB) prompt payment regulations at 5 CFR Part 1315."
-      }
+      },
+      "sub": {}
     },
     "901": {
-      "number": 901,
       "name": "Applicability.",
-      "sub": {},
       "text": {
         "a": {
           "text": "This subpart applies to invoice payments on all contracts, except contracts with payment terms and late payment penalties established by other governmental authority (e.g., tariffs)."
@@ -22,20 +19,18 @@
         "b": {
           "text": "This subpart does not apply to contract financing payments (see definition at 32.001)."
         }
-      }
+      },
+      "sub": {}
     },
     "902": {
-      "number": 902,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Discount for prompt payment” means an invoice payment reduction offered by the contractor for payment prior to the due date.\n\n“Mixed invoice” means an invoice that contains items with different payment due dates.\n\n“Payment date” means the date on which a check for payment is dated or, for an electronic funds transfer (EFT), the settlement date.\n\n“Settlement date,” as it applies to electronic funds transfer, means the date on which an electronic funds transfer payment is credited to the contractor’s financial institution."
-      }
+      },
+      "sub": {}
     },
     "903": {
-      "number": 903,
       "name": "Responsibilities.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The applicable Prompt Payment clauses that apply to each item when the solicitation or contract contains items that will be subject to different payment terms; and"
@@ -66,12 +61,11 @@
         "b": {
           "text": "When drafting solicitations and contracts, contracting officers must identify for each line item number, subline item number, or exhibit line item number—"
         }
-      }
+      },
+      "sub": {}
     },
     "904": {
-      "number": 904,
       "name": "Determining payment due dates.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Pay the entire invoice on the earliest due date; or"
@@ -234,12 +228,11 @@
         "g": {
           "text": "Multiple payment due dates. Contracting officers may encourage, but not require, contractors to submit separate invoices for products with different payment due dates under the same contract or order. When an invoice contains items with different payment due dates (i.e., a mixed invoice), the payment office will, subject to agency policy—"
         }
-      }
+      },
+      "sub": {}
     },
     "905": {
-      "number": 905,
       "name": "Payment documentation and process.",
-      "sub": {},
       "text": {
         "a": {
           "text": "General. Payment will be based on receipt of a proper invoice and satisfactory contract performance."
@@ -336,12 +329,11 @@
         "e": {
           "text": "Payment office. The designated payment office will annotate each invoice and receiving report with the actual date it receives the invoice."
         }
-      }
+      },
+      "sub": {}
     },
     "906": {
-      "number": 906,
       "name": "Making payments.",
-      "sub": {},
       "text": {
         "a": {
           "text": "General. The Government will not make invoice payments earlier than 7 days prior to the due dates specified in the contract unless the agency head determines—",
@@ -388,12 +380,11 @@
         "e": {
           "text": "Discounts. When a discount for prompt payment is taken, the designated payment office will make payment to the contractor as close as possible to, but not later than, the end of the discount period. The discount period is specified by the contractor and is calculated from the date of the contractor’s proper invoice. If the contractor has not placed a date on the invoice, the due date is calculated from the date the designated billing office receives a proper invoice, provided the agency annotates such invoice with the date of receipt at the time of receipt. When the discount date falls on a Saturday, Sunday, or legal holiday when Government offices are closed, the designated payment office may make payment on the following working day and take a discount. Payment terms are specified in the clause at 52.232-8, Discounts for Prompt Payment."
         }
-      }
+      },
+      "sub": {}
     },
     "907": {
-      "number": 907,
       "name": "Interest penalties.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Late payment. The designated payment office will pay an interest penalty automatically, without request from the contractor, when all of the following conditions, if applicable, have been met:",
@@ -480,12 +471,11 @@
         "f": {
           "text": "Unavailability of funds. The temporary unavailability of funds to make a timely payment does not relieve an agency from the obligation to pay interest penalties."
         }
-      }
+      },
+      "sub": {}
     },
     "908": {
-      "number": 908,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "1": {
           "text": "As authorized in 32.904(b)(1)(ii)(B)(4), the contracting officer may modify the date in paragraph (a)(5)(i) of the clause to specify a period longer than 7 days for constructive acceptance, if required to afford the Government a reasonable opportunity to inspect and test the supplies furnished or to evaluate the services performed, except in the case of a contract for the purchase of a commercial item, including a brand-name commercial item for authorized resale (e.g., commissary items)."
@@ -521,12 +511,11 @@
         "c": {
           "text": "Insert the clause at 52.232-25, Prompt Payment, in all other solicitations and contracts, except when the clause at 52.212-4, Contract Terms and Conditions-Commercial Items, applies, or when payment terms and late payment penalties are established by other governmental authority (e.g., tariffs)."
         }
-      }
+      },
+      "sub": {}
     },
     "909": {
-      "number": 909,
       "name": "Contractor inquiries.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Direct questions involving—",
@@ -542,7 +531,8 @@
         "b": {
           "text": "Small business concerns may contact the agency’s local small business specialist or representative from the Office of Small and Disadvantaged Business Utilization to obtain additional assistance related to payment issues, late payment interest penalties, and information on the Prompt Payment Act."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

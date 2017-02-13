@@ -3,9 +3,18 @@
   "number": 1,
   "name": "Safeguards",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes policies and procedures for avoiding improper business practices and personal conflicts of interest and for dealing with their apparent or actual occurrence."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Standards of conduct.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -38,22 +47,20 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "102": {
-      "number": 102,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Independent pricing.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Solicitation provision.",
@@ -120,14 +127,13 @@
             "text": "A contractor that properly executed the certificate before award does not have to submit a separate certificate with each proposal to perform a work order or similar ordering instrument issued pursuant to the terms of the contract, where the Government’s requirements cannot be met from another source."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "104": {
-      "number": 104,
       "name": "Procurement integrity.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Definitions.",
@@ -516,17 +522,6 @@
             "text": "In solicitations and contracts for other than commercial items that exceed the simplified acquisition threshold, insert the clauses at—\n\n(a) 52.203-8, Cancellation, Rescission, and Recovery of Funds for Illegal or Improper Activity; and\n\n(b) 52.203-10, Price or Fee Adjustment for Illegal or Improper Activity."
           }
         }
-      },
-      "text": {
-        "text": ""
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes policies and procedures for avoiding improper business practices and personal conflicts of interest and for dealing with their apparent or actual occurrence."
       }
     }
   }

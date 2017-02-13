@@ -4,17 +4,14 @@
   "name": "Evaluating Foreign Offers—Supply Contracts",
   "sub": {
     "501": {
-      "number": 501,
       "name": "General.",
-      "sub": {},
       "text": {
         "text": "The contracting officer—\n\n(a) Must apply the evaluation procedures of this subpart to each line item of an offer unless either the offer or the solicitation specifies evaluation on a group basis (see 25.503);\n\n(b) May rely on the offeror’s certification of end product origin when evaluating a foreign offer;\n\n(c) Must identify and reject offers of end products that are prohibited in accordance with Subpart 25.7; and\n\n(d) Must not use the Buy American statute evaluation factors prescribed in this subpart to provide a preference for one foreign offer over another foreign offer."
-      }
+      },
+      "sub": {}
     },
     "502": {
-      "number": 502,
       "name": "Application.",
-      "sub": {},
       "text": {
         "1": {
           "text": "If application of an evaluation factor results in a tie between a domestic offer and a foreign offer, award on the domestic offer."
@@ -79,12 +76,11 @@
         "d": {
           "text": "Ties."
         }
-      }
+      },
+      "sub": {}
     },
     "503": {
-      "number": 503,
       "name": "Group offers.",
-      "sub": {},
       "text": {
         "1": {
           "text": "If the proposed price of domestic end products exceeds 50 percent of the total proposed price of the group, evaluate the entire group as a domestic offer. Evaluate all other groups as foreign offers."
@@ -126,11 +122,14 @@
         "c": {
           "text": "If the solicitation specifies that award will be made only on a group of line items or all line items contained in the solicitation, determine the category of end products on the basis of each line item, but determine whether to apply an evaluation factor on the basis of the group of items (see 25.504-4, Example 2)."
         }
-      }
+      },
+      "sub": {}
     },
     "504": {
-      "number": 504,
       "name": "Evaluation examples.",
+      "text": {
+        "text": "The following examples illustrate the application of the evaluation procedures in 25.502 and 25.503. The examples assume that the contracting officer has eliminated all offers that are unacceptable for reasons other than price or a trade agreement (see 25.502(a)(1)). The evaluation factor may change as provided in agency regulations."
+      },
       "sub": {
         "1": {
           "name": "Buy American statute.",
@@ -197,9 +196,6 @@
             }
           }
         }
-      },
-      "text": {
-        "text": "The following examples illustrate the application of the evaluation procedures in 25.502 and 25.503. The examples assume that the contracting officer has eliminated all offers that are unacceptable for reasons other than price or a trade agreement (see 25.502(a)(1)). The evaluation factor may change as provided in agency regulations."
       }
     }
   }

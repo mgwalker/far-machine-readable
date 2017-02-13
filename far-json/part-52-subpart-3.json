@@ -4,12 +4,11 @@
   "name": "Provision and Clause Matrix",
   "sub": {
     "300": {
-      "number": 300,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "The matrix in this subpart contains a column for each principal type and/or purpose of contract (see 52.101(e))."
-      }
+      },
+      "sub": {}
     }
   }
 }

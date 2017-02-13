@@ -4,17 +4,14 @@
   "name": "Ozone-Depleting Substances and Greenhouse Gases",
   "sub": {
     "800": {
-      "number": 800,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart–\n\n(a) Sets forth policies and procedures for the acquisition of items that–\n\n(1) Contain, use, or are manufactured with ozone-depleting substances; or\n\n(2) Contain or use high global warming potential hydrofluorocarbons; and\n\n(b) Addresses public disclosure of greenhouse gas emissions and reduction goals."
-      }
+      },
+      "sub": {}
     },
     "801": {
-      "number": 801,
       "name": "Authorities.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Title VI of the Clean Air Act (42 U.S.C. 7671, et seq.)."
@@ -28,28 +25,25 @@
         "d": {
           "text": "Environmental Protection Agency (EPA) regulations, Protection of Stratospheric Ozone (40 CFR part 82)."
         }
-      }
+      },
+      "sub": {}
     },
     "802": {
-      "number": 802,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "text": "It is the policy of the Federal Government that Federal agencies–\n\n(a) Implement cost-effective programs to minimize the procurement of materials and substances that contribute to the depletion of stratospheric ozone and/or result in the use, release or emission of high global warming potential hydrofluorocarbons;\n\n(b) Give preference to the procurement of acceptable alternative chemicals, products, and manufacturing processes that reduce overall risks to human health and the environment by minimizing–\n\n(1) The depletion of ozone in the upper atmosphere; and\n\n(2) The potential use, release, or emission of high global warming potential hydrofluorocarbons;\n\n(c) Lead efforts to reduce greenhouse gas emissions at the Federal level in accordance with Executive Order 13693 and the President’s Climate Action Plan of June 2013; and\n\n(d) In order to better understand both direct and indirect greenhouse gas emissions that result from Federal activities, require offerors that are registered in the System for Award Management (SAM) database and received $7.5 million or more in Federal contract awards in the prior Federal fiscal year to–\n\n(1) Represent whether they publicly disclose greenhouse gas emissions;\n\n(2) Represent whether they publicly disclose a quantitative greenhouse gas emissions reduction goal; and\n\n(3) Provide the website for any such disclosures."
-      }
+      },
+      "sub": {}
     },
     "803": {
-      "number": 803,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "text": "In preparing specifications and purchase descriptions, and in the acquisition of products and services, agencies shall–\n\n(a) Comply with the requirements of title VI of the Clean Air Act, section 706 of division D, title VII of Pub. L. 111-8, Executive Order 13693, and 40 CFR 82.84(a)(2), (3), (4), and (5);\n\n(b) Substitute acceptable alternatives to ozone-depleting substances, as identified under 42 U.S.C. 7671k, to the maximum extent practicable, as provided in 40 CFR 82.84(a)(1), except in the case of Class I substances being used for specified essential uses, as identified under 40 CFR 82.4(n);\n\n(c) Unless a particular contract requires otherwise, specify that, when feasible, contractors shall use another acceptable alternative in lieu of a high global warming potential hydrofluorocarbon in products and services in a particular end use for which EPA’s Significant New Alternatives Policy (SNAP) program has identified other acceptable alternatives that have lower global warming potential; and\n\n(d) Refer to EPA’s SNAP program for the list of alternatives, found at 40 CFR part 82, subpart G as well as supplemental tables of alternatives (available at http://www.epa.gov/snap)."
-      }
+      },
+      "sub": {}
     },
     "804": {
-      "number": 804,
       "name": "Contract provision and clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Except for contracts for supplies that will be delivered outside the United States and its outlying areas, or contracts for services that will be performed outside the United States and its outlying areas, the contracting officer shall insert the following clauses:",
@@ -119,7 +113,8 @@
         "b": {
           "text": "The provision at 52.223-22, Public Disclosure of Greenhouse Gas Emissions and Reduction Goals-Representation, is required only when 52.204-7, System for Award Management, is included in the solicitation (see 52.204-8, Annual Representations and Certifications)."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

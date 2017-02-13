@@ -4,25 +4,21 @@
   "name": "Electronic Commerce in Contracting",
   "sub": {
     "500": {
-      "number": 500,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart provides policy and procedures for the establishment and use of electronic commerce in Federal acquisition as required by 41 U.S.C. 2301."
-      }
+      },
+      "sub": {}
     },
     "501": {
-      "number": 501,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "502": {
-      "number": 502,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Federal Government shall use electronic commerce whenever practicable or cost-effective. The use of terms commonly associated with paper transactions (e.g., “copy,” “document,” “page,” “printed,” “sealed envelope,” and “stamped”) shall not be interpreted to restrict the use of electronic commerce. Contracting officers may supplement electronic transactions by using other media to meet the requirements of any contract action governed by the FAR (e.g., transmit hard copy of drawings)."
@@ -53,7 +49,8 @@
         "d": {
           "text": "Agencies may accept electronic signatures and records in connection with Government contracts."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

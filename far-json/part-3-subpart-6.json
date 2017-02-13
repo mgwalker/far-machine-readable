@@ -4,9 +4,7 @@
   "name": "Contracts with Government Employees or Organizations Owned or Controlled by Them",
   "sub": {
     "601": {
-      "number": 601,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The contract arises directly out of the individual’s activity as a special Government employee;"
@@ -23,20 +21,18 @@
         "b": {
           "text": "For purposes of this subpart, special Government employees (as defined in 18 U.S.C. 202) performing services as experts, advisors, or consultants, or as members of advisory committees, are not considered Government employees unless—"
         }
-      }
+      },
+      "sub": {}
     },
     "602": {
-      "number": 602,
       "name": "Exceptions.",
-      "sub": {},
       "text": {
         "text": "The agency head, or a designee not below the level of the head of the contracting activity, may authorize an exception to the policy in 3.601 only if there is a most compelling reason to do so, such as when the Government’s needs cannot reasonably be otherwise met."
-      }
+      },
+      "sub": {}
     },
     "603": {
-      "number": 603,
       "name": "Responsibilities of the contracting officer.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Before awarding a contract, the contracting officer shall obtain an authorization under 3.602 if—",
@@ -52,7 +48,8 @@
         "b": {
           "text": "The contracting officer shall comply with the requirements and guidance in Subpart 9.5 before awarding a contract to an organization owned or substantially owned or controlled by Government employees."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

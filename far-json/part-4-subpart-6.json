@@ -4,25 +4,21 @@
   "name": "Contract Reporting",
   "sub": {
     "600": {
-      "number": 600,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes uniform reporting requirements for the Federal Procurement Data System (FPDS)."
-      }
+      },
+      "sub": {}
     },
     "601": {
-      "number": 601,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Contract action” means any oral or written action that results in the purchase, rent, or lease of supplies or equipment, services, or construction using appropriated dollars over the micro-purchase threshold, or modifications to these actions regardless of dollar value. Contract action does not include grants, cooperative agreements, other transactions, real property leases, requisitions from Federal stock, training authorizations, or other non-FAR based transactions.\n\n“Contract action report (CAR)” means contract action data required to be entered into the Federal Procurement Data System (FPDS).\n\n“Definitive contract” means any contract that must be reported to FPDS other than an indefinite delivery vehicle.  This definition is only for FPDS, and is not intended to apply to Part 16.\n\n“Entitlement program” means a Federal program that guarantees a certain level of benefits to persons or other entities who meet requirements set by law, such as Social Security, farm price supports, or unemployment benefits.\n\n\n\n“Generic entity identifier” means a number or other identifier assigned to a category of vendors and not specific to any individual or entity.\n\n“Indefinite delivery vehicle (IDV)” means an indefinite delivery contract or agreement that has one or more of the following clauses:\n\n(1) 52.216-18, Ordering.\n\n(2) 52.216-19, Order Limitations.\n\n(3) 52.216-20, Definite Quantity.\n\n(4) 52.216-21, Requirements.\n\n(5) 52.216-22, Indefinite Quantity.\n\n(6) Any other clause allowing ordering."
-      }
+      },
+      "sub": {}
     },
     "602": {
-      "number": 602,
       "name": "General.",
-      "sub": {},
       "text": {
         "1": {
           "text": "A complete list of departments, agencies, and other entities that submit data to the FPDS;"
@@ -59,12 +55,11 @@
         "c": {
           "text": "The FPDS Web site, https://www.fpds.gov, provides instructions for submitting data. It also provides—"
         }
-      }
+      },
+      "sub": {}
     },
     "603": {
-      "number": 603,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "In accordance with the Federal Funding Accountability and Transparency Act of 2006 (Pub. L. 109-282), all unclassified Federal award data must be publicly accessible."
@@ -78,12 +73,11 @@
         "d": {
           "text": "Agencies awarding contract actions with a mix of appropriated and non-appropriated funding shall only report the full appropriated portion of the contract action in FPDS."
         }
-      }
+      },
+      "sub": {}
     },
     "604": {
-      "number": 604,
       "name": "Responsibilities.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The Senior Procurement Executive in coordination with the head of the contracting activity is responsible for developing and monitoring a process to ensure timely and accurate reporting of contractual actions to FPDS."
@@ -108,12 +102,11 @@
         "c": {
           "text": "The chief acquisition officer of each agency required to report its contract actions must submit to the General Services Administration (GSA), in accordance with FPDS guidance, within 120 days after the end of each fiscal year, an annual certification of whether, and to what degree, agency CAR data for the preceding fiscal year is complete and accurate."
         }
-      }
+      },
+      "sub": {}
     },
     "605": {
-      "number": 605,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Use the Activity Address Code (AAC), as defined in 2.101, assigned to the issuing contracting office as the contracting office code, and"
@@ -162,12 +155,11 @@
         "e": {
           "text": "Office Codes. Agencies shall by March 31, 2016–"
         }
-      }
+      },
+      "sub": {}
     },
     "606": {
-      "number": 606,
       "name": "Reporting Data.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Actions required to be reported to FPDS.",
@@ -275,12 +267,11 @@
         "d": {
           "text": "Agencies not subject to the FAR. Agencies not subject to the FAR may be required by other authority (e.g., statute, OMB, or internal agency policy) to report certain information to FPDS. Those agencies not subject to the FAR must first receive approval from the FPDS Program Office prior to reporting to FPDS."
         }
-      }
+      },
+      "sub": {}
     },
     "607": {
-      "number": 607,
       "name": "Solicitation provisions and contract clause.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Insert the provision at 52.204-5, Women-Owned Business (Other Than Small Business), in all solicitations that—",
@@ -302,7 +293,8 @@
         "c": {
           "text": "Insert the clause at 52.204-12, Unique Entity Identifier Maintenance, in solicitations and resulting contracts that contain the provision at 52.204-6, Unique Entity Identifier."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

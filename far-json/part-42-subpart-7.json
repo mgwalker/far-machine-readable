@@ -4,25 +4,21 @@
   "name": "Indirect Cost Rates",
   "sub": {
     "700": {
-      "number": 700,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for establishing—\n\n(a) Billing rates; and\n\n(b) Final indirect cost rates."
-      }
+      },
+      "sub": {}
     },
     "701": {
-      "number": 701,
       "name": "Definition.",
-      "sub": {},
       "text": {
         "text": "“Billing rate,” as used in this subpart, means an indirect cost rate—\n\n(1) Established temporarily for interim reimbursement of incurred indirect costs; and\n\n(2) Adjusted as necessary pending establishment of final indirect cost rates."
-      }
+      },
+      "sub": {}
     },
     "702": {
-      "number": 702,
       "name": "Purpose.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Establishing final indirect cost rates under this subpart provides—",
@@ -41,11 +37,14 @@
         "b": {
           "text": "Establishing billing rates provides a method for interim reimbursement of indirect costs at estimated rates subject to adjustment during contract performance and at the time the final indirect cost rates are established."
         }
-      }
+      },
+      "sub": {}
     },
     "703": {
-      "number": 703,
       "name": "General.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Policy.",
@@ -138,15 +137,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "704": {
-      "number": 704,
       "name": "Billing rates.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer (or cognizant Federal agency official) or auditor responsible under 42.705 for establishing the final indirect cost rates also shall be responsible for determining the billing rates."
@@ -163,11 +157,56 @@
         "e": {
           "text": "When the contractor provides to the cognizant contracting officer the certified final indirect cost rate proposal in accordance with 42.705-1(b) or 42.705-2(b), the contractor and the Government may mutually agree to revise billing rates to reflect the proposed indirect cost rates, as approved by the Government to reflect historically disallowed amounts from prior years’ audits, until the proposal has been audited and settled. The historical decrement will be determined by either the cognizant contracting officer (42.705-1(b)) or the cognizant auditor (42.705-2(b))."
         }
-      }
+      },
+      "sub": {}
     },
     "705": {
-      "number": 705,
       "name": "Final indirect cost rates.",
+      "text": {
+        "2": {
+          "text": "This contracting officer determination must be issued as a final decision in accordance with 33.211."
+        },
+        "a": {
+          "text": "Final indirect cost rates shall be established on the basis of—",
+          "sub": {
+            "1": {
+              "text": "Contracting officer determination procedure (see 42.705-1), or"
+            },
+            "2": {
+              "text": "Auditor determination procedure (see 42.705-2)."
+            }
+          }
+        },
+        "b": {
+          "text": "Within 120 days (or longer period, if approved in writing by the contracting officer,) after settlement of the final annual indirect cost rates for all years of a physically complete contract, the contractor must submit a completion invoice or voucher reflecting the settled amounts and rates. To determine whether a period longer than 120 days is appropriate, the contracting officer should consider whether there are extenuating circumstances, such as the following:",
+          "sub": {
+            "1": {
+              "text": "Pending closeout of subcontracts awaiting Government audit."
+            },
+            "2": {
+              "text": "Pending contractor, subcontractor, or Government claims."
+            },
+            "3": {
+              "text": "Delays in the disposition of Government property."
+            },
+            "4": {
+              "text": "Delays in contract reconciliation."
+            },
+            "5": {
+              "text": "Any other pertinent factors."
+            }
+          }
+        },
+        "c": {
+          "text": "(1) If the contractor fails to submit a completion invoice or voucher within the time specified in paragraph (b) of this section, the contracting officer may—"
+        },
+        "i": {
+          "text": "Determine the amounts due to the contractor under the contract; and"
+        },
+        "ii": {
+          "text": "Record this determination in a unilateral modification to the contract."
+        }
+      },
       "sub": {
         "1": {
           "name": "Contracting officer determination procedure.",
@@ -418,57 +457,10 @@
             }
           }
         }
-      },
-      "text": {
-        "2": {
-          "text": "This contracting officer determination must be issued as a final decision in accordance with 33.211."
-        },
-        "a": {
-          "text": "Final indirect cost rates shall be established on the basis of—",
-          "sub": {
-            "1": {
-              "text": "Contracting officer determination procedure (see 42.705-1), or"
-            },
-            "2": {
-              "text": "Auditor determination procedure (see 42.705-2)."
-            }
-          }
-        },
-        "b": {
-          "text": "Within 120 days (or longer period, if approved in writing by the contracting officer,) after settlement of the final annual indirect cost rates for all years of a physically complete contract, the contractor must submit a completion invoice or voucher reflecting the settled amounts and rates. To determine whether a period longer than 120 days is appropriate, the contracting officer should consider whether there are extenuating circumstances, such as the following:",
-          "sub": {
-            "1": {
-              "text": "Pending closeout of subcontracts awaiting Government audit."
-            },
-            "2": {
-              "text": "Pending contractor, subcontractor, or Government claims."
-            },
-            "3": {
-              "text": "Delays in the disposition of Government property."
-            },
-            "4": {
-              "text": "Delays in contract reconciliation."
-            },
-            "5": {
-              "text": "Any other pertinent factors."
-            }
-          }
-        },
-        "c": {
-          "text": "(1) If the contractor fails to submit a completion invoice or voucher within the time specified in paragraph (b) of this section, the contracting officer may—"
-        },
-        "i": {
-          "text": "Determine the amounts due to the contractor under the contract; and"
-        },
-        "ii": {
-          "text": "Record this determination in a unilateral modification to the contract."
-        }
       }
     },
     "706": {
-      "number": 706,
       "name": "Distribution of documents.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer or auditor shall promptly distribute executed copies of the indirect cost rate agreement to the contractor and to each affected contracting agency and shall provide copies of the agreement for the contract files, in accordance with the guidance for contract modifications in Subpart 4.2, Contract Distribution."
@@ -476,12 +468,11 @@
         "b": {
           "text": "Copies of the negotiation memorandum prepared under contracting officer determination or audit report prepared under auditor determination shall be furnished, as appropriate, to the contracting offices and Government audit offices."
         }
-      }
+      },
+      "sub": {}
     },
     "707": {
-      "number": 707,
       "name": "Cost-sharing rates and limitations on indirect cost rates.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The Government will not be obligated to pay any additional amount should the final indirect cost rates exceed the negotiated ceiling rates, and"
@@ -512,12 +503,11 @@
         "c": {
           "text": "When ceiling provisions are utilized, the contract shall also provide that—"
         }
-      }
+      },
+      "sub": {}
     },
     "708": {
-      "number": 708,
       "name": "Quick-closeout procedure.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer responsible for contract closeout shall negotiate the settlement of direct and indirect costs for a specific contract, task order, or delivery order to be closed, in advance of the determination of final direct costs and indirect rates set forth in 42.705, if—",
@@ -561,11 +551,14 @@
         "c": {
           "text": "Indirect cost rates used in the quick closeout of a contract shall not be considered a binding precedent when establishing the final indirect cost rates for other contracts."
         }
-      }
+      },
+      "sub": {}
     },
     "709": {
-      "number": 709,
       "name": "Penalties for unallowable costs.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "0": {
           "name": "Scope.",
@@ -671,9 +664,6 @@
             "text": "Use the clause at 52.242-3, Penalties for Unallowable Costs, in all solicitations and contracts over $750,000 except fixed-price contracts without cost incentives or any firm-fixed-price contract for the purchase of commercial items. Generally, covered contracts are those which contain one of the clauses at 52.216-7, 52.216-16, or 52.216-17, or a similar clause from an executive agency’s supplement to the FAR."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

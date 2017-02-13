@@ -4,17 +4,14 @@
   "name": "Solicitation and Receipt of Proposals and Information",
   "sub": {
     "200": {
-      "number": 200,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for—\n\n(a) Exchanging information with industry prior to receipt of proposals;\n\n(b) Preparing and issuing requests for proposals (RFPs) and requests for information (RFIs); and\n\n(c) Receiving proposals and information."
-      }
+      },
+      "sub": {}
     },
     "201": {
-      "number": 201,
       "name": "Exchanges with industry before receipt of proposals.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Exchanges of information among all interested parties, from the earliest identification of a requirement through receipt of proposals, are encouraged. Any exchange of information must be consistent with procurement integrity requirements (see 3.104). Interested parties include potential offerors, end users, Government acquisition and supporting personnel, and others involved in the conduct or outcome of the acquisition."
@@ -63,12 +60,11 @@
         "f": {
           "text": "General information about agency mission needs and future requirements may be disclosed at any time. After release of the solicitation, the contracting officer must be the focal point of any exchange with potential offerors. When specific information about a proposed acquisition that would be necessary for the preparation of proposals is disclosed to one or more potential offerors, that information must be made available to the public as soon as practicable, but no later than the next general release of information, in order to avoid creating an unfair competitive advantage. Information provided to a potential offeror in response to its request must not be disclosed if doing so would reveal the potential offeror’s confidential business strategy, and is protected under 3.104 or Subpart 24.2. When conducting a presolicitation or preproposal conference, materials distributed at the conference should be made available to all potential offerors, upon request."
         }
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Advisory multi-step process.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The agency may publish a presolicitation notice (see 5.204) that provides a general description of the scope or purpose of the acquisition and invites potential offerors to submit information that allows the Government to advise the offerors about their potential to be viable competitors. The presolicitation notice should identify the information that must be submitted and the criteria that will be used in making the initial evaluation. Information sought may be limited to a statement of qualifications and other appropriate information (e.g., proposed technical concept, past performance, and limited pricing information). At a minimum, the notice shall contain sufficient information to permit a potential offeror to make an informed decision about whether to participate in the acquisition. This process should not be used for multi-step acquisitions where it would result in offerors being required to submit identical information in response to the notice and in response to the initial step of the acquisition."
@@ -76,12 +72,11 @@
         "b": {
           "text": "The agency shall evaluate all responses in accordance with the criteria stated in the notice, and shall advise each respondent in writing either that it will be invited to participate in the resultant acquisition or, based on the information submitted, that it is unlikely to be a viable competitor. The agency shall advise respondents considered not to be viable competitors of the general basis for that opinion. The agency shall inform all respondents that, notwithstanding the advice provided by the Government in response to their submissions, they may participate in the resultant acquisition."
         }
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Requests for proposals.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The contract files supporting oral solicitations should include—",
@@ -186,11 +181,14 @@
         "f": {
           "text": "Oral RFPs are authorized when processing a written solicitation would delay the acquisition of supplies or services to the detriment of the Government and a notice is not required under 5.202 (e.g., perishable items and support of contingency operations or other emergency situations). Use of an oral RFP does not relieve the contracting officer from complying with other FAR requirements."
         }
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Contract format.",
+      "text": {
+        "text": "The use of a uniform contract format facilitates preparation of the solicitation and contract as well as reference to, and use of, those documents by offerors, contractors, and contract administrators. The uniform contract format need not be used for the following:\n\n(a) Construction and architect-engineer contracts (see Part 36).\n\n(b) Subsistence contracts.\n\n(c) Supplies or services contracts requiring special contract formats prescribed elsewhere in this regulation that are inconsistent with the uniform format.\n\n(d) Letter requests for proposals (see 15.203(e)).\n\n(e) Contracts exempted by the agency head or designee."
+      },
       "sub": {
         "1": {
           "name": "Uniform contract format.",
@@ -227,15 +225,10 @@
             "text": "The contracting officer shall prepare the representations and instructions as follows:\n\n(a) Section K, Representations, certifications, and other statements of offerors. Include in this section those solicitation provisions that require representations, certifications, or the submission of other information by offerors.\n\n(b) Section L, Instructions, conditions, and notices to offerors or respondents. Insert in this section solicitation provisions and other information and instructions not required elsewhere to guide offerors or respondents in preparing proposals or responses to requests for information. Prospective offerors or respondents may be instructed to submit proposals or information in a specific format or severable parts to facilitate evaluation. The instructions may specify further organization of proposal or response parts, such as—\n\n(1) Administrative;\n\n(2) Management;\n\n(3) Technical;\n\n(4) Past performance; and\n\n(5) Certified cost or pricing data (see Table 15-2 of 15.408) or data other than certified cost or pricing data.\n\n(c) Section M, Evaluation factors for award. Identify all significant factors and any significant subfactors that will be considered in awarding the contract and their relative importance (see 15.304(d)). The contracting officer shall insert one of the phrases in 15.304(e)."
           }
         }
-      },
-      "text": {
-        "text": "The use of a uniform contract format facilitates preparation of the solicitation and contract as well as reference to, and use of, those documents by offerors, contractors, and contract administrators. The uniform contract format need not be used for the following:\n\n(a) Construction and architect-engineer contracts (see Part 36).\n\n(b) Subsistence contracts.\n\n(c) Supplies or services contracts requiring special contract formats prescribed elsewhere in this regulation that are inconsistent with the uniform format.\n\n(d) Letter requests for proposals (see 15.203(e)).\n\n(e) Contracts exempted by the agency head or designee."
       }
     },
     "205": {
-      "number": 205,
       "name": "Issuing solicitations.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall issue solicitations to potential sources in accordance with the policies and procedures in 5.102, 19.202-4, and Part 6."
@@ -243,12 +236,11 @@
         "b": {
           "text": "A master solicitation, as described in 14.203-3, may also be used for negotiated acquisitions."
         }
-      }
+      },
+      "sub": {}
     },
     "206": {
-      "number": 206,
       "name": "Amending the solicitation.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Name and address of issuing activity."
@@ -292,12 +284,11 @@
         "g": {
           "text": "At a minimum, the following information should be included in each amendment:"
         }
-      }
+      },
+      "sub": {}
     },
     "207": {
-      "number": 207,
       "name": "Handling proposals and information.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Upon receipt at the location specified in the solicitation, proposals and information received in response to a request for information (RFI) shall be marked with the date and time of receipt and shall be transmitted to the designated officials."
@@ -308,12 +299,11 @@
         "c": {
           "text": "If any portion of a proposal received by the contracting officer electronically or by facsimile is unreadable, the contracting officer immediately shall notify the offeror and permit the offeror to resubmit the unreadable portion of the proposal. The method and time for resubmission shall be prescribed by the contracting officer after consultation with the offeror, and documented in the file. The resubmission shall be considered as if it were received at the date and time of the original unreadable submission for the purpose of determining timeliness under 15.208(a), provided the offeror complies with the time and format requirements for resubmission prescribed by the contracting officer."
         }
-      }
+      },
+      "sub": {}
     },
     "208": {
-      "number": 208,
       "name": "Submission, modification, revision, and withdrawal of proposals.",
-      "sub": {},
       "text": {
         "1": {
           "text": "The date and hour of receipt."
@@ -362,23 +352,22 @@
         "h": {
           "text": "If available, the following must be included in the contracting office files for each late proposal, modification, revision, or withdrawal:"
         }
-      }
+      },
+      "sub": {}
     },
     "209": {
-      "number": 209,
       "name": "Solicitation provisions and contract clauses.",
-      "sub": {},
       "text": {
         "text": "When contracting by negotiation—\n\n(a) The contracting officer shall insert the provision at 52.215-1, Instructions to Offerors—Competitive Acquisition, in all competitive solicitations where the Government intends to award a contract without discussions.\n\n(1) If the Government intends to make award after discussions with offerors within the competitive range, the contracting officer shall use the basic provision with its Alternate I.\n\n(2) If the Government would be willing to accept alternate proposals, the contracting officer shall alter the basic clause to add a new paragraph (c)(9) substantially the same as Alternate II.\n\n(b)(1) Except as provided in paragraph (b)(2) of this section, the contracting officer shall insert the clause at 52.215-2, Audit and Records—Negotiation (10 U.S.C. 2313, 41 U.S.C. 4706, and Audit Requirements in the OMB Uniform Guidance at 2 CFR part 200, subpart F), in solicitations and contracts except those for—\n\n(i) Acquisitions not exceeding the simplified acquisition threshold;\n\n(ii) The acquisition of utility services at rates not exceeding those established to apply uniformly to the general public, plus any applicable reasonable connection charge; or\n\n(iii) The acquisition of commercial items exempted under 15.403-1.\n\n(2)(i) When using funds appropriated or otherwise made available by the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5)—\n\n(A) The exceptions in paragraphs (b)(1)(i) through (b)(1)(iii) are not applicable; and\n\n(B) Use the clause with its Alternate I.\n\n(ii)(A) In the case of a bilateral contract modification that will use funds appropriated or otherwise made available by the American Recovery and Reinvestment Act of 2009, the contracting officer shall specify applicability of Alternate I to that modification.\n\n(B) In the case of a task- or delivery-order contract in which not all orders will use funds appropriated or otherwise made available by the American Recovery and Reinvestment Act of 2009, the contracting officer shall specify the task or delivery orders to which Alternate I applies.\n\n(3) For cost-reimbursement contracts with State and local Governments, educational institutions, and other nonprofit organizations, the contracting officer shall use the clause with its Alternate II.\n\n(4) When the head of the agency has waived the examination of records by the Comptroller General in accordance with 25.1001, use the clause with its Alternate III.\n\n(c) When issuing a solicitation for information or planning purposes, the contracting officer shall insert the provision at 52.215-3, Request for Information or Solicitation for Planning Purposes, and clearly mark on the face of the solicitation that it is for information or planning purposes.\n\n(d) [Reserved]\n\n(e) The contracting officer shall insert the provision at 52.215-5, Facsimile Proposals, in solicitations if facsimile proposals are authorized (see 15.203(d)).\n\n(f) The contracting officer shall insert the provision at 52.215-6, Place of Performance, in solicitations unless the place of performance is specified by the Government.\n\n(g) [Reserved]\n\n(h) The contracting officer shall insert the clause at 52.215-8, Order of Precedence—Uniform Contract Format, in solicitations and contracts using the format at 15.204."
-      }
+      },
+      "sub": {}
     },
     "210": {
-      "number": 210,
       "name": "Forms.",
-      "sub": {},
       "text": {
         "text": "Prescribed forms are not required to prepare solicitations described in this part. The following forms may be used at the discretion of the contracting officer:\n\n(a) Standard Form 33, Solicitation, Offer and Award, and Optional Form 308, Solicitation and Offer—Negotiated Acquisition, may be used to issue RFPs and RFIs.\n\n(b) Standard Form 30, Amendment of Solicitation/ Modification of Contract, and Optional Form 309, Amendment of Solicitation, may be used to amend solicitations of negotiated contracts.\n\n(c) Optional Form 17, Offer Label, may be furnished with each request for proposal."
-      }
+      },
+      "sub": {}
     }
   }
 }

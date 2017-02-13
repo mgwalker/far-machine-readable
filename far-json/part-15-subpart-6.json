@@ -4,33 +4,28 @@
   "name": "Unsolicited Proposals",
   "sub": {
     "600": {
-      "number": 600,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart sets forth policies and procedures concerning the submission, receipt, evaluation, and acceptance or rejection of unsolicited proposals."
-      }
+      },
+      "sub": {}
     },
     "601": {
-      "number": 601,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Advertising material” means material designed to acquaint the Government with a prospective contractor’s present products, services, or potential capabilities, or designed to stimulate the Government’s interest in buying such products or services.\n\n“Commercial item offer” means an offer of a commercial item that the vendor wishes to see introduced in the Government’s supply system as an alternate or a replacement for an existing supply item. This term does not include innovative or unique configurations or uses of commercial items that are being offered for further development and that may be submitted as an unsolicited proposal.\n\n“Contribution” means a concept, suggestion, or idea presented to the Government for its use with no indication that the source intends to devote any further effort to it on the Government’s behalf."
-      }
+      },
+      "sub": {}
     },
     "602": {
-      "number": 602,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "text": "It is the policy of the Government to encourage the submission of new and innovative ideas in response to Broad Agency Announcements, Small Business Innovation Research topics, Small Business Technology Transfer Research topics, Program Research and Development Announcements, or any other Government-initiated solicitation or program. When the new and innovative ideas do not fall under topic areas publicized under those programs or techniques, the ideas may be submitted as unsolicited proposals."
-      }
+      },
+      "sub": {}
     },
     "603": {
-      "number": 603,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Unsolicited proposals allow unique and innovative ideas or approaches that have been developed outside the Government to be made available to Government agencies for use in accomplishment of their missions. Unsolicited proposals are offered with the intent that the Government will enter into a contract with the offeror for research and development or other efforts supporting the Government mission, and often represent a substantial investment of time and effort by the offeror."
@@ -67,12 +62,11 @@
         "e": {
           "text": "Agencies must evaluate unsolicited proposals for energy-savings performance contracts in accordance with the procedures in 10 CFR 436.33(b)."
         }
-      }
+      },
+      "sub": {}
     },
     "604": {
-      "number": 604,
       "name": "Agency points of contact.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Preliminary contact with agency technical or other appropriate personnel before preparing a detailed unsolicited proposal or submitting proprietary information to the Government may save considerable time and effort for both parties (see 15.201). Agencies must make available to potential offerors of unsolicited proposals at least the following information:",
@@ -103,19 +97,26 @@
         "b": {
           "text": "Only the cognizant contracting officer has the authority to bind the Government regarding unsolicited proposals."
         }
-      }
+      },
+      "sub": {}
     },
     "605": {
-      "number": 605,
       "name": "Content of unsolicited proposals.",
-      "sub": {},
       "text": {
         "text": "Unsolicited proposals should contain the following information to permit consideration in an objective and timely manner:\n\n(a) Basic information including—\n\n(1) Offeror’s name and address and type of organization; e.g., profit, nonprofit, educational, small business;\n\n(2) Names and telephone numbers of technical and business personnel to be contacted for evaluation or negotiation purposes;\n\n(3) Identification of proprietary data to be used only for evaluation purposes;\n\n(4) Names of other Federal, State, or local agencies or parties receiving the proposal or funding the proposed effort;\n\n(5) Date of submission; and\n\n(6) Signature of a person authorized to represent and contractually obligate the offeror.\n\n(b) Technical information including—\n\n(1) Concise title and abstract (approximately 200 words) of the proposed effort;\n\n(2) A reasonably complete discussion stating the objectives of the effort or activity, the method of approach and extent of effort to be employed, the nature and extent of the anticipated results, and the manner in which the work will help to support accomplishment of the agency’s mission;\n\n(3) Names and biographical information on the offeror’s key personnel who would be involved, including alternates; and\n\n(4) Type of support needed from the agency; e.g., Government property or personnel resources.\n\n(c) Supporting information including—\n\n(1) Proposed price or total estimated cost for the effort in sufficient detail for meaningful evaluation;\n\n(2) Period of time for which the proposal is valid (a 6-month minimum is suggested);\n\n(3) Type of contract preferred;\n\n(4) Proposed duration of effort;\n\n(5) Brief description of the organization, previous experience, relevant past performance, and facilities to be used;\n\n(6) Other statements, if applicable, about organizational conflicts of interest, security clearances, and environmental impacts; and\n\n(7) The names and telephone numbers of agency technical or other agency points of contact already contacted regarding the proposal."
-      }
+      },
+      "sub": {}
     },
     "606": {
-      "number": 606,
       "name": "Agency procedures.",
+      "text": {
+        "a": {
+          "text": "Agencies shall establish procedures for controlling the receipt, evaluation, and timely disposition of unsolicited proposals consistent with the requirements of this subpart. The procedures shall include controls on the reproduction and disposition of proposal material, particularly data identified by the offeror as subject to duplication, use, or disclosure restrictions."
+        },
+        "b": {
+          "text": "Agencies shall establish agency points of contact (see 15.604) to coordinate the receipt and handling of unsolicited proposals."
+        }
+      },
       "sub": {
         "1": {
           "name": "Receipt and initial review.",
@@ -185,20 +186,10 @@
             }
           }
         }
-      },
-      "text": {
-        "a": {
-          "text": "Agencies shall establish procedures for controlling the receipt, evaluation, and timely disposition of unsolicited proposals consistent with the requirements of this subpart. The procedures shall include controls on the reproduction and disposition of proposal material, particularly data identified by the offeror as subject to duplication, use, or disclosure restrictions."
-        },
-        "b": {
-          "text": "Agencies shall establish agency points of contact (see 15.604) to coordinate the receipt and handling of unsolicited proposals."
-        }
       }
     },
     "607": {
-      "number": 607,
       "name": "Criteria for acceptance and negotiation of an unsolicited proposal.",
-      "sub": {},
       "text": {
         "1": {
           "text": "An unsolicited proposal has received a favorable comprehensive evaluation;"
@@ -232,12 +223,11 @@
         "b": {
           "text": "The contracting officer may commence negotiations on a sole source basis only when—"
         }
-      }
+      },
+      "sub": {}
     },
     "608": {
-      "number": 608,
       "name": "Prohibitions.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Government personnel shall not use any data, concept, idea, or other part of an unsolicited proposal as the basis, or part of the basis, for a solicitation or in negotiations with any other firm unless the offeror is notified of and agrees to the intended use. However, this prohibition does not preclude using any data, concept, or idea in the proposal that also is available from another source without restriction."
@@ -245,12 +235,11 @@
         "b": {
           "text": "Government personnel shall not disclose restrictively marked information (see 3.104 and 15.609) included in an unsolicited proposal. The disclosure of such information concerning trade secrets, processes, operations, style of work, apparatus, and other matters, except as authorized by law, may result in criminal penalties under 18 U.S.C. 1905."
         }
-      }
+      },
+      "sub": {}
     },
     "609": {
-      "number": 609,
       "name": "Limited use of data.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Clearly mark the cover sheet with the legend in paragraph (d) or as modified in paragraph (f) of this section; and"
@@ -299,7 +288,8 @@
         "h": {
           "text": "When an agency receives an unsolicited proposal with or without a restrictive legend from other than an educational or nonprofit organization or institution, and evaluation by Government personnel outside the agency or by experts outside of the Government is necessary, written permission must be obtained from the offeror before release of the proposal for evaluation. The agency point of contact shall—"
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

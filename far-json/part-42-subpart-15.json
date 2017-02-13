@@ -4,17 +4,14 @@
   "name": "Contractor Performance Information",
   "sub": {
     "1500": {
-      "number": 1500,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart provides policies and establishes responsibilities for recording and maintaining contractor performance information. This subpart does not apply to procedures used by agencies in determining fees under award or incentive fee contracts. See subpart 16.4. However, the fee amount paid to contractors should be reflective of the contractor’s performance and the past performance evaluation should closely parallel and be consistent with the fee determinations."
-      }
+      },
+      "sub": {}
     },
     "1501": {
-      "number": 1501,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Past performance information (including the ratings and supporting narratives) is relevant information, for future source selection purposes, regarding a contractor’s actions under previously awarded contracts or orders. It includes, for example, the contractor’s record of—",
@@ -45,12 +42,11 @@
         "b": {
           "text": "Agencies shall monitor their compliance with the past performance evaluation requirements (see 42.1502), and use the Contractor Performance Assessment Reporting System (CPARS) and Past Performance Information Retrieval System (PPIRS) metric tools to measure the quality and timely reporting of past performance information."
         }
-      }
+      },
+      "sub": {}
     },
     "1502": {
-      "number": 1502,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "1": {
           "text": "A contractor’s relevant labor law violation information, e.g., timely implementation of remedial measures and compliance with those remedial measures (including related labor compliance agreement(s)); and"
@@ -117,12 +113,11 @@
         "j": {
           "text": ":  By a court order issued on October 24, 2016, this paragraph (j) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
         }
-      }
+      },
+      "sub": {}
     },
     "1503": {
-      "number": 1503,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "2": {
           "text": "The information to be posted in accordance with this paragraph (h) is information relating to contractor performance, but does not constitute a “past performance review,” which would be exempted from public availability in accordance with section 3010 of the Supplemental Appropriations Act, 2010 (Pub. L. 111-212). Therefore, all such information posted in FAPIIS will be publicly available, unless covered by a disclosure exemption under the Freedom of Information Act (see 9.105-2(b)(2))."
@@ -240,15 +235,15 @@
         "not applicable": {
           "text": "should be used if the ratings are not going to be applied to a particular area for evaluation.\n\n\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change evaluation status.\n\nNOTE 2: Generally, zero percent is not a goal unless the contracting officer determined when negotiating the subcontracting plan that no subcontracting opportunities exist in a particular socio-economic category. In such cases, the contractor shall be considered to have met the goal for any socio-economic category where the goal negotiated in the plan was zero.\n\n"
         }
-      }
+      },
+      "sub": {}
     },
     "1504": {
-      "number": 1504,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "Insert the clause at 52.242-5, Payments to Small Business Subcontractors, in all solicitations and contracts containing the clause at 52.219-9, Small Business Subcontracting Plan."
-      }
+      },
+      "sub": {}
     }
   }
 }

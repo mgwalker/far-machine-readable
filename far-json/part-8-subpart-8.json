@@ -4,25 +4,21 @@
   "name": "Acquisition of Printing and Related Supplies",
   "sub": {
     "800": {
-      "number": 800,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart provides policy for the acquisition of Government printing and related supplies."
-      }
+      },
+      "sub": {}
     },
     "801": {
-      "number": 801,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Government printing” means printing, binding, and blankbook work for the use of an executive department, independent agency, or establishment of the Government.\n\n“Related supplies” means supplies that are used and equipment that is usable in printing and binding operations."
-      }
+      },
+      "sub": {}
     },
     "802": {
-      "number": 802,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "2": {
           "text": "Paper and envelopes for use by Executive agencies outside the District of Columbia and stocked by GSA shall be requisitioned from GSA in accordance with the procedures listed in Federal Property Management Regulations (FPMR) Subpart 101-26.3."
@@ -50,7 +46,8 @@
         "c": {
           "text": "(1) Further, 44 U.S.C. 1121 provides that the Public Printer may acquire and furnish paper and envelopes (excluding envelopes printed in the course of manufacture) in common use by two or more Government departments, establishments, or services within the District of Columbia, and provides for reimbursement of the Public Printer from available appropriations or funds. Paper and envelopes that are furnished by the Public Printer may not be acquired in any other manner."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

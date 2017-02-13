@@ -4,24 +4,24 @@
   "name": "American Recovery and Reinvestment Act—Buy American statute—Construction Materials",
   "sub": {
     "600": {
-      "number": 600,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart implements section 1605 in Division A of the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) (Recovery Act) with regard to manufactured construction material and the 41 U.S.C. chapter 83, Buy American (referred to in this subpart as the Buy American statute) with regard to unmanufactured construction material. It applies to construction projects that use funds appropriated or otherwise provided by the Recovery Act."
-      }
+      },
+      "sub": {}
     },
     "601": {
-      "number": 601,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart—\n\n“Domestic construction material” means the following:\n\n(1) An unmanufactured construction material mined or produced in the United States. (The Buy American statute applies.)\n\n(2) A manufactured construction material that is manufactured in the United States and, if the construction material consists wholly or predominantly of iron or steel, the iron or steel was produced in the United States. (Section 1605 of the Recovery Act applies.)\n\n“Foreign construction material” means a construction material other than a domestic construction material.\n\n“Manufactured construction material” means any construction material that is not unmanufactured construction material.\n\n“Public building or public work” means a building or work, the construction, prosecution, completion, or repair of which is carried on directly or indirectly by authority of, or with funds of, a Federal agency to serve the interest of the general public regardless of whether title thereof is in a Federal agency (see 22.401). These buildings and works may include, without limitation, bridges, dams, plants, highways, parkways, streets, subways, tunnels, sewers, mains, power lines, pumping stations, heavy generators, railways, airports, terminals, docks, piers, wharves, ways, lighthouses, buoys, jetties, breakwaters, levees, and canals, and the construction, alteration, maintenance, or repair of such buildings and works.\n\n“Recovery Act designated country” means a World Trade Organization Government Procurement Agreement country, a Free Trade Agreement country, or a least developed country.\n\n“Steel” means an alloy that includes at least 50 percent iron, between .02 and 2 percent carbon, and may include other elements.\n\n“Unmanufactured construction material” means raw material brought to the construction site for incorporation into the building or work that has not been—\n\n(1) Processed into a specific form and shape; or\n\n(2) Combined with other raw material to create a material that has different properties than the properties of the individual raw materials."
-      }
+      },
+      "sub": {}
     },
     "602": {
-      "number": 602,
       "name": "Policy.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Section 1605 of the Recovery Act.",
@@ -35,15 +35,10 @@
             "text": "Except as provided in 25.603, use only unmanufactured construction material mined or produced in the United States, as required by the Buy American statute or, if trade agreements apply, unmanufactured construction material mined or produced in a designated country may also be used."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "603": {
-      "number": 603,
       "name": "Exceptions. ",
-      "sub": {},
       "text": {
         "1": {
           "text": "For construction contracts with an estimated acquisition value of $7,358,000 or more, also see subpart 25.4. Offers proposing the use of construction material from a designated country shall receive equal consideration with offers proposing the use of domestic construction material."
@@ -91,12 +86,11 @@
         "c": {
           "text": "Acquisitions under trade agreements."
         }
-      }
+      },
+      "sub": {}
     },
     "604": {
-      "number": 604,
       "name": "Preaward determination concerning the inapplicability of section 1605 of the Recovery Act or the Buy American statute.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Manufactured construction material. The contracting officer must compare the offered price of the contract using foreign manufactured construction material (i.e., any construction material not manufactured in the United States, or construction material consisting predominantly of iron or steel and the iron or steel is not produced in the United States) to the estimated price if all domestic manufactured construction material were used. If use of domestic manufactured construction material would increase the overall offered price of the contract by more than 25 percent, then the contracting officer shall determine that the cost of the domestic manufactured construction material is unreasonable"
@@ -113,12 +107,11 @@
         "c": {
           "text": "Determination based on unreasonable cost of domestic construction material."
         }
-      }
+      },
+      "sub": {}
     },
     "605": {
-      "number": 605,
       "name": "Evaluating offers of foreign construction material.",
-      "sub": {},
       "text": {
         "a": {
           "text": "If the contracting officer has determined that an exception applies because the cost of certain domestic construction material is unreasonable, in accordance with section 25.604, then the contracting officer shall apply evaluation factors to the offer incorporating the use of such foreign construction material as follows:",
@@ -146,12 +139,11 @@
         "e": {
           "text": "If the contracting officer awards a contract to an offeror that proposed foreign construction material not listed in the applicable clause in the solicitation (paragraph (b)(3) of 52.225-21, or paragraph (b)(3) of 52.225-23), the contracting officer must add the excepted materials to the list in the contract clause."
         }
-      }
+      },
+      "sub": {}
     },
     "606": {
-      "number": 606,
       "name": "Postaward determinations. ",
-      "sub": {},
       "text": {
         "a": {
           "text": "If a contractor requests a determination regarding the inapplicability of section 1605 of the Recovery Act or the Buy American statute after contract award, the contractor must explain why it could not request the determination before contract award or why the need for such determination otherwise was not reasonably foreseeable. If the contracting officer concludes that the contractor should have made the request before contract award, the contracting officer may deny the request."
@@ -162,15 +154,15 @@
         "c": {
           "text": "If a determination, under 25.603(a), is made after contract award that an exception to section 1605 of the Recovery Act or to the Buy American statute applies, the contracting officer must negotiate adequate consideration and modify the contract to allow use of the foreign construction material.  When the basis for the exception is the unreasonable cost of a domestic construction material, adequate consideration is at least the differential established in 25.605(a)."
         }
-      }
+      },
+      "sub": {}
     },
     "607": {
-      "number": 607,
       "name": "Noncompliance.",
-      "sub": {},
       "text": {
         "text": "The contracting officer must—\n\n(a) Review allegations of violations of section 1605 of the Recovery Act or Buy American statute;\n\n(b) Unless fraud is suspected, notify the contractor of the apparent unauthorized use of foreign construction material and request a reply, to include proposed corrective action; and\n\n(c) If the review reveals that a contractor or subcontractor has used foreign construction material without authorization, take appropriate action, including one or more of the following:\n\n(1) Process a determination concerning the inapplicability of section 1605 of the Recovery Act or the Buy American statute in accordance with 25.606.\n\n(2) Consider requiring the removal and replacement of the unauthorized foreign construction material.\n\n(3) If removal and replacement of foreign construction material incorporated in a building or work would be impracticable, cause undue delay, or otherwise be detrimental to the interests of the Government, the contracting officer may determine in writing that the foreign construction material need not be removed and replaced. A determination to retain foreign construction material does not constitute a determination that an exception to section 1605 of the Recovery Act or the Buy American statute applies, and this should be stated in the determination. Further, a determination to retain foreign construction material does not affect the Government’s right to suspend or debar a contractor, subcontractor, or supplier for violation of section 1605 of the Recovery Act or the Buy American statute, or to exercise other contractual rights and remedies, such as reducing the contract price or terminating the contract for default.\n\n(4) If the noncompliance is sufficiently serious, consider exercising appropriate contractual remedies, such as terminating the contract for default. Also consider preparing and forwarding a report to the agency suspending or debarring official in accordance with subpart 9.4. If the noncompliance appears to be fraudulent, refer the matter to other appropriate agency officials, such as the agency’s inspector general or the officer responsible for criminal investigation."
-      }
+      },
+      "sub": {}
     }
   }
 }

@@ -4,9 +4,7 @@
   "name": "Correspondence and Visits",
   "sub": {
     "401": {
-      "number": 401,
       "name": "Contract correspondence.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer (or other contracting agency personnel) normally shall (1) forward correspondence relating to assigned contract administration functions through the cognizant contract administration office (CAO) to the contractor, and (2) provide a copy for the CAO’s file. When urgency requires sending such correspondence directly to the contractor, a copy shall be sent concurrently to the CAO."
@@ -14,12 +12,11 @@
         "b": {
           "text": "The CAO shall send the contracting office a copy of pertinent correspondence conducted between the CAO and the contractor."
         }
-      }
+      },
+      "sub": {}
     },
     "402": {
-      "number": 402,
       "name": "Visits to contractors’ facilities.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Government personnel planning to visit a contractor’s facility in connection with one or more Government contracts shall provide the cognizant CAO with the following information, sufficiently in advance to permit the CAO to make necessary arrangements. Such notification is for the purpose of eliminating duplicative reviews, requests, investigations, and audits relating to the contract administration functions in Subpart 42.3 delegated to CAO’s and shall, as a minimum, include the following (see also paragraph (b) of this section):",
@@ -47,15 +44,15 @@
         "c": {
           "text": "Visitors shall fully inform the CAO of any agreements reached with the contractor or other results of the visit that may affect the CAO."
         }
-      }
+      },
+      "sub": {}
     },
     "403": {
-      "number": 403,
       "name": "Evaluation of contract administration offices.",
-      "sub": {},
       "text": {
         "text": "Onsite inspections or evaluations of the performance of the assigned functions of a contract administration office shall be accomplished only by or under the direction of the agency of which that office is a part."
-      }
+      },
+      "sub": {}
     }
   }
 }

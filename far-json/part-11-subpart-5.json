@@ -4,9 +4,7 @@
   "name": "Liquidated Damages",
   "sub": {
     "500": {
-      "number": 500,
       "name": "Scope.",
-      "sub": {},
       "text": {
         "1": {
           "text": "For subcontracting plans (see 19.705-7);"
@@ -23,12 +21,11 @@
         "b": {
           "text": "This subpart does not apply to liquidated damages–"
         }
-      }
+      },
+      "sub": {}
     },
     "501": {
-      "number": 501,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer must consider the potential impact on pricing, competition, and contract administration before using a liquidated damages clause. Use liquidated damages clauses only when—",
@@ -50,12 +47,11 @@
         "d": {
           "text": "The head of the agency may reduce or waive the amount of liquidated damages assessed under a contract, if the Commissioner, Financial Management Service, or designee approves (see Treasury Order 145-10)."
         }
-      }
+      },
+      "sub": {}
     },
     "502": {
-      "number": 502,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Renting substitute property; or"
@@ -69,12 +65,11 @@
         "b": {
           "text": "Construction contracts with liquidated damages provisions must describe the rate(s) of liquidated damages assessed per day of delay. The rate(s) should include the estimated daily cost of Government inspection and superintendence. The rate(s) should also include an amount for other expected expenses associated with delayed completion such as—"
         }
-      }
+      },
+      "sub": {}
     },
     "503": {
-      "number": 503,
       "name": "Contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Use the clause at 52.211-11, Liquidated Damages—Supplies, Services, or Research and Development, in fixed-price solicitations and contracts for supplies, services, or research and development when the contracting officer determines that liquidated damages are appropriate (see 11.501(a))."
@@ -85,7 +80,8 @@
         "c": {
           "text": "Use the clause at 52.211-13, Time Extensions, in solicitations and contracts for construction that use the clause at 52.211-12, Liquidated Damages—Construction, when that clause has been revised as provided in paragraph (b) of this section."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

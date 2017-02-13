@@ -4,32 +4,31 @@
   "name": "Contract Funding",
   "sub": {
     "700": {
-      "number": 700,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart (a) describes basic requirements for contract funding and (b) prescribes procedures for using limitation of cost or limitation of funds clauses. Detailed acquisition funding requirements are contained in agency fiscal regulations."
-      }
+      },
+      "sub": {}
     },
     "701": {
-      "number": 701,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "702": {
-      "number": 702,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "text": "No officer or employee of the Government may create or authorize an obligation in excess of the funds available, or in advance of appropriations (Anti-Deficiency Act, 31 U.S.C. 1341), unless otherwise authorized by law. Before executing any contract, the contracting officer shall—\n\n(a) Obtain written assurance from responsible fiscal authority that adequate funds are available or\n\n(b) Expressly condition the contract upon availability of funds in accordance with 32.703-2."
-      }
+      },
+      "sub": {}
     },
     "703": {
-      "number": 703,
       "name": "Contract funding requirements.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -83,15 +82,10 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "704": {
-      "number": 704,
       "name": "Limitation of cost or funds.",
-      "sub": {},
       "text": {
         "a": {
           "text": "(1) When a contract contains the clause at 52.232-20, Limitation of Cost; or 52.232-22, Limitation of Funds, the contracting officer, upon learning that the contractor is approaching the estimated cost of the contract or the limit of the funds allotted, shall promptly obtain funding and programming information pertinent to the contract’s continuation and notify the contractor in writing that—",
@@ -125,19 +119,21 @@
         "c": {
           "text": "Government personnel encouraging a contractor to continue work in the absence of funds will incur a violation of Revised Statutes section 3679 (31 U.S.C. 1341) that may subject the violator to civil or criminal penalties."
         }
-      }
+      },
+      "sub": {}
     },
     "705": {
-      "number": 705,
       "name": "Unenforceability of Unauthorized Obligations.",
-      "sub": {},
       "text": {
         "text": "Many supplies or services are acquired subject to supplier license agreements.  These are particularly common in information technology acquisitions, but they may apply to any supply or service.  For example, computer software and services delivered through the internet (web services) are often subject to license agreements, referred to as End User License Agreements (EULA), Terms of Service (TOS), or other similar legal instruments or agreements. Many of these agreements contain indemnification clauses that are inconsistent with Federal law and unenforceable, but which could create a violation of the Anti-Deficiency Act (31 U.S.C. 1341) if agreed to by the Government."
-      }
+      },
+      "sub": {}
     },
     "706": {
-      "number": 706,
       "name": "Contract clauses.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Clauses for contracting in advance of funds.",
@@ -173,9 +169,6 @@
             "text": "The contracting officer shall insert the clause at 52.232-39, Unenforceability of Unauthorized Obligations in all solicitations and contracts."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

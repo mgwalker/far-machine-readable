@@ -4,17 +4,14 @@
   "name": "Advocates for Competition",
   "sub": {
     "501": {
-      "number": 501,
       "name": "Requirement.",
-      "sub": {},
       "text": {
         "text": "As required by 41 U.S.C. 1705, the head of each executive agency shall designate an advocate for competition for the agency and for each procuring activity of the agency.  The advocates for competition shall—\n\n(a) Be in positions other than that of the agency senior procurement executive;\n\n(b) Not be assigned any duties or responsibilities that are inconsistent with 6.502; and\n\n(c) Be provided with staff or assistance (e.g., specialists in engineering, technical operations, contract administration, financial management, supply management, and utilization of small business concerns), as may be necessary to carry out the advocate’s duties and responsibilities."
-      }
+      },
+      "sub": {}
     },
     "502": {
-      "number": 502,
       "name": "Duties and responsibilities.",
-      "sub": {},
       "text": {
         "1": {
           "text": "Review the contracting operations of the agency and identify and report to the agency senior procurement executive and the chief acquisition officer—",
@@ -71,7 +68,8 @@
         "b": {
           "text": "Agency advocates for competition shall—"
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

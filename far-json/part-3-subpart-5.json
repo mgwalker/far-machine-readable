@@ -4,8 +4,10 @@
   "name": "Other Improper Business Practices",
   "sub": {
     "501": {
-      "number": 501,
       "name": "Buying-in.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Definition.",
@@ -43,14 +45,13 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "502": {
-      "number": 502,
       "name": "Subcontractor kickbacks.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Definitions.",
@@ -70,14 +71,13 @@
             "text": "The contracting officer shall insert the clause at 52.203-7, Anti-Kickback Procedures, in solicitations and contracts exceeding the simplified acquisition threshold, other than those for commercial items (see Part 12)."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "503": {
-      "number": 503,
       "name": "Unreasonable restrictions on subcontractor sales.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Policy.",
@@ -91,9 +91,6 @@
             "text": "The contracting officer shall insert the clause at 52.203-6, Restrictions on Subcontractor Sales to the Government, in solicitations and contracts exceeding the simplified acquisition threshold.  For the acquisition of commercial items, the contracting officer shall use the clause with its Alternate I."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

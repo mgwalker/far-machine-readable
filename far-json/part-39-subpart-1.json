@@ -3,10 +3,29 @@
   "number": 1,
   "name": "General",
   "sub": {
+    "0": {
+      "name": "Scope of part.",
+      "text": {
+        "text": "This part prescribes acquisition policies and procedures for use in acquiring—\n\n(a) Information technology, including financial management systems, consistent with other parts of this regulation, OMB Circular No. A-127, Financial Management Systems and OMB Circular No. A-130, Management of Federal Information Resources.\n\n(b) Information and information technology."
+      },
+      "sub": {}
+    },
+    "1": {
+      "name": "Applicability.",
+      "text": {
+        "text": "This part applies to the acquisition of information technology by or for the use of agencies except for acquisitions of information technology for national security systems. However, acquisitions of information technology for national security systems shall be conducted in accordance with 40 U.S.C. 11302 with regard to requirements for performance and results-based management; the role of the agency Chief Information Officer in acquisitions; and accountability. These requirements are addressed in OMB Circular No. A-130."
+      },
+      "sub": {}
+    },
+    "2": {
+      "name": "Definitions.",
+      "text": {
+        "text": "As used in this part—\n\n“Modular contracting” means use of one or more contracts to acquire information technology systems in successive, interoperable increments.\n\n“National security system” means any telecommunications or information system operated by the United States Government, the function, operation, or use of which—\n\n(1) Involves intelligence activities;\n\n(2) Involves cryptologic activities related to national security;\n\n(3) Involves command and control of military forces;\n\n(4) Involves equipment that is an integral part of a weapon or weapons system; or\n\n(5) Is critical to the direct fulfillment of military or intelligence missions. This does not include a system that is to be used for routine administrative and business applications, such as payroll, finance, logistics, and personnel management applications."
+      },
+      "sub": {}
+    },
     "101": {
-      "number": 101,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "a": {
           "text": "(1) In acquiring information technology, agencies shall identify their requirements pursuant to—",
@@ -37,12 +56,11 @@
         "d": {
           "text": "When acquiring information technology using Internet Protocol, agencies must include the appropriate Internet Protocol compliance requirements in accordance with 11.002(g)."
         }
-      }
+      },
+      "sub": {}
     },
     "102": {
-      "number": 102,
       "name": "Management of risk.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Prior to entering into a contract for information technology, an agency should analyze risks, benefits, and costs. (See Part 7 for additional information regarding requirements definition.) Reasonable risk taking is appropriate as long as risks are controlled and mitigated. Contracting and program office officials are jointly responsible for assessing, monitoring and controlling risk when selecting projects for investment and during program implementation."
@@ -53,12 +71,11 @@
         "c": {
           "text": "Appropriate techniques should be applied to manage and mitigate risk during the acquisition of information technology. Techniques include, but are not limited to: prudent project management; use of modular contracting; thorough acquisition planning tied to budget planning by the program, finance and contracting offices; continuous collection and evaluation of risk-based assessment data; prototyping prior to implementation; post implementation reviews to determine actual project cost, benefits and returns; and focusing on risks and returns using quantifiable measures."
         }
-      }
+      },
+      "sub": {}
     },
     "103": {
-      "number": 103,
       "name": "Modular contracting.",
-      "sub": {},
       "text": {
         "a": {
           "text": "This section implements 41 U.S.C. 2308. Modular contracting is intended to reduce program risk and to incentivize contractor performance while meeting the Government’s need for timely access to rapidly changing technology. Consistent with the agency’s information technology architecture, agencies should, to the maximum extent practicable, use modular contracting to acquire major systems (see 2.101) of information technology. Agencies may also use modular contracting to acquire non-major systems of information technology."
@@ -100,55 +117,29 @@
         "e": {
           "text": "To avoid obsolescence, a modular contract for information technology should, to the maximum extent practicable, be awarded within 180 days after the date on which the solicitation is issued. If award cannot be made within 180 days, agencies should consider cancellation of the solicitation in accordance with 14.209 or 15.206(e). To the maximum extent practicable, deliveries under the contract should be scheduled to occur within 18 months after issuance of the solicitation."
         }
-      }
+      },
+      "sub": {}
     },
     "104": {
-      "number": 104,
       "name": "Information technology services.",
-      "sub": {},
       "text": {
         "text": "When acquiring information technology services, solicitations must not describe any minimum experience or educational requirement for proposed contractor personnel unless the contracting officer determines that the needs of the agency—\n\n(a) Cannot be met without that requirement; or\n\n(b) Require the use of other than a performance-based acquisition (see Subpart 37.6)."
-      }
+      },
+      "sub": {}
     },
     "105": {
-      "number": 105,
       "name": "Privacy.",
-      "sub": {},
       "text": {
         "text": "Agencies shall ensure that contracts for information technology address protection of privacy in accordance with the Privacy Act (5 U.S.C. 552a) and Part 24. In addition, each agency shall ensure that contracts for the design, development, or operation of a system of records using commercial information technology services or information technology support services include the following:\n\n(a) Agency rules of conduct that the contractor and the contractor’s employees shall be required to follow.\n\n(b) A list of the anticipated threats and hazards that the contractor must guard against.\n\n(c) A description of the safeguards that the contractor must specifically provide.\n\n(d) Requirements for a program of Government inspection during performance of the contract that will ensure the continued efficacy and efficiency of safeguards and the discovery and countering of new threats and hazards."
-      }
+      },
+      "sub": {}
     },
     "106": {
-      "number": 106,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall insert a clause substantially the same as the clause at 52.239-1, Privacy or Security Safeguards, in solicitations and contracts for information technology which require security of information technology, and/or are for the design, development, or operation of a system of records using commercial information technology services or support services."
-      }
-    },
-    "000": {
-      "number": 0,
-      "name": "Scope of part.",
-      "sub": {},
-      "text": {
-        "text": "This part prescribes acquisition policies and procedures for use in acquiring—\n\n(a) Information technology, including financial management systems, consistent with other parts of this regulation, OMB Circular No. A-127, Financial Management Systems and OMB Circular No. A-130, Management of Federal Information Resources.\n\n(b) Information and information technology."
-      }
-    },
-    "001": {
-      "number": 1,
-      "name": "Applicability.",
-      "sub": {},
-      "text": {
-        "text": "This part applies to the acquisition of information technology by or for the use of agencies except for acquisitions of information technology for national security systems. However, acquisitions of information technology for national security systems shall be conducted in accordance with 40 U.S.C. 11302 with regard to requirements for performance and results-based management; the role of the agency Chief Information Officer in acquisitions; and accountability. These requirements are addressed in OMB Circular No. A-130."
-      }
-    },
-    "002": {
-      "number": 2,
-      "name": "Definitions.",
-      "sub": {},
-      "text": {
-        "text": "As used in this part—\n\n“Modular contracting” means use of one or more contracts to acquire information technology systems in successive, interoperable increments.\n\n“National security system” means any telecommunications or information system operated by the United States Government, the function, operation, or use of which—\n\n(1) Involves intelligence activities;\n\n(2) Involves cryptologic activities related to national security;\n\n(3) Involves command and control of military forces;\n\n(4) Involves equipment that is an integral part of a weapon or weapons system; or\n\n(5) Is critical to the direct fulfillment of military or intelligence missions. This does not include a system that is to be used for routine administrative and business applications, such as payroll, finance, logistics, and personnel management applications."
-      }
+      },
+      "sub": {}
     }
   }
 }

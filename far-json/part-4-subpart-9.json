@@ -4,25 +4,21 @@
   "name": "Taxpayer Identification Number Information",
   "sub": {
     "900": {
-      "number": 900,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart provides policies and procedures for obtaining—\n\n(a) Taxpayer Identification Number (TIN) information that may be used for debt collection purposes; and\n\n(b) Contract information and payment information for submittal to the payment office for Internal Revenue Service (IRS) reporting purposes."
-      }
+      },
+      "sub": {}
     },
     "901": {
-      "number": 901,
       "name": "Definition.",
-      "sub": {},
       "text": {
         "text": "“Common parent,” as used in this subpart, means that corporate entity that owns or controls an affiliated group of corporations that files its Federal income tax returns on a consolidated basis, and of which the offeror is a member."
-      }
+      },
+      "sub": {}
     },
     "902": {
-      "number": 902,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Debt collection. 31 U.S.C. 7701(c) requires each contractor doing business with a Government agency to furnish its TIN to that agency. 31 U.S.C. 3325(d) requires the Government to include, with each certified voucher prepared by the Government payment office and submitted to a disbursing official, the TIN of the contractor receiving payment under the voucher. The TIN may be used by the Government to collect and report on any delinquent amounts arising out of the contractor’s relationship with the Government."
@@ -30,12 +26,11 @@
         "b": {
           "text": "Information reporting to the IRS. The TIN is also required for Government reporting of certain contract information (see 4.903) and payment information (see 4.904) to the IRS."
         }
-      }
+      },
+      "sub": {}
     },
     "903": {
-      "number": 903,
       "name": "Reporting contract information to the IRS.",
-      "sub": {},
       "text": {
         "a": {
           "text": "26 U.S.C. 6050M, as implemented in 26 CFR, requires heads of Federal executive agencies to report certain information to the IRS."
@@ -77,23 +72,22 @@
         "d": {
           "text": "Transmit the information to the IRS through the Federal Procurement Data System (see Subpart 4.6 and implementing instructions)."
         }
-      }
+      },
+      "sub": {}
     },
     "904": {
-      "number": 904,
       "name": "Reporting payment information to the IRS.",
-      "sub": {},
       "text": {
         "text": "26 U.S.C. 6041 and 6041A, as implemented in 26 CFR, in part, require payors, including Government agencies, to report to the IRS, on Form 1099, payments made to certain contractors. 26 U.S.C. 6109 requires a contractor to provide its TIN if a Form 1099 is required. The payment office is responsible for submitting reports to the IRS."
-      }
+      },
+      "sub": {}
     },
     "905": {
-      "number": 905,
       "name": "Solicitation provision.",
-      "sub": {},
       "text": {
         "text": "The contracting officer shall insert the provision at 52.204-3, Taxpayer Identification, in solicitations that—\n\n(a) Do not include the provision at 52.204-7, System for Award Management; and\n\n(b) Are not conducted under the procedures of Part 12."
-      }
+      },
+      "sub": {}
     }
   }
 }

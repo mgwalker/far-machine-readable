@@ -4,25 +4,21 @@
   "name": "Planning for the Purchase of Supplies in Economic Quantities",
   "sub": {
     "200": {
-      "number": 200,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures for gathering information from offerors to assist the Government in planning the most advantageous quantities in which supplies should be purchased."
-      }
+      },
+      "sub": {}
     },
     "201": {
-      "number": 201,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "1": {
           "text": "To state an opinion on whether the quantity of the supplies proposed to be acquired is economically advantageous to the Government; and"
@@ -44,20 +40,18 @@
         "b": {
           "text": "Each solicitation for a contract for supplies is required, if practicable, to include a provision inviting each offeror responding to the solicitation—"
         }
-      }
+      },
+      "sub": {}
     },
     "203": {
-      "number": 203,
       "name": "Solicitation provision.",
-      "sub": {},
       "text": {
         "text": "Contracting officers shall insert the provision at 52.207-4, Economic Purchase Quantity—Supplies, in solicitations for supplies. The provision need not be inserted if the solicitation is for a contract under the General Services Administration’s multiple award schedule contract program, or if the contracting officer determines that—\n\n(a) The Government already has the data;\n\n(b) The data is otherwise readily available; or\n\n(c) It is impracticable for the Government to vary its future requirements."
-      }
+      },
+      "sub": {}
     },
     "204": {
-      "number": 204,
       "name": "Responsibilities of contracting officers.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Contracting officers are responsible for transmitting offeror responses to the solicitation provision at 52.207-4 to appropriate inventory management/requirements development activities in accordance with agency procedures. The economic purchase quantity data so obtained are intended to assist inventory managers in establishing and evaluating economic order quantities for supplies under their cognizance."
@@ -65,7 +59,8 @@
         "b": {
           "text": "In recognition of the fact that economic purchase quantity data furnished by offerors are only one of many data inputs required for determining the most economical order quantities, contracting officers should generally take no action to revise quantities to be acquired in connection with the instant procurement. However, if a significant price variation is evident from offeror responses, and the potential for significant savings is apparent, the contracting officer shall consult with the cognizant inventory manager or requirements development activity before proceeding with an award or negotiations. If this consultation discloses that the Government should be ordering an item of supply in different quantities and the inventory manager/requirements development activity concurs, the solicitation for the item should be amended or canceled and a new requisition should be obtained."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

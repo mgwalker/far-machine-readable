@@ -4,12 +4,11 @@
   "name": "Definitions Clause",
   "sub": {
     "201": {
-      "number": 201,
       "name": "Contract clause.",
-      "sub": {},
       "text": {
         "text": "Insert the clause at 52.202-1, Definitions, in solicitations and contracts that exceed the simplified acquisition threshold."
-      }
+      },
+      "sub": {}
     }
   }
 }

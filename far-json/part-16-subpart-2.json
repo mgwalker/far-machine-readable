@@ -4,9 +4,7 @@
   "name": "Fixed-Price Contracts",
   "sub": {
     "201": {
-      "number": 201,
       "name": "General.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Fixed-price types of contracts provide for a firm price or, in appropriate cases, an adjustable price. Fixed-price contracts providing for an adjustable price may include a ceiling price, a target price (including target cost), or both. Unless otherwise specified in the contract, the ceiling price or target price is subject to adjustment only by operation of contract clauses providing for equitable adjustment or other revision of the contract price under stated circumstances. The contracting officer shall use firm-fixed-price or fixed-price with economic price adjustment contracts when acquiring commercial items, except as provided in 12.207(b)."
@@ -14,11 +12,14 @@
         "b": {
           "text": "Time-and-materials contracts and labor-hour contracts are not fixed-price contracts."
         }
-      }
+      },
+      "sub": {}
     },
     "202": {
-      "number": 202,
       "name": "Firm-fixed-price contracts.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Description.",
@@ -32,14 +33,13 @@
             "text": "A firm-fixed-price contract is suitable for acquiring commercial items (see Parts 2 and 12) or for acquiring other supplies or services on the basis of reasonably definite functional or detailed specifications (see Part 11) when the contracting officer can establish fair and reasonable prices at the outset, such as when—\n\n(a) There is adequate price competition;\n\n(b) There are reasonable price comparisons with prior purchases of the same or similar supplies or services made on a competitive basis or supported by valid certified cost or pricing data;\n\n(c) Available cost or pricing information permits realistic estimates of the probable costs of performance; or\n\n(d) Performance uncertainties can be identified and reasonable estimates of their cost impact can be made, and the contractor is willing to accept a firm fixed price representing assumption of the risks involved."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "203": {
-      "number": 203,
       "name": "Fixed-price contracts with economic price adjustment.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Description.",
@@ -207,22 +207,20 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "204": {
-      "number": 204,
       "name": "Fixed-price incentive contracts.",
-      "sub": {},
       "text": {
         "text": "A fixed-price incentive contract is a fixed-price contract that provides for adjusting profit and establishing the final contract price by a formula based on the relationship of final negotiated total cost to total target cost. Fixed-price incentive contracts are covered in Subpart 16.4, Incentive Contracts. See 16.403 for more complete descriptions, application, and limitations for these contracts. Prescribed clauses are found at 16.406."
-      }
+      },
+      "sub": {}
     },
     "205": {
-      "number": 205,
       "name": "Fixed-price contracts with prospective price redetermination.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Description.",
@@ -248,14 +246,13 @@
             "text": "The contracting officer shall, when contracting by negotiation, insert the clause at 52.216-5, Price Redetermination—Prospective, in solicitations and contracts when a fixed-price contract is contemplated and the conditions specified in 16.205-2 and 16.205-3(a) through (d) apply."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "206": {
-      "number": 206,
       "name": "Fixed-ceiling-price contracts with retroactive price redetermination.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Description.",
@@ -281,14 +278,13 @@
             "text": "The contracting officer shall, when contracting by negotiation, insert the clause at 52.216-6, Price Redetermination—Retroactive, in solicitations and contracts when a fixed-price contract is contemplated and the conditions in 16.206-2 and 16.206-3(a) through (d) apply."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "207": {
-      "number": 207,
       "name": "Firm-fixed-price, level-of-effort term contracts.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "Description.",
@@ -308,9 +304,6 @@
             "text": "This contract type may be used only when—\n\n(a) The work required cannot otherwise be clearly defined;\n\n(b) The required level of effort is identified and agreed upon in advance;\n\n(c) There is reasonable assurance that the intended result cannot be achieved by expending less than the stipulated effort; and\n\n(d) The contract price is $150,000 or less, unless approved by the chief of the contracting office."
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     }
   }

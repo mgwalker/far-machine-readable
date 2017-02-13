@@ -3,226 +3,8 @@
   "number": 1,
   "name": "Available Acquisition Flexibilities",
   "sub": {
-    "101": {
-      "number": 101,
-      "name": "General.",
-      "sub": {},
-      "text": {
-        "text": "The FAR includes many acquisition flexibilities that are available to the contracting officer when certain conditions are met. These acquisition flexibilities do not require an emergency declaration or designation of contingency operation."
-      }
-    },
-    "102": {
-      "number": 102,
-      "name": "System for Award Management.",
-      "sub": {},
-      "text": {
-        "text": "Contractors are not required to be registered in the System for Award Management (SAM) database for contracts awarded to support unusual and compelling needs or emergency acquisitions. (See 4.1102). However, contractors are required to register with SAM in order to gain access to the Disaster Response Registry. Contracting officers shall consult the Disaster Response Registry via https://www.acquisition.gov to determine the availability of contractors for debris removal, distribution of supplies, reconstruction, and other disaster or emergency relief activities inside the United States and outlying areas. (See 26.205)."
-      }
-    },
-    "103": {
-      "number": 103,
-      "name": "Synopses of proposed contract actions.",
-      "sub": {},
-      "text": {
-        "text": "Contracting officers need not submit a synopsis notice when there is an unusual and compelling urgency and the Government would be seriously injured if the agency complied with the notice time periods. (See 5.202(a)(2).)"
-      }
-    },
-    "104": {
-      "number": 104,
-      "name": "Unusual and compelling urgency.",
-      "sub": {},
-      "text": {
-        "text": "Agencies may limit the number of sources and full and open competition need not be provided for contracting actions involving urgent requirements. (See 6.302-2.)"
-      }
-    },
-    "105": {
-      "number": 105,
-      "name": "Federal Supply Schedules (FSSs), multi-agency blanket purchase agreements (BPAs), and multi-agency indefinite delivery contracts.",
-      "sub": {},
-      "text": {
-        "text": "Streamlined procedures and a broad range of goods and services may be available under Federal Supply Schedule contracts (see subpart 8.4), multi-agency BPAs (see 8.405-3(a)(6)), or multi-agency, indefinite-delivery contracts (see 16.505(a)(8)). These contracting methods may offer agency advance planning, pre-negotiated line items, and special terms and conditions that permit rapid response."
-      }
-    },
-    "106": {
-      "number": 106,
-      "name": "Acquisitions from Federal Prison Industries, Inc. (FPI).",
-      "sub": {},
-      "text": {
-        "text": "Purchase from FPI is not mandatory and a waiver is not required if public exigency requires immediate delivery or performance (see 8.605(b))."
-      }
-    },
-    "107": {
-      "number": 107,
-      "name": "AbilityOne specification changes.",
-      "sub": {},
-      "text": {
-        "text": "Contracting officers are not held to the notification required when changes in AbilityOne specifications or descriptions are required to meet emergency needs. (See 8.712(d).)"
-      }
-    },
-    "108": {
-      "number": 108,
-      "name": "Qualifications requirements.",
-      "sub": {},
-      "text": {
-        "text": "Agencies may determine not to enforce qualification requirements when an emergency exists. (See 9.206-1.)"
-      }
-    },
-    "109": {
-      "number": 109,
-      "name": "Priorities and allocations.",
-      "sub": {},
-      "text": {
-        "text": "The Defense Priorities and Allocations System (DPAS) supports approved national defense, emergency preparedness, and energy programs and was established to facilitate rapid industrial mobilization in case of a national emergency. (See subpart 11.6.)"
-      }
-    },
-    "110": {
-      "number": 110,
-      "name": "Soliciting from a single source.",
-      "sub": {},
-      "text": {
-        "text": "For purchases not exceeding the simplified acquisition threshold, contracting officers may solicit from one source under certain circumstances. (See 13.106-1(b).)"
-      }
-    },
-    "111": {
-      "number": 111,
-      "name": "Oral requests for proposals.",
-      "sub": {},
-      "text": {
-        "text": "Oral requests for proposals are authorized under certain conditions. (See 15.203(f).)"
-      }
-    },
-    "112": {
-      "number": 112,
-      "name": "Letter contracts.",
-      "sub": {},
-      "text": {
-        "text": "Letter contracts may be used when contract performance must begin immediately. (See 16.603.)"
-      }
-    },
-    "113": {
-      "number": 113,
-      "name": "Interagency acquisitions.",
-      "sub": {},
-      "text": {
-        "text": "Interagency acquisitions are authorized under certain conditions. (See subpart 17.5.)"
-      }
-    },
-    "114": {
-      "number": 114,
-      "name": "Contracting with the Small Business Administration (The 8(a) Program).",
-      "sub": {},
-      "text": {
-        "text": "Contracts may be awarded to the Small Business Administration (SBA) for performance by eligible 8(a) participants on either a sole source or competitive basis. (See subpart 19.8.)"
-      }
-    },
-    "115": {
-      "number": 115,
-      "name": "HUBZone sole source awards.",
-      "sub": {},
-      "text": {
-        "text": "Contracts may be awarded to Historically Underutilized Business Zone (HUBZone) small business concerns on a sole source basis. (See 19.1306.)"
-      }
-    },
-    "116": {
-      "number": 116,
-      "name": "Service-disabled Veteran-owned Small Business (SDVOSB) sole source awards.",
-      "sub": {},
-      "text": {
-        "text": "Contracts may be awarded to Service-disabled Veteran-owned Small Business (SDVOSB) concerns on a sole source basis. (See 19.1406.)"
-      }
-    },
-    "117": {
-      "number": 117,
-      "name": "Awards to economically disadvantaged women-owned small business concerns and women-owned small business concerns eligible under the Women-Owned Small Business Program.",
-      "sub": {},
-      "text": {
-        "text": "Contracts may be awarded to economically disadvantaged women-owned small business (EDWOSB) concerns and women-owned small business (WOSB) concerns eligible under the WOSB Program on a competitive or sole source basis. (See subpart 19.15.)"
-      }
-    },
-    "118": {
-      "number": 118,
-      "name": "Overtime approvals.",
-      "sub": {},
-      "text": {
-        "text": "Overtime approvals may be retroactive if justified by emergency circumstances. (See 22.103-4(i).)"
-      }
-    },
-    "119": {
-      "number": 119,
-      "name": "Trade agreements.",
-      "sub": {},
-      "text": {
-        "text": "The policies and procedures of FAR 25.4 may not apply to acquisitions not awarded under full and open competition (see 25.401(a)(5))."
-      }
-    },
-    "120": {
-      "number": 120,
-      "name": "Use of patented technology under the North American Free Trade Agreement.",
-      "sub": {},
-      "text": {
-        "text": "Requirement to obtain authorization prior to use of patented technology may be waived in circumstances of extreme urgency or national emergency. (See 27.204-1.)"
-      }
-    },
-    "121": {
-      "number": 121,
-      "name": "Bid guarantees.",
-      "sub": {},
-      "text": {
-        "text": "The chief of the contracting office may waive the requirement to obtain a bid guarantee for emergency acquisitions when a performance bond or a performance bond and payment bond is required. (See 28.101-1(c).)"
-      }
-    },
-    "122": {
-      "number": 122,
-      "name": "Advance payments.",
-      "sub": {},
-      "text": {
-        "text": "Agencies may authorize advance payments to facilitate the national defense for actions taken under Public Law 85-804 (see subpart 50.1, Extraordinary Contractual Actions). These advance payments may be made at or after award of sealed bid contracts, as well as negotiated contracts. (See 32.405.)"
-      }
-    },
-    "123": {
-      "number": 123,
-      "name": "Assignment of claims.",
-      "sub": {},
-      "text": {
-        "text": "The use of the no-setoff provision may be appropriate to facilitate the national defense in the event of a national emergency or natural disaster. (See 32.803(d).)"
-      }
-    },
-    "124": {
-      "number": 124,
-      "name": "Electronic funds transfer.",
-      "sub": {},
-      "text": {
-        "text": "Electronic funds transfer payments may be waived for acquisitions to support unusual and compelling needs or emergency acquisitions. (See 32.1103(e).)"
-      }
-    },
-    "125": {
-      "number": 125,
-      "name": "Protest to GAO.",
-      "sub": {},
-      "text": {
-        "text": "When urgent and compelling circumstances exist, agency protest override procedures allow the head of the contracting activity to determine that the contracting process may continue after GAO has received a protest. (See 33.104(b) and (c).)"
-      }
-    },
-    "126": {
-      "number": 126,
-      "name": "Contractor rent-free use of Government property.",
-      "sub": {},
-      "text": {
-        "text": "Rental requirements do not apply to items of Government production and research property that are part of a general program approved by the Federal Emergency Management Agency and meet certain criteria. (See 45.301.)"
-      }
-    },
-    "127": {
-      "number": 127,
-      "name": "Extraordinary contractual actions.",
-      "sub": {},
-      "text": {
-        "text": "subpart 50.1 prescribes policies and procedures for entering into, amending, or modifying contracts in order to facilitate the national defense under the extraordinary emergency authority granted by Public Law 85-804 (50 U.S.C. 1431-1434). This includes—\n\n(a) Amending contracts without consideration (see 50.103-2(a));\n\n(b) Correcting or mitigating mistakes in a contract (see 50.103-2(b)); and\n\n(c) Formalizing informal commitments (See 50.103-2(c))."
-      }
-    },
-    "000": {
-      "number": 0,
+    "0": {
       "name": "Scope of part.",
-      "sub": {},
       "text": {
         "a": {
           "text": "This part identifies acquisition flexibilities that are available for emergency acquisitions. These flexibilities are specific techniques or procedures that may be used to streamline the standard acquisition process. This part includes—",
@@ -241,15 +23,204 @@
         "c": {
           "text": "Additional flexibilities may be authorized in an executive agency supplement to the FAR."
         }
-      }
+      },
+      "sub": {}
     },
-    "001": {
-      "number": 1,
+    "1": {
       "name": "Definition.",
-      "sub": {},
       "text": {
         "text": "“Emergency acquisition flexibilities”, as used in this part, means flexibilities provided with respect to any acquisition of supplies or services by or for an executive agency that, as determined by the head of an executive agency, may be used—\n\n(a) In support of a contingency operation as defined in 2.101;\n\n(b) To facilitate the defense against or recovery from nuclear, biological, chemical, or radiological attack against the United States; or\n\n(c) When the President issues an emergency declaration, or a major disaster declaration."
-      }
+      },
+      "sub": {}
+    },
+    "101": {
+      "name": "General.",
+      "text": {
+        "text": "The FAR includes many acquisition flexibilities that are available to the contracting officer when certain conditions are met. These acquisition flexibilities do not require an emergency declaration or designation of contingency operation."
+      },
+      "sub": {}
+    },
+    "102": {
+      "name": "System for Award Management.",
+      "text": {
+        "text": "Contractors are not required to be registered in the System for Award Management (SAM) database for contracts awarded to support unusual and compelling needs or emergency acquisitions. (See 4.1102). However, contractors are required to register with SAM in order to gain access to the Disaster Response Registry. Contracting officers shall consult the Disaster Response Registry via https://www.acquisition.gov to determine the availability of contractors for debris removal, distribution of supplies, reconstruction, and other disaster or emergency relief activities inside the United States and outlying areas. (See 26.205)."
+      },
+      "sub": {}
+    },
+    "103": {
+      "name": "Synopses of proposed contract actions.",
+      "text": {
+        "text": "Contracting officers need not submit a synopsis notice when there is an unusual and compelling urgency and the Government would be seriously injured if the agency complied with the notice time periods. (See 5.202(a)(2).)"
+      },
+      "sub": {}
+    },
+    "104": {
+      "name": "Unusual and compelling urgency.",
+      "text": {
+        "text": "Agencies may limit the number of sources and full and open competition need not be provided for contracting actions involving urgent requirements. (See 6.302-2.)"
+      },
+      "sub": {}
+    },
+    "105": {
+      "name": "Federal Supply Schedules (FSSs), multi-agency blanket purchase agreements (BPAs), and multi-agency indefinite delivery contracts.",
+      "text": {
+        "text": "Streamlined procedures and a broad range of goods and services may be available under Federal Supply Schedule contracts (see subpart 8.4), multi-agency BPAs (see 8.405-3(a)(6)), or multi-agency, indefinite-delivery contracts (see 16.505(a)(8)). These contracting methods may offer agency advance planning, pre-negotiated line items, and special terms and conditions that permit rapid response."
+      },
+      "sub": {}
+    },
+    "106": {
+      "name": "Acquisitions from Federal Prison Industries, Inc. (FPI).",
+      "text": {
+        "text": "Purchase from FPI is not mandatory and a waiver is not required if public exigency requires immediate delivery or performance (see 8.605(b))."
+      },
+      "sub": {}
+    },
+    "107": {
+      "name": "AbilityOne specification changes.",
+      "text": {
+        "text": "Contracting officers are not held to the notification required when changes in AbilityOne specifications or descriptions are required to meet emergency needs. (See 8.712(d).)"
+      },
+      "sub": {}
+    },
+    "108": {
+      "name": "Qualifications requirements.",
+      "text": {
+        "text": "Agencies may determine not to enforce qualification requirements when an emergency exists. (See 9.206-1.)"
+      },
+      "sub": {}
+    },
+    "109": {
+      "name": "Priorities and allocations.",
+      "text": {
+        "text": "The Defense Priorities and Allocations System (DPAS) supports approved national defense, emergency preparedness, and energy programs and was established to facilitate rapid industrial mobilization in case of a national emergency. (See subpart 11.6.)"
+      },
+      "sub": {}
+    },
+    "110": {
+      "name": "Soliciting from a single source.",
+      "text": {
+        "text": "For purchases not exceeding the simplified acquisition threshold, contracting officers may solicit from one source under certain circumstances. (See 13.106-1(b).)"
+      },
+      "sub": {}
+    },
+    "111": {
+      "name": "Oral requests for proposals.",
+      "text": {
+        "text": "Oral requests for proposals are authorized under certain conditions. (See 15.203(f).)"
+      },
+      "sub": {}
+    },
+    "112": {
+      "name": "Letter contracts.",
+      "text": {
+        "text": "Letter contracts may be used when contract performance must begin immediately. (See 16.603.)"
+      },
+      "sub": {}
+    },
+    "113": {
+      "name": "Interagency acquisitions.",
+      "text": {
+        "text": "Interagency acquisitions are authorized under certain conditions. (See subpart 17.5.)"
+      },
+      "sub": {}
+    },
+    "114": {
+      "name": "Contracting with the Small Business Administration (The 8(a) Program).",
+      "text": {
+        "text": "Contracts may be awarded to the Small Business Administration (SBA) for performance by eligible 8(a) participants on either a sole source or competitive basis. (See subpart 19.8.)"
+      },
+      "sub": {}
+    },
+    "115": {
+      "name": "HUBZone sole source awards.",
+      "text": {
+        "text": "Contracts may be awarded to Historically Underutilized Business Zone (HUBZone) small business concerns on a sole source basis. (See 19.1306.)"
+      },
+      "sub": {}
+    },
+    "116": {
+      "name": "Service-disabled Veteran-owned Small Business (SDVOSB) sole source awards.",
+      "text": {
+        "text": "Contracts may be awarded to Service-disabled Veteran-owned Small Business (SDVOSB) concerns on a sole source basis. (See 19.1406.)"
+      },
+      "sub": {}
+    },
+    "117": {
+      "name": "Awards to economically disadvantaged women-owned small business concerns and women-owned small business concerns eligible under the Women-Owned Small Business Program.",
+      "text": {
+        "text": "Contracts may be awarded to economically disadvantaged women-owned small business (EDWOSB) concerns and women-owned small business (WOSB) concerns eligible under the WOSB Program on a competitive or sole source basis. (See subpart 19.15.)"
+      },
+      "sub": {}
+    },
+    "118": {
+      "name": "Overtime approvals.",
+      "text": {
+        "text": "Overtime approvals may be retroactive if justified by emergency circumstances. (See 22.103-4(i).)"
+      },
+      "sub": {}
+    },
+    "119": {
+      "name": "Trade agreements.",
+      "text": {
+        "text": "The policies and procedures of FAR 25.4 may not apply to acquisitions not awarded under full and open competition (see 25.401(a)(5))."
+      },
+      "sub": {}
+    },
+    "120": {
+      "name": "Use of patented technology under the North American Free Trade Agreement.",
+      "text": {
+        "text": "Requirement to obtain authorization prior to use of patented technology may be waived in circumstances of extreme urgency or national emergency. (See 27.204-1.)"
+      },
+      "sub": {}
+    },
+    "121": {
+      "name": "Bid guarantees.",
+      "text": {
+        "text": "The chief of the contracting office may waive the requirement to obtain a bid guarantee for emergency acquisitions when a performance bond or a performance bond and payment bond is required. (See 28.101-1(c).)"
+      },
+      "sub": {}
+    },
+    "122": {
+      "name": "Advance payments.",
+      "text": {
+        "text": "Agencies may authorize advance payments to facilitate the national defense for actions taken under Public Law 85-804 (see subpart 50.1, Extraordinary Contractual Actions). These advance payments may be made at or after award of sealed bid contracts, as well as negotiated contracts. (See 32.405.)"
+      },
+      "sub": {}
+    },
+    "123": {
+      "name": "Assignment of claims.",
+      "text": {
+        "text": "The use of the no-setoff provision may be appropriate to facilitate the national defense in the event of a national emergency or natural disaster. (See 32.803(d).)"
+      },
+      "sub": {}
+    },
+    "124": {
+      "name": "Electronic funds transfer.",
+      "text": {
+        "text": "Electronic funds transfer payments may be waived for acquisitions to support unusual and compelling needs or emergency acquisitions. (See 32.1103(e).)"
+      },
+      "sub": {}
+    },
+    "125": {
+      "name": "Protest to GAO.",
+      "text": {
+        "text": "When urgent and compelling circumstances exist, agency protest override procedures allow the head of the contracting activity to determine that the contracting process may continue after GAO has received a protest. (See 33.104(b) and (c).)"
+      },
+      "sub": {}
+    },
+    "126": {
+      "name": "Contractor rent-free use of Government property.",
+      "text": {
+        "text": "Rental requirements do not apply to items of Government production and research property that are part of a general program approved by the Federal Emergency Management Agency and meet certain criteria. (See 45.301.)"
+      },
+      "sub": {}
+    },
+    "127": {
+      "name": "Extraordinary contractual actions.",
+      "text": {
+        "text": "subpart 50.1 prescribes policies and procedures for entering into, amending, or modifying contracts in order to facilitate the national defense under the extraordinary emergency authority granted by Public Law 85-804 (50 U.S.C. 1431-1434). This includes—\n\n(a) Amending contracts without consideration (see 50.103-2(a));\n\n(b) Correcting or mitigating mistakes in a contract (see 50.103-2(b)); and\n\n(c) Formalizing informal commitments (See 50.103-2(c))."
+      },
+      "sub": {}
     }
   }
 }

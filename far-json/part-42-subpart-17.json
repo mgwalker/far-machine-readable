@@ -4,9 +4,7 @@
   "name": "Forward Pricing Rate Agreements",
   "sub": {
     "1701": {
-      "number": 1701,
       "name": "Procedures.",
-      "sub": {},
       "text": {
         "a": {
           "text": "Negotiation of forward pricing rate agreements (FPRA’s) may be requested by the contracting officer or the contractor or initiated by the administrative contracting officer (ACO). In determining whether or not to establish such an agreement, the ACO should consider whether the benefits to be derived from the agreement are commensurate with the effort of establishing and monitoring it. Normally, FPRA’s should be negotiated only with contractors having a significant volume of Government contract proposals. The cognizant contract administration agency shall determine whether an FPRA will be established."
@@ -23,7 +21,8 @@
         "e": {
           "text": "The ACO may negotiate continuous updates to the FPRA. The FPRA will provide specific terms and conditions covering notification, application, and data requirements for systematic monitoring to ensure the validity of the rates."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }

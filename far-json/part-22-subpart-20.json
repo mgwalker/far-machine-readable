@@ -4,40 +4,38 @@
   "name": "Fair Pay and Safe Workplaces",
   "sub": {
     "2000": {
-      "number": 2000,
       "name": "Scope of subpart.",
-      "sub": {},
       "text": {
         "text": "This subpart prescribes policies and procedures to implement Executive Order (E.O.) 13673, Fair Pay and Safe Workplaces, dated July 31, 2014.\n\nNote to 22.2000:  By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
-      }
+      },
+      "sub": {}
     },
     "2001": {
-      "number": 2001,
       "name": "[Reserved]",
-      "sub": {},
       "text": {
         "text": ""
-      }
+      },
+      "sub": {}
     },
     "2002": {
-      "number": 2002,
       "name": "Definitions.",
-      "sub": {},
       "text": {
         "text": "As used in this subpart–\n\n“Administrative merits determination” means certain notices or findings of labor law violations issued by an enforcement agency following an investigation. An administrative merits determination may be final or be subject to appeal or further review. To determine whether a particular notice or finding is covered by this definition, it is necessary to consult section II.B. in the DOL Guidance.\n\n“Agency labor compliance advisor (ALCA)” means the senior official designated in accordance with E.O. 13673.  ALCAs are listed at www.dol.gov/fairpayandsafeworkplaces.\n\n“Arbitral award or decision” means an arbitrator or arbitral panel determination that a labor law violation occurred, or that enjoined or restrained a violation of labor law. It includes an award or decision that is not final or is subject to being confirmed, modified, or vacated by a court, and includes an award or decision resulting from private or confidential proceedings. To determine whether a particular award or decision is covered by this definition, it is necessary to consult section II.B. in the DOL Guidance.\n\n“Civil judgment” means any judgment or order entered by any Federal or State court in which the court determined that a labor law violation occurred, or enjoined or restrained a violation of labor law. It includes a judgment or order that is not final or is subject to appeal. To determine whether a particular judgment or order is covered by this definition, it is necessary to consult section II.B. in the DOL Guidance.\n\n“DOL Guidance” means the Department of Labor (DOL) Guidance entitled: “Guidance for Executive Order 13673, 'Fair Pay and Safe Workplaces’.” The DOL Guidance was initially published in the Federal Register on August 25, 2016, and significant revisions will be published for public comment in the Federal Register. The DOL Guidance and subsequent versions can be obtained from www.dol.gov/fairpayandsafeworkplaces.\n\n“Enforcement agency” means any agency granted authority to enforce the Federal labor laws. It includes the enforcement components of DOL (Wage and Hour Division, Office of Federal Contract Compliance Programs, and Occupational Safety and Health Administration), the Equal Employment Opportunity Commission, the Occupational Safety and Health Review Commission, and the National Labor Relations Board. It also means a State agency designated to administer an OSHA-approved State Plan, but only to the extent that the State agency is acting in its capacity as administrator of such plan. It does not include other Federal agencies which, in their capacity as contracting agencies, conduct investigations of potential labor law violations. The enforcement agencies associated with each labor law under E.O. 13673 are–\n\n(1) Department of Labor Wage and Hour Division (WHD) for–\n\n(i) The Fair Labor Standards Act;\n\n(ii) The Migrant and Seasonal Agricultural Worker Protection Act;\n\n(iii) 40 U.S.C. chapter 31, subchapter IV, formerly known as the Davis-Bacon Act;\n\n(iv) 41 U.S.C. chapter 67, formerly known as the Service Contract Act;\n\n(v) The Family and Medical Leave Act; and\n\n(vi) E.O. 13658 of February 12, 2014 (Establishing a Minimum Wage for Contractors);\n\n(2) Department of Labor Occupational Safety and Health Administration (OSHA) for–\n\n(i) The Occupational Safety and Health Act of 1970; and\n\n(ii) OSHA-approved State Plans;\n\n(3) Department of Labor Office of Federal Contract Compliance Programs (OFCCP) for–\n\n(i) Section 503 of the Rehabilitation Act of 1973;\n\n(ii) The Vietnam Era Veterans’ Readjustment Assistance Act of 1972 and the Vietnam Era Veterans’ Readjustment Assistance Act of 1974; and\n\n(iii) E.O. 11246 of September 24, 1965 (Equal Employment Opportunity);\n\n(4) National Labor Relations Board (NLRB) for the National Labor Relations Act; and\n\n(5) Equal Employment Opportunity Commission (EEOC) for–\n\n(i) Title VII of the Civil Rights Act of 1964;\n\n(ii) The Americans with Disabilities Act of 1990;\n\n(iii) The Age Discrimination in Employment Act of 1967; and\n\n(iv) Section 6(d) of the Fair Labor Standards Act (Equal Pay Act).\n\n“Labor compliance agreement” means an agreement entered into between a contractor or subcontractor and an enforcement agency to address appropriate remedial measures, compliance assistance, steps to resolve issues to increase compliance with the labor laws, or other related matters.\n\n“Labor laws” means the following labor laws and E.O.s:\n\n(1) The Fair Labor Standards Act.\n\n(2) The Occupational Safety and Health Act (OSHA) of 1970.\n\n(3) The Migrant and Seasonal Agricultural Worker Protection Act.\n\n(4) The National Labor Relations Act.\n\n(5) 40 U.S.C. chapter 31, subchapter IV, formerly known as the Davis-Bacon Act.\n\n(6) 41 U.S.C. chapter 67, formerly known as the Service Contract Act.\n\n(7) E.O. 11246 of September 24, 1965 (Equal Employment Opportunity).\n\n(8) Section 503 of the Rehabilitation Act of 1973.\n\n(9) The Vietnam Era Veterans’ Readjustment Assistance Act of 1972 and the Vietnam Era Veterans’ Readjustment Assistance Act of 1974.\n\n(10) The Family and Medical Leave Act.\n\n(11) Title VII of the Civil Rights Act of 1964.\n\n(12) The Americans with Disabilities Act of 1990.\n\n(13) The Age Discrimination in Employment Act of 1967.\n\n(14) E.O. 13658 of February 12, 2014 (Establishing a Minimum Wage for Contractors).\n\n(15) Equivalent State laws as defined in the DOL Guidance. (The only equivalent State laws implemented in the FAR are OSHA-approved State Plans, which can be found at www.osha.gov/dcsp/osp/approved_state_plans.html.)\n\n“Labor law decision” means an administrative merits determination, arbitral award or decision, or civil judgment, which resulted from a violation of one or more of the laws listed in the definition of “labor laws”.\n\n“Pervasive violations,” in the context of E.O. 13673, Fair Pay and Safe Workplaces, means labor law violations that bear on the assessment of a contractor’s integrity and business ethics because they reflect a basic disregard by the contractor for the labor laws, as demonstrated by a pattern of serious and/or willful violations, continuing violations, or numerous violations. To determine whether violations are pervasive it is necessary to consult the DOL Guidance section III.A.4. and associated Appendix D.\n\n“Repeated violation,” in the context of E.O. 13673, Fair Pay and Safe Workplaces, means a labor law violation that bears on the assessment of a contractor’s integrity and business ethics because the contractor had one or more additional labor law violations of the same or a substantially similar requirement within the prior 3 years. To determine whether a particular violation(s) is repeated it is necessary to consult the DOL Guidance section III.A.2. and associated Appendix B.\n\n“Serious violation,” in the context of E.O. 13673, Fair Pay and Safe Workplaces, means a labor law violation that bears on the assessment of a contractor’s integrity and business ethics because of the number of employees affected; the degree of risk imposed, or actual harm done by the violation; the amount of damages incurred or fines or penalties assessed; and/or other similar criteria. To determine whether a particular violation(s) is serious it is necessary to consult the DOL Guidance section III.A.1. and associated Appendix A.\n\n“Willful violation,” in the context of E.O. 13673, Fair Pay and Safe Workplaces, means a labor law violation that bears on the assessment of a contractor’s integrity and business ethics because the contractor acted with knowledge of, reckless disregard for, or plain indifference to the matter of whether its conduct was prohibited by one or more requirements of labor laws. To determine whether a particular violation(s) is willful it is necessary to consult the DOL Guidance section III.A.3. and associated Appendix C.\n\nNote to 22.2002:  By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
-      }
+      },
+      "sub": {}
     },
     "2003": {
-      "number": 2003,
       "name": "Policy.",
-      "sub": {},
       "text": {
         "text": "It is the policy of the Federal Government to promote economy and efficiency in procurement by awarding contracts to contractors that promote safe, healthy, fair, and effective workplaces through compliance with labor laws, and by promoting opportunities for contractors to do the same when awarding subcontracts. Contractors and subcontractors that consistently adhere to labor laws are more likely to have workplace practices that enhance productivity and increase the likelihood of timely, predictable, and satisfactory delivery of goods and services. This policy is supported by E.O. 13673, Fair Pay and Safe Workplaces.\n\nNote to 22.2003:  By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
-      }
+      },
+      "sub": {}
     },
     "2004": {
-      "number": 2004,
       "name": "Compliance with labor laws.",
+      "text": {
+        "text": ""
+      },
       "sub": {
         "1": {
           "name": "General.",
@@ -365,31 +363,24 @@
             }
           }
         }
-      },
-      "text": {
-        "text": ""
       }
     },
     "2005": {
-      "number": 2005,
       "name": "Paycheck transparency.",
-      "sub": {},
       "text": {
         "text": "E.O. 13673 requires contractors and subcontractors to provide, on contracts that exceed $500,000, and subcontracts that exceed $500,000 other than for commercially available off-the-shelf items–\n\n(a) A wage statement document (e.g., a pay stub) in every pay period to all individuals performing work under the contract or subcontract, for which the contractor or subcontractor is required to maintain wage records under the Fair Labor Standards Act (FLSA), Wage Rate Requirements (Construction) statute, or Service Contract Labor Standards statute.  The clause at 52.222-60 Paycheck Transparency (Executive Order 13673) requires certain content to be provided in the wage statement; and\n\n(b) A notice document to all individuals performing work under the contract or subcontract who are treated as independent contractors informing them of that status (see 52.222-60). The notice document must be provided either–\n\n(1) At the time the independent contractor relationship with the individual is established; or\n\n(2) Prior to the time that the individual begins to perform work on that Government contract or subcontract."
-      }
+      },
+      "sub": {}
     },
     "2006": {
-      "number": 2006,
       "name": "Arbitration of contractor employee claims.",
-      "sub": {},
       "text": {
         "text": "E.O. 13673 requires contractors, on contracts exceeding $1,000,000, to agree that the decision to arbitrate claims arising under title VII of the Civil Rights Act of 1964 or any tort related to or arising out of sexual assault or harassment, be made only with the voluntary consent of employees or independent contractors after such disputes arise, subject to certain exceptions. This flows down to subcontracts exceeding $1,000,000 other than for the acquisition of commercial items.\n\nNote to 22.2006: By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\n"
-      }
+      },
+      "sub": {}
     },
     "2007": {
-      "number": 2007,
       "name": "Solicitation provisions and contract clauses.",
-      "sub": {},
       "text": {
         "a": {
           "text": "The contracting officer shall insert the provision at 52.222-57, Representation Regarding Compliance with Labor Laws (Executive Order 13673), in solicitations that contain the clause at 52.222-59.\n\nNote to paragraph (a):  By a court order issued on October 24, 2016, this paragraph (a) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.",
@@ -423,7 +414,8 @@
         "e": {
           "text": ":  By a court order issued on October 24, 2016, this paragraph (e) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
         }
-      }
+      },
+      "sub": {}
     }
   }
 }
