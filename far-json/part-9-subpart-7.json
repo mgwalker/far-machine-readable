@@ -1,0 +1,50 @@
+{
+  "parentPart": 9,
+  "number": 7,
+  "name": "Defense Production Pools and Research and Development Pools",
+  "sub": {
+    "701": {
+      "number": 701,
+      "name": "Definition.",
+      "sub": {},
+      "text": {
+        "text": "“Pool,” as used in this subpart, means a group of concerns (see 19.001) that have—\n\n(1) Associated together in order to obtain and perform, jointly or in conjunction with each other, defense production or research and development contracts;\n\n(2) Entered into an agreement governing their organization, relationship, and procedures; and\n\n(3) Obtained approval of the agreement by either—\n\n(i) The Small Business Administration (SBA) under section 9 or 11 of the Small Business Act (15 U.S.C. 638 or 640) (see 13 CFR 125); or\n\n(ii) A designated official under Part V of Executive Order 10480, August 14, 1953 (18 FR 4939, August 20, 1953) and section 708 of the Defense Production Act of 1950 (50 U.S.C. App. 2158)."
+      }
+    },
+    "702": {
+      "number": 702,
+      "name": "Contracting with pools.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Except as specified in this subpart, a pool shall be treated the same as any other prospective or actual contractor."
+        },
+        "b": {
+          "text": "The contracting officer shall not award a contract to a pool unless the offer leading to the contract is submitted by the pool in its own name or by an individual pool member expressly stating that the offer is on behalf of the pool."
+        },
+        "c": {
+          "text": "Upon receipt of an offer submitted by a group representing that it is a pool, the contracting officer shall verify its approved status with the SBA District Office Director or other approving agency and document the contract file that the verification was made."
+        },
+        "d": {
+          "text": "Pools approved by the SBA under the Small Business Act are entitled to the preferences and privileges accorded to small business concerns. Approval under the Defense Production Act does not confer these preferences and privileges."
+        },
+        "e": {
+          "text": "Before awarding a contract to an unincorporated pool, the contracting officer shall require each pool member participating in the contract to furnish a certified copy of a power of attorney identifying the agent authorized to sign the offer or contract on that member’s behalf. The contracting officer shall attach a copy of each power of attorney to each signed copy of the contract retained by the Government."
+        }
+      }
+    },
+    "703": {
+      "number": 703,
+      "name": "Contracting with individual pool members.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Pool members may submit individual offers, independent of the pool. However, the contracting officer shall not consider an independent offer by a pool member if that pool member participates in a competing offer submitted by the pool."
+        },
+        "b": {
+          "text": "If a pool member submits an individual offer, independent of the pool, the contracting officer shall consider the pool agreement, along with other factors, in determining whether that pool member is a responsible prospective contractor under Subpart 9.1."
+        }
+      }
+    }
+  }
+}

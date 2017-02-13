@@ -1,0 +1,218 @@
+{
+  "parentPart": 25,
+  "number": 3,
+  "name": "Contracts Performed Outside the United States",
+  "sub": {
+    "301": {
+      "number": 301,
+      "name": "Contractor personnel in a designated operational area or supporting a diplomatic or consular mission outside the United States.",
+      "sub": {
+        "1": {
+          "name": "Scope.",
+          "text": {
+            "a": {
+              "text": "This section applies to contracts requiring contractor personnel to perform outside the United States—",
+              "sub": {
+                "1": {
+                  "text": "In a designated operational area during—",
+                  "sub": {
+                    "i": {
+                      "text": "Contingency operations;"
+                    },
+                    "ii": {
+                      "text": "Humanitarian or peacekeeping operations; or"
+                    },
+                    "iii": {
+                      "text": "Other military operations or military exercises, when designated by the combatant commander; or"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "When supporting a diplomatic or consular mission—"
+                },
+                "i": {
+                  "text": "That has been designated by the Department of State as a danger pay post (see http://aoprals.state.gov/Web920/danger_pay_all.asp); or"
+                },
+                "ii": {
+                  "text": "That the contracting officer determines is a post at which application of the clause at FAR 52.225-19, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States, is appropriate."
+                }
+              }
+            },
+            "b": {
+              "text": "Any of the types of operations listed in paragraph (a)(1) of this section may include stability operations such as—",
+              "sub": {
+                "1": {
+                  "text": "Establishment or maintenance of a safe and secure environment; or"
+                },
+                "2": {
+                  "text": "Provision of emergency infrastructure reconstruction, humanitarian relief, or essential governmental services (until feasible to transition to local government)."
+                }
+              }
+            },
+            "c": {
+              "text": "This section does not apply to personal services contracts (see FAR 37.104), unless specified otherwise in agency procedures."
+            }
+          }
+        },
+        "2": {
+          "name": "Government support.",
+          "text": {
+            "a": {
+              "text": "Generally, contractors are responsible for providing their own logistical and security support, including logistical and security support for their employees.  The agency shall provide logistical or security support only when the appropriate agency official, in accordance with agency guidance, determines that—",
+              "sub": {
+                "1": {
+                  "text": "Such Government support is available and is needed to ensure continuation of essential contractor services; and"
+                },
+                "2": {
+                  "text": "The contractor cannot obtain adequate support from other sources at a reasonable cost."
+                }
+              }
+            },
+            "b": {
+              "text": "The contracting officer shall specify in the contract, and in the solicitation if possible, the exact support to be provided, and whether this support is provided on a reimbursable basis, citing the authority for the reimbursement."
+            }
+          }
+        },
+        "3": {
+          "name": "Weapons.",
+          "text": {
+            "text": "The contracting officer shall follow agency procedures and the weapons policy established by the combatant commander or the  chief of mission when authorizing contractor personnel to carry weapons (see paragraph (i) of the clause at 52.225-19, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States)."
+          }
+        },
+        "4": {
+          "name": "Contract clause.",
+          "text": {
+            "text": "Insert the clause at 52.225-19, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States, in solicitations and contracts, other than personal service contracts with individuals, that will require contractor personnel to perform outside the United States—\n\n(a) In a designated operational area during—\n\n(1) Contingency operations;\n\n(2) Humanitarian or peacekeeping operations; or\n\n(3) Other military operations or military exercises, when designated by the combatant commander; or\n\n(b) When supporting a diplomatic or consular mission—\n\n(1) That has been designated by the Department of State as a danger pay post (see http://aoprals.state.gov/Web920/danger_pay_all.asp); or\n\n(2) That the contracting officer determines is a post at which application of the clause FAR 52.225-19, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States, is appropriate."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "Contractors performing private security functions outside the United States. ",
+      "sub": {
+        "1": {
+          "name": "Scope.",
+          "text": {
+            "text": "This section prescribes policy for implementing section 862 of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2008 (Pub. L. 110-181), as amended by section 853 of the NDAA for FY 2009 (Pub. L. 110-417), and sections 831 and 832 of the NDAA for FY 2011 (Pub. L. 111-383) (see 10 U.S.C. 2302 Note)."
+          }
+        },
+        "2": {
+          "name": "Definitions.",
+          "text": {
+            "text": "As used in this section—\n\n“Area of combat operations” means an area of operations designated as such by the Secretary of Defense when enhanced coordination of contractors performing private security functions working for Government agencies is required.\n\n“Other significant military operations” means activities, other than combat operations, as part of a contingency operation outside the United States that is carried out by United States Armed Forces in an uncontrolled or unpredictable high-threat environment where personnel performing security functions may be called upon to use deadly force (see 25.302-3(a)(2)).\n\n“Private security functions means” activities engaged in by a contractor, as follows—\n\n(1) Guarding of personnel, facilities, designated sites, or property of a Federal agency, the contractor or subcontractor, or a third party; or\n\n(2) Any other activity for which personnel are required to carry weapons in the performance of their duties in accordance with the terms of the contract."
+          }
+        },
+        "3": {
+          "name": "Applicability.",
+          "text": {
+            "1": {
+              "text": "Contracts entered into by elements of the intelligence community in support of intelligence activities; or"
+            },
+            "2": {
+              "text": "Temporary arrangements entered into on a non-DoD contract for the performance of private security functions by individual indigenous personnel not affiliated with a local or expatriate security company.  These temporary arrangements must still comply with local law."
+            },
+            "a": {
+              "text": "This section applies to contracts that require performance outside the United States–",
+              "sub": {
+                "1": {
+                  "text": "In an area of combat operations as designated by the Secretary of Defense; or"
+                },
+                "2": {
+                  "text": "In an area of other significant military operations as designated by the Secretary of Defense, and only upon agreement of the Secretary of Defense and the Secretary of State."
+                }
+              }
+            },
+            "b": {
+              "text": "These designations can be found at http://www.acq.osd.mil/dpap/pacc/cc/designated_areas_of_other_significant_military_operations.html and http://www.acq.osd.mil/dpap/pacc/cc/designated_areas_of_combat_operations.html."
+            },
+            "c": {
+              "text": "When the applicability requirements of this subsection are met, contractors and subcontractors must comply with 32 CFR part 159, whether the contract is for the performance of private security functions as a primary deliverable or the provision of private security functions is ancillary to the stated deliverables."
+            },
+            "d": {
+              "text": "The requirements of section 25.302 shall not apply to—"
+            }
+          }
+        },
+        "4": {
+          "name": "Policy.",
+          "text": {
+            "1": {
+              "text": "Geographic combatant commanders will provide DoD contractors performing private security functions with guidance and procedures for the operational environment in their area of responsibility; and"
+            },
+            "2": {
+              "text": "In a designated area of combat operations, or areas of other significant military operations, as designated by the Secretary of Defense and only upon agreement of the Secretary of Defense and the Secretary of State, the relevant Chief of Mission will provide implementing instructions for non-DoD contractors performing private security functions and their personnel consistent with the standards set forth by the geographic combatant commander.  In accordance with 32 CFR 159.4(c), the Chief of Mission has the option of instructing non-DoD contractors performing private security functions and their personnel to follow the guidance and procedures of the geographic combatant commander and/or a sub-unified commander or joint force commander where specifically authorized by the combatant commander to do so and notice of that authorization is provided to non-DoD agencies."
+            },
+            "a": {
+              "text": "General.",
+              "sub": {
+                "1": {
+                  "text": "The policy, responsibilities, procedures, accountability, training, equipping, and conduct of personnel performing private security functions in designated areas are addressed at 32 CFR part 159, entitled “Private Security Contractors Operating in Contingency Operations” Contractor responsibilities include ensuring that employees are aware of, and comply with, relevant orders, directives, and instructions; keeping appropriate personnel records; accounting for weapons; registering and identifying armored vehicles, helicopters, and other military vehicles; and reporting specified incidents in which personnel performing private security functions under a contract are involved."
+                },
+                "2": {
+                  "text": "In addition, contractors are required to fully cooperate with any Government-authorized investigation into incidents reported pursuant to paragraph (c)(3) of the clause at 52.225-26, Contractors Performing Private Security Functions Outside the United States, by providing access to employees performing private security functions and relevant information in the possession of the contractor regarding the incident concerned."
+                }
+              }
+            },
+            "b": {
+              "text": "Implementing guidance.  In accordance with 32 CFR part 159—"
+            }
+          }
+        },
+        "5": {
+          "name": "Remedies.",
+          "text": {
+            "a": {
+              "text": "In addition to other remedies available to the Government—",
+              "sub": {
+                "1": {
+                  "text": "The contracting officer may direct the contractor, at its own expense, to remove and replace any contractor or subcontractor personnel performing private security functions who fail to comply with or violate applicable requirements.  Such action may be taken at the Government's discretion without prejudice to its rights under any other contract provision, e.g., termination for default;"
+                },
+                "2": {
+                  "text": "The contracting officer shall include the contractor’s failure to comply with the requirements of this section in appropriate databases of past performance and consider any such failure in any responsibility determination or evaluation of past performance; and"
+                },
+                "3": {
+                  "text": "In the case of award-fee contracts, the contracting officer shall consider a contractor’s failure to comply with the requirements of this subsection in the evaluation of the contractor’s performance during the relevant evaluation period, and may treat such failure as a basis for reducing or denying award fees for such period or for recovering all or part of award fees previously paid for such period."
+                }
+              }
+            },
+            "b": {
+              "text": "If the performance failures are severe, prolonged, or repeated, the contracting officer shall refer the matter to the appropriate suspending and debarring official."
+            }
+          }
+        },
+        "6": {
+          "name": "Contract clause. ",
+          "text": {
+            "1": {
+              "text": "Contracts entered into by elements of the intelligence community in support of intelligence activities; or"
+            },
+            "2": {
+              "text": "Temporary arrangements entered into by non-DoD contractors for the performance of private security functions by individual indigenous personnel not affiliated with a local or expatriate security company."
+            },
+            "a": {
+              "text": "Use the clause at 52.225-26, Contractors Performing Private Security Functions Outside the United States, in solicitations and contracts for performance outside the United States in an area of–",
+              "sub": {
+                "1": {
+                  "text": "Combat operations, as designated by the Secretary of Defense; or"
+                },
+                "2": {
+                  "text": "Other significant military operations, as designated by the Secretary of Defense and only upon agreement of the Secretary of Defense and the Secretary of State."
+                }
+              }
+            },
+            "b": {
+              "text": "The clause is not required to be used for—"
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    }
+  }
+}

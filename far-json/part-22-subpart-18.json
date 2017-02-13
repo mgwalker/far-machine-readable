@@ -1,0 +1,92 @@
+{
+  "parentPart": 22,
+  "number": 18,
+  "name": "Employment Eligibility Verification",
+  "sub": {
+    "1800": {
+      "number": 1800,
+      "name": "Scope.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures requiring contractors to utilize the Department of Homeland Security (DHS), United States Citizenship and Immigration Service’s employment eligibility verification program (E-Verify) as the means for verifying employment eligibility of certain employees."
+      }
+    },
+    "1801": {
+      "number": 1801,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Commercially available off-the-shelf (COTS) item”—\n\n(1) Means any item of supply that is—\n\n(i) A commercial item (as defined in paragraph (1) of the definition at 2.101);\n\n(ii) Sold in substantial quantities in the commercial marketplace; and\n\n(iii) Offered to the Government, without modification, in the same form in which it is sold in the commercial marketplace; and\n\n(2) Does not include bulk cargo, as defined in 46 U.S.C. 40102(4), such as agricultural products and petroleum products.  Per 46 CFR 525.1 (c)(2), “bulk cargo” means cargo that is loaded and carried in bulk onboard ship without mark or count, in a loose unpackaged form, having homogenous characteristics.  Bulk cargo loaded into intermodal equipment, except LASH or Seabee barges, is subject to mark and count and, therefore, ceases to be bulk cargo.\n\n“Employee assigned to the contract” means an employee who was hired after November 6, 1986 (after November 27, 2009, in the Commonwealth of the Northern Mariana Islands), who is directly performing work, in the United States, under a contract that is required to include the clause prescribed at 22.1803. An employee is not considered to be directly performing work under a contract if the employee—\n\n(1) Normally performs support work, such as indirect or overhead functions; and\n\n(2) Does not perform any substantial duties applicable to the contract.\n\n“Subcontract” means any contract, as defined in 2.101, entered into by a subcontractor to furnish supplies or services for performance of a prime contract or a subcontract. It includes but is not limited to purchase orders, and changes and modifications to purchase orders.\n\n“Subcontractor” means any supplier, distributor, vendor, or firm that furnishes supplies or services to or for a prime contractor or another subcontractor.\n\n“United States”, as defined in 8 U.S.C. 1101(a)(38), means the 50 States, the District of Columbia, Puerto Rico, Guam, the Commonwealth of Northern Mariana Islands, and the U.S. Virgin Islands."
+      }
+    },
+    "1802": {
+      "number": 1802,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Statutes and Executive orders require employers to abide by the immigration laws of the United States and to employ in the United States only individuals who are eligible to work in the United States. The E-Verify program provides an Internet-based means of verifying employment eligibility of workers employed in the United States, but is not a substitute for any other employment eligibility verification requirements."
+        },
+        "b": {
+          "text": "Contracting officers shall include in solicitations and contracts, as prescribed at 22.1803, requirements that Federal contractors must—",
+          "sub": {
+            "1": {
+              "text": "Enroll as Federal contractors in E-Verify;"
+            },
+            "2": {
+              "text": "Use E-Verify to verify employment eligibility of all new hires working in the United States, except that the contractor may choose to verify only new hires assigned to the contract if the contractor is—",
+              "sub": {
+                "i": {
+                  "text": "An institution of higher education (as defined at 20 U.S.C. 1001(a));"
+                },
+                "ii": {
+                  "text": "A State or local government or the government of a Federally recognized Indian tribe; or"
+                },
+                "iii": {
+                  "text": "A surety performing under a takeover agreement entered into with a Federal agency pursuant to a performance bond;"
+                }
+              }
+            },
+            "3": {
+              "text": "Use E-Verify to verify employment eligibility of all employees assigned to the contract; and"
+            },
+            "4": {
+              "text": "Include these requirements, as required by the clause at 52.222-54, in subcontracts for—"
+            },
+            "i": {
+              "text": "Commercial or noncommercial services, except for commercial services that are part of the purchase of a COTS item (or an item that would be a COTS item, but for minor modifications), performed by the COTS provider, and are normally provided for that COTS item; and"
+            },
+            "ii": {
+              "text": "Construction."
+            }
+          }
+        },
+        "c": {
+          "text": "Contractors may elect to verify employment eligibility of all existing employees working in the United States who were hired after November 6, 1986 (after November 27, 2009, in the Commonwealth of the Northern Mariana Islands) instead of just those employees assigned to the contract.  The contractor is not required to verify employment eligibility of—",
+          "sub": {
+            "1": {
+              "text": "Employees who hold an active security clearance of confidential, secret, or top secret; or"
+            },
+            "2": {
+              "text": "Employees for whom background investigations have been completed and credentials issued pursuant to Homeland Security Presidential Directive (HSPD)-12."
+            }
+          }
+        },
+        "d": {
+          "text": "In exceptional cases, the head of the contracting activity may waive the E-Verify requirement for a contract or subcontract or a class of contracts or subcontracts, either temporarily or for the period of performance.  This waiver authority may not be delegated."
+        },
+        "e": {
+          "text": "DHS and the Social Security Administration (SSA) may terminate a contractor’s MOU and deny access to the E-Verify system in accordance with the terms of the MOU.  If DHS or SSA terminates a contractor’s MOU, the terminating agency must refer the contractor to a suspension or debarment official for possible suspension or debarment action.  During the period between termination of the MOU and a decision by the suspension or debarment official whether to suspend or debar, the contractor is excused from its obligations under paragraph (b) of the clause at 52.222-54.  If the contractor is suspended or debarred as a result of the MOU termination, the contractor is not eligible to participate in E-Verify during the period of its suspension or debarment.  If the suspension or debarment official determines not to suspend or debar the contractor, then the contractor must reenroll in E-Verify."
+        }
+      }
+    },
+    "1803": {
+      "number": 1803,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "Insert the clause at 52.222-54, Employment Eligibility Verification, in all solicitations and contracts that exceed the simplified acquisition threshold, except those that—\n\n(a) Are only for work that will be performed outside the United States;\n\n(b) Are for a period of performance of less than 120 days; or\n\n(c) Are only for—\n\n(1) Commercially available off-the-shelf items;\n\n(2) Items that would be COTS items, but for minor modifications (as defined at paragraph (3)(ii) of the definition of “commercial item” at 2.101);\n\n(3) Items that would be COTS items if they were not bulk cargo; or\n\n(4) Commercial services that are—\n\n(i) Part of the purchase of a COTS item (or an item that would be a COTS item, but for minor modifications);\n\n(ii) Performed by the COTS provider; and\n\n(iii) Are normally provided for that COTS item."
+      }
+    }
+  }
+}

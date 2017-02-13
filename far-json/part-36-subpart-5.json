@@ -1,0 +1,212 @@
+{
+  "parentPart": 36,
+  "number": 5,
+  "name": "Contract Clauses",
+  "sub": {
+    "500": {
+      "number": 500,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes clauses for insertion in solicitations and contracts for (a) construction and (b) dismantling, demolition, or removal of improvements contracts. Provisions and clauses prescribed elsewhere in the Federal Acquisition Regulation (FAR) shall also be used in such solicitations and contracts when the conditions specified in the prescriptions for the provisions and clauses are applicable."
+      }
+    },
+    "501": {
+      "number": 501,
+      "name": "Performance of work by the contractor.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "To assure adequate interest in and supervision of all work involved in larger projects, the contractor shall be required to perform a significant part of the contract work with its own forces. The contract shall express this requirement in terms of a percentage that reflects the minimum amount of work the contractor must perform with its own forces. This percentage is (1) as high as the contracting officer considers appropriate for the project, consistent with customary or necessary specialty subcontracting and the complexity and magnitude of the work, and (2) ordinarily not less than 12 percent unless a greater percentage is required by law or agency regulation. Specialties such as plumbing, heating, and electrical work are usually subcontracted, and should not normally be considered in establishing the amount of work required to be performed by the contractor."
+        },
+        "b": {
+          "text": "The contracting officer shall insert the clause at 52.236-1, Performance of Work by the Contractor, in solicitations and contracts, except those awarded pursuant to Subparts 19.5, 19.8, 19.13, 19.14, or 19.15 when a fixed-price construction contract is contemplated and the contract amount is expected to exceed $1.5 million. The contracting officer may insert the clause in solicitations and contracts when a fixed-price construction contract is contemplated and the contract amount is expected to be $1.5 million or less."
+        }
+      }
+    },
+    "502": {
+      "number": 502,
+      "name": "Differing site conditions.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-2, Differing Site Conditions, in solicitations and contracts when a fixed-price construction contract or a fixed-price dismantling, demolition, or removal of improvements contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold. The contracting officer may insert the clause in solicitations and contracts when a fixed-price construction or a fixed-price contract for dismantling, demolition, or removal of improvements is contemplated and the contract amount is expected to be at or below the simplified acquisition threshold."
+      }
+    },
+    "503": {
+      "number": 503,
+      "name": "Site investigation and conditions affecting the work.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-3, Site Investigation and Conditions Affecting the Work, in solicitations and contracts when a fixed-price construction contract or a fixed-price dismantling, demolition, or removal of improvements contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold. The contracting officer may insert the clause in solicitations and contracts when a fixed-price construction or a fixed-price contract for dismantling, demolition, or removal of improvements is contemplated and the contract amount is expected to be at or below the simplified acquisition threshold."
+      }
+    },
+    "504": {
+      "number": 504,
+      "name": "Physical data.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-4, Physical Data, in solicitations and contracts when a fixed-price construction contract is contemplated and physical data (e.g., test borings, hydrographic data, weather conditions data) will be furnished or made available to offerors."
+      }
+    },
+    "505": {
+      "number": 505,
+      "name": "Material and workmanship.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-5, Material and Workmanship, in solicitations and contracts for construction contracts."
+      }
+    },
+    "506": {
+      "number": 506,
+      "name": "Superintendence by the contractor.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-6, Superintendence by the Contractor, in solicitations and contracts when a fixed-price construction contract or a fixed-price dismantling, demolition, or removal of improvements contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold. The contracting officer may insert the clause in solicitations and contracts when a fixed-price construction or a fixed-price contract for dismantling, demolition, or removal of improvements is contemplated and the contract amount is expected to be at or below the simplified acquisition threshold."
+      }
+    },
+    "507": {
+      "number": 507,
+      "name": "Permits and responsibilities.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-7, Permits and Responsibilities, in solicitations and contracts when a fixed-price or cost-reimbursement construction contract or a fixed-price dismantling, demolition, or removal of improvements contract is contemplated."
+      }
+    },
+    "508": {
+      "number": 508,
+      "name": "Other contracts.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-8, Other Contracts, in solicitations and contracts when a fixed-price construction contract or a fixed-price dismantling, demolition, or removal of improvements contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold. The contracting officer may insert the clause in solicitations and contracts when a fixed-price construction or a fixed-price contract for dismantling, demolition, or removal of improvements is contemplated and the contract amount is expected to be at or below the simplified acquisition threshold."
+      }
+    },
+    "509": {
+      "number": 509,
+      "name": "Protection of existing vegetation, structures, equipment, utilities, and improvements.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-9, Protection of Existing Vegetation, Structures, Equipment, Utilities, and Improvements, in solicitations and contracts when a fixed-price construction contract or a fixed-price dismantling, demolition, or removal of improvements contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold. The contracting officer may insert the clause in solicitations and contracts when a fixed-price construction or a fixed-price contract for dismantling, demolition, or removal of improvements is contemplated and the contract amount is expected to be at or below the simplified acquisition threshold."
+      }
+    },
+    "510": {
+      "number": 510,
+      "name": "Operations and storage areas.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-10, Operations and Storage Areas, in solicitations and contracts when a fixed-price construction contract or a fixed-price dismantling, demolition, or removal of improvements contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold. The contracting officer may insert the clause in solicitations and contracts when a fixed-price construction or a fixed-price contract for dismantling, demolition, or removal of improvements is contemplated and the contract amount is expected to be at or below the simplified acquisition threshold."
+      }
+    },
+    "511": {
+      "number": 511,
+      "name": "Use and possession prior to completion.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-11, Use and Possession Prior to Completion, in solicitations and contracts when a fixed-price construction contract is contemplated and the contract award amount is expected to exceed the simplified acquisition threshold. This clause may be inserted in solicitations and contracts when the contract amount is expected to be at or below the simplified acquisition threshold."
+      }
+    },
+    "512": {
+      "number": 512,
+      "name": "Cleaning up.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-12, Cleaning Up, in solicitations and contracts when a fixed-price construction contract or a fixed-price dismantling, demolition, or removal of improvements contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold. The contracting officer may insert the clause in solicitations and contracts when a fixed-price construction or a fixed-price contract for dismantling, demolition, or removal of improvements is contemplated and the contract amount is expected to be at or below the simplified acquisition threshold."
+      }
+    },
+    "513": {
+      "number": 513,
+      "name": "Accident prevention.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer shall insert the clause at 52.236-13, Accident Prevention, in solicitations and contracts when a fixed-price construction contract or a fixed-price dismantling, demolition, or removal of improvements contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold. The contracting officer may insert the clause in solicitations and contracts when a fixed-price construction or a fixed-price contract for dismantling, demolition, or removal of improvements is contemplated and the contract amount is expected to be at or below the simplified acquisition threshold. If the contract will involve work of a long duration or hazardous nature, the contracting officer shall use the clause with its Alternate I."
+        },
+        "b": {
+          "text": "The contracting officer shall insert the clause or the clause with its Alternate I in solicitations and contracts when a contract for services to be performed at Government facilities (see 48 CFR Part 37) is contemplated, and technical representatives advise that special precautions are appropriate."
+        },
+        "c": {
+          "text": "The contracting officer should inform the Occupational Safety and Health Administration (OSHA), or other cognizant Federal, State, or local officials, of instances where the contractor has been notified to take immediate action to correct serious or imminent dangers."
+        }
+      }
+    },
+    "514": {
+      "number": 514,
+      "name": "Availability and use of utility services.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-14, Availability and Use of Utility Services, in solicitations and contracts when a fixed-price construction contract or a fixed-price dismantling, demolition, or removal of improvements contract is contemplated, the contract is to be performed on Government sites, and the contracting officer decides (a) that the existing utility system(s) is adequate for the needs of both the Government and the contractor, and (b) furnishing it is in the Government’s interest. When this clause is used, the contracting officer shall list the available utilities in the contract."
+      }
+    },
+    "515": {
+      "number": 515,
+      "name": "Schedules for construction contracts.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer may insert the clause at 52.236-15, Schedules for Construction Contracts, in solicitations and contracts when a fixed-price construction contract is contemplated, the contract amount is expected to exceed the simplified acquisition threshold, and the period of actual work performance exceeds 60 days. This clause may also be inserted in such solicitations and contracts when work performance is expected to last less than 60 days and an unusual situation exists that warrants imposition of the requirements. This clause should not be used in the same contract with clauses covering other management approaches for ensuring that a contractor makes adequate progress."
+      }
+    },
+    "516": {
+      "number": 516,
+      "name": "Quantity surveys.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer may insert the clause at 52.236-16, Quantity Surveys, in solicitations and contracts when a fixed-price construction contract providing for unit pricing of items and for payment based on quantity surveys is contemplated. If it is determined at a level above that of the contracting officer that it is impracticable for Government personnel to perform the original and final surveys, and the Government wishes the contractor to perform these surveys, the clause shall be used with its Alternate."
+      }
+    },
+    "517": {
+      "number": 517,
+      "name": "Layout of work.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-17, Layout of Work, in solicitations and contracts when a fixed-price construction contract is contemplated and use of this clause is appropriate due to a need for accurate work layout and for siting verification during work performance."
+      }
+    },
+    "518": {
+      "number": 518,
+      "name": "Work oversight in cost-reimbursement construction contracts.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-18, Work Oversight in Cost-Reimbursement Construction Contracts, in solicitations and contracts when a cost-reimbursement construction contract is contemplated."
+      }
+    },
+    "519": {
+      "number": 519,
+      "name": "Organization and direction of the work.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-19, Organization and Direction of the Work, in solicitations and contracts when a cost-reimbursement construction contract is contemplated."
+      }
+    },
+    "520": {
+      "number": 520,
+      "name": "Contracting by negotiation.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert in solicitations for construction the provision at 52.236-28, Preparation of Offers—Construction, when contracting by negotiation."
+      }
+    },
+    "521": {
+      "number": 521,
+      "name": "Specifications and drawings for construction.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.236-21, Specifications and Drawings for Construction, in solicitations and contracts when a fixed-price construction contract or a fixed-price dismantling, demolition, or removal of improvements contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold. The contracting officer may insert the clause in solicitations and contracts when a fixed-price construction or a fixed-price contract for dismantling, demolition, or removal of improvements is contemplated and the contract amount is expected to be at or below the simplified acquisition threshold. When the Government needs record drawings, the contracting officer shall—\n\n(a) Use the clause with its Alternate I, if reproducible shop drawings are needed; or\n\n(b) Use the clause with its Alternate II, if reproducible shop drawings are not needed."
+      }
+    },
+    "522": {
+      "number": 522,
+      "name": "Preconstruction conference.",
+      "sub": {},
+      "text": {
+        "text": "If the contracting officer determines it may be desirable to hold a preconstruction conference, the contracting officer shall insert a clause substantially the same as the clause at 52.236-26, Preconstruction Conference, in solicitations and fixed price contracts for construction or for dismantling, demolition or removal of improvements."
+      }
+    },
+    "523": {
+      "number": 523,
+      "name": "Site visit.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert a provision substantially the same as the provision at 52.236-27, Site Visit (Construction), in solicitations which include the clauses at 52.236-2, Differing Site Conditions, and 52.236-3, Site Investigations and Conditions Affecting the Work. Alternate I may be used when an organized site visit will be conducted."
+      }
+    }
+  }
+}

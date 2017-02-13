@@ -1,0 +1,419 @@
+{
+  "parentPart": 37,
+  "number": 1,
+  "name": "Service Contracts—General",
+  "sub": {
+    "101": {
+      "number": 101,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this part—\n\n“Adjusted hourly rate (including uncompensated overtime)” is the rate that results from multiplying the hourly rate for a 40-hour work week by 40, and then dividing by the proposed hours per week which includes uncompensated overtime hours over and above the standard 40-hour work week. For example, 45 hours proposed on a 40-hour work week basis at $20 per hour would be converted to an uncompensated overtime rate of $17.78 per hour ($20.00 x 40 / 45 = $17.78).\n\n“Child care services” means child protective services (including the investigation of child abuse and neglect reports), social services, health and mental health care, child (day) care, education (whether or not directly involved in teaching), foster care, residential care, recreational or rehabilitative programs, and detention, correctional, or treatment services.\n\n“Nonpersonal services contract” means a contract under which the personnel rendering the services are not subject, either by the contract’s terms or by the manner of its administration, to the supervision and control usually prevailing in relationships between the Government and its employees.\n\n“Service contract” means a contract that directly engages the time and effort of a contractor whose primary purpose is to perform an identifiable task rather than to furnish an end item of supply. A service contract may be either a nonpersonal or personal contract. It can also cover services performed by either professional or nonprofessional personnel whether on an individual or organizational basis. Some of the areas in which service contracts are found include the following:\n\n(1) Maintenance, overhaul, repair, servicing, rehabilitation, salvage, modernization, or modification of supplies, systems, or equipment.\n\n(2) Routine recurring maintenance of real property.\n\n(3) Housekeeping and base services.\n\n(4) Advisory and assistance services.\n\n(5) Operation of Government-owned equipment, real property, and systems.\n\n(6) Communications services.\n\n(7) Architect-Engineering (see subpart 36.6).\n\n(8) Transportation and related services (see Part 47).\n\n(9) Research and development (see Part 35).\n\n“Uncompensated overtime” means the hours worked without additional compensation in excess of an average of 40 hours per week by direct charge employees who are exempt from the Fair Labor Standards Act. Compensated personal absences such as holidays, vacations, and sick leave shall be included in the normal work week for purposes of computing uncompensated overtime hours."
+      }
+    },
+    "102": {
+      "number": 102,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Performance-based acquisition (see subpart 37.6) is the preferred method for acquiring services (Public Law 106-398, section 821). When acquiring services, including those acquired under supply contracts or orders, agencies must—",
+          "sub": {
+            "1": {
+              "text": "Use performance-based acquisition methods to the maximum extent practicable, except for—",
+              "sub": {
+                "i": {
+                  "text": "Architect-engineer services acquired in accordance with 40 U.S.C. 1101 et seq.;"
+                },
+                "ii": {
+                  "text": "Construction (see Part 36);"
+                },
+                "iii": {
+                  "text": "Utility services (see Part 41); or"
+                },
+                "iv": {
+                  "text": "Services that are incidental to supply purchases; and"
+                }
+              }
+            },
+            "2": {
+              "text": "Use the following order of precedence (Public Law 106-398, section 821(a));"
+            },
+            "i": {
+              "text": "A firm-fixed price performance-based contract or task order."
+            },
+            "ii": {
+              "text": "A performance-based contract or task order that is not firm-fixed price."
+            },
+            "iii": {
+              "text": "A contract or task order that is not performance-based."
+            }
+          }
+        },
+        "b": {
+          "text": "Agencies shall generally rely on the private sector for commercial services (see OMB Circular No. A-76, Performance of Commercial Activities and subpart 7.3)."
+        },
+        "c": {
+          "text": "Agencies shall not award a contract for the performance of an inherently governmental function (see subpart 7.5)."
+        },
+        "d": {
+          "text": "Non-personal service contracts are proper under general contracting authority."
+        },
+        "e": {
+          "text": "Agency program officials are responsible for accurately describing the need to be filled, or problem to be resolved, through service contracting in a manner that ensures full understanding and responsive performance by contractors and, in so doing, should obtain assistance from contracting officials, as needed. To the maximum extent practicable, the program officials shall describe the need to be filled using performance-based acquisition methods."
+        },
+        "f": {
+          "text": "Agencies shall establish effective management practices in accordance with Office of Federal Procurement Policy (OFPP) Policy Letter 93-1, Management Oversight of Service Contracting, to prevent fraud, waste, and abuse in service contracting."
+        },
+        "g": {
+          "text": "Services are to be obtained in the most cost-effective manner, without barriers to full and open competition, and free of any potential conflicts of interest."
+        },
+        "h": {
+          "text": "Agencies shall ensure that sufficiently trained and experienced officials are available within the agency to manage and oversee the contract administration function."
+        },
+        "i": {
+          "text": "Agencies shall ensure that service contracts that require the delivery, use, or furnishing of products are consistent with part 23."
+        }
+      }
+    },
+    "103": {
+      "number": 103,
+      "name": "Contracting officer responsibility.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer is responsible for ensuring that a proposed contract for services is proper. For this purpose the contracting officer shall—",
+          "sub": {
+            "1": {
+              "text": "Determine whether the proposed service is for a personal or nonpersonal services contract using the definitions at 2.101 and 37.101 and the guidelines in 37.104;"
+            },
+            "2": {
+              "text": "In doubtful cases, obtain the review of legal counsel; and"
+            },
+            "3": {
+              "text": "Document the file (except as provided in paragraph (b) of this section) with—"
+            },
+            "i": {
+              "text": "The opinion of legal counsel, if any,"
+            },
+            "ii": {
+              "text": "A memorandum of the facts and rationale supporting the conclusion that the contract does not violate the provisions in 37.104(b), and"
+            },
+            "iii": {
+              "text": "Any further documentation that the contracting agency may require."
+            }
+          }
+        },
+        "b": {
+          "text": "Nonpersonal services contracts are exempt from the requirements of paragraph (a)(3) of this section."
+        },
+        "c": {
+          "text": "Ensure that performance-based acquisition methods are used to the maximum extent practicable when acquiring services."
+        },
+        "d": {
+          "text": "Ensure that contracts for child care services include requirements for criminal history background checks on employees who will perform child care services under the contract in accordance with 42 U.S.C. 13041, as amended, and agency procedures."
+        },
+        "e": {
+          "text": "Ensure that service contractor reporting requirements are met in accordance with subpart 4.17, Service Contracts Inventory."
+        }
+      }
+    },
+    "104": {
+      "number": 104,
+      "name": "Personal services contracts.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "A personal services contract is characterized by the employer-employee relationship it creates between the Government and the contractor’s personnel. The Government is normally required to obtain its employees by direct hire under competitive appointment or other procedures required by the civil service laws. Obtaining personal services by contract, rather than by direct hire, circumvents those laws unless Congress has specifically authorized acquisition of the services by contract."
+        },
+        "b": {
+          "text": "Agencies shall not award personal services contracts unless specifically authorized by statute (e.g., 5 U.S.C.3109) to do so."
+        },
+        "c": {
+          "text": "(1) An employer-employee relationship under a service contract occurs when, as a result of (i) the contract’s terms or (ii) the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of a Government officer or employee. However, giving an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that converts an individual who is an independent contractor (such as a contractor employee) into a Government employee.",
+          "sub": {
+            "2": {
+              "text": "Each contract arrangement must be judged in the light of its own facts and circumstances, the key question always being: Will the Government exercise relatively continuous supervision and control over the contractor personnel performing the contract. The sporadic, unauthorized supervision of only one of a large number of contractor employees might reasonably be considered not relevant, while relatively continuous Government supervision of a substantial number of contractor employees would have to be taken strongly into account (see (d) of this section)."
+            }
+          }
+        },
+        "d": {
+          "text": "The following descriptive elements should be used as a guide in assessing whether or not a proposed contract is personal in nature:",
+          "sub": {
+            "1": {
+              "text": "Performance on site."
+            },
+            "2": {
+              "text": "Principal tools and equipment furnished by the Government."
+            },
+            "3": {
+              "text": "Services are applied directly to the integral effort of agencies or an organizational subpart in furtherance of assigned function or mission."
+            },
+            "4": {
+              "text": "Comparable services, meeting comparable needs, are performed in the same or similar agencies using civil service personnel."
+            },
+            "5": {
+              "text": "The need for the type of service provided can reasonably be expected to last beyond 1 year."
+            },
+            "6": {
+              "text": "The inherent nature of the service, or the manner in which it is provided, reasonably requires directly or indirectly, Government direction or supervision of contractor employees in order to—"
+            },
+            "i": {
+              "text": "Adequately protect the Government’s interest;"
+            },
+            "ii": {
+              "text": "Retain control of the function involved; or"
+            },
+            "iii": {
+              "text": "Retain full personal responsibility for the function supported in a duly authorized Federal officer or employee."
+            }
+          }
+        },
+        "e": {
+          "text": "When specific statutory authority for a personal service contract is cited, obtain the review and opinion of legal counsel."
+        },
+        "f": {
+          "text": "Personal services contracts for the services of individual experts or consultants are limited by the Classification Act. In addition, the Office of Personnel Management has established requirements which apply in acquiring the personal services of experts or consultants in this manner (e.g., benefits, taxes, conflicts of interest). Therefore, the contracting officer shall effect necessary coordination with the cognizant civilian personnel office."
+        }
+      }
+    },
+    "105": {
+      "number": 105,
+      "name": "Competition in service contracting.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Unless otherwise provided by statute, contracts for services shall be awarded through sealed bidding whenever the conditions in 6.401(a) are met, (except see 6.401(b))."
+        },
+        "b": {
+          "text": "The provisions of statute and Part 6 of this regulation requiring competition apply fully to service contracts. The method of contracting used to provide for competition may vary with the type of service being acquired and may not necessarily be limited to price competition."
+        }
+      }
+    },
+    "106": {
+      "number": 106,
+      "name": "Funding and term of service contracts.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "When contracts for services are funded by annual appropriations, the term of contracts so funded shall not extend beyond the end of the fiscal year of the appropriation except when authorized by law (see paragraph (b) of this section for certain service contracts, 32.703-2 for contracts conditioned upon availability of funds, and 32.703-3 for contracts crossing fiscal years)."
+        },
+        "b": {
+          "text": "The head of an executive agency, except NASA, may enter into a contract, exercise an option, or place an order under a contract for severable services for a period that begins in one fiscal year and ends in the next fiscal year if the period of the contract awarded, option exercised, or order placed does not exceed one year (10 U.S.C. 2410a and 41 U.S.C. 3902). Funds made available for a fiscal year may be obligated for the total amount of an action entered into under this authority."
+        },
+        "c": {
+          "text": "Agencies with statutory multiyear authority shall consider the use of this authority to encourage and promote economical business operations when acquiring services."
+        }
+      }
+    },
+    "107": {
+      "number": 107,
+      "name": "Service Contract Labor Standards.",
+      "sub": {},
+      "text": {
+        "text": "41 U.S.C. chapter 65, Service Contract Labor Standards, provides for minimum wages and fringe benefits as well as other conditions of work under certain types of service contracts. Whether or not the Service Contract Labor Standards statute applies to a specific service contract will be determined by the definitions and exceptions given in the Service Contract Labor Standards statute, or implementing regulations."
+      }
+    },
+    "108": {
+      "number": 108,
+      "name": "Small business Certificate of Competency.",
+      "sub": {},
+      "text": {
+        "text": "In those service contracts for which the Government requires the highest competence obtainable, as evidenced in a solicitation by a request for a technical/management proposal and a resultant technical evaluation and source selection, the small business Certificate of Competency procedures may not apply (see subpart 19.6)."
+      }
+    },
+    "109": {
+      "number": 109,
+      "name": "Services of quasi-military armed forces.",
+      "sub": {},
+      "text": {
+        "text": "Contracts with “Pinkerton Detective Agencies or similar organizations” are prohibited by 5 U.S.C. 3108. This prohibition applies only to contracts with organizations that offer quasi-military armed forces for hire, or with their employees, regardless of the contract’s character. An organization providing guard or protective services does not thereby become a “quasi-military armed force,” even though the guards are armed or the organization provides general investigative or detective services. (See 57 Comp. Gen. 524.)"
+      }
+    },
+    "110": {
+      "number": 110,
+      "name": "Solicitation provisions and contract clauses.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer shall insert the provision at 52.237-1, Site Visit, in solicitations for services to be per-formed on Government installations, unless the solicitation is for construction."
+        },
+        "b": {
+          "text": "The contracting officer shall insert the clause at 52.237-2, Protection of Government Buildings, Equipment, and Vegetation, in solicitations and contracts for services to be performed on Government installations, unless a construction contract is contemplated."
+        },
+        "c": {
+          "text": "The contracting officer may insert the clause at 52.237-3, Continuity of Services, in solicitations and contracts for services, when—",
+          "sub": {
+            "1": {
+              "text": "The services under the contract are considered vital to the Government and must be continued without interruption and when, upon contract expiration, a successor, either the Government or another contractor, may continue them; and"
+            },
+            "2": {
+              "text": "The Government anticipates difficulties during the transition from one contractor to another or to the Government. Examples of instances where use of the clause may be appropriate are services in remote locations or services requiring personnel with special security clearances."
+            }
+          }
+        },
+        "d": {
+          "text": "See 9.508 regarding the use of an appropriate provision and clause concerning the subject of conflict-of-interest, which may at times be significant in solicitations and contracts for services."
+        },
+        "e": {
+          "text": "The contracting officer shall also insert in solicitations and contracts for services the provisions and clauses prescribed elsewhere in 48 CFR Chapter 1, as appropriate for each acquisition, depending on the conditions that are applicable."
+        }
+      }
+    },
+    "111": {
+      "number": 111,
+      "name": "Extension of services.",
+      "sub": {},
+      "text": {
+        "text": "Award of contracts for recurring and continuing service requirements are often delayed due to circumstances beyond the control of contracting offices. Examples of circumstances causing such delays are bid protests and alleged mistakes in bid. In order to avoid negotiation of short extensions to existing contracts, the contracting officer may include an option clause (see 17.208(f)) in solicitations and contracts which will enable the Government to require continued performance of any services within the limits and at the rates specified in the contract. However, these rates may be adjusted only as a result of revisions to prevailing labor rates provided by the Secretary of Labor. The option provision may be exercised more than once, but the total extension of performance thereunder shall not exceed 6 months."
+      }
+    },
+    "112": {
+      "number": 112,
+      "name": "Government use of private sector temporaries.",
+      "sub": {},
+      "text": {
+        "text": "Contracting officers may enter into contracts with temporary help service firms for the brief or intermittent use of the skills of private sector temporaries. Services furnished by temporary help firms shall not be regarded or treated as personal services. These services shall not be used in lieu of regular recruitment under civil service laws or to displace a Federal employee. Acquisition of these services shall comply with the authority, criteria, and conditions of 5 CFR Part 300, Subpart E, Use of Private Sector Temporaries, and agency procedures."
+      }
+    },
+    "113": {
+      "number": 113,
+      "name": "Severance payments to foreign nationals.",
+      "sub": {
+        "1": {
+          "name": "Waiver of cost allowability limitations.",
+          "text": {
+            "1": {
+              "text": "Military banking contracts, which are covered by 10 U.S.C. 2324(e)(2); or"
+            },
+            "2": {
+              "text": "Severance payments made by a contractor to a foreign national employed by the contractor under a DoD service contract in the Republic of the Philippines, if the discontinuation of the foreign national is the result of the termination of basing rights of the United States military in the Republic of the Philippines (section 1351(b) of Public Law 102-484, 10 U.S.C. 1592, note)."
+            },
+            "a": {
+              "text": "The head of the agency may waive the 31.205-6(g)(6) cost allowability limitations on severance payments to foreign nationals for contracts that—",
+              "sub": {
+                "1": {
+                  "text": "Provide significant support services for—",
+                  "sub": {
+                    "i": {
+                      "text": "Members of the armed forces stationed or deployed outside the United States, or"
+                    },
+                    "ii": {
+                      "text": "Employees of an executive agency posted outside the United States; and"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "Will be performed in whole or in part outside the United States."
+                }
+              }
+            },
+            "b": {
+              "text": "Waivers can be granted only before contract award."
+            },
+            "c": {
+              "text": "Waivers cannot be granted for—"
+            }
+          }
+        },
+        "2": {
+          "name": "Solicitation provision and contract clause.",
+          "text": {
+            "a": {
+              "text": "Use the provision at 52.237-8, Restriction on Severance Payments to Foreign Nationals, in all solicitations that meet the criteria in 37.113-1(a), except for those excluded by 37.113-1(c)."
+            },
+            "b": {
+              "text": "When the head of an agency has granted a waiver pursuant to 37.113-1, use the clause at 52.237-9, Waiver of Limitation on Severance Payments to Foreign Nationals."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "114": {
+      "number": 114,
+      "name": "Special acquisition requirements.",
+      "sub": {},
+      "text": {
+        "text": "Contracts for services which require the contractor to provide advice, opinions, recommendations, ideas, reports, analyses, or other work products have the potential for influencing the authority, accountability, and responsibilities of Government officials. These contracts require special management attention to ensure that they do not result in performance of inherently governmental functions by the contractor and that Government officials properly exercise their authority. Agencies must ensure that—\n\n(a) A sufficient number of qualified Government employees are assigned to oversee contractor activities, especially those that involve support of Government policy or decision making. During performance of service contracts, the functions being performed shall not be changed or expanded to become inherently governmental.\n\n(b) A greater scrutiny and an appropriate enhanced degree of management oversight is exercised when contracting for functions that are not inherently governmental but closely support the performance of inherently governmental functions (see 7.503(c)).\n\n(c) All contractor personnel attending meetings, answering Government telephones, and working in other situations where their contractor status is not obvious to third parties are required to identify themselves as such to avoid creating an impression in the minds of members of the public or Congress that they are Government officials, unless, in the judgment of the agency, no harm can come from failing to identify themselves. They must also ensure that all documents or reports produced by contractors are suitably marked as contractor products or that contractor participation is appropriately disclosed."
+      }
+    },
+    "115": {
+      "number": 115,
+      "name": "Uncompensated overtime.",
+      "sub": {
+        "1": {
+          "name": "Scope.",
+          "text": {
+            "text": "The policies in this section are based on Section 834 of Public Law 101-510 (10 U.S.C. 2331)."
+          }
+        },
+        "2": {
+          "name": "General policy.",
+          "text": {
+            "a": {
+              "text": "Use of uncompensated overtime is not encouraged."
+            },
+            "b": {
+              "text": "When professional or technical services are acquired on the basis of the number of hours to be provided, rather than on the task to be performed, the solicitation shall require offerors to identify uncompensated overtime hours and the uncompensated overtime rate for direct charge Fair Labor Standards Act—exempt personnel included in their proposals and subcontractor proposals. This includes uncompensated overtime hours that are in indirect cost pools for personnel whose regular hours are normally charged direct."
+            },
+            "c": {
+              "text": "Contracting officers must ensure that the use of uncompensated overtime in contracts to acquire services on the basis of the number of hours provided will not degrade the level of technical expertise required to fulfill the Government’s requirements (see 15.305 for competitive negotiations and 15.404-1(d) for cost realism analysis). When acquiring these services, contracting officers must conduct a risk assessment and evaluate, for award on that basis, any proposals received that reflect factors such as—",
+              "sub": {
+                "1": {
+                  "text": "Unrealistically low labor rates or other costs that may result in quality or service shortfalls; and"
+                },
+                "2": {
+                  "text": "Unbalanced distribution of uncompensated overtime among skill levels and its use in key technical positions."
+                }
+              }
+            },
+            "d": {
+              "text": "Whenever there is uncompensated overtime, the adjusted hourly rate (including uncompensated overtime) (see definition at 37.101), rather than the hourly rate, shall be applied to all proposed hours, whether regular or overtime hours."
+            }
+          }
+        },
+        "3": {
+          "name": "Solicitation provision.",
+          "text": {
+            "text": "The contracting officer shall insert the provision at 52.237-10, Identification of Uncompensated Overtime, in all solicitations valued above the simplified acquisition threshold, for professional or technical services to be acquired on the basis of the number of hours to be provided."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "116": {
+      "number": 116,
+      "name": "Accepting and Dispensing of $1 Coin.",
+      "sub": {
+        "1": {
+          "name": "Presidential $1 Coin Act of 2005.",
+          "text": {
+            "text": "This section implements Section 104 of the Presidential $1 Coin Act of 2005 (31 U.S.C. 5112(p)(1)), which seeks to remove barriers to the circulation of $1 coins. Section 104 requires that business operations performed on Government premises provide for accepting and dispensing of existing and proposed $1 coins as part of operations on and after January 1, 2008. Pub. L. 110-147 amended 31 U.S.C. 5112(p)(1)(A) to allow an exception from the $1 coin dispensing capability requirement for those vending machines that do not receive currency denominations greater than $1."
+          }
+        },
+        "2": {
+          "name": "Contract clause.",
+          "text": {
+            "text": "Insert the clause at 52.237-11, Accepting and Dispensing of $1 Coin, in solicitations and contracts for the provision of services that involve business operations conducted in U.S. coins and currency, including vending machines, on any premises owned by the United States or under the control of any agency or instrumentality of the United States."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "000": {
+      "number": 0,
+      "name": "Scope of part.",
+      "sub": {},
+      "text": {
+        "text": "This part prescribes policy and procedures that are specific to the acquisition and management of services by contract. This part applies to all contracts and orders for services regardless of the contract type or kind of service being acquired. This part requires the use of performance-based acquisitions for services to the maximum extent practicable and prescribes policies and procedures for use of performance-based acquisition methods (see subpart 37.6). Additional guidance for research and development services is in Part 35; architect-engineering services is in Part 36; information technology is in Part 39; and transportation services is in Part 47. Parts 35, 36, 39, and 47 take precedence over this part in the event of inconsistencies. This part includes, but is not limited to, contracts for services to which 41 U.S.C. chapter 67, Service Contract Labor Standards, applies (see subpart 22.10)."
+      }
+    }
+  }
+}

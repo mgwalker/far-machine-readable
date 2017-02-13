@@ -1,0 +1,130 @@
+{
+  "parentPart": 51,
+  "number": 2,
+  "name": "Contractor Use of Interagency Fleet Management System (IFMS) Vehicles",
+  "sub": {
+    "200": {
+      "number": 200,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures for the use by contractors of interagency fleet management system (IFMS) vehicles and related services. In this subpart, the terms “contractors” and “contracts” include “subcontractors” and “subcontracts” (see 45.102)."
+      }
+    },
+    "201": {
+      "number": 201,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "If it is in the Government’s interest, the contracting officer may authorize cost-reimbursement contractors to obtain, for official purposes only, interagency fleet management system (IFMS) vehicles and related services, including—",
+          "sub": {
+            "1": {
+              "text": "Fuel and lubricants,"
+            },
+            "2": {
+              "text": "Vehicle inspection, maintenance, and repair,"
+            },
+            "3": {
+              "text": "Vehicle storage, and"
+            },
+            "4": {
+              "text": "Commercially rented vehicles for short-term use."
+            }
+          }
+        },
+        "b": {
+          "text": "Complete rebuilding of major components of contractor-owned or -leased equipment requires the approval of the contracting officer in each instance."
+        },
+        "c": {
+          "text": "Government contractors shall not be authorized to obtain interagency fleet management system (IFMS) vehicles and related services for use in performance of any contract other than a cost-reimbursement contract, except as otherwise specifically approved by the Administrator of the General Services Administration at the request of the agency involved."
+        }
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Authorization.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer may authorize a cost-reimbursement contractor to obtain interagency fleet management system (IFMS) vehicles and related services, if the contracting officer has—",
+          "sub": {
+            "1": {
+              "text": "Determined that the authorization will accomplish the agency’s contractual objectives and effect demonstrable economies;"
+            },
+            "2": {
+              "text": "Received evidence that the contractor has obtained motor vehicle liability insurance covering bodily injury and property damage, with limits of liability as required or approved by the agency, protecting the contractor and the Government against third-party claims arising from the ownership, maintenance, or use of an interagency fleet management system vehicle (IFMS);"
+            },
+            "3": {
+              "text": "Arranged for periodic checks to ensure that authorized contractors are using vehicles and related services exclusively under cost-reimbursement contracts;"
+            },
+            "4": {
+              "text": "Ensured that contractors shall establish and enforce suitable penalties for their employees who use or authorize the use of Government vehicles for other than performance of Government contracts (see 41 CFR 101-38.301-1);"
+            },
+            "5": {
+              "text": "Received a written statement that the contractor will assume, without the right of reimbursement from the Government, the cost or expense of any use of interagency fleet management vehicles (IFMS) and services not related to the performance of the contract; and"
+            },
+            "6": {
+              "text": "Considered any recommendations of the contractor."
+            }
+          }
+        },
+        "b": {
+          "text": "The authorization shall—",
+          "sub": {
+            "1": {
+              "text": "Be in writing;"
+            },
+            "2": {
+              "text": "Cite the contract number;"
+            },
+            "3": {
+              "text": "Specify any limitations on the authority, including its duration, and any other pertinent information; and"
+            },
+            "4": {
+              "text": "Instruct the contractor to comply with the applicable policies and procedures provided in this subpart."
+            }
+          }
+        },
+        "c": {
+          "text": "Authorizations to subcontractors shall be issued through, and with the approval of, the contractor."
+        },
+        "d": {
+          "text": "Contracting officers authorizing contractor use of interagency fleet management system (IFMS) vehicles and related services subject their agencies to the responsibilities and liabilities provided in 41 CFR 101-39.4 regarding accidents and claims."
+        }
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Means of obtaining service.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Authorized contractors shall submit requests for interagency fleet management system (IFMS) vehicles and related services in writing to the appropriate GSA regional Federal Supply Service Bureau, Attention: Regional fleet manager, except that requests for more than five vehicles shall be submitted to:\n\nGeneral Services Administration\n\nFBF\n\nWashington DC 20406,\n\nand not to the regions. Each request shall include the following:",
+          "sub": {
+            "text": "General Services Administration\n\nFBF\n\nWashington DC 20406,\n\nand not to the regions. Each request shall include the following:\n\n(1) Two copies of the agency authorization to obtain vehicles and related services from GSA.\n\n(2) The number of vehicles and related services required and period of use.\n\n(3) A list of the contractor’s employees who are authorized to request vehicles and related services.\n\n(4) A listing of the make, model, and serial numbers of contractor-owned or-leased equipment authorized to be serviced.\n\n(5) Billing instructions and address."
+          }
+        },
+        "b": {
+          "text": "Contractors requesting unusual quantities of vehicles should do so as far in advance as possible to facilitate availability."
+        }
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Use of interagency fleet management system (IFMS) vehicles and related services.",
+      "sub": {},
+      "text": {
+        "text": "Contractors authorized to use interagency fleet management system (IFMS) vehicles and related services shall comply with the requirements of 41 CFR 101-39 and 41 CFR 101-38.301-1 and the operator’s packet furnished with each vehicle. See 41 CFR 101-6.4 for additional guidance for home-to-work use of Government vehicles."
+      }
+    },
+    "205": {
+      "number": 205,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.251-2, Interagency Fleet Management System (IFMS) Vehicles and Related Services, in solicitations and contracts when a cost-reimbursement contract is contemplated and the contracting officer may authorize the contractor to use interagency fleet management system (IFMS) vehicles and related services."
+      }
+    }
+  }
+}

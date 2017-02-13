@@ -1,0 +1,187 @@
+{
+  "parentPart": 4,
+  "number": 7,
+  "name": "Contractor Records Retention",
+  "sub": {
+    "700": {
+      "number": 700,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart provides policies and procedures for retention of records by contractors to meet the records review requirements of the Government. In this subpart, the terms “contracts” and “contractors” include “subcontracts” and “subcontractors.”"
+      }
+    },
+    "701": {
+      "number": 701,
+      "name": "Purpose.",
+      "sub": {},
+      "text": {
+        "text": "The purpose of this subpart is to generally describe records retention requirements and to allow reductions in the retention period for specific classes of records under prescribed circumstances."
+      }
+    },
+    "702": {
+      "number": 702,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "This subpart applies to records generated under contracts that contain one of the following clauses:",
+          "sub": {
+            "1": {
+              "text": "Audit and Records—Sealed Bidding (52.214-26)."
+            },
+            "2": {
+              "text": "Audit and Records—Negotiation (52.215-2)."
+            }
+          }
+        },
+        "b": {
+          "text": "This subpart is not mandatory on Department of Energy contracts for which the Comptroller General allows alternative records retention periods. Apart from this exception, this subpart applies to record retention periods under contracts that are subject to Chapter 137, Title 10,U.S.C., or 40 U.S.C. 101, et seq."
+        }
+      }
+    },
+    "703": {
+      "number": 703,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Except as stated in 4.703(b), contractors shall make available records, which includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form, and other supporting evidence to satisfy contract negotiation, administration, and audit requirements of the contracting agencies and the Comptroller General for—",
+          "sub": {
+            "1": {
+              "text": "3 years after final payment or, for certain records;"
+            },
+            "2": {
+              "text": "The period specified in 4.705 through 4.705-3, whichever of these periods expires first."
+            }
+          }
+        },
+        "b": {
+          "text": "Contractors shall make available the foregoing records and supporting evidence for a longer period of time than is required in 4.703(a) if—",
+          "sub": {
+            "1": {
+              "text": "A retention period longer than that cited in 4.703(a) is specified in any contract clause; or"
+            },
+            "2": {
+              "text": "The contractor, for its own purposes, retains the foregoing records and supporting evidence for a longer period. Under this circumstance, the retention period shall be the period of the contractor’s retention or 3 years after final payment, whichever period expires first."
+            },
+            "3": {
+              "text": "The contractor does not meet the original due date for submission of final indirect cost rate proposals specified in paragraph (d)(2) of the clause at 52.216-7, Allowable Cost and Payment. Under these circumstances, the retention periods in 4.705 shall be automatically extended one day for each day the proposal is not submitted after the original due date."
+            }
+          }
+        },
+        "c": {
+          "text": "Nothing in this section shall be construed to preclude a contractor from duplicating or storing original records in electronic form unless they contain significant information not shown on the record copy. Original records need not be maintained or produced in an audit if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:",
+          "sub": {
+            "1": {
+              "text": "The contractor or subcontractor has established procedures to ensure that the imaging process preserves accurate images of the original records, including signatures and other written or graphic images, and that the imaging process is reliable and secure so as to maintain the integrity of the records."
+            },
+            "2": {
+              "text": "The contractor or subcontractor maintains an effective indexing system to permit timely and convenient access to the imaged records."
+            },
+            "3": {
+              "text": "The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems."
+            }
+          }
+        },
+        "d": {
+          "text": "If the information described in paragraph (a) of this section is maintained on a computer, contractors shall retain the computer data on a reliable medium for the time periods prescribed. Contractors may transfer computer data in machine readable form from one reliable computer medium to another. Contractors’ computer data retention and transfer procedures shall maintain the integrity, reliability, and security of the original computer data. Contractors shall also retain an audit trail describing the data transfer. For the record retention time periods prescribed, contractors shall not destroy, discard, delete, or write over such computer data."
+        }
+      }
+    },
+    "704": {
+      "number": 704,
+      "name": "Calculation of retention periods.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The retention periods in 4.705 are calculated from the end of the contractor’s fiscal year in which an entry is made charging or allocating a cost to a Government contract or subcontract. If a specific record contains a series of entries, the retention period is calculated from the end of the contractor’s fiscal year in which the final entry is made. The contractor should cut off the records in annual blocks and retain them for block disposal under the prescribed retention periods."
+        },
+        "b": {
+          "text": "When records generated during a prior contract are relied upon by a contractor for certified cost or pricing data in negotiating a succeeding contract, the prescribed periods shall run from the date of the succeeding contract."
+        },
+        "c": {
+          "text": "If two or more of the record categories described in 4.705 are interfiled and screening for disposal is not practical, the contractor shall retain the entire record series for the longest period prescribed for any category of records."
+        }
+      }
+    },
+    "705": {
+      "number": 705,
+      "name": "Specific retention periods.",
+      "sub": {
+        "1": {
+          "name": "Financial and cost accounting records.",
+          "text": {
+            "a": {
+              "text": "Accounts receivable invoices, adjustments to the accounts, invoice registers, carrier freight bills, shipping orders, and other documents which detail the material or services billed on the related invoices: Retain 4 years."
+            },
+            "b": {
+              "text": "Material, work order, or service order files, consisting of purchase requisitions or purchase orders for material or services, or orders for transfer of material or supplies: Retain 4 years."
+            },
+            "c": {
+              "text": "Cash advance recapitulations, prepared as posting entries to accounts receivable ledgers for amounts of expense vouchers prepared for employees’ travel and related expenses: Retain 4 years."
+            },
+            "d": {
+              "text": "Paid, canceled, and voided checks, other than those issued for the payment of salary and wages: Retain 4 years."
+            },
+            "e": {
+              "text": "Accounts payable records to support disbursements of funds for materials, equipment, supplies, and services, containing originals or copies of the following and related documents: remittance advices and statements, vendors’ invoices, invoice audits and distribution slips, receiving and inspection reports or comparable certifications of receipt and inspection of material or services, and debit and credit memoranda: Retain 4 years."
+            },
+            "f": {
+              "text": "Labor cost distribution cards or equivalent documents: Retain 2 years."
+            },
+            "g": {
+              "text": "Petty cash records showing description of expenditures, to whom paid, name of person authorizing payment, and date, including copies of vouchers and other supporting documents: Retain 2 years."
+            }
+          }
+        },
+        "2": {
+          "name": "Pay administration records.",
+          "text": {
+            "a": {
+              "text": "Payroll sheets, registers, or their equivalent, of salaries and wages paid to individual employees for each payroll period; change slips; and tax withholding statements: Retain 4 years."
+            },
+            "b": {
+              "text": "Clock cards or other time and attendance cards: Retain 2 years."
+            },
+            "c": {
+              "text": "Paid checks, receipts for wages paid in cash, or other evidence of payments for services rendered by employees: Retain 2 years."
+            }
+          }
+        },
+        "3": {
+          "name": "Acquisition and supply records.",
+          "text": {
+            "a": {
+              "text": "Store requisitions for materials, supplies, equipment, and services: Retain 2 years."
+            },
+            "b": {
+              "text": "Work orders for maintenance and other services: Retain 4 years."
+            },
+            "c": {
+              "text": "Equipment records, consisting of equipment usage and status reports and equipment repair orders: Retain 4 years."
+            },
+            "d": {
+              "text": "Expendable property records, reflecting accountability for the receipt and use of material in the performance of a contract: Retain 4 years."
+            },
+            "e": {
+              "text": "Receiving and inspection report records, consisting of reports reflecting receipt and inspection of supplies, equipment, and materials: Retain 4 years."
+            },
+            "f": {
+              "text": "Purchase order files for supplies, equipment, material, or services used in the performance of a contract; supporting documentation and backup files including, but not limited to, invoices, and memoranda; e.g., memoranda of negotiations showing the principal elements of subcontract price negotiations (see 52.244-2): Retain 4 years."
+            },
+            "g": {
+              "text": "Production records of quality control, reliability, and inspection: Retain 4 years."
+            },
+            "h": {
+              "text": "Property records (see FAR 45.101 and 52.245-1): Retain 4 years."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": "The contractor shall retain the records identified in 4.705-1 through 4.705-3 for the periods designated, provided retention is required under 4.702. Records are identified in this subpart in terms of their purpose or use and not by specific name or form number. Although the descriptive identifications may not conform to normal contractor usage or filing practices, these identifications apply to all contractor records that come within the description."
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "parentPart": 37,
+  "number": 3,
+  "name": "Dismantling, Demolition, or Removal of Improvements",
+  "sub": {
+    "300": {
+      "number": 300,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes procedures for contracting for dismantling or demolition of buildings, ground improvements and other real property structures and for the removal of such structures or portions of them (hereafter referred to as “dismantling, demolition, or removal of improvements”)."
+      }
+    },
+    "301": {
+      "number": 301,
+      "name": "Labor standards.",
+      "sub": {},
+      "text": {
+        "text": "Contracts for dismantling, demolition, or removal of improvements are subject to either 41 U.S.C. chapter 67, Service Contract Labor Standards, or 40 U.S.C. chapter 31, subchapter IV, Wage Rate Requirements (Construction).  If the contract is solely for dismantling, demolition, or removal of improvements, the Service Contract Labor Standards statute applies unless further work which will result in the construction, alteration, or repair of a public building or public work at that location is contemplated.  If such further construction work is intended, even though by separate contract, then the Construction Wage Rate Requirements statute applies to the contract for dismantling, demolition, or removal."
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "Bonds or other security.",
+      "sub": {},
+      "text": {
+        "text": "When a contract is solely for dismantling, demolition, or removal of improvements, 40 U.S.C. chapter 31, subchapter III, Bonds, (see 28.102) does not apply. However, the contracting officer may require the contractor to furnish a performance bond or other security (see 28.103) in an amount that the contracting officer considers adequate to—\n\n(a) Ensure completion of the work;\n\n(b) Protect property to be retained by the Government;\n\n(c) Protect property to be provided as compensation to the contractor; and\n\n(d) Protect the Government against damage to adjoining property."
+      }
+    },
+    "303": {
+      "number": 303,
+      "name": "Payments.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contract may provide that the—",
+          "sub": {
+            "1": {
+              "text": "Government pay the contractor for the dismantling or demolition of structures; or"
+            },
+            "2": {
+              "text": "Contractor pay the Government for the right to salvage and remove the materials resulting from the dismantling or demolition operation."
+            }
+          }
+        },
+        "b": {
+          "text": "The contracting officer shall consider the usefulness to the Government of all salvageable property. Any of the property that is more useful to the Government than its value as salvage to the contractor should be expressly designated in the contract for retention by the Government. The contracting officer shall determine the fair market value of any property not so designated, since the contractor will get title to this property, and its value will therefore be important in determining what payment, if any, shall be made to the contractor and whether additional compensation will be made if the contract is terminated."
+        }
+      }
+    },
+    "304": {
+      "number": 304,
+      "name": "Contract clauses.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer shall insert the clause at 52.237-4, Payment by Government to Contractor, in solicitations and contracts solely for dismantling, demolition, or removal of improvements whenever the contracting officer determines that the Government shall make payment to the contractor in addition to any title to property that the contractor may receive under the contract. If the contracting officer determines that all material resulting from the dismantling or demolition work is to be retained by the Government, use the basic clause with its Alternate I."
+        },
+        "b": {
+          "text": "The contracting officer shall insert the clause at 52.237-5, Payment by Contractor to Government in solicitations and contracts for dismantling, demolition, or removal of improvements whenever the contractor is to receive title to dismantled or demolished property and a net amount of compensation is due to the Government, except if the contracting officer determines that it would be advantageous to the Government for the contractor to pay in increments and the Government to transfer title to the contractor for increments of property only upon receipt of those payments."
+        },
+        "c": {
+          "text": "The contracting officer shall insert the clause at 52.237-6, Incremental Payment by Contractor to Government, in solicitations and contracts for dismantling, demolition, or removal of improvements if (l) the contractor is to receive title to dismantled or demolished property and a net amount of compensation is due the Government, and (2) the contracting officer determines that it would be advantageous to the Government for the contractor to pay in increments, and for the Government to transfer title to the contractor for increments of property only upon receipt of those payments. This determination may be appropriate, for example, if it encourages greater competition or participation of small business concerns."
+        }
+      }
+    }
+  }
+}

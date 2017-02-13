@@ -1,0 +1,279 @@
+{
+  "parentPart": 9,
+  "number": 5,
+  "name": "Organizational and Consultant Conflicts of Interest",
+  "sub": {
+    "500": {
+      "number": 500,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart—\n\n(a) Prescribes responsibilities, general rules, and procedures for identifying, evaluating, and resolving organizational conflicts of interest;\n\n(b) Provides examples to assist contracting officers in applying these rules and procedures to individual contracting situations; and\n\n(c) Implements section 8141 of the 1989 Department of Defense Appropriation Act, Pub. L. 100-463, 102 Stat. 2270-47 (1988)."
+      }
+    },
+    "501": {
+      "number": 501,
+      "name": "Definition.",
+      "sub": {},
+      "text": {
+        "text": "“Marketing consultant,” as used in this subpart, means any independent contractor who furnishes advice, information, direction, or assistance to an offeror or any other contractor in support of the preparation or submission of an offer for a Government contract by that offeror. An independent contractor is not a marketing consultant when rendering—\n\n(1) Services excluded in Subpart 37.2;\n\n(2) Routine engineering and technical services (such as installation, operation, or maintenance of systems, equipment, software, components, or facilities);\n\n(3) Routine legal, actuarial, auditing, and accounting services; and\n\n(4) Training services."
+      }
+    },
+    "502": {
+      "number": 502,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "This subpart applies to contracts with either profit or nonprofit organizations, including nonprofit organizations created largely or wholly with Government funds."
+        },
+        "b": {
+          "text": "The applicability of this subpart is not limited to any particular kind of acquisition. However, organizational conflicts of interest are more likely to occur in contracts involving—",
+          "sub": {
+            "1": {
+              "text": "Management support services;"
+            },
+            "2": {
+              "text": "Consultant or other professional services;"
+            },
+            "3": {
+              "text": "Contractor performance of or assistance in technical evaluations; or"
+            },
+            "4": {
+              "text": "Systems engineering and technical direction work performed by a contractor that does not have overall contractual responsibility for development or production."
+            }
+          }
+        },
+        "c": {
+          "text": "An organizational conflict of interest may result when factors create an actual or potential conflict of interest on an instant contract, or when the nature of the work to be performed on the instant contract creates an actual or potential conflict of interest on a future acquisition. In the latter case, some restrictions on future activities of the contractor may be required."
+        },
+        "d": {
+          "text": "Acquisitions subject to unique agency organizational conflict of interest statutes are excluded from the requirements of this subpart."
+        }
+      }
+    },
+    "503": {
+      "number": 503,
+      "name": "Waiver.",
+      "sub": {},
+      "text": {
+        "text": "The agency head or a designee may waive any general rule or procedure of this subpart by determining that its application in a particular situation would not be in the Government’s interest. Any request for waiver must be in writing, shall set forth the extent of the conflict, and requires approval by the agency head or a designee. Agency heads shall not delegate waiver authority below the level of head of a contracting activity."
+      }
+    },
+    "504": {
+      "number": 504,
+      "name": "Contracting officer responsibilities.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Using the general rules, procedures, and examples in this subpart, contracting officers shall analyze planned acquisitions in order to—",
+          "sub": {
+            "1": {
+              "text": "Identify and evaluate potential organizational conflicts of interest as early in the acquisition process as possible; and"
+            },
+            "2": {
+              "text": "Avoid, neutralize, or mitigate significant potential conflicts before contract award."
+            }
+          }
+        },
+        "b": {
+          "text": "Contracting officers should obtain the advice of counsel and the assistance of appropriate technical specialists in evaluating potential conflicts and in developing any necessary solicitation provisions and contract clauses (see 9.506)."
+        },
+        "c": {
+          "text": "Before issuing a solicitation for a contract that may involve a significant potential conflict, the contracting officer shall recommend to the head of the contracting activity a course of action for resolving the conflict (see 9.506)."
+        },
+        "d": {
+          "text": "In fulfilling their responsibilities for identifying and resolving potential conflicts, contracting officers should avoid creating unnecessary delays, burdensome information requirements, and excessive documentation. The contracting officer’s judgment need be formally documented only when a substantive issue concerning potential organizational conflict of interest exists."
+        },
+        "e": {
+          "text": "The contracting officer shall award the contract to the apparent successful offeror unless a conflict of interest is determined to exist that cannot be avoided or mitigated. Before determining to withhold award based on conflict of interest considerations, the contracting officer shall notify the contractor, provide the reasons therefor, and allow the contractor a reasonable opportunity to respond. If the contracting officer finds that it is in the best interest of the United States to award the contract notwithstanding a conflict of interest, a request for waiver shall be submitted in accordance with 9.503. The waiver request and decision shall be included in the contract file."
+        }
+      }
+    },
+    "505": {
+      "number": 505,
+      "name": "General rules.",
+      "sub": {
+        "1": {
+          "name": "Providing systems engineering and technical direction.",
+          "text": {
+            "a": {
+              "text": "A contractor that provides systems engineering and technical direction for a system but does not have overall contractual responsibility for its development, its integration, assembly, and checkout, or its production shall not—",
+              "sub": {
+                "1": {
+                  "text": "Be awarded a contract to supply the system or any of its major components; or"
+                },
+                "2": {
+                  "text": "Be a subcontractor or consultant to a supplier of the system or any of its major components."
+                }
+              }
+            },
+            "b": {
+              "text": "Systems engineering includes a combination of substantially all of the following activities: determining specifications, identifying and resolving interface problems, developing test requirements, evaluating test data, and supervising design. Technical direction includes a combination of substantially all of the following activities: developing work statements, determining parameters, directing other contractors’ operations, and resolving technical controversies. In performing these activities, a contractor occupies a highly influential and responsible position in determining a system’s basic concepts and supervising their execution by other contractors. Therefore this contractor should not be in a position to make decisions favoring its own products or capabilities."
+            }
+          }
+        },
+        "2": {
+          "name": "Preparing specifications or work statements.",
+          "text": {
+            "2": {
+              "text": "Agencies should normally prepare their own work statements. When contractor assistance is necessary, the contractor might often be in a position to favor its own products or capabilities. To overcome the possibility of bias, contractors are prohibited from supplying a system or services acquired on the basis of work statements growing out of their services, unless excepted in paragraph (b)(1) of this section."
+            },
+            "3": {
+              "text": "For the reasons given in 9.505-2(a)(3), no prohibitions are imposed on development and design contractors."
+            },
+            "a": {
+              "text": "(1) If a contractor prepares and furnishes complete specifications covering nondevelopmental items, to be used in a competitive acquisition, that contractor shall not be allowed to furnish these items, either as a prime contractor or as a subcontractor, for a reasonable period of time including, at least, the duration of the initial production contract. This rule shall not apply to—",
+              "sub": {
+                "2": {
+                  "text": "If a single contractor drafts complete specifications for nondevelopmental equipment, it should be eliminated for a reasonable time from competition for production based on the specifications. This should be done in order to avoid a situation in which the contractor could draft specifications favoring its own products or capabilities. In this way the Government can be assured of getting unbiased advice as to the content of the specifications and can avoid allegations of favoritism in the award of production contracts."
+                },
+                "3": {
+                  "text": "In development work, it is normal to select firms that have done the most advanced work in the field. These firms can be expected to design and develop around their own prior knowledge. Development contractors can frequently start production earlier and more knowledgeably than firms that did not participate in the development, and this can affect the time and quality of production, both of which are important to the Government. In many instances the Government may have financed the development. Thus, while the development contractor has a competitive advantage, it is an unavoidable one that is not considered unfair; hence no prohibition should be imposed."
+                },
+                "i": {
+                  "text": "Contractors that furnish at Government request specifications or data regarding a product they provide, even though the specifications or data may have been paid for separately or in the price of the product; or"
+                },
+                "ii": {
+                  "text": "Situations in which contractors, acting as industry representatives, help Government agencies prepare, refine, or coordinate specifications, regardless of source, provided this assistance is supervised and controlled by Government representatives."
+                }
+              }
+            },
+            "b": {
+              "text": "(1) If a contractor prepares, or assists in preparing, a work statement to be used in competitively acquiring a system or services—or provides material leading directly, predictably, and without delay to such a work statement—that contractor may not supply the system, major components of the system, or the services unless—"
+            },
+            "i": {
+              "text": "It is the sole source;"
+            },
+            "ii": {
+              "text": "It has participated in the development and design work; or"
+            },
+            "iii": {
+              "text": "More than one contractor has been involved in preparing the work statement."
+            }
+          }
+        },
+        "3": {
+          "name": "Providing evaluation services.",
+          "text": {
+            "text": "Contracts for the evaluation of offers for products or services shall not be awarded to a contractor that will evaluate its own offers for products or services, or those of a competitor, without proper safeguards to ensure objectivity to protect the Government’s interests."
+          }
+        },
+        "4": {
+          "name": "Obtaining access to proprietary information.",
+          "text": {
+            "a": {
+              "text": "When a contractor requires proprietary information from others to perform a Government contract and can use the leverage of the contract to obtain it, the contractor may gain an unfair competitive advantage unless restrictions are imposed. These restrictions protect the information and encourage companies to provide it when necessary for contract performance. They are not intended to protect information—",
+              "sub": {
+                "1": {
+                  "text": "Furnished voluntarily without limitations on its use; or"
+                },
+                "2": {
+                  "text": "Available to the Government or contractor from other sources without restriction."
+                }
+              }
+            },
+            "b": {
+              "text": "A contractor that gains access to proprietary information of other companies in performing advisory and assistance services for the Government must agree with the other companies to protect their information from unauthorized use or disclosure for as long as it remains proprietary and refrain from using the information for any purpose other than that for which it was furnished. The contracting officer shall obtain copies of these agreements and ensure that they are properly executed."
+            },
+            "c": {
+              "text": "Contractors also obtain proprietary and source selection information by acquiring the services of marketing consultants which, if used in connection with an acquisition, may give the contractor an unfair competitive advantage. Contractors should make inquiries of marketing consultants to ensure that the marketing consultant has provided no unfair competitive advantage."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": "The general rules in 9.505-1 through 9.505-4 prescribe limitations on contracting as the means of avoiding, neutralizing, or mitigating organizational conflicts of interest that might otherwise exist in the stated situations. Some illustrative examples are provided in 9.508. Conflicts may arise in situations not expressly covered in this section 9.505 or in the examples in 9.508. Each individual contracting situation should be examined on the basis of its particular facts and the nature of the proposed contract. The exercise of common sense, good judgment, and sound discretion is required in both the decision on whether a significant potential conflict exists and, if it does, the development of an appropriate means for resolving it. The two underlying principles are—\n\n(a) Preventing the existence of conflicting roles that might bias a contractor’s judgment; and\n\n(b) Preventing unfair competitive advantage. In addition to the other situations described in this subpart, an unfair competitive advantage exists where a contractor competing for award of any Federal contract possesses—\n\n(1) Proprietary information that was obtained from a Government official without proper authorization; or\n\n(2) Source selection information (as defined in 2.101) that is relevant to the contract but is not available to all competitors, and such information would assist that contractor in obtaining the contract."
+      }
+    },
+    "506": {
+      "number": 506,
+      "name": "Procedures.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "If information concerning prospective contractors is necessary to identify and evaluate potential organizational conflicts of interest or to develop recommended actions, contracting officers first should seek the information from within the Government or from other readily available sources. Government sources include the files and the knowledge of personnel within the contracting office, other contracting offices, the cognizant contract administration and audit activities and offices concerned with contract financing. Non-Government sources include publications and commercial services, such as credit rating services, trade and financial journals, and business directories and registers."
+        },
+        "b": {
+          "text": "If the contracting officer decides that a particular acquisition involves a significant potential organizational conflict of interest, the contracting officer shall, before issuing the solicitation, submit for approval to the chief of the contracting office (unless a higher level official is designated by the agency)—",
+          "sub": {
+            "1": {
+              "text": "A written analysis, including a recommended course of action for avoiding, neutralizing, or mitigating the conflict, based on the general rules in 9.505 or on another basis not expressly stated in that section;"
+            },
+            "2": {
+              "text": "A draft solicitation provision (see 9.507-1); and"
+            },
+            "3": {
+              "text": "If appropriate, a proposed contract clause (see 9.507-2)."
+            }
+          }
+        },
+        "c": {
+          "text": "The approving official shall—",
+          "sub": {
+            "1": {
+              "text": "Review the contracting officer’s analysis and recommended course of action, including the draft provision and any proposed clause;"
+            },
+            "2": {
+              "text": "Consider the benefits and detriments to the Government and prospective contractors; and"
+            },
+            "3": {
+              "text": "Approve, modify, or reject the recommendations in writing."
+            }
+          }
+        },
+        "d": {
+          "text": "The contracting officer shall—",
+          "sub": {
+            "1": {
+              "text": "Include the approved provision(s) and any approved clause(s) in the solicitation or the contract, or both;"
+            },
+            "2": {
+              "text": "Consider additional information provided by prospective contractors in response to the solicitation or during negotiations; and"
+            },
+            "3": {
+              "text": "Before awarding the contract, resolve the conflict or the potential conflict in a manner consistent with the approval or other direction by the head of the contracting activity."
+            }
+          }
+        },
+        "e": {
+          "text": "If, during the effective period of any restriction (see 9.507), a contracting office transfers acquisition responsibility for the item or system involved, it shall notify the successor contracting office of the restriction, and send a copy of the contract under which the restriction was imposed."
+        }
+      }
+    },
+    "507": {
+      "number": 507,
+      "name": "Solicitation provisions and contract clause.",
+      "sub": {
+        "1": {
+          "name": "Solicitation provisions.",
+          "text": {
+            "text": "As indicated in the general rules in 9.505, significant potential organizational conflicts of interest are normally resolved by imposing some restraint, appropriate to the nature of the conflict, upon the contractor’s eligibility for future contracts or subcontracts. Therefore, affected solicitations shall contain a provision that—\n\n(a) Invites offerors’ attention to this subpart;\n\n(b) States the nature of the potential conflict as seen by the contracting officer;\n\n(c) States the nature of the proposed restraint upon future contractor activities; and\n\n(d) Depending on the nature of the acquisition, states whether or not the terms of any proposed clause and the application of this subpart to the contract are subject to negotiation."
+          }
+        },
+        "2": {
+          "name": "Contract clause.",
+          "text": {
+            "a": {
+              "text": "If, as a condition of award, the contractor’s eligibility for future prime contract or subcontract awards will be restricted or the contractor must agree to some other restraint, the solicitation shall contain a proposed clause that specifies both the nature and duration of the proposed restraint. The contracting officer shall include the clause in the contract, first negotiating the clause’s final terms with the successful offeror, if it is appropriate to do so (see 9.506(d) of this subsection)."
+            },
+            "b": {
+              "text": "The restraint imposed by a clause shall be limited to a fixed term of reasonable duration, sufficient to avoid the circumstance of unfair competitive advantage or potential bias. This period varies. It might end, for example, when the first production contract using the contractor’s specifications or work statement is awarded, or it might extend through the entire life of a system for which the contractor has performed systems engineering and technical direction. In every case, the restriction shall specify termination by a specific date or upon the occurrence of an identifiable event."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "508": {
+      "number": 508,
+      "name": "Examples.",
+      "sub": {},
+      "text": {
+        "text": "The examples in paragraphs (a) through (i) following illustrate situations in which questions concerning organizational conflicts of interest may arise. They are not all inclusive, but are intended to help the contracting officer apply the general rules in 9.505 to individual contract situations.\n\n(a) Company A agrees to provide systems engineering and technical direction for the Navy on the powerplant for a group of submarines (i.e., turbines, drive shafts, propellers, etc.). Company A should not be allowed to supply any powerplant components. Company A can, however, supply components of the submarine unrelated to the powerplant (e.g., fire control, navigation, etc.). In this example, the system is the powerplant, not the submarine, and the ban on supplying components is limited to those for the system only.\n\n(b) Company A is the systems engineering and technical direction contractor for system X. After some progress, but before completion, the system is canceled. Later, system Y is developed to achieve the same purposes as system X, but in a fundamentally different fashion. Company B is the systems engineering and technical direction contractor for system Y. Company A may supply system Y or its components.\n\n(c) Company A develops new electronic equipment and, as a result of this development, prepares specifications. Company A may supply the equipment.\n\n(d) XYZ Tool Company and PQR Machinery Company, representing the American Tool Institute, work under Government supervision and control to refine specifications or to clarify the requirements of a specific acquisition. These companies may supply the item.\n\n(e) Before an acquisition for information technology is conducted, Company A is awarded a contract to prepare data system specifications and equipment performance criteria to be used as the basis for the equipment competition. Since the specifications are the basis for selection of commercial hardware, a potential conflict of interest exists. Company A should be excluded from the initial follow-on information technology hardware acquisition.\n\n(f) Company A receives a contract to define the detailed performance characteristics an agency will require for purchasing rocket fuels. Company A has not developed the particular fuels. When the definition contract is awarded, it is clear to both parties that the agency will use the performance characteristics arrived at to choose competitively a contractor to develop or produce the fuels. Company A may not be awarded this follow-on contract.\n\n(g) Company A receives a contract to prepare a detailed plan for scientific and technical training of an agency’s personnel. It suggests a curriculum that the agency endorses and incorporates in its request for proposals to institutions to establish and conduct the training. Company A may not be awarded a contract to conduct the training.\n\n(h) Company A is selected to study the use of lasers in communications. The agency intends to ask that firms doing research in the field make proprietary information available to Company A. The contract must require Company A to—\n\n(1) Enter into agreements with these firms to protect any proprietary information they provide; and\n\n(2) Refrain from using the information in supplying lasers to the Government or for any purpose other than that for which it was intended.\n\n(i) An agency that regulates an industry wishes to develop a system for evaluating and processing license applications. Contractor X helps develop the system and process the applications. Contractor X should be prohibited from acting as a consultant to any of the applicants during its period of performance and for a reasonable period thereafter."
+      }
+    }
+  }
+}

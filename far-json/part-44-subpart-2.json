@@ -1,0 +1,226 @@
+{
+  "parentPart": 44,
+  "number": 2,
+  "name": "Consent to Subcontracts",
+  "sub": {
+    "201": {
+      "number": 201,
+      "name": "Consent and advance notification requirements.",
+      "sub": {
+        "1": {
+          "name": "Consent requirements.",
+          "text": {
+            "a": {
+              "text": "If the contractor has an approved purchasing system, consent is required for subcontracts specifically identified by the contracting officer in the subcontracts clause of the contract. The contracting officer may require consent to subcontract if the contracting officer has determined that an individual consent action is required to protect the Government adequately because of the subcontract type, complexity, or value, or because the subcontract needs special surveillance. These can be subcontracts for critical systems, subsystems, components, or services. Subcontracts may be identified by subcontract number or by class of items (e.g., subcontracts for engines on a prime contract for airframes)."
+            },
+            "b": {
+              "text": "If the contractor does not have an approved purchasing system, consent to subcontract is required for cost-reimbursement, time-and-materials, labor-hour, or letter contracts, and also for unpriced actions (including unpriced modifications and unpriced delivery orders) under fixed-price contracts that exceed the simplified acquisition threshold, for—",
+              "sub": {
+                "1": {
+                  "text": "Cost-reimbursement, time-and-materials, or labor-hour subcontracts; and"
+                },
+                "2": {
+                  "text": "Fixed-price subcontracts that exceed—"
+                },
+                "i": {
+                  "text": "For the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration, the greater of the simplified acquisition threshold or 5 percent of the total estimated cost of the contract; or"
+                },
+                "ii": {
+                  "text": "For civilian agencies other than the Coast Guard and the National Aeronautics and Space Administration, either the simplified acquisition threshold or 5 percent of the total estimated cost of the contract."
+                }
+              }
+            },
+            "c": {
+              "text": "Consent may be required for subcontracts under prime contracts for architect-engineer services."
+            },
+            "d": {
+              "text": "The contracting officer’s written authorization for the contractor to purchase from Government sources (see Part 51) constitutes consent."
+            }
+          }
+        },
+        "2": {
+          "name": "Advance notification requirements.",
+          "text": {
+            "text": "Under cost-reimbursement contracts, the contractor is required by statute to notify the contracting officer as follows:\n\n(a) For the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration, unless the contractor maintains an approved purchasing system, 10 U.S.C. 2306 requires notification before the award of any cost-plus-fixed-fee subcontract, or any fixed-price subcontract that exceeds the greater of the simplified acquisition threshold or 5 percent of the total estimated cost of the contract.\n\n(b) For civilian agencies other than the Coast Guard and the National Aeronautics and Space Administration, even if the contractor has an approved purchasing system, 41 U.S.C. 3905 requires notification before the award of any cost-plus-fixed-fee subcontract, or any fixed-price subcontract that exceeds either the simplified acquisition threshold or 5 percent of the total estimated cost of the contract."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Contracting officer’s evaluation.",
+      "sub": {
+        "1": {
+          "name": "Responsibilities.",
+          "text": {
+            "a": {
+              "text": "The cognizant administrative contracting officer (ACO) is responsible for consent to subcontracts, except when the contracting officer retains the contract for administration or withholds the consent responsibility from delegation to the ACO. In such cases, the contract administration office should assist the contracting office in its evaluation as requested."
+            },
+            "b": {
+              "text": "The contracting officer responsible for consent shall review the contractor’s notification and supporting data to ensure that the proposed subcontract is appropriate for the risks involved and consistent with current policy and sound business judgment."
+            },
+            "c": {
+              "text": "Designation of specific subcontractors during contract negotiations does not in itself satisfy the requirements for advance notification or consent pursuant to the clause at 52.244-2. However, if, in the opinion of the contracting officer, the advance notification or consent requirements were satisfied for certain subcontracts evaluated during negotiations, the contracting officer shall identify those subcontracts in paragraph (j) of the clause at 52.244-2."
+            }
+          }
+        },
+        "2": {
+          "name": "Considerations.",
+          "text": {
+            "1": {
+              "text": "The prime contractor’s purchasing system or performance is inadequate;"
+            },
+            "2": {
+              "text": "Close working relationships or ownership affiliations between the prime and subcontractor may preclude free competition or result in higher prices;"
+            },
+            "3": {
+              "text": "Subcontracts are proposed for award on a non-competitive basis, at prices that appear unreasonable, or at prices higher than those offered to the Government in comparable circumstances; or"
+            },
+            "4": {
+              "text": "Subcontracts are proposed on a cost-reimbursement, time-and-materials, or labor-hour basis."
+            },
+            "a": {
+              "text": "The contracting officer responsible for consent must, at a minimum, review the request and supporting data and consider the following:",
+              "sub": {
+                "1": {
+                  "text": "Is the decision to subcontract consistent with the contractor’s approved make-or-buy program, if any (see 15.407-2)?"
+                },
+                "2": {
+                  "text": "Is the subcontract for special test equipment, equipment or real property that are available from Government sources?"
+                },
+                "3": {
+                  "text": "Is the selection of the particular supplies, equipment, or services technically justified?"
+                },
+                "4": {
+                  "text": "Has the contractor complied with the prime contract requirements regarding—",
+                  "sub": {
+                    "i": {
+                      "text": "Small business subcontracting, including, if applicable, its plan for subcontracting with small, veteran-owned, service-disabled veteran-owned, HUBZone, small disadvantaged and women-owned small business concerns (see Part 19); and"
+                    },
+                    "ii": {
+                      "text": "Purchase from nonprofit agencies designated by the Committee for Purchase From People Who Are Blind or Severely Disabled 41 U.S.C. 8504 (see Part 8)?"
+                    }
+                  }
+                },
+                "5": {
+                  "text": "Was adequate price competition obtained or its absence properly justified?"
+                },
+                "6": {
+                  "text": "Did the contractor adequately assess and dispose of subcontractors’ alternate proposals, if offered?"
+                },
+                "7": {
+                  "text": "Does the contractor have a sound basis for selecting and determining the responsibility of the particular subcontractor?"
+                },
+                "8": {
+                  "text": "Has the contractor performed adequate cost or price analysis or price comparisons and obtained certified cost or pricing data and data other than certified cost or pricing data?"
+                },
+                "9": {
+                  "text": "Is the proposed subcontract type appropriate for the risks involved and consistent with current policy?"
+                },
+                "10": {
+                  "text": "Has adequate consideration been obtained for any proposed subcontract that will involve the use of Government-provided equipment and real property?"
+                },
+                "11": {
+                  "text": "Has the contractor adequately and reasonably translated prime contract technical requirements into subcontract requirements?"
+                },
+                "12": {
+                  "text": "Does the prime contractor comply with applicable cost accounting standards for awarding the subcontract?"
+                },
+                "13": {
+                  "text": "Is the proposed subcontractor in the System for Award Management Exclusions (see Subpart 9.4)?"
+                }
+              }
+            },
+            "b": {
+              "text": "Particularly careful and thorough consideration under paragraph (a) of this section is necessary when—"
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Consent limitations.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer’s consent to a subcontract or approval of the contractor’s purchasing system does not constitute a determination of the acceptability of the subcontract terms or price, or of the allowability of costs, unless the consent or approval specifies otherwise."
+        },
+        "b": {
+          "text": "Contracting officers shall not consent to—",
+          "sub": {
+            "1": {
+              "text": "Cost-reimbursement subcontracts if the fee exceeds the fee limitations of 15.404-4(c)(4)(i);"
+            },
+            "2": {
+              "text": "Subcontracts providing for payment on a cost-plus-a-percentage-of-cost basis;"
+            },
+            "3": {
+              "text": "Subcontracts obligating the contracting officer to deal directly with the subcontractor;"
+            },
+            "4": {
+              "text": "Subcontracts that make the results of arbitration, judicial determination, or voluntary settlement between the prime contractor and subcontractor binding on the Government; or"
+            },
+            "5": {
+              "text": "Repetitive or unduly protracted use of cost-reimbursement, time-and-materials, or labor-hour subcontracts (contracting officers should follow the principles of 16.103(c))."
+            }
+          }
+        },
+        "c": {
+          "text": "Contracting officers should not refuse consent to a subcontract merely because it contains a clause giving the subcontractor the right of indirect appeal to an agency board of contract appeals if the subcontractor is affected by a dispute between the Government and the prime contractor. Indirect appeal means assertion by the subcontractor of the prime contractor’s right to appeal or the prosecution of an appeal by the prime contractor on the subcontractor’s behalf. The clause may also provide that the prime contractor and subcontractor shall be equally bound by the contracting officer’s or board’s decision. The clause may not attempt to obligate the contracting officer or the appeals board to decide questions that do not arise between the Government and the prime contractor or that are not cognizable under the clause at 52.233-1, Disputes."
+        }
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Contract clauses.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "A firm-fixed-price contract, awarded on the basis of adequate price competition or whose prices are set by law or regulation, is contemplated; or"
+        },
+        "2": {
+          "text": "A time-and-materials, labor-hour, or architect-engineer contract is contemplated."
+        },
+        "a": {
+          "text": "(1) The contracting officer shall insert the clause at 52.244-2, Subcontracts, in solicitations and contracts when contemplating—",
+          "sub": {
+            "2": {
+              "text": "If a cost-reimbursement contract is contemplated, for civilian agencies other than the Coast Guard and the National Aeronautics and Space Administration, the contracting officer shall use the clause with its Alternate I."
+            },
+            "3": {
+              "text": "Use of this clause is not required in—"
+            },
+            "i": {
+              "text": "Fixed-price architect-engineer contracts; or"
+            },
+            "ii": {
+              "text": "Contracts for mortuary services, refuse services, or shipment and storage of personal property, when an agency-prescribed clause on approval of subcontractors’ facilities is required."
+            },
+            "iii": {
+              "text": "A fixed-price contract that exceeds the simplified acquisition threshold under which unpriced contract actions (including unpriced modifications or unpriced delivery orders) are anticipated;"
+            },
+            "iv": {
+              "text": "A time-and-materials contract that exceeds the simplified acquisition threshold; or"
+            },
+            "v": {
+              "text": "A labor-hour contract that exceeds the simplified acquisition threshold."
+            }
+          }
+        },
+        "b": {
+          "text": "The contracting officer may insert the clause at 52.244-4, Subcontractors and Outside Associates and Consultants (Architect-Engineer Services), in architect-engineer contracts."
+        },
+        "c": {
+          "text": "The contracting officer shall, when contracting by negotiation, insert the clause at 52.244-5, Competition in Subcontracting, in solicitations and contracts when the contract amount is expected to exceed the simplified acquisition threshold, unless—"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,963 @@
+{
+  "parentPart": 8,
+  "number": 4,
+  "name": "Federal Supply Schedules",
+  "sub": {
+    "401": {
+      "number": 401,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Ordering activity” means an activity that is authorized to place orders, or establish blanket purchase agreements (BPA), against the General Services Administration’s (GSA) Multiple Award Schedule contracts. A list of eligible ordering activities is available at http://www.gsa.gov/schedules (click “For Customers Ordering from Schedules” and then “Eligibility to Use GSA Sources”).\n\n“Multiple Award Schedule (MAS)” means contracts awarded by GSA or the Department of Veterans Affairs (VA) for similar or comparable supplies, or services, established with more than one supplier, at varying prices. The primary statutory authorities for the MAS program are 41 U.S.C. 152(3), Competitive Procedures, and 40 U.S.C. 501, Services for Executive Agencies.\n\n“Requiring agency” means the agency needing the supplies or services.\n\n“Schedules e-Library” means the on-line source for GSA and VA Federal Supply Schedule contract award information. Schedules e-Library may be accessed at http://www.gsa.gov/elibrary.\n\n“Special Item Number (SIN)” means a group of generically similar (but not identical) supplies or services that are intended to serve the same general purpose or function."
+      }
+    },
+    "402": {
+      "number": 402,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The Federal Supply Schedule program is also known as the GSA Schedules Program or the Multiple Award Schedule Program. The Federal Supply Schedule program is directed and managed by GSA and provides Federal agencies (see 8.004) with a simplified process for obtaining commercial supplies and services at prices associated with volume buying. Indefinite delivery contracts are awarded to provide supplies and services at stated prices for given periods of time. GSA may delegate certain responsibilities to other agencies (e.g., GSA has delegated authority to the VA to procure medical supplies under the VA Federal Supply Schedules program). Orders issued under the VA Federal Supply Schedule program are covered by this subpart. Additionally, the Department of Defense (DoD) manages similar systems of schedule-type contracting for military items; however, DoD systems are not covered by this subpart."
+        },
+        "b": {
+          "text": "GSA schedule contracts require all schedule contractors to publish an “Authorized Federal Supply Schedule Pricelist” (pricelist). The pricelist contains all supplies and services offered by a schedule contractor. In addition, each pricelist contains the pricing and the terms and conditions pertaining to each Special Item Number that is on schedule. The schedule contractor is required to provide one copy of its pricelist to any ordering activity upon request. Also, a copy of the pricelist may be obtained from the Federal Supply Service by submitting a written e-mail request to schedules.infocenter@gsa.gov or by telephone at 1-800-488-3111. This subpart, together with the pricelists, contain necessary information for placing delivery or task orders with schedule contractors. In addition, the GSA schedule contracting office issues Federal Supply Schedules publications that contain a general overview of the Federal Supply Schedule (FSS) program and address pertinent topics. Ordering activities may request copies of schedules publications by contacting the Centralized Mailing List Service through the Internet at http://www.gsa.gov/cmls, submitting written e-mail requests to CMLS@gsa.gov; or by completing GSA Form 457, FSS Publications Mailing List Application, and mailing it to the GSA Centralized Mailing List Service (7SM), P.O. Box 6477, Fort Worth, TX 76115. Copies of GSA Form 457 may also be obtained from the above-referenced points of contact."
+        },
+        "c": {
+          "text": "(1) GSA offers an on-line shopping service called “GSA Advantage!” through which ordering activities may place orders against Schedules. (Ordering activities may also use GSA Advantage! to place orders through GSA’s Global Supply System, a GSA wholesale supply source, formerly known as “GSA Stock” or the “Customer Supply Center.” FAR subpart 8.4 is not applicable to orders placed through the GSA Global Supply System.) Ordering activities may access GSA Advantage! through the GSA Federal Supply Service Home Page (http://www.gsa.gov/fas) or the GSA Federal Supply Schedule Home Page at http://www.gsa.gov/schedules.",
+          "sub": {
+            "2": {
+              "text": "GSA Advantage! enables ordering activities to search specific information (i.e., national stock number, part number, common name), review delivery options, place orders directly with Schedule contractors (except see 8.405-6) and pay for orders using the Governmentwide commercial purchase card."
+            }
+          }
+        },
+        "d": {
+          "text": "(1) e-Buy, GSA’s electronic Request for Quotation (RFQ) system, is a part of a suite of on-line tools which complement GSA Advantage!. E-Buy allows ordering activities to post requirements, obtain quotes, and issue orders electronically.  Posting an RFQ on e-Buy—",
+          "sub": {
+            "2": {
+              "text": "Ordering activities may access e-Buy at http://www.ebuy.gsa.gov. For more information or assistance on either GSA Advantage! or e-Buy, contact GSA at Internet e-mail address gsa.advantage@gsa.gov."
+            },
+            "i": {
+              "text": "Is one medium for providing fair notice to all schedule contractors offering such supplies and services as required by 8.405-1, 8.405-2, and 8.405-3; and"
+            },
+            "ii": {
+              "text": "Is required when an order contains brand-name specifications (see 8.405-6)."
+            }
+          }
+        },
+        "e": {
+          "text": "For more information or assistance regarding the Federal Supply Schedule Program, review the following website: http://www.gsa.gov/schedules. Additionally, for on-line training courses regarding the Schedules Program, review the following website: http://www.gsa.gov/training."
+        },
+        "f": {
+          "text": "For administrative convenience, an ordering activity contracting officer may add items not on the Federal Supply Schedule (also referred to as open market items) to a Federal Supply Schedule blanket purchase agreement (BPA) or an individual task or delivery order only if—",
+          "sub": {
+            "1": {
+              "text": "All applicable acquisition regulations pertaining to the purchase of the items not on the Federal Supply Schedule have been followed (e.g., publicizing (Part 5), competition requirements (Part 6), acquisition of commercial items (Part 12), contracting methods (Parts 13, 14, and 15), and small business programs (Part 19));"
+            },
+            "2": {
+              "text": "The ordering activity contracting officer has determined the price for the items not on the Federal Supply Schedule is fair and reasonable;"
+            },
+            "3": {
+              "text": "The items are clearly labeled on the order as items not on the Federal Supply Schedule and they conform to the rules for numbering line items at subpart 4.10; and"
+            },
+            "4": {
+              "text": "All clauses applicable to items not on the Federal Supply Schedule are included in the order."
+            }
+          }
+        },
+        "g": {
+          "text": "When using the Governmentwide commercial purchase card as a method of payment, orders at or below the micro-purchase threshold are exempt from verification in the System for Award Management database as to whether the contractor has a delinquent debt subject to collection under the Treasury Offset Program (TOP)."
+        }
+      }
+    },
+    "403": {
+      "number": 403,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Shall use the procedures at subpart 36.6; and"
+        },
+        "2": {
+          "text": "Shall not place orders for such requirements under a Federal Supply Schedule."
+        },
+        "a": {
+          "text": "Procedures in this subpart apply to—",
+          "sub": {
+            "1": {
+              "text": "Individual orders for supplies or services placed against Federal Supply Schedules contracts; and"
+            },
+            "2": {
+              "text": "BPAs established against Federal Supply Schedule contracts."
+            }
+          }
+        },
+        "b": {
+          "text": "GSA may establish special ordering procedures for a particular schedule. In this case, that schedule will specify those special ordering procedures. Unless otherwise noted, special ordering procedures established for a Federal Supply Schedule take precedence over the procedures in 8.405."
+        },
+        "c": {
+          "text": "In accordance with section 1427(b) of Public Law 108-136 (40 U.S.C. 1103 note), for requirements that substantially or to a dominant extent specify performance of architect-engineer services (as defined in 2.101), agencies—"
+        }
+      }
+    },
+    "404": {
+      "number": 404,
+      "name": "Use of Federal Supply Schedules.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "General. Parts 13 (except 13.303-2(c)(3)), 14, 15, and 19 (except for the requirement at 19.202-1(e)(1)(iii)) do not apply to BPAs or orders placed against Federal Supply Schedules contracts (but see 8.405-5). BPAs and orders placed against a MAS, using the procedures in this subpart, are considered to be issued using full and open competition (see 6.102(d)(3)). Therefore, when establishing a BPA (as authorized by 13.303-2(c)(3)), or placing orders under Federal Supply Schedule contracts using the procedures of 8.405, ordering activities shall not seek competition outside of the Federal Supply Schedules or synopsize the requirement; but see paragraph (g) of this section."
+        },
+        "b": {
+          "text": "(1) The contracting officer, when placing an order or establishing a BPA, is responsible for applying the regulatory and statutory requirements applicable to the agency for which the order is placed or the BPA is established. The requiring agency shall provide the information on the applicable regulatory and statutory requirements to the contracting officer responsible for placing the order.",
+          "sub": {
+            "2": {
+              "text": "For orders over $550,000, see subpart 17.5 for additional requirements for interagency acquisitions. For example, the requiring agency shall make a determination that use of the Federal Supply Schedule is the best procurement  approach, in accordance with 17.502-1(a)."
+            }
+          }
+        },
+        "c": {
+          "text": "Acquisition planning. Orders placed under a Federal Supply Schedule contract—",
+          "sub": {
+            "1": {
+              "text": "Are not exempt from the development of acquisition plans (see subpart 7.1), and an information technology acquisition strategy (see Part 39);"
+            },
+            "2": {
+              "text": "Shall comply with all FAR requirements for a consolidated or bundled contract when the order meets the definition at 2.101(b) of “consolidation” or “bundling”; and"
+            },
+            "3": {
+              "text": "Must, whether placed by the requiring agency, or on behalf of the requiring agency, be consistent with the requiring agency’s statutory and regulatory requirements applicable to the acquisition of the supply or service."
+            }
+          }
+        },
+        "d": {
+          "text": "Pricing. Supplies offered on the schedule are listed at fixed prices. Services offered on the schedule are priced either at hourly rates, or at a fixed price for performance of a specific task (e.g., installation, maintenance, and repair). GSA has already determined the prices of supplies and fixed-price services, and rates for services offered at hourly rates, under schedule contracts to be fair and reasonable. Therefore, ordering activities are not required to make a separate determination of fair and reasonable pricing, except for a price evaluation as required by 8.405-2(d). By placing an order against a schedule contract using the procedures in 8.405, the ordering activity has concluded that the order represents the best value (as defined in FAR 2.101) and results in the lowest overall cost alternative (considering price, special features, administrative costs, etc.) to meet the Government’s needs. Although GSA has already negotiated fair and reasonable pricing, ordering activities may seek additional discounts before placing an order (see 8.405-4)."
+        },
+        "e": {
+          "text": "The procedures under subpart 33.1 are applicable to the issuance of an order or the establishment of a BPA against a schedule contract."
+        },
+        "f": {
+          "text": "If the ordering activity issues an RFQ, the ordering activity shall provide the RFQ to any schedule contractor that requests a copy of it."
+        },
+        "g": {
+          "text": "(1) Ordering activities shall publicize contract actions funded in whole or in part by the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5):",
+          "sub": {
+            "2": {
+              "text": "When an order is awarded or a Blanket Purchase Agreement is established with an estimated value greater than the simplified acquisition threshold and supported by a limited-source justification at 8.405-6(a), the ordering activity contracting officer must—"
+            },
+            "i": {
+              "text": "Publicize the action (see 5.301); and"
+            },
+            "ii": {
+              "text": "Post the justification in accordance with 8.405-6(a)(2)."
+            }
+          }
+        },
+        "h": {
+          "text": "Type-of-order preference for services.",
+          "sub": {
+            "1": {
+              "text": "The ordering activity shall specify the order type (i.e., firm-fixed price, time-and-materials, or labor-hour) for the services offered on the schedule priced at hourly rates."
+            },
+            "2": {
+              "text": "Agencies shall use fixed-price orders for the acquisition of commercial services to the maximum extent practicable."
+            },
+            "3": {
+              "text": "(i) A time-and-materials or labor-hour order may be used for the acquisition of commercial services only when it is not possible at the time of placing the order to estimate accurately the extent or duration of the work or to anticipate costs with any reasonable degree of confidence."
+            },
+            "ii": {
+              "text": "Prior to the issuance of a time-and-materials or labor-hour order, the contracting officer shall—"
+            },
+            "A": {
+              "text": "Conduct an analysis of pricing and other relevant factors to determine if the action is in the best interest of the Government and document the order file;"
+            },
+            "B": {
+              "text": "Follow the procedures at 8.405-6 for a change that modifies the general scope of the order; and"
+            },
+            "C": {
+              "text": "Comply with the requirements at 8.402(f) when modifying an order to add open market items."
+            },
+            "iii": {
+              "text": "The D&F required by paragraph (h)(3)(ii)(A) of this section shall contain sufficient facts and rationale to justify that a fixed-price order is not suitable. At a minimum, the D&F shall—"
+            },
+            "D": {
+              "text": "Describe actions to maximize the use of fixed-price orders on future acquisitions for the same requirements."
+            },
+            "iv": {
+              "text": "Prior to an increase in the ceiling price of a time-and-materials or labor-hour order, the ordering activity shall—"
+            }
+          }
+        },
+        "i": {
+          "text": "Ensure that service contractor reporting requirements are met in accordance with subpart 4.17, Service Contracts Inventory."
+        },
+        "j": {
+          "text": "Line items.  When placing orders or establishing BPAs, ordering activities shall reference the special item number and the corresponding line or subline item awarded (established per 4.1005) in the schedule.  If an ordering activity contracting officer adds an item not on the Federal Supply Schedule in accordance with 8.402(f), establish a new line item in accordance with subpart 4.10."
+        }
+      }
+    },
+    "405": {
+      "number": 405,
+      "name": "Ordering procedures for Federal Supply Schedules.",
+      "sub": {
+        "1": {
+          "name": "Ordering procedures for supplies, and services not requiring a statement of work.",
+          "text": {
+            "1": {
+              "text": "The schedule contracts considered, noting the contractor from which the supply or service was purchased;"
+            },
+            "2": {
+              "text": "A description of the supply or service purchased;"
+            },
+            "3": {
+              "text": "The amount paid;"
+            },
+            "4": {
+              "text": "When an order exceeds the simplified acquisition threshold, evidence of compliance with the ordering procedures at 8.405-1(d); and"
+            },
+            "5": {
+              "text": "The basis for the award decision."
+            },
+            "a": {
+              "text": "Ordering activities shall use the procedures of this subsection when ordering supplies and services that are listed in the schedules contracts at a fixed price for the performance of a specific task, where a statement of work is not required (e.g., installation, maintenance, and repair). For establishing BPAs and for orders under BPAs see 8.405-3."
+            },
+            "b": {
+              "text": "Orders at or below the micro-purchase threshold. Ordering activities may place orders at, or below, the micro-purchase threshold with any Federal Supply Schedule contractor that can meet the agency’s needs. Although not required to solicit from a specific number of schedule contractors, ordering activities should attempt to distribute orders among contractors."
+            },
+            "c": {
+              "text": "Orders exceeding the micro-purchase threshold but not exceeding the simplified acquisition threshold. Ordering activities shall place orders with the schedule contractor that can provide the supply or service that represents the best value. Before placing an order, an ordering activity shall:",
+              "sub": {
+                "1": {
+                  "text": "Consider reasonably available information about the supply or service offered under MAS contracts by surveying at least three schedule contractors through the GSA Advantage! on-line shopping service, by reviewing the catalogs or pricelists of at least three schedule contractors, or by requesting quotations from at least three schedule contractors (see 8.405-5); or"
+                },
+                "2": {
+                  "text": "Document the circumstances for restricting consideration to fewer than three schedule contractors based on one of the reasons at 8.405-6(a);"
+                }
+              }
+            },
+            "d": {
+              "text": "For proposed orders exceeding the simplified acquisition threshold.",
+              "sub": {
+                "1": {
+                  "text": "Each order shall be placed on a competitive basis in accordance with (d)(2) and (3) of this section, unless this requirement is waived on the basis of a justification that is prepared and approved in accordance with 8.405-6."
+                },
+                "2": {
+                  "text": "The ordering activity contracting officer shall provide an RFQ that includes a description of the supplies to be delivered or the services to be performed and the basis upon which the selection will be made (see 8.405-1(f))."
+                },
+                "3": {
+                  "text": "The ordering activity contracting officer shall —",
+                  "sub": {
+                    "i": {
+                      "text": "Post the RFQ on e-Buy to afford all schedule contractors offering the required supplies or services under the appropriate multiple award schedule(s) an opportunity to submit a quote; or"
+                    },
+                    "ii": {
+                      "text": "Provide the RFQ to as many schedule contractors as practicable, consistent with market research appropriate to the circumstances, to reasonably ensure that quotes will be received from at least three contractors that can fulfill the requirements. When fewer than three quotes are received from schedule contractors that can fulfill the requirement, the contracting officer shall prepare a written determination explaining that no additional contractors capable of fulfilling the requirement could be identified despite reasonable efforts to do so. The determination must clearly explain efforts made to obtain quotes from at least three schedule contractors."
+                    }
+                  }
+                },
+                "4": {
+                  "text": "The ordering activity contracting officer shall ensure that all quotes received are fairly considered and award is made in accordance with the basis for selection in the RFQ."
+                }
+              }
+            },
+            "e": {
+              "text": "When an order contains brand-name specifications, the contracting officer shall post the RFQ on e-Buy along with the justification or documentation, as required by 8.405-6. An RFQ is required when a purchase description specifies a brand-name."
+            },
+            "f": {
+              "text": "In addition to price (see 8.404(d) and 8.405-4), when determining best value, the ordering activity may consider, among other factors, the following:",
+              "sub": {
+                "1": {
+                  "text": "Past performance."
+                },
+                "2": {
+                  "text": "Special features of the supply or service required for effective program performance."
+                },
+                "3": {
+                  "text": "Trade-in considerations."
+                },
+                "4": {
+                  "text": "Probable life of the item selected as compared with that of a comparable item."
+                },
+                "5": {
+                  "text": "Warranty considerations."
+                },
+                "6": {
+                  "text": "Maintenance availability."
+                },
+                "7": {
+                  "text": "Environmental and energy efficiency considerations."
+                },
+                "8": {
+                  "text": "Delivery terms."
+                }
+              }
+            },
+            "g": {
+              "text": "Minimum documentation. The ordering activity shall document—"
+            }
+          }
+        },
+        "2": {
+          "name": "Ordering procedures for services requiring a statement of work.",
+          "text": {
+            "1": {
+              "text": "The schedule contracts considered, noting the contractor from which the service was purchased;"
+            },
+            "2": {
+              "text": "A description of the service purchased;"
+            },
+            "3": {
+              "text": "The amount paid;"
+            },
+            "4": {
+              "text": "The evaluation methodology used in selecting the contractor to receive the order;"
+            },
+            "5": {
+              "text": "The rationale for any tradeoffs in making the selection;"
+            },
+            "6": {
+              "text": "The price reasonableness determination required by paragraph (d) of this subsection;"
+            },
+            "7": {
+              "text": "The rationale for using other than—",
+              "sub": {
+                "i": {
+                  "text": "A firm-fixed price order; or"
+                },
+                "ii": {
+                  "text": "A performance-based order; and"
+                }
+              }
+            },
+            "8": {
+              "text": "When an order exceeds the simplified acquisition threshold, evidence of compliance with the ordering procedures at 8.405-2(c)."
+            },
+            "a": {
+              "text": "General. Ordering activities shall use the procedures in this subsection when ordering services priced at hourly rates as established by the schedule contracts. The applicable services will be identified in the Federal Supply Schedule publications and the contractor’s pricelists. For establishing BPAs and for orders under BPAs see 8.405-3."
+            },
+            "b": {
+              "text": "Statements of Work (SOWs). All Statements of Work shall include a description of work to be performed; location of work; period of performance; deliverable schedule; applicable performance standards; and any special requirements (e.g., security clearances, travel, special knowledge). To the maximum extent practicable, agency requirements shall be performance-based statements (see subpart 37.6)."
+            },
+            "c": {
+              "text": "Request for Quotation procedures. The ordering activity must provide the Request for Quotation (RFQ), which includes the statement of work and evaluation criteria (e.g., experience and past performance), to schedule contractors that offer services that will meet the agency’s needs. The RFQ may be posted to GSA’s electronic RFQ system, e-Buy (see 8.402(d)).",
+              "sub": {
+                "1": {
+                  "text": "Orders at, or below, the micro-purchase threshold. Ordering activities may place orders at, or below, the micro-purchase threshold with any Federal Supply Schedule contractor that can meet the agency’s needs. The ordering activity should attempt to distribute orders among contractors."
+                },
+                "2": {
+                  "text": "For orders exceeding the micro-purchase threshold, but not exceeding the simplified acquisition threshold.",
+                  "sub": {
+                    "i": {
+                      "text": "The ordering activity shall develop a statement of work, in accordance with 8.405-2(b)."
+                    },
+                    "ii": {
+                      "text": "The ordering activity shall provide the RFQ (including the statement of work and evaluation criteria) to at least three schedule contractors that offer services that will meet the agency’s needs or document the circumstances for restricting consideration to fewer than three schedule contractors based on one of the reasons at 8.405-6(a)."
+                    },
+                    "iii": {
+                      "text": "The ordering activity shall specify the type of order (i.e., firm-fixed-price, labor-hour) for the services identified in the statement of work. The contracting officer should establish firm-fixed-prices, as appropriate."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "For proposed orders exceeding the simplified acquisition threshold. In addition to meeting the requirements of 8.405-2(c)(2)(i) and (iii), the following procedures apply:",
+                  "sub": {
+                    "i": {
+                      "text": "Each order shall be placed on a competitive basis in accordance with (c)(3)(ii) and (iii) of this section, unless this requirement is waived on the basis of a justification that is prepared and approved in accordance with 8.405-6."
+                    },
+                    "ii": {
+                      "text": "The ordering activity contracting officer shall provide an RFQ that includes a statement of work and the evaluation criteria."
+                    },
+                    "iii": {
+                      "text": "The ordering activity contracting officer shall—"
+                    },
+                    "A": {
+                      "text": "Post the RFQ on e-Buy to afford all schedule contractors offering the required services under the appropriate multiple-award schedule(s) an opportunity to submit a quote; or"
+                    },
+                    "B": {
+                      "text": "Provide the RFQ to as many schedule contractors as practicable, consistent with market research appropriate to the circumstances, to reasonably ensure that quotes will be received from at least three contractors that can fulfill the requirements. When fewer than three quotes are received from schedule contractors that can fulfill the requirements, the contracting officer shall prepare a written determination to explain that no additional contractors capable of fulfilling the requirements could be identified despite reasonable efforts to do so. The determination must clearly explain efforts made to obtain quotes from at least three schedule contractors."
+                    },
+                    "C": {
+                      "text": "Ensure all quotes received are fairly considered and award is made in accordance with the evaluation criteria in the RFQ."
+                    }
+                  }
+                },
+                "4": {
+                  "text": "The ordering activity shall provide the RFQ (including the statement of work and the evaluation criteria) to any schedule contractor who requests a copy of it."
+                }
+              }
+            },
+            "d": {
+              "text": "Evaluation. The ordering activity shall evaluate all responses received using the evaluation criteria provided to the schedule contractors. The ordering activity is responsible for considering the level of effort and the mix of labor proposed to perform a specific task being ordered, and for determining that the total price is reasonable. Place the order with the schedule contractor that represents the best value (see 8.404(d) and 8.405-4). After award, ordering activities should provide timely notification to unsuccessful offerors. If an unsuccessful offeror requests information on an award that was based on factors other than price alone, a brief explanation of the basis for the award decision shall be provided."
+            },
+            "e": {
+              "text": "Use of time-and-materials and labor-hour orders for services. When placing a time-and-materials or labor-hour order for services, see 8.404(h)."
+            },
+            "f": {
+              "text": "Minimum documentation. The ordering activity shall document—"
+            }
+          }
+        },
+        "3": {
+          "name": "Blanket purchase agreements (BPAs).",
+          "text": {
+            "1": {
+              "text": "The ordering activity contracting officer shall review the BPA and determine in writing, at least once a year (e.g., at option exercise), whether—",
+              "sub": {
+                "i": {
+                  "text": "The schedule contract, upon which the BPA was established, is still in effect;"
+                },
+                "ii": {
+                  "text": "The BPA still represents the best value (see 8.404(d)); and"
+                },
+                "iii": {
+                  "text": "Estimated quantities/amounts have been exceeded and additional price reductions can be obtained."
+                }
+              }
+            },
+            "2": {
+              "text": "The determination shall be included in the BPA file documentation.\n\n\n\n"
+            },
+            "a": {
+              "text": "Establishment.",
+              "sub": {
+                "1": {
+                  "text": "Ordering activities may establish BPAs under any schedule contract to fill repetitive needs for supplies or services. Ordering activities shall establish the BPA with the schedule contractor(s) that can provide the supply or service that represents the best value."
+                },
+                "2": {
+                  "text": "In addition to price (see 8.404(d) and 8.405-4), when determining best value, the ordering activity may consider, among other factors, the following:",
+                  "sub": {
+                    "i": {
+                      "text": "Past performance."
+                    },
+                    "ii": {
+                      "text": "Special features of the supply or service required for effective program performance."
+                    },
+                    "iii": {
+                      "text": "Trade-in considerations."
+                    },
+                    "iv": {
+                      "text": "Probable life of the item selected as compared with that of a comparable item."
+                    },
+                    "v": {
+                      "text": "Warranty considerations."
+                    },
+                    "vi": {
+                      "text": "Maintenance availability."
+                    },
+                    "vii": {
+                      "text": "Environmental and energy efficiency considerations."
+                    },
+                    "viii": {
+                      "text": "Delivery terms."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "(i) The ordering activity contracting officer shall, to the maximum extent practicable, give preference to establishing multiple-award BPAs, rather than establishing a single-award BPA.",
+                  "sub": {
+                    "1": {
+                      "text": "Products with unit prices established in the BPA; or"
+                    },
+                    "2": {
+                      "text": "Services with prices established in the BPA for specific tasks to be performed;"
+                    },
+                    "ii": {
+                      "text": "No single-award BPA with an estimated value exceeding $112 million (including any options), may be awarded unless the head of the agency determines in writing that—"
+                    },
+                    "A": {
+                      "text": "The scope and complexity of the requirement(s);"
+                    },
+                    "B": {
+                      "text": "The benefits of on-going competition and the need to periodically compare multiple technical approaches or prices;"
+                    },
+                    "C": {
+                      "text": "The administrative costs of BPAs; and"
+                    },
+                    "D": {
+                      "text": "The technical qualifications of the schedule contractor(s)."
+                    },
+                    "iii": {
+                      "text": "The requirement for a determination for a single-award BPA greater than $112 million is in addition to any applicable requirement for a limited-source justification at 8.405-6. However, the two documents may be combined into one document."
+                    },
+                    "iv": {
+                      "text": "In determining how many multiple-award BPAs to establish or that a single-award BPA is appropriate, the contracting officer should consider the following factors and document the decision in the acquisition plan or BPA file:"
+                    }
+                  }
+                },
+                "4": {
+                  "text": "BPAs shall address the frequency of ordering, invoicing, discounts, requirements (e.g., estimated quantities, work to be performed), delivery locations, and time."
+                },
+                "5": {
+                  "text": "When establishing multiple-award BPAs, the ordering activity shall specify the procedures for placing orders under the BPAs in accordance with 8.405-3(c)(2)."
+                },
+                "6": {
+                  "text": "Establishment of a multi-agency BPA against a Federal Supply Schedule contract is permitted if the multi-agency BPA identifies the participating agencies and their estimated requirements at the time the BPA is established."
+                },
+                "7": {
+                  "text": "Minimum documentation. The ordering activity contracting officer shall include in the BPA file documentation the—"
+                },
+                "i": {
+                  "text": "Schedule contracts considered, noting the contractor to which the BPA was awarded;"
+                },
+                "ii": {
+                  "text": "Description of the supply or service purchased;"
+                },
+                "iii": {
+                  "text": "Price;"
+                },
+                "iv": {
+                  "text": "Required justification for a limited-source BPA (see 8.405-6), if applicable;"
+                },
+                "v": {
+                  "text": "Determination for a single-award BPA exceeding $112 million, if applicable (see (a)(3)(ii)) of this section);"
+                },
+                "vi": {
+                  "text": "Documentation supporting the decision to establish multiple-award BPAs or a single-award BPA (see (a)(3)(iv));"
+                },
+                "vii": {
+                  "text": "Evidence of compliance with paragraph (b) of this section, for competitively awarded BPAs, if applicable; and"
+                },
+                "viii": {
+                  "text": "Basis for the award decision. This should include the evaluation methodology used in selecting the contractor, the rationale for any tradeoffs in making the selection, and a price reasonableness determination for services requiring a statement of work."
+                }
+              }
+            },
+            "b": {
+              "text": "Competitive procedures for establishing a BPA. This paragraph applies to the establishment of a BPA, in addition to applicable instructions in paragraph (a).",
+              "sub": {
+                "1": {
+                  "text": "For supplies, and for services not requiring a statement of work. The procedures of this paragraph apply when establishing a BPA for supplies and services that are listed in the schedule contract at a fixed price for the performance of a specific task, where a statement of work is not required (e.g., installation, maintenance, and repair).",
+                  "sub": {
+                    "1": {
+                      "text": "Consider reasonably available information about the supply or service offered under MAS contracts by surveying at least three schedule contractors through the GSA Advantage! on-line shopping service, by reviewing the catalogs or pricelists of at least three schedule contractors, or by requesting quotations from at least three schedule contractors (see 8.405-5); or"
+                    },
+                    "i": {
+                      "text": "If the estimated value of the BPA does not exceed the simplified acquisition threshold."
+                    },
+                    "A": {
+                      "text": "The ordering activity shall:"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "Document the circumstances for restricting consideration to fewer than three schedule contractors based on one of the reasons at 8.405-6(a).",
+                  "sub": {
+                    "2": {
+                      "text": "For services requiring a statement of work. This applies when establishing a BPA that requires services priced at hourly rates, as provided by the schedule contract. The applicable services will be identified in the Federal Supply Schedule publications and the contractor’s pricelists."
+                    },
+                    "B": {
+                      "text": "Shall provide the RFQ, which includes the statement of work and evaluation criteria, to as many schedule contractors as practicable, consistent with market research appropriate to the circumstances, to reasonably ensure that quotes will be received from at least three contractors that can fulfill the requirements. When fewer than three quotes are received from schedule contractors that can fulfill the requirements, the contracting officer shall document the file. The contracting officer shall prepare a written determination explaining that no additional contractors capable of fulfilling the requirements could be identified despite reasonable efforts to do so.  The determination must clearly explain efforts made to obtain quotes from at least three schedule contractors."
+                    },
+                    "ii": {
+                      "text": "Type-of-order preference. The ordering activity shall specify the order type (i.e., firm-fixed price, time-and-materials, or labor-hour) for the services identified in the statement of work. The contracting officer should establish firm-fixed priced orders to the maximum extent practicable.  For time-and-materials and labor-hour orders, the contracting officer shall follow the procedures at 8.404(h)."
+                    },
+                    "A": {
+                      "text": "Shall post the RFQ on e-Buy to afford all schedule contractors offering the required supplies or services under the appropriate multiple-award schedule an opportunity to submit a quote; or"
+                    },
+                    "C": {
+                      "text": "Shall ensure all quotes received are fairly considered and award is made in accordance with the basis for selection in the RFQ. After seeking price reductions (see 8.405-4), establish the BPA with the schedule contractor(s) that provides the best value."
+                    },
+                    "D": {
+                      "text": "The BPA must be established in accordance with paragraphs (b)(1)(ii)(B) and (C) of this section, unless the requirement is waived on the basis of a justification that is prepared and approved in accordance with 8.405-6."
+                    },
+                    "i": {
+                      "text": "Statements of Work (SOWs). The ordering activity shall develop a statement of work. All Statements of Work shall include a description of work to be performed; location of work; period of performance; deliverable schedule; applicable performance standards; and any special requirements (e.g., security clearances, travel, and special knowledge). To the maximum extent practicable, agency requirements shall be performance-based statements (see subpart 37.6)."
+                    },
+                    "iii": {
+                      "text": "Request for Quotation procedures. The ordering activity must provide a RFQ, which includes the statement of work and evaluation criteria (e.g., experience and past performance), to schedule contractors that offer services that will meet the agency’s needs. The RFQ may be posted to GSA’s electronic RFQ system, e-Buy (see 8.402(d))."
+                    },
+                    "iv": {
+                      "text": "If the estimated value of the BPA does not exceed the simplified acquisition threshold. The ordering activity shall provide the RFQ (including the statement of work and evaluation criteria) to at least three schedule contractors that offer services that will meet the agency’s needs."
+                    },
+                    "v": {
+                      "text": "If estimated value of the BPA exceeds the simplified acquisition threshold. The ordering activity contracting officer—"
+                    },
+                    "vi": {
+                      "text": "The ordering activity contracting officer shall ensure all quotes received are fairly considered and award is made in accordance with the basis for selection in the RFQ. The ordering activity is responsible for considering the level of effort and the mix of labor proposed to perform, and for determining that the proposed price is reasonable."
+                    },
+                    "vii": {
+                      "text": "The BPA must be established in accordance with paragraph (b)(2)(iv) or (v), and with paragraph (b)(2)(vi) of this section, unless the requirement is waived on the basis of a justification that is prepared and approved in accordance with 8.405-6."
+                    },
+                    "viii": {
+                      "text": "The ordering activity contracting officer shall establish the BPA with the schedule contractor(s) that represents the best value (see 8.404(d) and 8.405-4)."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "After award, ordering activities should provide timely notification to unsuccessful offerors. If an unsuccessful offeror requests information on an award that was based on factors other than price alone, a brief explanation of the basis for the award decision shall be provided."
+                }
+              }
+            },
+            "c": {
+              "text": "Ordering from BPAs.  The procedures in this paragraph (c) are not required for BPAs established on or before May 16, 2011.  However, ordering activities are encouraged to use the procedures for such BPAs.",
+              "sub": {
+                "1": {
+                  "text": "Single-award BPA. If the ordering activity establishes a single-award BPA, authorized users may place the order directly under the established BPA when the need for the supply or service arises."
+                },
+                "2": {
+                  "text": "Multiple-award BPAs.",
+                  "sub": {
+                    "1": {
+                      "text": "Provide an RFQ to all BPA holders offering the required supplies or services under the multiple-award BPAs, to include a description of the supplies to be delivered or the services to be performed and the basis upon which the selection will be made;"
+                    },
+                    "2": {
+                      "text": "Afford all BPA holders responding to the RFQ an opportunity to submit a quote; and"
+                    },
+                    "i": {
+                      "text": "Orders at or below the micro-purchase threshold. The ordering activity may place orders at or below the micro-purchase threshold with any BPA holder that can meet the agency needs. The ordering activity should attempt to distribute any such orders among the BPA holders."
+                    },
+                    "ii": {
+                      "text": "Orders exceeding the micro-purchase threshold but not exceeding the simplified acquisition threshold."
+                    },
+                    "A": {
+                      "text": "The ordering activity shall place an order in accordance with paragraphs (c)(2)(iii)(A)(1), (2) and (3) of this paragraph, unless the requirement is waived on the basis of a justification that is prepared and approved in accordance with 8.405-6. The ordering activity shall—"
+                    },
+                    "B": {
+                      "text": "The ordering activity need not contact each of the multiple-award BPA holders before placing an order if information is available to ensure that each BPA holder is provided a fair opportunity to be considered for each order."
+                    },
+                    "C": {
+                      "text": "The ordering activity contracting officer shall document the circumstances when restricting consideration to less than all multiple-award BPA holders offering the required supplies and services."
+                    },
+                    "iii": {
+                      "text": "Orders exceeding the simplified acquisition threshold."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "BPAs for hourly-rate services. If the BPA is for hourly-rate services, the ordering activity shall develop a statement of work for each order covered by the BPA. Ordering activities should place these orders on a firm-fixed price basis to the maximum extent practicable. For time-and-materials and labor-hour orders, the contracting officer shall follow the procedures at 8.404(h). All orders under the BPA shall specify a price for the performance of the tasks identified in the statement of work. The ordering activity is responsible for considering the level of effort and the mix of labor proposed to perform a specific task being ordered, and for determining that the total price is reasonable through appropriate analysis techniques, and documenting the file accordingly."
+                },
+                "B": {
+                  "text": "The ordering activity shall document evidence of compliance with these procedures and the basis for the award decision."
+                }
+              }
+            },
+            "d": {
+              "text": "Duration of BPAs.",
+              "sub": {
+                "1": {
+                  "text": "Multiple-award BPAs generally should not exceed five years in length, but may do so to meet program requirements."
+                },
+                "2": {
+                  "text": "A single-award BPA shall not exceed one year. It may have up to four one-year options. See paragraph (e) of this section for requirements associated with option exercise."
+                },
+                "3": {
+                  "text": "Contractors may be awarded BPAs that extend beyond the current term of their GSA Schedule contract, so long as there are option periods in their GSA Schedule contract that, if exercised, will cover the BPA’s period of performance."
+                }
+              }
+            },
+            "e": {
+              "text": "Review of BPAs.\n\n"
+            }
+          }
+        },
+        "4": {
+          "name": "Price reductions.",
+          "text": {
+            "text": "Ordering activities may request a price reduction at any time before placing an order, establishing a BPA, or in conjunction with the annual BPA review. However, the ordering activity shall seek a price reduction when the order or BPA exceeds the simplified acquisition threshold. Schedule contractors are not required to pass on to all schedule users a price reduction extended only to an individual ordering activity for a specific order or BPA."
+          }
+        },
+        "5": {
+          "name": "Small business.",
+          "text": {
+            "a": {
+              "text": "Although the preference programs of part 19 are not mandatory in this subpart, in accordance with section 1331 of Public Law 111-240 (15 U.S.C. 644(r))—",
+              "sub": {
+                "1": {
+                  "text": "Ordering activity contracting officers may, at their discretion—",
+                  "sub": {
+                    "i": {
+                      "text": "Set aside orders for any of the small business concerns identified in 19.000(a)(3); and"
+                    },
+                    "ii": {
+                      "text": "Set aside BPAs for any of the small business concerns identified in 19.000(a)(3)."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "When setting aside orders and BPAs—"
+                },
+                "i": {
+                  "text": "Follow the ordering procedures for Federal Supply Schedules at 8.405-1, 8.405-2, and 8.405-3; and"
+                },
+                "ii": {
+                  "text": "The specific small business program eligibility requirements identified in part 19 apply."
+                }
+              }
+            },
+            "b": {
+              "text": "Orders placed against schedule contracts may be credited toward the ordering activity’s small business goals. For purposes of reporting an order placed with a small business schedule contractor, an ordering agency may only take credit if the awardee meets a size standard that corresponds to the work performed.  Ordering activities should rely on the small business representations made by schedule contractors at the contract level."
+            },
+            "c": {
+              "text": "Ordering activities may consider socio-economic status when identifying contractor(s) for consideration or competition for award of an order or BPA. At a minimum, ordering activities should consider, if available, at least one small business, veteran-owned small business, service disabled veteran-owned small business, HUBZone small business, women-owned small business, or small disadvantaged business schedule contractor(s). GSA Advantage! and Schedules e-Library at http://www.gsa.gov/fas contain information on the small business representations of Schedule contractors."
+            },
+            "d": {
+              "text": "For orders exceeding the micro-purchase threshold, ordering activities should give preference to the items of small business concerns when two or more items at the same delivered price will satisfy the requirement."
+            }
+          }
+        },
+        "6": {
+          "name": "Limiting sources.",
+          "text": {
+            "text": "Orders placed or BPAs established under Federal Supply Schedules are exempt from the requirements in part 6. However, an ordering activity must justify its action when restricting consideration in accordance with paragraphs (a) or (b) of this section—\n\n(a) Orders or BPAs exceeding the micro-purchase threshold based on a limited sources justification.\n\n(1) Circumstances justifying limiting the source.\n\n(i) For a proposed order or BPA with an estimated value exceeding the micro-purchase threshold not placed or established in accordance with the procedures in 8.405-1, 8.405-2, or 8.405-3, the only circumstances that may justify the action are—\n\n(A) An urgent and compelling need exists, and following the procedures would result in unacceptable delays;\n\n(B) Only one source is capable of providing the supplies or services required at the level of quality required because the supplies or services are unique or highly specialized; or\n\n(C) In the interest of economy and efficiency, the new work is a logical follow-on to an original Federal Supply Schedule order provided that the original order was placed in accordance with the applicable Federal Supply Schedule ordering procedures. The original order or BPA must not have been previously issued under sole-source or limited-sources procedures.\n\n(ii) See 8.405-6(c) for the content of the justification for an order or BPA exceeding the simplified acquisition threshold.\n\n(2) Posting.\n\n(i) Within 14 days after placing an order or establishing a BPA exceeding the simplified acquisition threshold that is supported by a limited-sources justification permitted under any of the circumstances under paragraph (a)(1) of this section, the ordering activity shall—\n\n(A) Publish a notice in accordance with 5.301; and\n\n(B) Post the justification—\n\n(1) At the GPE www.fedbizopps.gov;\n\n(2) On the Web site of the ordering activity agency, which may provide access to the justification by linking to the GPE; and\n\n(3) For a minimum of 30 days.\n\n(ii) In the case of an order or BPA permitted under paragraph (a)(1)(i)(A) of this section, the justification shall be posted within 30 days after award.\n\n(iii) Contracting officers shall carefully screen all justifications for contractor proprietary data and remove all such data, and such references and citations as are necessary to protect the proprietary data, before making the justifications available for public inspection. Contracting officers shall also be guided by the exemptions to disclosure of information contained in the Freedom of Information Act (5 U.S.C. 552) and the prohibitions against disclosure in 24.202 in determining whether other data should be removed. Although the submitter notice process set out in Executive Order 12600 “Predisclosure Notification Procedures for Confidential Commercial Information” does not apply, if the justification appears to contain proprietary data, the contracting officer should provide the contractor that submitted the information an opportunity to review the justification for proprietary data before making the justification available for public inspection, redacted as necessary. This process must not prevent or delay the posting of the justification in accordance with the timeframes required in paragraphs (a)(2)(i) and (ii) of this section.\n\n(iv) This posting requirement does not apply when disclosure would compromise the national security (e.g., would result in disclosure of classified information) or create other security risks.\n\n(b) Items peculiar to one manufacturer. An item peculiar to one manufacturer can be a particular brand name, product, or a feature of a product, peculiar to one manufacturer). A brand name item, whether available on one or more schedule contracts, is an item peculiar to one manufacturer.\n\n(1) Brand name specifications shall not be used unless the particular brand name, product, or feature is essential to the Government’s requirements, and market research indicates other companies’ similar products, or products lacking the particular feature, do not meet, or cannot be modified to meet, the agency’s needs.\n\n(2) Documentation.\n\n(i) For proposed orders or BPAs with an estimated value exceeding the micro-purchase threshold, but not exceeding the simplified acquisition threshold, the ordering activity contracting officer shall document the basis for restricting consideration to an item peculiar to one manufacturer.\n\n(ii) For proposed orders or BPAs with an estimated value exceeding the simplified acquisition threshold, see paragraph (c) of this section.\n\n(iii) The documentation or justification must be completed and approved at the time the requirement for a brand-name item is determined. In addition, the justification for a brand-name item is required at the order level when a justification for the brand-name item was not completed for the BPA or does not adequately cover the requirements in the order.\n\n(3) Posting.\n\n(i) The ordering activity shall post the following information along with the Request for Quotation (RFQ) to e-Buy (http://www.ebuy.gsa.gov):\n\n(A) For proposed orders or BPAs with an estimated value exceeding $25,000, but not exceeding the simplified acquisition threshold, the documentation required by paragraph (b)(2)(i) of this section.\n\n(B) For proposed orders or BPAs with an estimated value exceeding the simplified acquisition threshold, the justification required by paragraph (c) of this section.\n\n(C) The documentation in paragraph (b)(2)(i) and the justification in paragraph (c) of this subsection is subject to the screening requirement in paragraph (a)(2)(iii) of this section.\n\n(ii) The posting requirement of paragraph (b)(3)(i) of this section does not apply when—\n\n(A) Disclosure would compromise the national security (e.g., would result in disclosure of classified information) or create other security risks. The fact that access to classified matter may be necessary to submit a proposal or perform the contract does not, in itself, justify use of this exception;\n\n(B) The nature of the file (e.g., size, format) does not make it cost-effective or practicable for contracting officers to provide access through e-Buy; or\n\n(C) The agency’s senior procurement executive makes a written determination that access through e-Buy is not in the Government’s interest.\n\n(4) When applicable, the documentation and posting requirements in paragraphs (b)(2) and (3) of this subsection apply only to the portion of the order or BPA that requires a brand-name item. If the justification and approval is to cover only the portion of the acquisition which is brand-name, then it should so state; the approval level requirements will then only apply to that portion.\n\n(c) An order or BPA with an estimated value exceeding the simplified acquisition threshold.\n\n(1) For a proposed order or BPA exceeding the simplified acquisition threshold, the requiring activity shall assist the ordering activity contracting officer in the preparation of the justification. The justification shall cite that the acquisition is conducted under the authority of the Multiple-Award Schedule Program (see 8.401).\n\n(2) At a minimum, each justification shall include the following information:\n\n(i) Identification of the agency and the contracting activity, and specific identification of the document as a “Limited-Sources Justification.”\n\n(ii) Nature and/or description of the action being approved.\n\n(iii) A description of the supplies or services required to meet the agency’s needs (including the estimated value).\n\n(iv) The authority and supporting rationale (see 8.405-6(a)(1)(i) and (b)(1)) and, if applicable, a demonstration of the proposed contractor’s unique qualifications to provide the required supply or service.\n\n(v) A determination by the ordering activity contracting officer that the order represents the best value consistent with 8.404(d).\n\n(vi) A description of the market research conducted among schedule holders and the results or a statement of the reason market research was not conducted.\n\n(vii) Any other facts supporting the justification.\n\n(viii) A statement of the actions, if any, the agency may take to remove or overcome any barriers that led to the restricted consideration before any subsequent acquisition for the supplies or services is made.\n\n(ix) The ordering activity contracting officer’s certification that the justification is accurate and complete to the best of the contracting officer’s knowledge and belief.\n\n(x) Evidence that any supporting data that is the responsibility of technical or requirements personnel (e.g., verifying the Government’s minimum needs or requirements or other rationale for limited sources) and which form a basis for the justification have been certified as complete and accurate by the technical or requirements personnel.\n\n(xi) For justifications under 8.405-6(a)(1), a written determination by the approving official identifying the circumstance that applies.\n\n(d) Justification approvals.\n\n(1) For a proposed order or BPA with an estimated value exceeding the simplified acquisition threshold, but not exceeding $700,000, the ordering activity contracting officer’s certification that the justification is accurate and complete to the best of the ordering activity contracting officer’s knowledge and belief will serve as approval, unless a higher approval level is established in accordance with agency procedures.\n\n(2) For a proposed order or BPA with an estimated value exceeding $700,000, but not exceeding $13.5 million, the justification must be approved by the advocate for competition of the activity placing the order, or by an official named in paragraph (d)(3) or (d)(4) of this section. This authority is not delegable.\n\n(3) For a proposed order or BPA with an estimated value exceeding $13.5 million, but not exceeding $68 million (or, for DoD, NASA, and the Coast Guard, not exceeding $93 million), the justification must be approved by—\n\n(i) The head of the procuring activity placing the order;\n\n(ii) A designee who—\n\n(A) If a member of the armed forces, is a general or flag officer;\n\n(B) If a civilian, is serving in a position in a grade above GS-15 under the General Schedule (or in a comparable or higher position under another schedule); or\n\n(iii) An official named in paragraph (d)(4) of this section.\n\n(4) For a proposed order or BPA with an estimated value exceeding $68 million (or, for DoD, NASA, and the Coast Guard, over $93 million), the justification must be approved by the senior procurement executive of the agency placing the order. This authority is not delegable, except in the case of the Under Secretary of Defense for Acquisition, Technology, and Logistics, acting as the senior procurement executive for the Department of Defense."
+          }
+        },
+        "7": {
+          "name": "Payment.",
+          "text": {
+            "text": "Agencies may make payments for oral or written orders by any authorized means, including the Governmentwide commercial purchase card (but see 32.1108(b)(2))."
+          }
+        }
+      },
+      "text": {
+        "text": "Ordering activities shall use the ordering procedures of this section when placing an order or establishing a BPA for supplies or services. The procedures in this section apply to all schedules. For establishing BPAs and for orders under BPAs see 8.405-3."
+      }
+    },
+    "406": {
+      "number": 406,
+      "name": "Ordering activity responsibilities.",
+      "sub": {
+        "1": {
+          "name": "Order placement.",
+          "text": {
+            "1": {
+              "text": "Complete shipping and billing addresses."
+            },
+            "2": {
+              "text": "Contract number and date."
+            },
+            "3": {
+              "text": "Agency order number."
+            },
+            "4": {
+              "text": "F.o.b. delivery point; i.e., origin or destination."
+            },
+            "5": {
+              "text": "Discount terms."
+            },
+            "6": {
+              "text": "Delivery time or period of performance."
+            },
+            "7": {
+              "text": "Special item number or national stock number."
+            },
+            "8": {
+              "text": "Line item or subline item."
+            },
+            "9": {
+              "text": "A statement of work for services, when required, or a brief, complete description of each item (when ordering by model number, features and options such as color, finish, and electrical characteristics, if available, must be specified)."
+            },
+            "10": {
+              "text": "Quantity and any variation in quantity."
+            },
+            "11": {
+              "text": "Number of units."
+            },
+            "12": {
+              "text": "Unit price."
+            },
+            "13": {
+              "text": "Total price of order."
+            },
+            "14": {
+              "text": "Points of inspection and acceptance."
+            },
+            "15": {
+              "text": "Other pertinent data; e.g., delivery instructions or receiving hours and size-of-truck limitation."
+            },
+            "16": {
+              "text": "Marking requirements."
+            },
+            "17": {
+              "text": "Level of preservation, packaging, and packing."
+            },
+            "a": {
+              "text": "Ordering activities may place orders orally, except for—",
+              "sub": {
+                "1": {
+                  "text": "Supplies and services not requiring a statement of work exceeding the simplified acquisition threshold;"
+                },
+                "2": {
+                  "text": "Services requiring a statement of work (SOW); and"
+                },
+                "3": {
+                  "text": "Orders containing brand-name specifications that exceed $25,000."
+                }
+              }
+            },
+            "b": {
+              "text": "Ordering activities may use Optional Form 347, an agency-prescribed form, or an established electronic communications format to order supplies or services from schedule contracts."
+            },
+            "c": {
+              "text": "The ordering activity shall place an order directly with the contractor in accordance with the terms and conditions of the pricelists (see 8.402(b)). Prior to placement of the order, the ordering activity shall ensure that the regulatory and statutory requirements of the requiring agency have been applied."
+            },
+            "d": {
+              "text": "Orders shall include the following information in addition to any information required by the schedule contract:"
+            }
+          }
+        },
+        "2": {
+          "name": "Inspection and acceptance.",
+          "text": {
+            "a": {
+              "text": "Supplies.",
+              "sub": {
+                "1": {
+                  "text": "Consignees shall inspect supplies at destination except when—",
+                  "sub": {
+                    "i": {
+                      "text": "The schedule contract indicates that mandatory source inspection is required by the schedule contracting agency; or"
+                    },
+                    "ii": {
+                      "text": "A schedule item is covered by a product description, and the ordering activity determines that the schedule contracting agency’s inspection assistance is needed (based on the ordering volume, the complexity of the supplies, or the past performance of the supplier)."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "When the schedule contracting agency performs the inspection, the ordering activity will provide two copies of the order specifying source inspection to the schedule contracting agency. The schedule contracting agency will notify the ordering activity of acceptance or rejection of the supplies."
+                },
+                "3": {
+                  "text": "Material inspected at source by the schedule contracting agency, and determined to conform with the product description of the schedule, shall not be reinspected for the same purpose. The consignee shall limit inspection to kind, count, and condition on receipt."
+                },
+                "4": {
+                  "text": "Unless otherwise provided in the schedule contract, acceptance is conclusive, except as regards latent defects, fraud, or such gross mistakes as amount to fraud."
+                }
+              }
+            },
+            "b": {
+              "text": "Services. The ordering activity has the right to inspect all services in accordance with the contract requirements and as called for by the order. The ordering activity shall perform inspections and tests as specified in the order’s quality assurance surveillance plan in a manner that will not unduly delay the work."
+            }
+          }
+        },
+        "3": {
+          "name": "Remedies for nonconformance.",
+          "text": {
+            "a": {
+              "text": "If a contractor delivers a supply or service, but it does not conform to the order requirements, the ordering activity shall take appropriate action in accordance with the inspection and acceptance clause of the contract, as supplemented by the order."
+            },
+            "b": {
+              "text": "If the contractor fails to perform an order, or take appropriate corrective action, the ordering activity may terminate the order for cause or modify the order to establish a new delivery date (after obtaining consideration, as appropriate). Ordering activities shall follow the procedures at 8.406-4 when terminating an order for cause."
+            }
+          }
+        },
+        "4": {
+          "name": "Termination for cause.",
+          "text": {
+            "a": {
+              "text": "(1) An ordering activity contracting officer may terminate individual orders for cause. Termination for cause shall comply with FAR 12.403, and may include charging the contractor with excess costs resulting from repurchase.",
+              "sub": {
+                "2": {
+                  "text": "The schedule contracting office shall be notified of all instances where an ordering activity contracting officer has terminated for cause an individual order to a Federal Supply Schedule contractor, or if fraud is suspected."
+                }
+              }
+            },
+            "b": {
+              "text": "If the contractor asserts that the failure was excusable, the ordering activity contracting officer shall follow the procedures at 8.406-6, as appropriate."
+            },
+            "c": {
+              "text": "If the contractor is charged excess costs, the following apply:\n\nRepurchase against the account of __________ [insert contractor’s name] under Order __________ [insert number] under Contract __________ [insert number].",
+              "sub": {
+                "1": {
+                  "text": "Any repurchase shall be made at as low a price as reasonable, considering the quality required by the Government, delivery requirement, and administrative expenses. Copies of all repurchase orders, except the copy furnished to the contractor or any other commercial concern, shall include the notation:\n\nRepurchase against the account of __________ [insert contractor’s name] under Order __________ [insert number] under Contract __________ [insert number].",
+                  "sub": {
+                    "text": "Repurchase against the account of __________ [insert contractor’s name] under Order __________ [insert number] under Contract __________ [insert number]."
+                  }
+                },
+                "2": {
+                  "text": "When excess costs are anticipated, the ordering activity may withhold funds due the contractor as offset security. Ordering activities shall minimize excess costs to be charged against the contractor and collect or set-off any excess costs owed."
+                },
+                "3": {
+                  "text": "If an ordering activity is unable to collect excess repurchase costs, it shall notify the schedule contracting office after final payment to the contractor."
+                },
+                "i": {
+                  "text": "The notice shall include the following information about the terminated order:"
+                },
+                "A": {
+                  "text": "Name and address of the contractor."
+                },
+                "B": {
+                  "text": "Item repurchase cost."
+                },
+                "C": {
+                  "text": "Repurchase order number and date of payment."
+                },
+                "D": {
+                  "text": "Contract number, if any."
+                },
+                "E": {
+                  "text": "Other pertinent data."
+                },
+                "F": {
+                  "text": "Other pertinent data."
+                },
+                "ii": {
+                  "text": "The notice shall also include the following information about the purchase contract:"
+                }
+              }
+            },
+            "d": {
+              "text": "Only the schedule contracting officer may modify the contract to terminate for cause any, or all, supplies or services covered by the schedule contract. If the schedule contracting officer has terminated any supplies or services covered by the schedule contract, no further orders may be placed for those items. Orders placed prior to termination for cause shall be fulfilled by the contractor, unless terminated for the convenience of the Government by the ordering activity contracting officer."
+            },
+            "e": {
+              "text": "Reporting. An ordering activity contracting officer, in accordance with agency procedures, shall ensure that information related to termination for cause notices and any amendments are reported. In the event the termination for cause is subsequently converted to a termination for convenience, or is otherwise withdrawn, the contracting officer shall ensure that a notice of the conversion or withdrawal is reported. All reporting shall be in accordance with 42.1503(h)."
+            }
+          }
+        },
+        "5": {
+          "name": "Termination for the Government’s convenience.",
+          "text": {
+            "a": {
+              "text": "An ordering activity contracting officer may terminate individual orders for the Government’s convenience. Terminations for the Government’s convenience shall comply with FAR 12.403."
+            },
+            "b": {
+              "text": "Before terminating orders for the Government’s convenience, the ordering activity contracting officer shall endeavor to enter into a “no cost” settlement agreement with the contractor."
+            },
+            "c": {
+              "text": "Only the schedule contracting officer may modify the schedule contract to terminate any, or all, supplies or services covered by the schedule contract for the Government’s convenience."
+            }
+          }
+        },
+        "6": {
+          "name": "Disputes.",
+          "text": {
+            "a": {
+              "text": "Disputes pertaining to the performance of orders under a schedule contract.",
+              "sub": {
+                "1": {
+                  "text": "Under the Disputes clause of the schedule contract, the ordering activity contracting officer may—",
+                  "sub": {
+                    "i": {
+                      "text": "Issue final decisions on disputes arising from performance of the order (but see paragraph (b) of this section); or"
+                    },
+                    "ii": {
+                      "text": "Refer the dispute to the schedule contracting officer."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "The ordering activity contracting officer shall notify the schedule contracting officer promptly of any final decision."
+                }
+              }
+            },
+            "b": {
+              "text": "Disputes pertaining to the terms and conditions of schedule contracts. The ordering activity contracting officer shall refer all disputes that relate to the contract terms and conditions to the schedule contracting officer for resolution under the Disputes clause of the contract and notify the schedule contractor of the referral."
+            },
+            "c": {
+              "text": "Appeals. Contractors may appeal final decisions to either the Board of Contract Appeals servicing the agency that issued the final decision or the U.S. Court of Federal Claims."
+            },
+            "d": {
+              "text": "Alternative dispute resolution. The contracting officer should use the alternative dispute resolution (ADR) procedures, to the maximum extent practicable (see 33.204 and 33.214)."
+            }
+          }
+        },
+        "7": {
+          "name": "Contractor Performance Evaluation.",
+          "text": {
+            "text": "Ordering activities must prepare at least annually and at the time the work under the order is completed, an evaluation of contractor performance for each order that exceeds the simplified acquisition threshold in accordance with 42.1502(c)."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    }
+  }
+}

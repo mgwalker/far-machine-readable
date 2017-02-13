@@ -1,0 +1,128 @@
+{
+  "parentPart": 36,
+  "number": 3,
+  "name": "Two-Phase Design-Build Selection Procedures",
+  "sub": {
+    "300": {
+      "number": 300,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures for the use of the two-phase design-build selection procedures authorized by 10 U.S.C. 2305a and 41 U.S.C. 3309."
+      }
+    },
+    "301": {
+      "number": 301,
+      "name": "Use of two-phase design-build selection procedures.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Three or more offers are anticipated."
+        },
+        "2": {
+          "text": "Design work must be performed by offerors before developing price or cost proposals, and offerors will incur a substantial amount of expense in preparing offers."
+        },
+        "3": {
+          "text": "The following criteria have been considered:"
+        },
+        "a": {
+          "text": "During formal or informal acquisition planning (see Part 7), if considering the use of two-phase design-build selection procedures, the contracting officer shall conduct the evaluation in paragraph (b) of this section."
+        },
+        "b": {
+          "text": "The two-phase design-build selection procedures shall be used when the contracting officer determines that this method is appropriate, based on the following:"
+        },
+        "i": {
+          "text": "The extent to which the project requirements have been adequately defined."
+        },
+        "ii": {
+          "text": "The time constraints for delivery of the project."
+        },
+        "iii": {
+          "text": "The capability and experience of potential contractors."
+        },
+        "iv": {
+          "text": "The suitability of the project for use of the two-phase selection method."
+        },
+        "v": {
+          "text": "The capability of the agency to manage the two-phase selection process."
+        },
+        "vi": {
+          "text": "Other criteria established by the head of the contracting activity."
+        }
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "Scope of work.",
+      "sub": {},
+      "text": {
+        "text": "The agency shall develop, either in-house or by contract, a scope of work that defines the project and states the Government’s requirements. The scope of work may include criteria and preliminary design, budget parameters, and schedule or delivery requirements. If the agency contracts for development of the scope of work, the procedures in Subpart 36.6 shall be used."
+      }
+    },
+    "303": {
+      "number": 303,
+      "name": "Procedures.",
+      "sub": {
+        "1": {
+          "name": "Phase One.",
+          "text": {
+            "a": {
+              "text": "Phase One of the solicitation(s) shall include—",
+              "sub": {
+                "1": {
+                  "text": "The scope of work;"
+                },
+                "2": {
+                  "text": "The phase-one evaluation factors, including—",
+                  "sub": {
+                    "i": {
+                      "text": "Technical approach (but not detailed design or technical information);"
+                    },
+                    "ii": {
+                      "text": "Technical qualifications, such as—"
+                    },
+                    "A": {
+                      "text": "Specialized experience and technical competence;"
+                    },
+                    "B": {
+                      "text": "Capability to perform;"
+                    },
+                    "C": {
+                      "text": "Past performance of the offeror’s team (including the architect-engineer and construction members); and"
+                    },
+                    "iii": {
+                      "text": "Other appropriate factors (excluding cost or price related factors, which are not permitted in Phase One);"
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Phase-two evaluation factors (see 36.303-2); and"
+                },
+                "4": {
+                  "text": "A statement of the maximum number of offerors that will be selected to submit phase-two proposals. The maximum number specified in the solicitation shall not exceed five unless the contracting officer determines, for that particular solicitation, that a number greater than five is in the Government's interest and is consistent with the purposes and objectives of the two-phase design-build selection procedures. The contracting officer shall document this determination in the contract file. For acquisitions greater than $4 million, the determination shall be approved by the head of the contracting activity, delegable to a level no lower than the senior contracting official within the contracting activity. In civilian agencies, for this paragraph (a)(4), the senior contracting official is the advocate for competition for the procuring activity, unless the agency designates a different position in agency procedures. The approval shall be documented in the contract file."
+                }
+              }
+            },
+            "b": {
+              "text": "After evaluating phase-one proposals, the contracting officer shall select the most highly qualified offerors (not to exceed the maximum number specified in the solicitation in accordance with 36.303-1(a)(4)) and request that only those offerors submit phase-two proposals."
+            }
+          }
+        },
+        "2": {
+          "name": "Phase Two.",
+          "text": {
+            "a": {
+              "text": "Phase Two of the solicitation(s) shall be prepared in accordance with Part 15, and include phase-two evaluation factors, developed in accordance with 15.304. Examples of potential phase-two technical evaluation factors include design concepts, management approach, key personnel, and proposed technical solutions."
+            },
+            "b": {
+              "text": "Phase Two of the solicitation(s) shall require submission of technical and price proposals, which shall be evaluated separately, in accordance with Part 15."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": "One solicitation may be issued covering both phases, or two solicitations may be issued in sequence. Proposals will be evaluated in Phase One to determine which offerors will submit proposals for Phase Two. One contract will be awarded using competitive negotiation."
+      }
+    }
+  }
+}

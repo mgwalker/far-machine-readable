@@ -1,0 +1,34 @@
+{
+  "parentPart": 38,
+  "number": 2,
+  "name": "Establishing and Administering Federal Supply Schedules",
+  "sub": {
+    "201": {
+      "number": 201,
+      "name": "Coordination requirements.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Subject to interagency agreements, contracting officers having responsibility for awarding Federal Supply Schedule contracts shall coordinate and obtain approval of the General Services Administration’s Federal Supply Service (FSS) before—",
+          "sub": {
+            "1": {
+              "text": "Establishing new schedules;"
+            },
+            "2": {
+              "text": "Discontinuing existing schedules;"
+            },
+            "3": {
+              "text": "Changing the scope of agency or geographical coverage of existing schedules; or"
+            },
+            "4": {
+              "text": "Adding or deleting special item numbers, national stock numbers, or revising their description."
+            }
+          }
+        },
+        "b": {
+          "text": "Requests should be forwarded to the:\n\nGeneral Services Administration\n\nFederal Supply Service\n\nOffice of Acquisition (FC)\n\nWashington, DC 20406.\n\nGeneral Services Administration\n\nFederal Supply Service\n\nOffice of Acquisition (FC)\n\nWashington, DC 20406."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "parentPart": 8,
+  "number": 5,
+  "name": "Acquisition of Helium",
+  "sub": {
+    "500": {
+      "number": 500,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart implements the requirements of the Helium Act (50 U.S.C. 167, et seq.) concerning the acquisition of liquid or gaseous helium by Federal agencies or by Government contractors or subcontractors for use in the performance of a Government contract (also see 43 CFR Part 3195)."
+      }
+    },
+    "501": {
+      "number": 501,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Bureau of Land Management” means the—\n\nDepartment of the Interior\n\nBureau of Land Management\n\nAmarillo Field Office\n\nHelium Operations\n\n801 South Fillmore Street\n\nSuite 500\n\nAmarillo, TX 79101-3545.\n\n“Federal helium supplier” means a private helium vendor that has an in-kind crude helium sales contract with the Bureau of Land Management (BLM) and that is on the BLM Amarillo Field Office’s Authorized List of Federal Helium Suppliers available via the Internet at http://blm.gov/8pjd.\n\n“Major helium requirement” means an estimated refined helium requirement greater than 200,000 standard cubic feet (scf) (measured at 14.7 pounds per square inch absolute pressure and 70 degrees Fahrenheit temperature) of gaseous helium or 7510 liters of liquid helium delivered to a helium use location per year."
+      }
+    },
+    "502": {
+      "number": 502,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "text": "Agencies and their contractors and subcontractors must purchase major helium requirements from Federal helium suppliers, to the extent that supplies are available."
+      }
+    },
+    "503": {
+      "number": 503,
+      "name": "Exception.",
+      "sub": {},
+      "text": {
+        "text": "The requirements of this subpart do not apply to contracts or subcontracts in which the helium was acquired by the contractor prior to award of the contract or subcontract."
+      }
+    },
+    "504": {
+      "number": 504,
+      "name": "Procedures.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer must forward the following information to the Bureau of Land Management within 45 days of the close of each fiscal quarter:\n\n(a) The name of any company that supplied a major helium requirement.\n\n(b) The amount of helium purchased.\n\n(c) The delivery date(s).\n\n(d) The location where the helium was used."
+      }
+    },
+    "505": {
+      "number": 505,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "Insert the clause at 52.208-8, Required Sources for Helium and Helium Usage Data, in solicitations and contracts if it is anticipated that performance of the contract involves a major helium requirement."
+      }
+    }
+  }
+}

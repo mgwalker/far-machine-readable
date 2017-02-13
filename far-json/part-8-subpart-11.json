@@ -1,0 +1,77 @@
+{
+  "parentPart": 8,
+  "number": 11,
+  "name": "Leasing of Motor Vehicles",
+  "sub": {
+    "1100": {
+      "number": 1100,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart covers the procedures for the leasing, from commercial concerns, of motor vehicles that comply with Federal Motor Vehicle Safety Standards and applicable State motor vehicle safety regulations. It does not apply to motor vehicles leased outside the United States and its outlying areas."
+      }
+    },
+    "1101": {
+      "number": 1101,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Leasing” means the acquisition of motor vehicles, other than by purchase from private or commercial sources, and includes the synonyms “hire” and “rent.”\n\n“Motor vehicle” means an item of equipment, mounted on wheels and designed for highway and/or land use, that—\n\n(1) Derives power from a self-contained power unit; or\n\n(2) Is designed to be towed by and used in conjunction with self-propelled equipment."
+      }
+    },
+    "1102": {
+      "number": 1102,
+      "name": "Presolicitation requirements.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Except as specified in 8.1102(b), before preparing solicitations for leasing of motor vehicles, contracting officers shall obtain from the requiring activity a written certification that—",
+          "sub": {
+            "1": {
+              "text": "The vehicles requested are of maximum fuel efficiency and minimum body size, engine size, and equipment (if any) necessary to fulfill operational needs, and meet prescribed fuel economy standards;"
+            },
+            "2": {
+              "text": "The head of the requiring agency, or a designee, has certified that the requested passenger automobiles (sedans and station wagons) larger than Type IA, IB, or II (small, subcompact, or compact) are essential to the agency’s mission;"
+            },
+            "3": {
+              "text": "Internal approvals have been received; and"
+            },
+            "4": {
+              "text": "The General Services Administration has advised that it cannot furnish the vehicles."
+            }
+          }
+        },
+        "b": {
+          "text": "With respect to requirements for leasing motor vehicles for a period of less than 60 days, the contracting officer need not obtain the certification specified in 8.1102(a)—",
+          "sub": {
+            "1": {
+              "text": "If the requirement is for type 1A, 1B, or II vehicles, which are by definition fuel efficient; or"
+            },
+            "2": {
+              "text": "If the requirement is for passenger vehicles larger than 1A, 1B, or II, and the agency has established procedures for advance approval, on a case-by-case basis, of such requirements."
+            }
+          }
+        },
+        "c": {
+          "text": "Generally, solicitations shall not be limited to current year production models. However, with the prior approval of the head of the contracting office, solicitations may be limited to current models on the basis of overall economy."
+        }
+      }
+    },
+    "1103": {
+      "number": 1103,
+      "name": "Contract requirements.",
+      "sub": {},
+      "text": {
+        "text": "Contracting officers shall include the following items in each contract for leasing motor vehicles:\n\n(a) Scope of contract.\n\n(b) Method of computing payments.\n\n(c) A listing of the number and type of vehicles required, and the equipment and accessories to be provided with each vehicle.\n\n(d) Responsibilities of the contractor or the Government for furnishing gasoline, motor oil, antifreeze, and similar items.\n\n(e) Unless it is determined that it will be more economical for the Government to perform the work, a statement that the contractor shall perform all maintenance on the vehicles.\n\n(f) A statement as to the applicability of pertinent State and local laws and regulations, and the responsibility of each party for compliance with them.\n\n(g) Responsibilities of the contractor or the Government for emergency repairs and services."
+      }
+    },
+    "1104": {
+      "number": 1104,
+      "name": "Contract clauses.",
+      "sub": {},
+      "text": {
+        "text": "Insert the following clauses in solicitations and contracts for leasing of motor vehicles, unless the motor vehicles are leased in foreign countries:\n\n(a) The clause at 52.208-4, Vehicle Lease Payments.\n\n(b) The clause at 52.208-5, Condition of Leased Vehicles.\n\n(c) The clause at 52.208-6, Marking of Leased Vehicles.\n\n(d) A clause substantially the same as the clause at 52.208-7, Tagging of Leased Vehicles, for vehicles leased over 60 days (see Subpart B of 41 CFR Part 102-34).\n\n(e) The provisions and clauses prescribed elsewhere in the FAR for solicitations and contracts for supplies when a fixed-price contract is contemplated, but excluding—\n\n(1) The clause at 52.211-16, Variation in Quantity;\n\n(2) The clause at 52.232-1, Payments;\n\n(3) The clause at 52.222-20, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000; and\n\n(4) The clause at 52.246-16, Responsibility for Supplies."
+      }
+    }
+  }
+}

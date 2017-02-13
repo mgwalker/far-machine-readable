@@ -1,0 +1,461 @@
+{
+  "parentPart": 32,
+  "number": 4,
+  "name": "Advance Payments for Non-Commercial Items",
+  "sub": {
+    "400": {
+      "number": 400,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart provides policies and procedures for advance payments on prime contracts and subcontracts. It does not include policies and procedures for advance payments for the types of transactions listed in 32.404. This subpart does not apply to commercial advance payments, which are subject to Subpart 32.2."
+      }
+    },
+    "401": {
+      "number": 401,
+      "name": "Statutory authority.",
+      "sub": {},
+      "text": {
+        "text": "The agency may authorize advance payments in negotiated and sealed bid contracts if the action is appropriate under—\n\n(a) 41 U.S.C. chapter 45;\n\n(b) 10 U.S.C. 2307; or\n\n(c) Pub. L. 85-804 (50 U.S.C. 1431-1435) and Executive Order 10789, November 14, 1958 (3 CFR 1958 Supp. pp. 72-74) (see Subpart 50.1 for other applications of this statute)."
+      }
+    },
+    "402": {
+      "number": 402,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "A limitation on authority to grant advance payments under Pub. L. 85-804 (50 U.S.C. 1431-1435) is described at 50.102-3(b)(4)."
+        },
+        "b": {
+          "text": "Advance payments may be provided on any type of contract; however, the agency shall authorize advance payments sparingly. Except for the contracts described in 32.403(a) and (b), advance payment is the least preferred method of contract financing (see 32.106) and generally they should not be authorized if other types of financing are reasonably available to the contractor in adequate amounts. Loans and credit at excessive interest rates or other exorbitant charges, or loans from other Government agencies, are not considered reasonably available financing."
+        },
+        "c": {
+          "text": "If statutory requirements and standards for advance payment determinations are met, the contracting officer shall generally recommend that the agency authorize advance payments.",
+          "sub": {
+            "1": {
+              "text": "The statutory requirements are that—",
+              "sub": {
+                "i": {
+                  "text": "The contractor gives adequate security;"
+                },
+                "ii": {
+                  "text": "The advance payments will not exceed the unpaid contract price (see 32.410(b), paragraph (a)(2)); and"
+                },
+                "iii": {
+                  "text": "The agency head or designee determines, based on written findings, that the advance payment—"
+                },
+                "A": {
+                  "text": "Is in the public interest (under 32.401(a) or (b)); or"
+                },
+                "B": {
+                  "text": "Facilitates the national defense (under 32.401(c))."
+                }
+              }
+            },
+            "2": {
+              "text": "The standards for advance payment determinations are that—"
+            },
+            "i": {
+              "text": "The advance payments will not exceed the contractor’s interim cash needs based on—"
+            },
+            "A": {
+              "text": "Analysis of the cash flow required for contract performance;"
+            },
+            "B": {
+              "text": "Consideration of the reimbursement or other payment cycle; and"
+            },
+            "C": {
+              "text": "To the extent possible, employment of the contractor’s own working capital;"
+            },
+            "ii": {
+              "text": "The advance payments are necessary to supplement other funds or credit available to a contractor;"
+            },
+            "iii": {
+              "text": "The recipient is otherwise qualified as a responsible contractor;"
+            },
+            "iv": {
+              "text": "The Government will benefit from performance prospects or there are other practical advantages; and"
+            },
+            "v": {
+              "text": "The case fits one or more of the categories described in 32.403."
+            }
+          }
+        },
+        "d": {
+          "text": "If necessary, the agency may authorize advance payments in addition to progress or partial payments on the same contract (see 32.501-1(c))."
+        },
+        "e": {
+          "text": "Each agency that provides advance payments shall—",
+          "sub": {
+            "1": {
+              "text": "Place the responsibility for making findings and determinations, and for approval of contract terms concerning advance payments (see 32.410), at an organizational level high enough to ensure uniform application of this subpart (see the limitation at 50.102-1(b) which also applies to advance payments authorized under Pub. L. 85-804 (50 U.S.C. 1431-1435)); and"
+            },
+            "2": {
+              "text": "Establish procedures for coordination, before advance payment authorization, with the activity that provides contract financing support."
+            }
+          }
+        },
+        "f": {
+          "text": "If the contract provides for advance payments under Pub. L. 85-804, the contracting officer shall ensure conformance with the requirements of 50.103-7."
+        }
+      }
+    },
+    "403": {
+      "number": 403,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "text": "Advance payments may be considered useful and appropriate for the following:\n\n(a) Contracts for experimental, research, or development work with nonprofit educational or research institutions.\n\n(b) Contracts solely for the management and operation of Government-owned plants.\n\n(c) Contracts for acquisition, at cost, of property for Government ownership.\n\n(d) Contracts of such a highly classified nature that the agency considers it undesirable for national security to permit assignment of claims under the contract.\n\n(e) Contracts entered into with financially weak contractors whose technical ability is considered essential to the agency. In these cases, the agency shall closely monitor the contractor’s performance and financial controls to reduce the Government’s financial risk.\n\n(f) Contracts for which a loan by a private financial institution is not practicable, whether or not a loan guarantee under this part is issued; for example, if—\n\n(1) Financing institutions will not assume a reasonable portion of the risk under a guaranteed loan;\n\n(2) Loans with reasonable interest rates or finance charges are not available to the contractor; or\n\n(3) Contracts involve operations so remote from a financial institution that the institution could not be expected to suitably administer a guaranteed loan.\n\n(g) Contracts with small business concerns, under which circumstances that make advance payments appropriate often occur (but see 32.104(b)).\n\n(h) Contracts under which exceptional circumstances make advance payments the most advantageous contract financing method for both the Government and the contractor."
+      }
+    },
+    "404": {
+      "number": 404,
+      "name": "Exclusions.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "This subpart does not apply to advance payments authorized by law for—",
+          "sub": {
+            "1": {
+              "text": "Rent;"
+            },
+            "2": {
+              "text": "Tuition;"
+            },
+            "3": {
+              "text": "Insurance premiums;"
+            },
+            "4": {
+              "text": "Expenses of investigations in foreign countries;"
+            },
+            "5": {
+              "text": "Extension or connection of public utilities for Government buildings or installations;"
+            },
+            "6": {
+              "text": "Subscriptions to publications;"
+            },
+            "7": {
+              "text": "Purchases of supplies or services in foreign countries, if—",
+              "sub": {
+                "i": {
+                  "text": "The purchase price does not exceed $15,000 (or equivalent amount of the applicable foreign currency); and"
+                },
+                "ii": {
+                  "text": "The advance payment is required by the laws or government regulations of the foreign country concerned;"
+                }
+              }
+            },
+            "8": {
+              "text": "Enforcement of the customs or narcotics laws; or"
+            },
+            "9": {
+              "text": "Other types of transactions excluded by agency procedures under statutory authority."
+            }
+          }
+        },
+        "b": {
+          "text": "Agencies may issue their own instructions to deal with advance payment items in paragraph (a) of this section authorized under statutes relevant to their agencies."
+        }
+      }
+    },
+    "405": {
+      "number": 405,
+      "name": "Applying Pub. L. 85-804 to advance payments under sealed bid contracts.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Enter into the contract and provide for advance payments conforming to this Part 32;"
+        },
+        "2": {
+          "text": "Enter into the contract without providing for advance payments if the contractor does not actually need advance payments; or"
+        },
+        "3": {
+          "text": "Deny award of the contract if the request for advance payments has been disapproved under 32.409-2 and funds adequate for performance are not otherwise available to the offeror."
+        },
+        "a": {
+          "text": "Actions that designated agencies may take to facilitate the national defense without regard to other provisions of law relating to contracts, as explained in 50.101-1(a), also include making advance payments. These advance payments may be made at or after award of sealed bid contracts, as well as negotiated contracts."
+        },
+        "b": {
+          "text": "Bidders may request advance payments before or after award, even if the invitation for bids does not contain an advance payment provision. However, the contracting officer shall reject any bid requiring that advance payments be provided as a basis for acceptance."
+        },
+        "c": {
+          "text": "When advance payments are requested, the agency may—"
+        }
+      }
+    },
+    "406": {
+      "number": 406,
+      "name": "Letters of credit.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Only the estimated disbursements for a given initial period; and"
+        },
+        "2": {
+          "text": "Subsequently, for only actual cash disbursements (31 CFR 205.3(k) and 205.7)."
+        },
+        "a": {
+          "text": "The Department of the Treasury (Treasury) prescribes regulations and instructions covering the use of letters of credit for advance payments under contracts. See Treasury Department Circular 1075 (31 CFR Part 205), and the implementing instructions in the Treasury Financial Manual, available in offices providing financial advice and assistance."
+        },
+        "b": {
+          "text": "If agencies provide advance payments to contractors, use of the following methods is required unless the agency has obtained a waiver from the Treasury Department:",
+          "sub": {
+            "1": {
+              "text": "By letter of credit if the contracting agency expects to have a continuing relationship with the contractor for a year or more, with advances totaling at least $120,000 a year."
+            },
+            "2": {
+              "text": "By direct Treasury check if the circumstances do not meet the criteria in paragraph (b)(1) of this section."
+            }
+          }
+        },
+        "c": {
+          "text": "If the agency has entered into multiple contracts (or a combination of contract(s) and assistance agreement(s)) involving eligibility of a contractor for more than one letter of credit, the agency shall follow arrangements made under Treasury procedures for—",
+          "sub": {
+            "1": {
+              "text": "Consolidating funding to the same contractor under one letter of credit or"
+            },
+            "2": {
+              "text": "Replacing multiple letters of credit with a single letter of credit."
+            }
+          }
+        },
+        "d": {
+          "text": "The letter of credit enables the contractor to withdraw Government funds in amounts needed to cover its own disbursements of cash for contract performance. Whenever feasible, the agency shall, under the direction and approval of the Department of the Treasury, use a letter of credit method that requires the contractor not to withdraw the Government funds until the contractor’s checks have been—",
+          "sub": {
+            "1": {
+              "text": "Forwarded to the payees (delay of drawdown technique), or"
+            },
+            "2": {
+              "text": "Presented to the contractor’s bank for payment (checks paid technique) (see 31 CFR 205.3 and 205.4(d))."
+            }
+          }
+        },
+        "e": {
+          "text": "The Treasury regulations provide for terminating the advance financing arrangement if the contractor is unwilling or unable to minimize the elapsed time between receipt of the advance and disbursement of the funds. In such cases, if reversion to normal payment methods is not feasible, the Treasury regulation provides for use of a working capital method of advance; i.e., for limiting advances to—"
+        }
+      }
+    },
+    "407": {
+      "number": 407,
+      "name": "Interest.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Except as provided in paragraph (d) of this section, the contracting officer shall charge interest on the daily unliquidated balance of all advance payments at the higher of—",
+          "sub": {
+            "1": {
+              "text": "The published prime rate of the financial institution (depository) in which the special account (see 32.409-3) is established; or"
+            },
+            "2": {
+              "text": "The rate established by the Secretary of the Treasury under 50 U.S.C. App. 1215(b)(2)."
+            }
+          }
+        },
+        "b": {
+          "text": "The interest rate for advance payments shall be adjusted for changes in the prime rate of the depository and the semiannual determination by the Secretary of the Treasury under 50 U.S.C. App. 1215(b)(2). The contracting officer shall obtain data from the depository on changes in the interest rate during the month. Interest shall be computed at the end of each month on the daily unliquidated balance of advance payments at the applicable daily interest rate."
+        },
+        "c": {
+          "text": "Interest shall be required on contracts that are for acquisition, at cost, of property for Government ownership, if the contracts are awarded in combination with, or in contemplation of, supply contracts or subcontracts."
+        },
+        "d": {
+          "text": "The agency head or designee may authorize advance payments without interest under the following types of contracts, if in the Government’s interest:",
+          "sub": {
+            "1": {
+              "text": "Contracts for experimental, research, or development work (including studies, surveys, and demonstrations in socio-economic areas) with nonprofit education or research institutions."
+            },
+            "2": {
+              "text": "Contracts solely for the management and operation of Government-owned plants."
+            },
+            "3": {
+              "text": "Cost-reimbursement contracts with governments, including State or local governments, or their instrumentalities."
+            },
+            "4": {
+              "text": "Other classes of contracts, or unusual cases, for which the exclusion of interest on advances is specifically authorized by agency procedures."
+            }
+          }
+        },
+        "e": {
+          "text": "If a contract provides for interest-free advance payments, the contracting officer may require the contractor to charge interest on advances or downpayments to subcontractors and credit the Government for the proceeds from the interest charges. Interest rates shall be determined as described in paragraphs (a) and (b) of this section. The contracting officer need not require the contractor to charge interest on an advance to a subcontractor that is an institution of the kind described in paragraph (d)(1) of this section."
+        },
+        "f": {
+          "text": "The contracting officer shall not allow interest charges, required by this 32.407, as reimbursable costs under cost-reimbursement contracts, whether the interest charge was incurred by the prime contractor or a subcontractor."
+        }
+      }
+    },
+    "408": {
+      "number": 408,
+      "name": "Application for advance payments.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "A reference to the contract if the request concerns an existing contract, or a reference to the solicitation if the request concerns a proposed contract."
+        },
+        "2": {
+          "text": "A cash flow forecast showing estimated disbursements and receipts for the period of contract performance. If the application pertains to a type of contract described in 32.403(a) or (b), the contractor shall limit the forecast to the contract to be financed by advance payments."
+        },
+        "3": {
+          "text": "The proposed total amount of advance payments."
+        },
+        "4": {
+          "text": "The name and address of the financial institution at which the contractor expects to establish a special account as depository for the advance payments. If advance payments in the form of a letter of credit are anticipated, the contractor shall identify the specific account at the financial institution to be used. This paragraph (b)(4) is not applicable if an alternate method is used under agency procedures."
+        },
+        "5": {
+          "text": "A description of the contractor’s efforts to obtain unguaranteed private financing or a V-loan (see 32.301) under eligible contracts. This requirement is not applicable to the contract types described in 32.403(a) or (b)."
+        },
+        "6": {
+          "text": "Other information appropriate to an understanding of (i) the contractor’s financial condition and need, (ii) the contractor’s ability to perform the contract without loss to the Government, and (iii) financial safeguards needed to protect the Government’s interest. Ordinarily, if the contract is a type described in 32.403(a) or (b), the contractor may limit the response to this paragraph (b)(6) to information on the contractor’s reliability, technical ability, and accounting system and controls."
+        },
+        "a": {
+          "text": "A contractor may apply for advance payments before or after the award of a contract."
+        },
+        "b": {
+          "text": "The contractor shall submit any advance payment request in writing to the contracting officer and provide the following information:"
+        }
+      }
+    },
+    "409": {
+      "number": 409,
+      "name": "Contracting officer action.",
+      "sub": {
+        "1": {
+          "name": "Recommendation for approval.",
+          "text": {
+            "text": "If recommending approval, the contracting officer shall transmit the following, under agency procedures, to the approving authority:\n\n(a) Contract data, including—\n\n(1) Identification and date of the award;\n\n(2) Citation of the appropriation;\n\n(3) Type and dollar amount of the contract;\n\n(4) Items to be supplied, schedule of deliveries or performance, and status of any deliveries or performance;\n\n(5) The contract fee or profit contemplated; and\n\n(6) A copy of the contract, if available.\n\n(b) The contractor’s request and supporting information.\n\n(c) A report on the contractor’s past performance, responsibility, technical ability, and plant capacity.\n\n(d) Comments on—\n\n(1) The contractor’s need for advance payments; and\n\n(2) Potential Government benefits from the contract performance.\n\n(e) Proposed advance payment contract terms, including proposed security requirements.\n\n(f) The findings, determination, and authorization (see 32.410).\n\n(g) The recommendation for approval of the advance payment request.\n\n(h) Justification of any proposal for waiver of interest charges (see 32.407)."
+          }
+        },
+        "2": {
+          "name": "Recommendation for disapproval.",
+          "text": {
+            "text": "If recommending disapproval, the contracting officer shall, under agency procedures, transmit—\n\n(a) The items prescribed in 32.409-1(a), (b), and (c); and\n\n(b) The recommendation for disapproval and the reasons."
+          }
+        },
+        "3": {
+          "name": "Security, supervision, and covenants.",
+          "text": {
+            "a": {
+              "text": "If advance payments are approved, the contracting officer shall enter into an agreement with the contractor covering special accounts and suitable covenants protecting the Government’s interest (see 32.411). This requirement generally applies under all statutory authorities, but modified requirements applicable to certain specific cases are prescribed in paragraphs (e) through (g) of this section."
+            },
+            "b": {
+              "text": "The agency shall—",
+              "sub": {
+                "1": {
+                  "text": "Ensure that the amount of advance payments does not exceed the contractor’s financial needs, and"
+                },
+                "2": {
+                  "text": "Closely supervise the contractor’s withdrawal of funds from special accounts in which the advance payments are deposited."
+                }
+              }
+            },
+            "c": {
+              "text": "In the terms of the agreement, the contracting officer should provide for a paramount lien in favor of the Government. This lien may supplement or replace other security requirements. The lien should cover—",
+              "sub": {
+                "1": {
+                  "text": "Supplies being acquired;"
+                },
+                "2": {
+                  "text": "Any credit balance in the special account in which advance payments are deposited; and"
+                },
+                "3": {
+                  "text": "All property that the contractor acquires for performing the contract, except to the extent to which the Government otherwise has valid title to the property."
+                }
+              }
+            },
+            "d": {
+              "text": "Security requirements vary to fit the circumstances of different cases. Minimum security requirements are covered by the clauses prescribed in the contract. The contracting officer may supplement these as necessary in each case for protection of the Government’s interest. Examples of additional security terms are—",
+              "sub": {
+                "1": {
+                  "text": "Personal or corporate endorsements or guarantees;"
+                },
+                "2": {
+                  "text": "Pledges of collateral;"
+                },
+                "3": {
+                  "text": "Subordination or standby of other indebtedness;"
+                },
+                "4": {
+                  "text": "Controls or limitations on profit distributions, salaries, bonuses or commissions, rentals and royalties, capital expenditures, creation of liens, retirement of stock or debt, and creation of additional obligations; and"
+                },
+                "5": {
+                  "text": "Advance payment bonds (rarely required)."
+                }
+              }
+            },
+            "e": {
+              "text": "In an advance payment agreement with an instrumentality of the Government, a State, a local government, or an agency or instrumentality of a State or local government, the contracting officer may omit the requirement for deposit of the advances in a special account, if the official approving the advance determines that other adequate security exists to protect the Government’s interest."
+            },
+            "f": {
+              "text": "The requirements of this 32.409-3 do not apply when using letters of credit if an agency’s procedures provide for—",
+              "sub": {
+                "1": {
+                  "text": "The use under a cost-reimbursement contract of Federal funds deposited in the contractor’s account at a financial institution (without the contractor acquiring title to the funds); and"
+                },
+                "2": {
+                  "text": "The security of such deposit of public moneys in accordance with governing regulations of the Treasury Department."
+                }
+              }
+            },
+            "g": {
+              "text": "If a separate special account is not required; e.g., advance payment by a letter of credit, an agency may require a special account for an individual case, or classes of cases, if the circumstances warrant."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": "After analysis of the contractor’s application and any appropriate investigation, the contracting officer shall recommend approval or disapproval and transmit the request and recommendation to the approving authority designated under 32.402(e)."
+      }
+    },
+    "410": {
+      "number": 410,
+      "name": "Findings, determination, and authorization.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "(1), (2), (3) and (4) and paragraphs (b) and (c) shall be used in each case. If the contract is (a) for experimental, developmental or research work and with a nonprofit educational or research institution, or (b) only for management and operation of a Government-owned plant, paragraph (a)(5) should not be included. If the advance payment is to be made without interest to the contractor, include paragraph (a)(6), (7), or (8). If any advance payments have previously been authorized for the contract, include the final sentence of paragraph (c). The alternate parenthetical wording or other modifications may be used as appropriate. The paragraphs actually used shall be renumbered sequentially.]"
+        },
+        "b": {
+          "text": "The following is an example of the format and text of findings, determination, and authorization with alternative words, phrases, and paragraphs to be selected to conform to the circumstances involved:\n\nFindings, Determination, and Authorization for Advance Payments\n\nFindings\n\nDetermination\n\nAuthorization",
+          "sub": {
+            "text": "Findings, Determination, and Authorization for Advance Payments\n\nFindings\n\n(a) The undersigned hereby finds that:\n\n(1) The ________________ [Insert the name of the contracting activity] and ________________ [Insert the name of the contractor] (have entered) (propose to enter) into (negotiated) (sealed bid) Contract No.____________, dated __________. [Summarize the specific facts and significant circumstances concerning the contract and the contractor, that, together with the other findings, will clearly support the determination below.]\n\n(2) Advance payments (in an amount not to exceed $______________ at any time outstanding) (in an aggregate amount not exceeding $________, less the aggregate amounts repaid, or withdrawn by the Government) are required by the Contractor to perform under the contract. The amount does not exceed the unpaid contract price or the estimated interim cash needs arising during the reimbursement cycle.\n\n(3) The advance payments are necessary for prompt, efficient contract performance that will benefit the Government.\n\n(4) The proposed advance payment clause provides for security for the protection of the Government. The clause requires that all payments will be deposited in a special account at the Contractor’s financial institution and that the Government will have a paramount lien on (i) the credit balance in the special account, (ii) any supplies contracted for, and (iii) any material or other property acquired for performance of the contract. [Insert the following, if applicable: (The Contractor’s financial management system provides for effective control over and accountability for all Federal funds under governing regulations of the Treasury Department.) (An advance payment bond is required.)] This security is considered adequate.\n\n(5) Advance payments are the only adequate means of financing available to the Contractor, and the amount designated in (2) of this section is based, to the extent possible, on the use of the Contractor’s own working capital in performing the contract. [Insert paragraph (6), (7), or (8), as applicable.]\n\n(6) The Contractor is a nonprofit (educational) (and) (research) institution, and the contract is for (experimental) (,) (research and development) work.\n\n(7) The contract is solely for the management and operation of a Government-owned plant.\n\n(8) The following unusual facts and circumstances favor making advance payments to the Contractor without interest: [List the pertinent facts and circumstances.]\n\nDetermination\n\n(b) Based on the findings in paragraph (a) of this section, the undersigned determined that the making of the proposed advance payments, (with interest at the rate of ______ [Insert the interest rate computed in accordance with 32.407] percent on the daily unliquidated balance of the advance payments,) (without interest, except as provided by the proposed advance payment clause,) (is in the public interest) (will facilitate the national defense).\n\nAuthorization"
+          }
+        },
+        "c": {
+          "text": "The advance payments, of which (the amount at any time outstanding) (the aggregate amount, less the aggregate amounts repaid, or withdrawn by the Government), shall not exceed $_____________, are hereby authorized under (41 U.S.C. chapter 45, Contract Financing)(10 U.S.C. 2307) (the Extraordinary Contracting Authority of Government Agencies in Connection with National Defense Functions (50 U.S.C. 1431-1435) and Executive Order No. 10789 of November 14, 1958 (3 CFR 1958 Supp. pp. 72-74)) [or, if other, cite appropriate authority] on (terms substantially as contained in the proposed advance payment clause, a copy (an outline) of which is annexed to this authorization) (the following terms:) [Insert the appropriate terms.] (All prior authorizations for advance payments under Contract No. _________ are superseded.)\n\n__________________________________________________\n\n[Signature]\n\n__________________________________________________\n\n[Name Typed]\n\n__________________________________________________\n\n[Title of Authorized Official]\n\n[Each Findings, Determination, and Authorization shall be individually prepared to fit the particular circumstances at hand. Paragraphs (a)(1), (2), (3) and (4) and paragraphs (b) and (c) shall be used in each case. If the contract is (a) for experimental, developmental or research work and with a nonprofit educational or research institution, or (b) only for management and operation of a Government-owned plant, paragraph (a)(5) should not be included. If the advance payment is to be made without interest to the contractor, include paragraph (a)(6), (7), or (8). If any advance payments have previously been authorized for the contract, include the final sentence of paragraph (c). The alternate parenthetical wording or other modifications may be used as appropriate. The paragraphs actually used shall be renumbered sequentially.]\n\n__________________________________________________\n\n[Signature]\n\n__________________________________________________\n\n[Name Typed]\n\n__________________________________________________\n\n[Title of Authorized Official]"
+        }
+      }
+    },
+    "411": {
+      "number": 411,
+      "name": "Agreement for special account at a financial institution.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer must use substantially the following form of agreement for a special account for advance payments:\n\nAgreement for Special Account\n\nThis agreement is entered into this _____ day of _____, 20___, between the United States of America (the Government), represented by the Contracting Officer executing this agreement, _____ [Insert the name of the Contractor], a _____ [Insert the name of the State of incorporation] corporation (the Contractor), and _____, a financial institution operating under the laws of _____, located at ____________ (the financial institution).\n\nRecitals\n\n(a) Under date of _____, 20__, the Government and the Contractor entered into Contract No. _____, or a related supplemental agreement, providing for advance payments to the Contractor. A copy of the advance payment terms was furnished to the financial institution.\n\n(b) The contract or supplemental agreement requires that amounts advanced to the Contractor be deposited separate from the Contractor’s general or other funds, in a Special Account at a member bank of the Federal Reserve System, any “insured” bank within the meaning of the Act creating the Federal Deposit Insurance Corporation (12 U.S.C. 1811), or a credit union insured by the National Credit Union Administration. The parties agree to deposit the amounts with the financial institution, which meets the requirement.\n\n(c) This Special Account is designated “________ [Insert the Contractor’s name], _____________ [Insert the name of the Government agency] Special Account.”\n\nCovenants\n\nIn consideration of the foregoing, and for other good and valuable considerations, the parties agree to the following conditions:\n\n(a) The Government shall have a lien on the credit balance in the account to secure the repayment of all advance payments made to the Contractor. The lien is paramount to any lien or claim of the financial institution regarding the account.\n\n(b) The financial institution is bound by the terms of the contract relating to the deposit and withdrawal of funds in the Special Account, but is not responsible for the application of funds withdrawn from the account. The financial institution shall act on written directions from the Contracting Officer, the administering office, or a duly authorized representative of either. The financial institution is not liable to any party to this agreement for any action that complies with the written directions. Any written directions received by the financial institution through the Contracting Officer on _____ [Insert the name of the agency] stationery and purporting to be signed by, or by the direction of _____ or duly authorized representative, shall be, as far as the rights, duties, and liabilities of the financial institution are concerned, considered as being properly issued and filed with the financial institution by the _____ [Insert the name of the agency].\n\n(c) The Government, or its authorized representatives, shall have access to the books and records maintained by the financial institution regarding the Special Account at all reasonable times and for all reasonable purposes, including (but not limited to), the inspection or copying of the books and records and any and all pertinent memoranda, checks, correspondence, or documents. The financial institution shall preserve the books and records for a period of 6 years after the closing of this Special Account.\n\n(d) In the event of the service of any writ of attachment, levy of execution, or commencement of garnishment proceedings regarding the Special Account, the financial institution will promptly notify ______ [Insert the name of the administering office].\n\n(e) While this Special Account exists, the financial institution shall inform the Government each month of the financial institution’s published prime interest rate and changes to the rate during the month. The financial institution shall give this information to the Contracting Officer on the last business day of the month. [This covenant will not be included in the Special Account Agreements covering interest-free advance payments.]\n\nEach of the parties to this agreement has executed the agreement on _________________, 20____.\n\n__________________________________________________\n\n__________________________________________________\n\n[Signatures and Official Titles]"
+      }
+    },
+    "412": {
+      "number": 412,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer shall insert the clause at 52.232-12, Advance Payments, in solicitations and contracts under which the Government will provide advance payments, except as provided in 32.412(b)."
+        },
+        "b": {
+          "text": "If the agency desires to waive the countersignature requirement because of the contractor’s financial strength, good performance record, and favorable experience concerning cost disallowances, the contracting officer shall use the clause with its Alternate I."
+        },
+        "c": {
+          "text": "If a cost-reimbursement contract is contemplated, the contracting officer shall use the clause with its Alternate II."
+        },
+        "d": {
+          "text": "If the agency considers a more rapid liquidation appropriate, the contracting officer shall use the clause with its Alternate III."
+        },
+        "e": {
+          "text": "If the agency provides advance payments under the contract at no interest to the prime contractor, the contracting officer shall use the clause with its Alternate IV."
+        },
+        "f": {
+          "text": "If the requirement for a special account is eliminated in accordance with 32.409-3(e) or (g), the contracting officer shall insert in the solicitation or contract the clause set forth in Alternate V of 52.232-12, Advance Payments, instead of the basic clause."
+        }
+      }
+    }
+  }
+}

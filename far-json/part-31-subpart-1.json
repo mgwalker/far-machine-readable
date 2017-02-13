@@ -1,0 +1,276 @@
+{
+  "parentPart": 31,
+  "number": 1,
+  "name": "Applicability",
+  "sub": {
+    "100": {
+      "number": 100,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart describes the applicability of the cost principles and procedures in succeeding subparts of this part to various types of contracts and subcontracts. It also describes the need for advance agreements."
+      }
+    },
+    "101": {
+      "number": 101,
+      "name": "Objectives.",
+      "sub": {},
+      "text": {
+        "text": "In recognition of differing organizational characteristics, the cost principles and procedures in the succeeding subparts are grouped basically by organizational type; e.g., commercial concerns and educational institutions. The overall objective is to provide that, to the extent practicable, all organizations of similar types doing similar work will follow the same cost principles and procedures. To achieve this uniformity, individual deviations concerning cost principles require advance approval of the agency head or designee. Class deviations for the civilian agencies require advance approval of the Civilian Agency Acquisition Council. Class deviations for the National Aeronautics and Space Administration require advance approval of the Deputy Chief Acquisition Officer. Class deviations for the Department of Defense require advance approval of the Director of Defense Procurement, Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics."
+      }
+    },
+    "102": {
+      "number": 102,
+      "name": "Fixed-price contracts.",
+      "sub": {},
+      "text": {
+        "text": "The applicable subparts of Part 31 shall be used in the pricing of fixed-price contracts, subcontracts, and modifications to contracts and subcontracts whenever (a) cost analysis is performed, or (b) a fixed-price contract clause requires the determination or negotiation of costs. However, application of cost principles to fixed-price contracts and subcontracts shall not be construed as a requirement to negotiate agreements on individual elements of cost in arriving at agreement on the total price. The final price accepted by the parties reflects agreement only on the total price. Further, notwithstanding the mandatory use of cost principles, the objective will continue to be to negotiate prices that are fair and reasonable, cost and other factors considered."
+      }
+    },
+    "103": {
+      "number": 103,
+      "name": "Contracts with commercial organizations.",
+      "sub": {},
+      "text": {
+        "text": "This category includes all contracts and contract modifications for supplies, services, or experimental, developmental, or research work negotiated with organizations other than educational institutions (see 31.104), construction and architect-engineer contracts (see 31.105), State and local governments (see 31.107) and nonprofit organizations (see 31.108) on the basis of cost.\n\n(a) The cost principles and procedures in Subpart 31.2 and agency supplements shall be used in pricing negotiated supply, service, experimental, developmental, and research contracts and contract modifications with commercial organizations whenever cost analysis is performed as required by 15.404-1(c).\n\n(b) In addition, the contracting officer shall incorporate the cost principles and procedures in Subpart 31.2 and agency supplements by reference in contracts with commercial organizations as the basis for—\n\n(1) Determining reimbursable costs under—\n\n(i) Cost-reimbursement contracts and cost-reimbursement subcontracts under these contracts performed by commercial organizations and\n\n(ii) The cost-reimbursement portion of time-and-materials contracts except when material is priced on a basis other than at cost (see 16.601(c)(3));\n\n(2) Negotiating indirect cost rates (see Subpart 42.7);\n\n(3) Proposing, negotiating, or determining costs under terminated contracts (see 49.103 and 49.113);\n\n(4) Price revision of fixed-price incentive contracts (see 16.204 and 16.403);\n\n(5) Price redetermination of price redetermination contracts (see 16.205 and 16.206); and\n\n(6) Pricing changes and other contract modifications."
+      }
+    },
+    "104": {
+      "number": 104,
+      "name": "Contracts with educational institutions.",
+      "sub": {},
+      "text": {
+        "text": "This category includes all contracts and contract modifications for research and development, training, and other work performed by educational institutions (defined as institutions of higher educations in the OMB Uniform Guidance at 2 CFR part 200, subpart A, and 20 U.S.C. 1001).\n\n(a) The contracting officer shall incorporate the cost principles and procedures in Subpart 31.3 by reference in cost-reimbursement contracts with educational institutions as the basis for—\n\n(1) Determining reimbursable costs under the contracts and cost-reimbursement subcontracts thereunder performed by educational institutions;\n\n(2) Negotiating indirect cost rates; and\n\n(3) Settling costs of cost-reimbursement terminated contracts (see Subpart 49.3 and 49.109-7).\n\n(b) The cost principles in this subpart are to be used as a guide in evaluating costs in connection with negotiating fixed-price contracts and termination settlements."
+      }
+    },
+    "105": {
+      "number": 105,
+      "name": "Construction and architect-engineer contracts.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Because of widely varying factors such as the nature, size, duration, and location of the construction project, advance agreements as set forth in 31.109, for such items as home office overhead, partners’ compensation, employment of consultants, and equipment usage costs, are particularly important in construction and architect-engineer contracts. When appropriate, they serve to express the parties’ understanding and avoid possible subsequent disputes or disallowances."
+        },
+        "2": {
+          "text": "“Construction equipment,” as used in this section, means equipment (including marine equipment) in sound workable condition, either owned or controlled by the contractor or the subcontractor at any tier, or obtained from a commercial rental source, and furnished for use under Government contracts.",
+          "sub": {
+            "i": {
+              "text": "Allowable ownership and operating costs shall be determined as follows:"
+            },
+            "A": {
+              "text": "Costs, such as maintenance and minor or running repairs incident to operating such rented equipment, that are not included in the rental rate are allowable."
+            },
+            "B": {
+              "text": "Costs incident to major repair and overhaul of rental equipment are unallowable."
+            },
+            "C": {
+              "text": "The allowability of charges for construction equipment rented from any division, subsidiary, or organization under common control, will be determined in accordance with 31.205-36(b)(3)."
+            },
+            "ii": {
+              "text": "Reasonable costs of renting construction equipment are allowable (but see paragraph (C) of this subsection)."
+            }
+          }
+        },
+        "3": {
+          "text": "Costs incurred at the job site incident to performing the work, such as the cost of superintendence, timekeeping and clerical work, engineering, utility costs, supplies, material handling, restoration and cleanup, etc., are allowable as direct or indirect costs, provided the accounting practice used is in accordance with the contractor’s established and consistently followed cost accounting practices for all work."
+        },
+        "4": {
+          "text": "Rental and any other costs, less any applicable credits incurred in acquiring the temporary use of land, structures, and facilities are allowable. Costs, less any applicable credits, incurred in constructing or fabricating structures and facilities of a temporary nature are allowable."
+        },
+        "a": {
+          "text": "This category includes all contracts and contract modifications negotiated on the basis of cost with organizations other than educational institutions (see 31.104), State and local governments (see 31.107), and nonprofit organizations except those exempted under OMB Uniform Guidance at 2 CFR part 200, appendix VIII (see 31.108) for construction management or construction, alteration or repair of buildings, bridges, roads, or other kinds of real property. It also includes architect-engineer contracts related to construction projects. It does not include contracts for vessels, aircraft, or other kinds of personal property."
+        },
+        "b": {
+          "text": "Except as otherwise provided in (d) of this section, the cost principles and procedures in Subpart 31.2 shall be used in the pricing of contracts and contract modifications in this category if cost analysis is performed as required by 15.404-1(c)."
+        },
+        "c": {
+          "text": "In addition, the contracting officer shall incorporate the cost principles and procedures in Subpart 31.2 (as modified by (d) of this section by reference in contracts in this category as the basis for—",
+          "sub": {
+            "1": {
+              "text": "Determining reimbursable costs under cost-reimbursement contracts, including cost-reimbursement subcontracts thereunder;"
+            },
+            "2": {
+              "text": "Negotiating indirect cost rates;"
+            },
+            "3": {
+              "text": "Proposing, negotiating, or determining costs under terminated contracts;"
+            },
+            "4": {
+              "text": "Price revision of fixed-price incentive contracts; and"
+            },
+            "5": {
+              "text": "Pricing changes and other contract modifications."
+            }
+          }
+        },
+        "d": {
+          "text": "Except as otherwise provided in this paragraph (d), the allowability of costs for construction and architect-engineer contracts shall be determined in accordance with Subpart 31.2."
+        }
+      }
+    },
+    "106": {
+      "number": 106,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "107": {
+      "number": 107,
+      "name": "Contracts with State, local, and federally recognized Indian tribal governments.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Subpart 31.6 provides principles and standards for determining costs applicable to contracts with State, local, and federally recognized Indian tribal governments. They provide the basis for a uniform approach to the problem of determining costs and to promote efficiency and better relationships between State, local, and federally recognized Indian tribal governments, and Federal Government entities. They apply to all programs that involve contracts with State, local, and federally recognized Indian tribal governments, except contracts with—",
+          "sub": {
+            "1": {
+              "text": "Publicly financed educational institutions subject to Subpart 31.3; or"
+            },
+            "2": {
+              "text": "Publicly owned hospitals and other providers of medical care subject to requirements promulgated by the sponsoring Government agencies."
+            }
+          }
+        },
+        "b": {
+          "text": "The Office of Management and Budget will approve any other exceptions in particular cases when adequate justification is presented."
+        }
+      }
+    },
+    "108": {
+      "number": 108,
+      "name": "Contracts with nonprofit organizations.",
+      "sub": {},
+      "text": {
+        "text": "Subpart 31.7 provides principles and standards for determining costs applicable to contracts with nonprofit organizations other than educational institutions (see subpart 31.3), State and local governments (see subpart 31.6), and those nonprofit organizations exempted under the OMB Uniform Guidance at 2 CFR part 200, appendix VIII (see subpart 31.2 for the cost principles applicable to nonprofit organizations exempt from the cost principles in the OMB Uniform Guidance at 2 CFR part 200)."
+      }
+    },
+    "109": {
+      "number": 109,
+      "name": "Advance agreements.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Compensation for personal services, including but not limited to allowances for off-site pay, incentive pay, location allowances, hardship pay, cost of living differential, and termination of defined benefit pension plans;"
+        },
+        "2": {
+          "text": "Use charges for fully depreciated assets;"
+        },
+        "3": {
+          "text": "Deferred maintenance costs;"
+        },
+        "4": {
+          "text": "Precontract costs;"
+        },
+        "5": {
+          "text": "Independent research and development and bid and proposal costs;"
+        },
+        "6": {
+          "text": "Royalties and other costs for use of patents;"
+        },
+        "7": {
+          "text": "Selling and distribution costs;"
+        },
+        "8": {
+          "text": "Travel and relocation costs, as related to special or mass personnel movements, as related to travel via contractor-owned, -leased, or -chartered aircraft; or as related to maximum per diem rates;"
+        },
+        "9": {
+          "text": "Costs of idle facilities and idle capacity;"
+        },
+        "10": {
+          "text": "Severance pay to employees on support service contracts;"
+        },
+        "11": {
+          "text": "Plant reconversion;"
+        },
+        "12": {
+          "text": "Professional services (e.g., legal, accounting, and engineering);"
+        },
+        "13": {
+          "text": "General and administrative costs (e.g., corporate, division, or branch allocations) attributable to the general management, supervision, and conduct of the contractor’s business as a whole. These costs are particularly significant in construction, job-site, architect-engineer, facilities, and Government-owned contractor operated (GOCO) plant contracts (see 31.203(h));"
+        },
+        "14": {
+          "text": "Costs of construction plant and equipment (see 31.105(d));"
+        },
+        "15": {
+          "text": "Costs of public relations and advertising; and"
+        },
+        "16": {
+          "text": "Statistical sampling methods (see 31.201-6(c)(4)."
+        },
+        "a": {
+          "text": "The extent of allowability of the costs covered in this part applies broadly to many accounting systems in varying contract situations. Thus, the reasonableness, the allocability and the allowability under the specific cost principles at Subparts 31.2, 31.3, 31.6, and 31.7 of certain costs may be difficult to determine. To avoid possible subsequent disallowance or dispute based on unreasonableness, unallocability or unallowability under the specific cost principles at Subparts 31.2, 31.3, 31.6, and 31.7, contracting officers and contractors should seek advance agreement on the treatment of special or unusual costs and on statistical sampling methodologies at 31.201-6(c). However, an advance agreement is not an absolute requirement and the absence of an advance agreement on any cost will not, in itself, affect the reasonableness, allocability or the allowability under the specific cost principles at Subparts 31.2, 31.3, 31.6, and 31.7 of that cost."
+        },
+        "b": {
+          "text": "Advance agreements may be negotiated either before or during a contract but should be negotiated before incurrence of the costs involved. The agreements must be in writing, executed by both contracting parties, and incorporated into applicable current and future contracts. An advance agreement shall contain a statement of its applicability and duration."
+        },
+        "c": {
+          "text": "The contracting officer is not authorized by this 31.109 to agree to a treatment of costs inconsistent with this part. For example, an advance agreement may not provide that, notwithstanding 31.205-20, interest is allowable."
+        },
+        "d": {
+          "text": "Advance agreements may be negotiated with a particular contractor for a single contract, a group of contracts, or all the contracts of a contracting office, an agency, or several agencies."
+        },
+        "e": {
+          "text": "The cognizant administrative contracting officer (ACO), or other contracting officer established in Part 42, shall negotiate advance agreements except that an advance agreement affecting only one contract, or class of contracts from a single contracting office, shall be negotiated by a contracting officer in the contracting office, or an ACO when delegated by the contracting officer. When the negotiation authority is delegated, the ACO shall coordinate the proposed agreement with the contracting officer before executing the advance agreement."
+        },
+        "f": {
+          "text": "Before negotiating an advance agreement, the Government negotiator shall—",
+          "sub": {
+            "1": {
+              "text": "Determine if other contracting offices inside the agency or in other agencies have a significant unliquidated dollar balance in contracts with the same contractor;"
+            },
+            "2": {
+              "text": "Inform any such office or agency of the matters under consideration for negotiation; and"
+            },
+            "3": {
+              "text": "As appropriate, invite the office or agency and the responsible audit agency to participate in prenegotiation discussions and/or in the subsequent negotiations."
+            }
+          }
+        },
+        "g": {
+          "text": "Upon completion of the negotiation, the sponsor shall prepare and distribute to other interested agencies and offices, including the audit agency, copies of the executed agreement and a memorandum providing the information specified in 15.406-3, as applicable."
+        },
+        "h": {
+          "text": "Examples for which advance agreements may be particularly important are—"
+        }
+      }
+    },
+    "110": {
+      "number": 110,
+      "name": "Indirect cost rate certification and penalties on unallowable costs.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Certain contracts require certification of the indirect cost rates proposed for final payment purposes. See 42.703-2 for administrative procedures regarding the certification provisions and the related contract clause prescription."
+        },
+        "b": {
+          "text": "If unallowable costs are included in final indirect cost settlement proposals, penalties may be assessed. See 42.709-0 for administrative procedures regarding the penalty assessment provisions and the related contract clause prescription."
+        }
+      }
+    },
+    "000": {
+      "number": 0,
+      "name": "Scope of part.",
+      "sub": {},
+      "text": {
+        "text": "This part contains cost principles and procedures for—\n\n(a) The pricing of contracts, subcontracts, and modifications to contracts and subcontracts whenever cost analysis is performed (see 15.404-1(c)); and\n\n(b) The determination, negotiation, or allowance of costs when required by a contract clause."
+      }
+    },
+    "001": {
+      "number": 1,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this part—\n\n“Accrued benefit cost method” means an actuarial cost method under which units of benefits are assigned to each cost accounting period and are valued as they accrue; i.e., based on the services performed by each employee in the period involved. The measure of normal cost under this method for each cost accounting period is the present value of the units of benefit deemed to be credited to employees for service in that period. The measure of the actuarial accrued liability at a plan’s inception date is the present value of the units of benefit credited to employees for service prior to that date. (This method is also known as the unit credit cost method without salary projection.).\n\n“Accumulating costs” means collecting cost data in an organized manner, such as through a system of accounts.\n\n“Actual cash value” means the cost of replacing damaged property with other property of like kind and quality in the physical condition of the property immediately before the damage.\n\n“Actual costs” means (except for Subpart 31.6) amounts determined on the basis of costs incurred, as distinguished from forecasted costs. Actual costs include standard costs properly adjusted for applicable variances.\n\n“Actuarial accrued liability” means pension cost attributable, under the actuarial cost method in use, to years prior to the current period considered by a particular actuarial valuation. As of such date, the actuarial accrued liability represents the excess of the present value of future benefits and administrative expenses over the present value of future normal costs for all plan participants and beneficiaries. The excess of the actuarial accrued liability over the actuarial value of the assets of a pension plan is the unfunded actuarial liability. The excess of the actuarial value of the assets of a pension plan over the actuarial accrued liability is an actuarial surplus and is treated as a negative unfunded actuarial liability.\n\n“Actuarial assumption” means an estimate of future conditions affecting pension cost; e.g., mortality rate, employee turnover, compensation levels, earnings on pension plan assets, and changes in values of pension plan assets.\n\n“Actuarial cost method” means a technique which uses actuarial assumptions to measure the present value of future pension benefits and pension plan administrative expenses, and that assigns the cost of such benefits and expenses to cost accounting periods. The actuarial cost method includes the asset valuation method used to determine the actuarial value of the assets of a pension plan.\n\n“Actuarial gain and loss” means the effect on pension cost resulting from differences between actuarial assumptions and actual experience.\n\n“Actuarial valuation” means the determination, as of a specified date, of the normal cost, actuarial accrued liability, actuarial value of the assets of a pension plan, and other relevant values for the pension plan.\n\n“Allocate” means to assign an item of cost, or a group of items of cost, to one or more cost objectives. This term includes both direct assignment of cost and the reassignment of a share from an indirect cost pool.\n\n“Compensated personal absence” means any absence from work for reasons such as illness, vacation, holidays, jury duty, military training, or personal activities for which an employer pays compensation directly to an employee in accordance with a plan or custom of the employer.\n\n“Compensation for personal services” means all remuneration paid currently or accrued, in whatever form and whether paid immediately or deferred, for services rendered by employees to the contractor.\n\n“Cost input” means the cost, except general and administrative (G&A) expenses, which for contract costing purposes is allocable to the production of goods and services during a cost accounting period.\n\n“Cost objective” means (except for Subpart 31.6) a function, organizational subdivision, contract, or other work unit for which cost data are desired and for which provision is made to accumulate and measure the cost of processes, products, jobs, capitalized projects, etc.\n\n“Deferred compensation” means an award made by an employer to compensate an employee in a future cost accounting period or periods for services rendered in one or more cost accounting periods before the date of the receipt of compensation by the employee. This definition shall not include the amount of year end accruals for salaries, wages, or bonuses that are to be paid within a reasonable period of time after the end of a cost accounting period.\n\n“Defined-benefit pension plan” means a pension plan in which the benefits to be paid, or the basis for determining such benefits, are established in advance and the contributions are intended to provide the stated benefits.\n\n“Defined-contribution pension plan” means a pension plan in which the contributions to be made are established in advance and the benefits are determined thereby.\n\n“Directly associated cost” means any cost which is generated solely as a result of the incurrence of another cost, and which would not have been incurred had the other cost not been incurred.\n\n“Estimating costs” means the process of forecasting a future result in terms of cost, based upon information available at the time.\n\n“Expressly unallowable cost” means a particular item or type of cost which, under the express provisions of an applicable law, regulation, or contract, is specifically named and stated to be unallowable.\n\n“Final cost objective” means (except for Subparts 31.3 and 31.6) a cost objective that has allocated to it both direct and indirect costs and, in the contractor’s accumulation system, is one of the final accumulation points.\n\n“Fiscal year” means the accounting period for which annual financial statements are regularly prepared, generally a period of 12 months, 52 weeks, or 53 weeks.\n\n“Funded pension cost” means the portion of pension cost for a current or prior cost accounting period that has been paid to a funding agency.\n\n“Home office” means an office responsible for directing or managing two or more, but not necessarily all, segments of an organization. It typically establishes policy for, and provides guidance to, the segments in their operations. It usually performs management, supervisory, or administrative functions, and may also perform service functions in support of the operations of the various segments. An organization which has intermediate levels, such as groups, may have several home offices which report to a common home office. An intermediate organization may be both a segment and a home office.\n\n“Immediate-gain actuarial cost method” means any of the several actuarial cost methods under which actuarial gains and losses are included as part of the unfunded actuarial liability of the pension plan, rather than as part of the normal cost of the plan.\n\n“Independent research and development (IR&D) cost” means the cost of effort which is neither sponsored by a grant, nor required in performing a contract, and which falls within any of the following four areas—\n\n(a) Basic research,\n\n(b) Applied research,\n\n(c) Development, and\n\n(d) Systems and other concept formulation studies.\n\n“Indirect cost pools” means (except for Subparts 31.3 and 31.6) groupings of incurred costs identified with two or more cost objectives but not identified specifically with any final cost objective.\n\n“Insurance administration expenses” means the contractor’s costs of administering an insurance program; e.g., the costs of operating an insurance or risk-management department, processing claims, actuarial fees, and service fees paid to insurance companies, trustees, or technical consultants.\n\n“Intangible capital asset” means an asset that has no physical substance, has more than minimal value, and is expected to be held by an enterprise for continued use or possession beyond the current accounting period for the benefits it yields.\n\n“Job” means a homogeneous cluster of work tasks, the completion of which serves an enduring purpose for the organization. Taken as a whole, the collection of tasks, duties, and responsibilities constitutes the assignment for one or more individuals whose work is of the same nature and is performed at the same skill/responsibility level—as opposed to a position, which is a collection of tasks assigned to a specific individual. Within a job, there may be pay categories which are dependent on the degree of supervision required by the employee while performing assigned tasks which are performed by all persons with the same job.\n\n“Job class of employees” means employees performing in positions within the same job.\n\n“Labor cost at standard” means a preestablished measure of the labor element of cost, computed by multiplying labor-rate standard by labor-time standard.\n\n“Labor market” means a place where individuals exchange their labor for compensation. Labor markets are identified and defined by a combination of the following factors—\n\n(1) Geography,\n\n(2) Education and/or technical background required,\n\n(3) Experience required by the job,\n\n(4) Licensing or certification requirements,\n\n(5) Occupational membership, and\n\n(6) Industry.\n\n“Labor-rate standard” means a preestablished measure, expressed in monetary terms, of the price of labor.\n\n“Labor-time standard” means a preestablished measure, expressed in temporal terms, of the quantity of labor.\n\n“Material cost at standard” means a preestablished measure of the material elements of cost, computed by multiplying material-price standard by material-quantity standard.\n\n“Material-price standard” means a preestablished measure, expressed in monetary terms, of the price of material.\n\n“Material-quantity standard” means a preestablished measure, expressed in physical terms, of the quantity of material.\n\n“Moving average cost” means an inventory costing method under which an average unit cost is computed after each acquisition by adding the cost of the newly acquired units to the cost of the units of inventory on hand and dividing this figure by the new total number of units.\n\n“Nonqualified pension plan” means any pension plan other than a qualified pension plan as defined in this part.\n\n“Normal cost” means the annual cost attributable, under the actuarial cost method in use, to current and future years as of a particular valuation date excluding any payment in respect of an unfunded actuarial liability.\n\n“Original complement of low cost equipment” means a group of items acquired for the initial outfitting of a tangible capital asset or an operational unit, or a new addition to either. The items in the group individually cost less than the minimum amount established by the contractor for capitalization for the classes of assets acquired but in the aggregate they represent a material investment. The group, as a complement, is expected to be held for continued service beyond the current period. Initial outfitting of the unit is completed when the unit is ready and available for normal operations.\n\n“Pay-as-you-go cost method” means a method of recognizing pension cost only when benefits are paid to retired employees or their beneficiaries.\n\n“Pension plan” means a deferred compensation plan established and maintained by one or more employers to provide systematically for the payment of benefits to plan participants after their retirements, provided that the benefits are paid for life or are payable for life at the option of the employees. Additional benefits such as permanent and total disability and death payments, and survivorship payments to beneficiaries of deceased employees, may be an integral part of a pension plan.\n\n“Pension plan participant” means any employee or former employee of an employer or any member or former member of an employee organization, who is or may become eligible to receive a benefit from a pension plan which covers employees of such employer or members of such organization who have satisfied the plan’s participation requirements, or whose beneficiaries are receiving or may be eligible to receive any such benefit. A participant whose employment status with the employer has not been terminated is an active participant of the employer’s pension plan.\n\n“Profit center” means (except for Subparts 31.3 and 31.6) the smallest organizationally independent segment of a company charged by management with profit and loss responsibilities.\n\n“Projected benefit cost method” means either—\n\n(1) Any of the several actuarial cost methods that distribute the estimated total cost of all of the employees’ prospective benefits over a period of years, usually their working careers; or\n\n(2) A modification of the accrued benefit cost method that considers projected compensation levels.\n\n“Proposal” means any offer or other submission used as a basis for pricing a contract, contract modification, or termination settlement or for securing payments thereunder.\n\n“Qualified pension plan” means a pension plan comprising a definite written program communicated to and for the exclusive benefit of employees that meets the criteria deemed essential by the Internal Revenue Service as set forth in the Internal Revenue Code for preferential tax treatment regarding contributions, investments, and distributions. Any other plan is a nonqualified pension plan.\n\n“Self-insurance charge” means a cost which represents the projected average loss under a self-insurance plan.\n\n“Service life” means the period of usefulness of a tangible capital asset (or group of assets) to its current owner. The period may be expressed in units of time or output. The estimated service life of a tangible capital asset (or group of assets) is a current forecast of its service life and is the period over which depreciation cost is to be assigned.\n\n“Spread-gain actuarial cost method” means any of the several projected benefit actuarial cost methods under which actuarial gains and losses are included as part of the current and future normal costs of the pension plan.\n\n“Standard cost” means any cost computed with the use of preestablished measures.\n\n“Tangible capital asset” means an asset that has physical substance, more than minimal value, and is expected to be held by an enterprise for continued use or possession beyond the current accounting period for the services it yields.\n\n“Termination of employment gain or loss” means an actuarial gain or loss resulting from the difference between the assumed and actual rates at which pension plan participants separate from employment for reasons other than retirement, disability, or death.\n\n“Variance” means the difference between a preestablished measure and an actual measure.\n\n“Weighted average cost” means an inventory costing method under which an average unit cost is computed periodically by dividing the sum of the cost of beginning inventory plus the cost of acquisitions by the total number of units included in these two categories.\n\n“Welfare benefit fund” means a trust or organization which receives and accumulates assets to be used either for the payment of postretirement benefits, or for the purchase of such benefits, provided such accumulated assets form a part of a postretirement benefit plan."
+      }
+    },
+    "002": {
+      "number": 2,
+      "name": "Availability of accounting guide.",
+      "sub": {},
+      "text": {
+        "text": "Contractors needing assistance in developing or improving their accounting systems and procedures may request a copy of the Defense Contract Audit Agency Pamphlet No. 7641.90, Information for Contractors. The pamphlet is available via the Internet at http://www.dcaa.mil."
+      }
+    }
+  }
+}

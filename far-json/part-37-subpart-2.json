@@ -1,0 +1,134 @@
+{
+  "parentPart": 37,
+  "number": 2,
+  "name": "Advisory and Assistance Services",
+  "sub": {
+    "200": {
+      "number": 200,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures for acquiring advisory and assistance services by contract. The subpart applies to contracts, whether made with individuals or organizations, that involve either personal or nonpersonal services."
+      }
+    },
+    "201": {
+      "number": 201,
+      "name": "Definition.",
+      "sub": {},
+      "text": {
+        "text": "“Covered personnel” means—\n\n(1) An officer or an individual who is appointed in the civil service by one of the following acting in an official capacity—\n\n(i) The President;\n\n(ii) A Member of Congress;\n\n(iii) A member of the uniformed services;\n\n(iv) An individual who is an employee under 5 U.S.C. 2105;\n\n(v) The head of a Government-controlled corporation; or\n\n(vi) An adjutant general appointed by the Secretary concerned under 32 U.S.C. 709(c).\n\n(2) A member of the Armed Services of the United States.\n\n(3) A person assigned to a Federal agency who has been transferred to another position in the competitive service in another agency."
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Exclusions.",
+      "sub": {},
+      "text": {
+        "text": "The following activities and programs are excluded or exempted from the definition of advisory or assistance services:\n\n(a) Routine information technology services unless they are an integral part of a contract for the acquisition of advisory and assistance services.\n\n(b) Architectural and engineering services as defined in 40 U.S.C. 1102.\n\n(c) Research on theoretical mathematics and basic research involving medical, biological, physical, social, psychological, or other phenomena."
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Neither covered personnel from the requesting agency, nor from another agency, with adequate training and capabilities to perform the required proposal evaluation, are readily available and a written determination is made in accordance with 37.204;"
+        },
+        "2": {
+          "text": "The contractor is a Federally-Funded Research and Development Center (FFRDC) as authorized in 41 U.S.C. 1709(c) and the work placed under the FFRDC's contract meets the criteria of 35.017-3; or"
+        },
+        "3": {
+          "text": "Such functions are otherwise authorized by law."
+        },
+        "a": {
+          "text": "The acquisition of advisory and assistance services is a legitimate way to improve Government services and operations. Accordingly, advisory and assistance services may be used at all organizational levels to help managers achieve maximum effectiveness or economy in their operations."
+        },
+        "b": {
+          "text": "Subject to 37.205, agencies may contract for advisory and assistance services, when essential to the agency’s mission, to—",
+          "sub": {
+            "1": {
+              "text": "Obtain outside points of view to avoid too limited judgment on critical issues;"
+            },
+            "2": {
+              "text": "Obtain advice regarding developments in industry, university, or foundation research;"
+            },
+            "3": {
+              "text": "Obtain the opinions, special knowledge, or skills of noted experts;"
+            },
+            "4": {
+              "text": "Enhance the understanding of, and develop alternative solutions to, complex issues;"
+            },
+            "5": {
+              "text": "Support and improve the operation of organizations; or"
+            },
+            "6": {
+              "text": "Ensure the more efficient or effective operation of managerial or hardware systems."
+            }
+          }
+        },
+        "c": {
+          "text": "Advisory and assistance services shall not be—",
+          "sub": {
+            "1": {
+              "text": "Used in performing work of a policy, decision-making, or managerial nature which is the direct responsibility of agency officials;"
+            },
+            "2": {
+              "text": "Used to bypass or undermine personnel ceilings, pay limitations, or competitive employment procedures;"
+            },
+            "3": {
+              "text": "Contracted for on a preferential basis to former Government employees;"
+            },
+            "4": {
+              "text": "Used under any circumstances specifically to aid in influencing or enacting legislation; or"
+            },
+            "5": {
+              "text": "Used to obtain professional or technical advice which is readily available within the agency or another Federal agency."
+            }
+          }
+        },
+        "d": {
+          "text": "Limitation on payment for advisory and assistance services. Contractors may not be paid for services to conduct evaluations or analyses of any aspect of a proposal submitted for an initial contract award unless—"
+        }
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Guidelines for determining availability of personnel.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The head of an agency shall determine, for each evaluation or analysis of proposals, if sufficient personnel with the requisite training and capabilities are available within the agency to perform the evaluation or analysis of proposals submitted for the acquisition."
+        },
+        "b": {
+          "text": "If, for a specific evaluation or analysis, such personnel are not available within the agency, the head of the agency shall—",
+          "sub": {
+            "1": {
+              "text": "Determine which Federal agencies may have personnel with the required training and capabilities; and"
+            },
+            "2": {
+              "text": "Consider the administrative cost and time associated with conducting the search, the dollar value of the procurement, other costs, such as travel costs involved in the use of such personnel, and the needs of the Federal agencies to make management decisions on the best use of available personnel in performing the agency’s mission."
+            }
+          }
+        },
+        "c": {
+          "text": "If the supporting agency agrees to make the required personnel available, the agencies shall execute an agreement for the detail of the supporting agency’s personnel to the requesting agency."
+        },
+        "d": {
+          "text": "If the requesting agency, after reasonable attempts to obtain personnel with the required training and capabilities, is unable to identify such personnel, the head of the agency may make the determination required by 37.203."
+        },
+        "e": {
+          "text": "An agency may make a determination regarding the availability of covered personnel for a class of proposals for which evaluation and analysis would require expertise so unique or specialized that it is not reasonable to expect such personnel to be available."
+        }
+      }
+    },
+    "205": {
+      "number": 205,
+      "name": "Contracting officer responsibilities.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall ensure that the determination required in accordance with the guidelines at 37.204 has been made prior to issuing a solicitation."
+      }
+    }
+  }
+}

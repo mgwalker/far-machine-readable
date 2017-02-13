@@ -1,0 +1,113 @@
+{
+  "parentPart": 23,
+  "number": 10,
+  "name": "Federal Compliance with Right-to-Know Laws and Pollution Prevention Requirements",
+  "sub": {
+    "1000": {
+      "number": 1000,
+      "name": "Scope.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures for obtaining information needed for Government—\n\n(a) Compliance with right-to-know laws and pollution prevention requirements;\n\n(b) Implementation of an environmental management system (EMS) at a Federal facility; and\n\n(c) Completion of facility compliance audits (FCAs) at a Federal facility."
+      }
+    },
+    "1001": {
+      "number": 1001,
+      "name": "Authorities.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Emergency Planning and Community Right-to-Know Act of 1986, 42 U.S.C. 11001-11050 (EPCRA)."
+        },
+        "b": {
+          "text": "Pollution Prevention Act of 1990, 42 U.S.C. 13101-13109 (PPA)."
+        },
+        "c": {
+          "text": "Executive Order 13423 of January 24, 2007, Strengthening Federal Environmental, Energy, and Transportation Management."
+        },
+        "d": {
+          "text": "Executive Order 13514 of October 5, 2009, Federal Leadership in Environmental, Energy, and Economic Performance."
+        }
+      }
+    },
+    "1002": {
+      "number": 1002,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "text": "The requirements of this subpart apply to facilities owned or operated by an agency in the customs territory of the United States."
+      }
+    },
+    "1003": {
+      "number": 1003,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Federal agency” means an executive agency (see 2.101).\n\n"
+      }
+    },
+    "1004": {
+      "number": 1004,
+      "name": "Requirements.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Requirements in paragraph (a) of this section; and"
+        },
+        "2": {
+          "text": "Requirements for EMSs and FCAs if the place of performance is at a Federal facility designated by the agency."
+        },
+        "a": {
+          "text": "Federal facilities are required to comply with—",
+          "sub": {
+            "1": {
+              "text": "The emergency planning and toxic release reporting requirements in EPCRA and PPA; and"
+            },
+            "2": {
+              "text": "The toxic chemical, and hazardous substance release and use reduction goals of sections 2(e) and 3(a)(vi) of Executive Order 13423."
+            }
+          }
+        },
+        "b": {
+          "text": "Pursuant to EPCRA, PPA, E.O. 13423, and any agency implementing procedures, every new contract that provides for performance on a Federal facility shall require the contractor to provide information necessary for the Federal agency to comply with the—"
+        }
+      }
+    },
+    "1005": {
+      "number": 1005,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The contract provides for contractor activities on a Federal facility; and"
+        },
+        "2": {
+          "text": "The agency has determined that the contractor activities should be included within the FCA or an environmental management system audit."
+        },
+        "a": {
+          "text": "Insert the clause at 52.223-5, Pollution Prevention and Right-to-Know Information, in solicitations and contracts that provide for performance, in whole or in part, on a Federal facility."
+        },
+        "b": {
+          "text": "Use the clause with its Alternate I if the contract provides for contractor—",
+          "sub": {
+            "1": {
+              "text": "Operation or maintenance of a Federal facility at which the agency has implemented or plans to implement an EMS; or"
+            },
+            "2": {
+              "text": "Activities and operations—"
+            },
+            "i": {
+              "text": "To be performed at a Government-operated Federal facility that has implemented or plans to implement an EMS; and"
+            },
+            "ii": {
+              "text": "That the agency has determined are covered within the EMS."
+            }
+          }
+        },
+        "c": {
+          "text": "Use the clause with its Alternate II if—"
+        }
+      }
+    }
+  }
+}

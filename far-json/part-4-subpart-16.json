@@ -1,0 +1,131 @@
+{
+  "parentPart": 4,
+  "number": 16,
+  "name": "Unique Procurement Instrument Identifiers",
+  "sub": {
+    "1600": {
+      "number": 1600,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures for assigning unique Procurement Instrument Identifiers (PIID) for each solicitation, contract, agreement, or order and related procurement instrument."
+      }
+    },
+    "1601": {
+      "number": 1601,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Agencies shall not change the PIID unless one of the following two circumstances apply:",
+          "sub": {
+            "i": {
+              "text": "The PIID serial numbering system is exhausted.  In this instance, the contracting officer may assign a new PIID by issuing a contract modification."
+            },
+            "ii": {
+              "text": "Continued use of a PIID is administratively burdensome (e.g., for implementations of new agency contract writing systems).  In this instance, the contracting officer may assign a new PIID by issuing a contract modification."
+            }
+          }
+        },
+        "2": {
+          "text": "The modification shall clearly identify both the original and the newly assigned PIID.  Issuance of a new PIID is an administrative change (see 43.101)."
+        },
+        "a": {
+          "text": "Establishment of a Procurement Instrument Identifier (PIID).  Agencies shall have in place a process that ensures that each PIID used to identify a solicitation or contract action is unique Governmentwide, and will remain so for at least 20 years from the date of contract award.  The PIID shall be used to identify all solicitation and contract actions.  The PIID shall also be used to identify solicitation and contract actions in designated support and reporting systems (e.g., Federal Procurement Data System, System for Award Management), in accordance with regulations, applicable authorities, and agency policies and procedures.)"
+        },
+        "b": {
+          "text": "Transition of PIID numbering.  No later than October 1, 2017, agencies shall comply with paragraph (a) of this section and use the requirements in 4.1602 and 4.1603 for all new solicitations and contract awards.  Until an agency’s transition is complete, it shall maintain its 2013 PIID format that is on record with the General Services Administration’s Integrated Award Environment Program Office (which maintains a registry of the agency unique identifier scheme).  The 2013 PIID format consisted of alpha characters in the first positions to indicate the agency, followed by alpha-numeric characters; the 2017 format instead has the AAC in the beginning 6 positions."
+        },
+        "c": {
+          "text": "Change in the Procurement Instrument Identifier after its assignment."
+        }
+      }
+    },
+    "1602": {
+      "number": 1602,
+      "name": "Identifying the PIID and supplementary PIID.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Identifying the PIID in solicitation and contract award documentation (including forms and electronic generated formats). Agencies shall include all PIIDs for all related procurement actions as identified in paragraphs (a)(1) through (a)(5) of this section.",
+          "sub": {
+            "1": {
+              "text": "Solicitation. Identify the PIID for all solicitations.  For amendments to solicitations, identify a supplementary PIID, in conjunction with the PIID for the solicitation."
+            },
+            "2": {
+              "text": "Contracts and purchase orders. Identify the PIID for contracts and purchase orders."
+            },
+            "3": {
+              "text": "Delivery and task orders. For delivery and task orders placed by an agency under a contract (e.g., indefinite delivery indefinite quantity (IDIQ) contracts, multi-agency contracts (MAC), Governmentwide acquisition contracts (GWACs), or Multiple Award Schedule (MAS) contracts), identify the PIID for the delivery and task order and the PIID for the contract."
+            },
+            "4": {
+              "text": "Blanket purchase agreements and basic ordering agreements. Identify the PIID for blanket purchase agreements issued in accordance with 13.303, and for basic agreements and basic ordering agreements issued in accordance with subpart 16.7.  For blanket purchase agreements issued in accordance with subpart 8.4 under a MAS contract, identify the PIID for the blanket purchase agreement and the PIID for the MAS contract.",
+              "sub": {
+                "i": {
+                  "text": "Orders. For orders against basic ordering agreements or blanket purchase agreements issued in accordance with 13.303, identify the PIID for the order and the PIID for the blanket purchase agreement or basic ordering agreement."
+                },
+                "ii": {
+                  "text": "Orders under subpart 8.4. For orders against a blanket purchase agreement established under a MAS contract, identify the PIID for the order, the PIID for the blanket purchase agreement, and the PIID for the MAS contract."
+                }
+              }
+            },
+            "5": {
+              "text": "Modifications. For modifications to actions described in paragraphs (a)(2) through (a)(4) of this section, and in accordance with agency procedures, identify a supplementary PIID for the modification in conjunction with the PIID for the contract, order, or agreement being modified."
+            }
+          }
+        },
+        "b": {
+          "text": "Placement of the PIID on forms. When the form (including electronic generated format) does not provide spaces or fields for the PIID or supplementary PIID required in paragraph (a) of this section, identify the PIID in accordance with agency procedures."
+        },
+        "c": {
+          "text": "Additional agency specific identification information.  If agency procedures require additional identification information in solicitations, contracts, or other related procurement instruments for administrative purposes, separate and clearly identify the additional information from the PIID."
+        }
+      }
+    },
+    "1603": {
+      "number": 1603,
+      "name": "Procedures.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Amendments to solicitations.  Number amendments to solicitations sequentially using a four position numeric serial number added to the 13-17 character PIID beginning with 0001."
+        },
+        "2": {
+          "text": "Modifications to contracts, orders, and agreements.  Number modifications to contracts, orders, and agreements using a six position alpha or numeric, or a combination thereof, added to the 13-17 character PIID.  For example, a modification could be numbered P00001.  This would be added to the end of the 13-17 character PIID illustrated in (a)(5) of this section.\n\nEach office authorized to issue modifications shall assign the supplementary identification numbers in sequence (unless provided otherwise in agency procedures).  Do not assign the numbers until it has been determined that a modification is to be issued."
+        },
+        "a": {
+          "text": "Elements of a PIID.  The PIID consists of a combination of thirteen to seventeen alpha and/or numeric characters sequenced to convey certain information.  Do not use special characters (such as hyphens, dashes, or spaces).",
+          "sub": {
+            "1": {
+              "text": "Positions 1 through 6.  The first six positions identify the department/agency and office issuing the instrument.  Use the AAC assigned to the issuing office for positions 1 through 6.  Civilian agency points of contact for obtaining an AAC are on the AAC Contact list maintained by the General Services Administration and can be found at http://www.gsa.gov/graphics/fas/Civilian_contacts.pdf. For Department of Defense (DoD) inquiries, contact the service/agency Central Service Point or DoDAAC Monitor, or if unknown, email DODAADHQ@DLA.MIL for assistance."
+            },
+            "2": {
+              "text": "Positions 7 through 8.  The seventh and eighth positions are the last two digits of the fiscal year in which the procurement instrument is issued or awarded.  This is the date the action is signed, not the effective date if the effective date is different."
+            },
+            "3": {
+              "text": "Position 9.  Indicate the type of instrument by entering one of the following upper case letters in position nine.  Departments and independent agencies may assign those letters identified for department use below in accordance with their agency policy; however, any use must be applied to the entire department or agency."
+            },
+            "4": {
+              "text": "Positions 10 through 17.  Enter the number assigned by the issuing agency in these positions.  Agencies may choose a minimum of four characters up to a maximum of eight characters to be used, but the same number of characters must be used agency-wide.  If a number less than the maximum is used, do not use leading or trailing zeroes to make it equal the maximum in any system or data transmission.  A separate series of numbers may be used for any type of instrument listed in paragraph (a)(3) of this section.  An agency may reserve blocks of numbers or alpha-numeric numbers for use by its various components."
+            },
+            "5": {
+              "text": "Illustration of PIID.  The following illustrates a properly configured PIID using four characters in the final positions:"
+            }
+          }
+        },
+        "b": {
+          "text": "Elements of a supplementary PIID.  Use the supplementary PIID to identify amendments to solicitations and modifications to contracts, orders, and agreements.\n\nEach office authorized to issue modifications shall assign the supplementary identification numbers in sequence (unless provided otherwise in agency procedures).  Do not assign the numbers until it has been determined that a modification is to be issued."
+        },
+        "i": {
+          "text": "Position 1.  Identify the office issuing the modification.  The letter P shall be designated for modifications issued by the procuring contracting office.  The letter A shall be used for modifications issued by the contract administration office (if other than the procuring contracting office).\n\nEach office authorized to issue modifications shall assign the supplementary identification numbers in sequence (unless provided otherwise in agency procedures).  Do not assign the numbers until it has been determined that a modification is to be issued."
+        },
+        "ii": {
+          "text": "Positions 2 through 6.  These positions may be alpha, numeric, or a combination thereof, in accordance with agency procedures.\n\nEach office authorized to issue modifications shall assign the supplementary identification numbers in sequence (unless provided otherwise in agency procedures).  Do not assign the numbers until it has been determined that a modification is to be issued."
+        },
+        "unless provided otherwise in agency procedures": {
+          "text": ".  Do not assign the numbers until it has been determined that a modification is to be issued."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "parentPart": 1,
+  "number": 2,
+  "name": "Administration",
+  "sub": {
+    "201": {
+      "number": 201,
+      "name": "Maintenance of the FAR.",
+      "sub": {
+        "1": {
+          "name": "The two councils.",
+          "text": {
+            "1": {
+              "text": "Agreeing on all revisions with the other council;"
+            },
+            "2": {
+              "text": "Submitting to the FAR Secretariat (see 1.201-2) the information required under paragraphs 1.501-2(b) and (e) for publication in the Federal Register of a notice soliciting comments on a proposed revision to the FAR;"
+            },
+            "3": {
+              "text": "Considering all comments received in response to notice of proposed revisions;"
+            },
+            "4": {
+              "text": "Arranging for public meetings;"
+            },
+            "5": {
+              "text": "Preparing any final revision in the appropriate FAR format and language; and"
+            },
+            "6": {
+              "text": "Submitting any final revision to the FAR Secretariat for publication in the Federal Register and printing for distribution."
+            },
+            "a": {
+              "text": "Subject to the authorities discussed in 1.103, revisions to the FAR will be prepared and issued through the coordinated action of two councils, the Defense Acquisition Regulations Council (DAR Council) and the Civilian Agency Acquisition Council (CAA Council). Members of these councils shall—",
+              "sub": {
+                "1": {
+                  "text": "Represent their agencies on a full-time basis;"
+                },
+                "2": {
+                  "text": "Be selected for their superior qualifications in terms of acquisition experience and demonstrated professional expertise; and"
+                },
+                "3": {
+                  "text": "Be funded by their respective agencies."
+                }
+              }
+            },
+            "b": {
+              "text": "The chairperson of the CAA Council shall be the representative of the Administrator of General Services. The other members of this council shall be one each representative from the—",
+              "sub": {
+                "1": {
+                  "text": "Departments of Agriculture, Commerce, Energy, Health and Human Services, Homeland Security, Interior, Labor, State, Transportation, and Treasury; and"
+                },
+                "2": {
+                  "text": "Environmental Protection Agency, Social Security Administration, Small Business Administration, and Department of Veterans Affairs."
+                }
+              }
+            },
+            "c": {
+              "text": "The Director of the DAR Council shall be the representative of the Secretary of Defense. The operation of the DAR Council will be as prescribed by the Secretary of Defense.  Membership shall include representatives of the military departments, the Defense Logistics Agency, the Defense Contract Management Agency, and the National Aeronautics and Space Administration."
+            },
+            "d": {
+              "text": "Responsibility for processing revisions to the FAR is apportioned by the two councils so that each council has cognizance over specified parts or subparts."
+            },
+            "e": {
+              "text": "Each council shall be responsible for—"
+            }
+          }
+        },
+        "2": {
+          "name": "FAR Secretariat.",
+          "text": {
+            "1": {
+              "text": "Keeping a synopsis of current FAR cases and their status;"
+            },
+            "2": {
+              "text": "Maintaining official files;"
+            },
+            "3": {
+              "text": "Assisting parties interested in reviewing the files on completed cases; and"
+            },
+            "4": {
+              "text": "Performing miscellaneous administrative tasks pertaining to the maintenance of the FAR."
+            },
+            "a": {
+              "text": "The General Services Administration is responsible for establishing and operating the FAR Secretariat to print, publish, and distribute the FAR through the Code of Federal Regulations system (including a loose-leaf edition with periodic updates)."
+            },
+            "b": {
+              "text": "Additionally, the FAR Secretariat shall provide the two councils with centralized services for—"
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Agency compliance with the FAR.",
+      "sub": {},
+      "text": {
+        "text": "Agency compliance with the FAR (see 1.304) is the responsibility of the Secretary of Defense (for the military departments and defense agencies), the Administrator of General Services (for civilian agencies other than NASA), and the Administrator of NASA (for NASA activities)."
+      }
+    }
+  }
+}

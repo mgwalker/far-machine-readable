@@ -1,0 +1,300 @@
+{
+  "parentPart": 27,
+  "number": 2,
+  "name": "Patents and Copyrights",
+  "sub": {
+    "200": {
+      "number": 200,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures with respect to—\n\n(a) Patent and copyright infringement liability;\n\n(b) Royalties;\n\n(c) Security requirements for patent applications containing classified subject matter; and\n\n(d) Patented technology under trade agreements."
+      }
+    },
+    "201": {
+      "number": 201,
+      "name": "Patent and copyright infringement liability.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "a": {
+              "text": "Pursuant to 28 U.S.C. 1498, the exclusive remedy for patent or copyright infringement by or on behalf of the Government is a suit for monetary damages against the Government in the Court of Federal Claims. There is no injunctive relief available, and there is no direct cause of action against a contractor that is infringing a patent or copyright with the authorization or consent of the Government (e.g., while performing a contract)."
+            },
+            "b": {
+              "text": "The Government may expressly authorize and consent to a contractor’s use or manufacture of inventions covered by U.S. patents by inserting the clause at 52.227-1, Authorization and Consent."
+            },
+            "c": {
+              "text": "Because of the exclusive remedies granted in 28 U.S.C. 1498, the Government requires notice and assistance from its contractors regarding any claims for patent or copyright infringement by inserting the clause at 52.227-2, Notice and Assistance, Regarding Patent and Copyright Infringement."
+            },
+            "d": {
+              "text": "The Government may require a contractor to reimburse it for liability for patent infringement arising out of a contract for commercial items by inserting the clause at FAR 52.227-3, Patent Indemnity."
+            }
+          }
+        },
+        "2": {
+          "name": "Contract clauses.",
+          "text": {
+            "a": {
+              "text": "(1) Insert the clause at 52.227-1, Authorization and Consent, in solicitations and contracts except that use of the clause is—",
+              "sub": {
+                "2": {
+                  "text": "Use the clause with its Alternate I in all R&D solicitations and contracts for which the primary purpose is R&D work, except that this alternate shall not be used in construction and architect-engineer contracts unless the contract calls exclusively for R&D work."
+                },
+                "3": {
+                  "text": "Use the clause with its Alternate II in solicitations and contracts for communication services with a common carrier and the services are unregulated and not priced by a tariff schedule set by a regulatory body."
+                },
+                "i": {
+                  "text": "Optional when using simplified acquisition procedures; and"
+                },
+                "ii": {
+                  "text": "Prohibited when both complete performance and delivery are outside the United States."
+                }
+              }
+            },
+            "b": {
+              "text": "Insert the clause at 52.227-2, Notice and Assistance Regarding Patent and Copyright Infringement, in all solicitations and contracts that include the clause at 52.227-1, Authorization and Consent."
+            },
+            "c": {
+              "text": "(1) Insert the clause at 52.227-3, Patent Indemnity, in solicitations and contracts that may result in the delivery of commercial items, unless—",
+              "sub": {
+                "2": {
+                  "text": "Use the clause with either its Alternate I (identification of excluded items) or II (identification of included items) if—",
+                  "sub": {
+                    "i": {
+                      "text": "The contract also requires delivery of items that are not commercial items; or"
+                    },
+                    "ii": {
+                      "text": "The contracting officer determines after consultation with legal counsel that limitation of applicability of the clause would be consistent with commercial practice."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Use the clause with its Alternate III if the solicitation or contract is for communication services and facilities where performance is by a common carrier, and the services are unregulated and are not priced by a tariff schedule set by a regulatory body."
+                },
+                "i": {
+                  "text": "Part 12 procedures are used;"
+                },
+                "ii": {
+                  "text": "The simplified acquisition procedures of Part 13 are used;"
+                },
+                "iii": {
+                  "text": "Both complete performance and delivery are outside the United States; or"
+                },
+                "iv": {
+                  "text": "The contracting officer determines after consultation with legal counsel that omission of the clause would be consistent with commercial practice."
+                }
+              }
+            },
+            "d": {
+              "text": "(1) Insert the clause at 52.227-4, Patent Indemnity—Construction Contracts, in solicitations and contracts for construction or that are fixed-price for dismantling, demolition, or removal of improvements. Do not insert the clause in contracts solely for architect-engineer services.",
+              "sub": {
+                "2": {
+                  "text": "If the contracting officer determines that the construction will necessarily involve the use of structures, products, materials, equipment, processes, or methods that are nonstandard, noncommercial, or special, the contracting officer may expressly exclude them from the patent indemnification by using the clause with its Alternate I. Note that this exclusion is for items, as distinguished from identified patents (see paragraph (e) of this subsection)."
+                }
+              }
+            },
+            "e": {
+              "text": "It may be in the Government’s interest to exempt specific U.S. patents from the patent indemnity clause. Exclusion from indemnity of identified patents, as distinguished from items, is the prerogative of the agency head. Upon written approval of the agency head, the contracting officer may insert the clause at 52.227-5, Waiver of Indemnity, in solicitations and contracts in addition to the appropriate patent indemnity clause."
+            },
+            "f": {
+              "text": "If a patent indemnity clause is not prescribed, the contracting officer may include one in the solicitation and contract if it is in the Government’s interest to do so."
+            },
+            "g": {
+              "text": "The contracting officer shall not include in any solicitation or contract any clause whereby the Government agrees to indemnify a contractor for patent infringement."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Royalties.",
+      "sub": {
+        "1": {
+          "name": "Reporting of royalties.",
+          "text": {
+            "a": {
+              "text": "To determine whether royalties anticipated or actually paid under Government contracts are excessive, improper, or inconsistent with Government patent rights the solicitation provision at 52.227-6 requires prospective contractors to furnish royalty information. The contracting officer shall take appropriate action to reduce or eliminate excessive or improper royalties."
+            },
+            "b": {
+              "text": "If the response to a solicitation includes a charge for royalties, the contracting officer shall, before award of the contract, forward the information to the office having cognizance of patent matters for the contracting activity. The cognizant office shall promptly advise the contracting officer of appropriate action."
+            },
+            "c": {
+              "text": "The contracting officer, when considering the approval of a subcontract, shall require royalty information if it is required under the prime contract. The contracting officer shall forward the information to the office having cognizance of patent matters. However, the contracting officer need not delay consent while awaiting advice from the cognizant office."
+            },
+            "d": {
+              "text": "The contracting officer shall forward any royalty reports to the office having cognizance of patent matters for the contracting activity."
+            }
+          }
+        },
+        "2": {
+          "name": "Notice of Government as a licensee.",
+          "text": {
+            "1": {
+              "text": "Evaluate an offeror’s price by adding an amount equal to the royalty; or"
+            },
+            "2": {
+              "text": "Negotiate a price reduction with an offeror when the offeror is licensed under the same patent at a lower royalty rate."
+            },
+            "a": {
+              "text": "When the Government is obligated to pay a royalty on a patent because of an existing license agreement and the contracting officer believes that the licensed patent will be applicable to a prospective contract, the Government should furnish the prospective offerors with—",
+              "sub": {
+                "1": {
+                  "text": "Notice of the license;"
+                },
+                "2": {
+                  "text": "The number of the patent; and"
+                },
+                "3": {
+                  "text": "The royalty rate cited in the license."
+                }
+              }
+            },
+            "b": {
+              "text": "When the Government is obligated to pay such a royalty, the solicitation should also require offerors to furnish information indicating whether or not each offeror is the patent owner or a licensee under the patent. This information is necessary so that the Government may either—"
+            }
+          }
+        },
+        "3": {
+          "name": "Adjustment of royalties.",
+          "text": {
+            "a": {
+              "text": "If at any time the contracting officer believes that any royalties paid, or to be paid, under a contract or subcontract are inconsistent with Government rights, excessive, or otherwise improper, the contracting officer shall promptly report the facts to the office having cognizance of patent matters for the contracting activity concerned."
+            },
+            "b": {
+              "text": "In coordination with the cognizant office, the contracting officer shall promptly act to protect the Government against payment of royalties—",
+              "sub": {
+                "1": {
+                  "text": "With respect to which the Government has a royalty-free license;"
+                },
+                "2": {
+                  "text": "At a rate in excess of the rate at which the Government is licensed; or"
+                },
+                "3": {
+                  "text": "When the royalties in whole or in part otherwise constitute an improper charge."
+                }
+              }
+            },
+            "c": {
+              "text": "In appropriate cases, the contracting officer in coordination with the cognizant office shall demand a refund pursuant to any refund of royalties clause in the contract (see 27.202-4) or negotiate for a reduction of royalties."
+            },
+            "d": {
+              "text": "For guidance in evaluating information furnished pursuant to 27.202-1, see 31.205-37. See also 31.109 regarding advance understandings on particular cost items, including royalties."
+            }
+          }
+        },
+        "4": {
+          "name": "Refund of royalties.",
+          "text": {
+            "text": "The clause at 52.227-9, Refund of Royalties, establishes procedures to pay the contractor royalties under the contract and recover royalties not paid by the contractor when the royalties were included in the contractor’s fixed price."
+          }
+        },
+        "5": {
+          "name": "Solicitation provisions and contract clause.",
+          "text": {
+            "a": {
+              "text": "(1) Insert a solicitation provision substantially the same as the provision at 52.227-6, Royalty Information, in—",
+              "sub": {
+                "2": {
+                  "text": "If the solicitation is for communication services and facilities by a common carrier, use the provision with its Alternate I."
+                },
+                "i": {
+                  "text": "Any solicitation that may result in a negotiated contract for which royalty information is desired and for which certified cost or pricing data are obtained under 15.403; or"
+                },
+                "ii": {
+                  "text": "Sealed bid solicitations only if the need for such information is approved at a level above the contracting officer as being necessary for proper protection of the Government’s interests."
+                }
+              }
+            },
+            "b": {
+              "text": "If the Government is obligated to pay a royalty on a patent involved in the prospective contract, insert in the solicitation a provision substantially the same as the provision at 52.227-7, Patents—Notice of Government Licensee. If the clause at 52.227-6 is not included in the solicitation, the contracting officer may require offerors to provide information sufficient to provide this notice to the other offerors."
+            },
+            "c": {
+              "text": "Insert the clause at 52.227-9, Refund of Royalties, in negotiated fixed-price solicitations and contracts when royalties may be paid under the contract. If a fixed-price incentive contract is contemplated, change “price” to “target cost and target profit” wherever it appears in the clause. The clause may be used in cost-reimbursement contracts where agency approval of royalties is necessary to protect the Government’s interests."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Security requirements for patent applications containing classified subject matter.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "a": {
+              "text": "Unauthorized disclosure of classified subject matter, whether in patent applications or resulting from the issuance of a patent, may be a violation of 18 U.S.C. 792, et seq. (Chapter 37—Espionage and Censorship), and related statutes, and may be contrary to the interests of national security."
+            },
+            "b": {
+              "text": "Upon receipt of a patent application under paragraph (a) or (b) of the clause at 52.227-10, Filing of Patent Applications—Classified Subject Matter, the contracting officer shall ascertain the proper security classification of the patent application. If the application contains classified subject matter, the contracting officer shall inform the contractor how to transmit the application to the United States Patent Office in accordance with procedures provided by legal counsel. If the material is classified “Secret” or higher, the contracting officer shall make every effort to notify the contractor within 30 days of the Government’s determination, pursuant to paragraph (a) of the clause."
+            },
+            "c": {
+              "text": "Upon receipt of information furnished by the contractor under paragraph (d) of the clause at 52.227-10, the contracting officer shall promptly submit that information to legal counsel in order that the steps necessary to ensure the security of the application will be taken."
+            },
+            "d": {
+              "text": "The contracting officer shall act promptly on requests for approval of foreign filing under paragraph (c) of the clause at 52.227-10 in order to avoid the loss of valuable patent rights of the Government or the contractor."
+            }
+          }
+        },
+        "2": {
+          "name": "Contract clause.",
+          "text": {
+            "text": "Insert the clause at 52.227-10, Filing of Patent Applications—Classified Subject Matter, in all classified solicitations and contracts and in all solicitations and contracts where the nature of the work reasonably might result in a patent application containing classified subject matter."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Patented technology under trade agreements.",
+      "sub": {
+        "1": {
+          "name": "Use of patented technology under the North American Free Trade Agreement.",
+          "text": {
+            "a": {
+              "text": "The requirements of this section apply to the use of technology covered by a valid patent when the patent holder is from a country that is a party to the North American Free Trade Agreement (NAFTA)."
+            },
+            "b": {
+              "text": "Article 1709(10) of NAFTA generally requires a user of technology covered by a valid patent to make a reasonable effort to obtain authorization prior to use of the patented technology. However, NAFTA provides that this requirement for authorization may be waived in situations of national emergency or other circumstances of extreme urgency, or for public noncommercial use."
+            },
+            "c": {
+              "text": "Section 6 of Executive Order 12889, “Implementation of the North American Free Trade Act,” of December 27, 1993, waives the requirement to obtain advance authorization for an invention used or manufactured by or for the Federal Government. However, the patent owner shall be notified in advance whenever the agency or its contractor knows or has reasonable grounds to know, without making a patent search, that an invention described in and covered by a valid U.S. patent is or will be used or manufactured without a license. In cases of national emergency or other circumstances of extreme urgency, this notification need not be made in advance, but shall be made as soon as reasonably practicable."
+            },
+            "d": {
+              "text": "The contracting officer, in consultation with the office having cognizance of patent matters, shall ensure compliance with the notice requirements of NAFTA Article 1709(10) and Executive Order 12889. A contract award should not be suspended pending notification to the patent owner."
+            },
+            "e": {
+              "text": "Section 6(c) of Executive Order 12889 provides that the notice to the patent owner does not constitute an admission of infringement of a valid privately-owned patent."
+            },
+            "f": {
+              "text": "When addressing issues regarding compensation for the use of patented technology, Government personnel should be advised that NAFTA uses the term “adequate remuneration.” Executive Order 12889 equates “remuneration” to “reasonable and entire compensation” as used in 28 U.S.C. 1498, the statute that gives jurisdiction to the U.S. Court of Federal Claims to hear patent and copyright cases involving infringement by the Government."
+            },
+            "g": {
+              "text": "When questions arise regarding the notice requirements or other matters relating to this section, the contracting officer should consult with legal counsel."
+            }
+          }
+        },
+        "2": {
+          "name": "Use of patented technology under the General Agreement on Tariffs and Trade (GATT).",
+          "text": {
+            "text": "Article 31 of Annex 1C, Agreement on Trade-Related Aspects of Intellectual Property Rights, to GATT (Uruguay Round) addresses situations where the law of a member country allows for use of a patent without authorization, including use by the Government."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    }
+  }
+}

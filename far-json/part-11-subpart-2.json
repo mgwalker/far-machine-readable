@@ -1,0 +1,100 @@
+{
+  "parentPart": 11,
+  "number": 2,
+  "name": "Using and Maintaining Requirements Documents",
+  "sub": {
+    "201": {
+      "number": 201,
+      "name": "Identification and availability of specifications.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Solicitations citing requirements documents listed in the General Services Administration (GSA) Index of Federal Specifications, Standards and Commercial Item Descriptions, the DoD Acquisition Streamlining and Standardization Information System (ASSIST), or other agency index shall identify each document’s approval date and the dates of any applicable amendments and revisions. Do not use general identification references, such as “the issue in effect on the date of the solicitation.” Contracting offices will not normally furnish these cited documents with the solicitation, except when—",
+          "sub": {
+            "1": {
+              "text": "The requirements document must be furnished with the solicitation to enable prospective contractors to make a competent evaluation of the solicitation;"
+            },
+            "2": {
+              "text": "In the judgment of the contracting officer, it would be impracticable for prospective contractors to obtain the documents in reasonable time to respond to the solicitation; or"
+            },
+            "3": {
+              "text": "A prospective contractor requests a copy of a Government promulgated requirements document."
+            }
+          }
+        },
+        "b": {
+          "text": "Contracting offices shall clearly identify in the solicitation any pertinent documents not listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions or ASSIST. Such documents shall be furnished with the solicitation or specific instructions shall be furnished for obtaining or examining such documents."
+        },
+        "c": {
+          "text": "When documents refer to other documents, such references shall—",
+          "sub": {
+            "1": {
+              "text": "Be restricted to documents, or appropriate portions of documents, that apply in the acquisition;"
+            },
+            "2": {
+              "text": "Cite the extent of their applicability;"
+            },
+            "3": {
+              "text": "Not conflict with other documents and provisions of the solicitation; and"
+            },
+            "4": {
+              "text": "Identify all applicable first tier references."
+            }
+          }
+        },
+        "d": {
+          "text": "(1) The GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29, may be purchased from the—\n\nGeneral Services Administration\n\nFederal Supply Service\n\nSpecifications Section\n\nSuite 8100\n\n470 East L’Enfant Plaza, SW\n\nWashington, DC 20407\n\nTelephone (202) 619-8925.\n\nhttp://www.itl.nist.gov/fipspubs/, or purchased from the—\n\nSuperintendent of Documents, \n\nU.S. Government Printing Office, \n\nWashington, DC 20402, \n\nTelephone (202) 512-1800, \n\nFacsimile (202) 512-2250; or\n\nNational Technical Information Service (NTIS), \n\n5285 Port Royal Road, \n\nSpringfield, VA 22161, \n\nTelephone (703) 605-6000, \n\nFacsimile (703) 605-6900, \n\nEmail: orders@ntis.gov.",
+          "sub": {
+            "text": "General Services Administration\n\nFederal Supply Service\n\nSpecifications Section\n\nSuite 8100\n\n470 East L’Enfant Plaza, SW\n\nWashington, DC 20407\n\nTelephone (202) 619-8925.\n\n(2) Most unclassified Defense specifications and standards may be downloaded from the following ASSIST website:\n\n(i) ASSIST (https://assist.dla.mil/online/start/).\n\n(ii) Quick Search (http://quicksearch.dla.mil/).\n\n(iii) ASSISTdocs.com (http://assistdocs.com).\n\n(3) Documents not available from ASSIST may be ordered from the Department of Defense Single Stock Point (DoDSSP) by—\n\n(i) Using the ASSIST Shopping Wizard (https://assist.dla.mil/wizard/index.cfm);\n\n(ii) Phoning the DoDSSP Customer Service Desk, (215) 697-2179, Mon-Fri, 0730 to 1600 EST; or\n\n(iii) Ordering from DoDSSP, Building 4, Section D, 700 Robbins Avenue, Philadelphia, PA 19111-5094, Telephone (215) 697-2667/2179, Facsimile (215) 697-1462.\n\n(4) The FIPS PUBS may be obtained from—\n\nhttp://www.itl.nist.gov/fipspubs/, or purchased from the—\n\nSuperintendent of Documents, \n\nU.S. Government Printing Office, \n\nWashington, DC 20402, \n\nTelephone (202) 512-1800, \n\nFacsimile (202) 512-2250; or\n\nNational Technical Information Service (NTIS), \n\n5285 Port Royal Road, \n\nSpringfield, VA 22161, \n\nTelephone (703) 605-6000, \n\nFacsimile (703) 605-6900, \n\nEmail: orders@ntis.gov."
+          }
+        },
+        "e": {
+          "text": "Agencies may purchase some nongovernment standards, including voluntary consensus standards, from the National Technical Information Service’s Fedworld Information Network. Agencies may also obtain nongovernment standards from the standards developing organization responsible for the preparation, publication, or maintenance of the standard, or from an authorized document reseller. The National Institute of Standards and Technology can assist agencies in identifying sources for, and content of, nongovernment standards. DoD activities may obtain from the DoDSSP those nongovernment standards, including voluntary consensus standards, adopted for use by defense activities."
+        }
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Maintenance of standardization documents.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Recommendations for changes to standardization documents listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions should be submitted to the—\n\nGeneral Services Administration\n\nFederal Supply Service\n\nOffice of Acquisition\n\nWashington, DC 20406.\n\nAgencies shall submit recommendations for changes to standardization documents listed in the DoDISS to the cognizant preparing activity.",
+          "sub": {
+            "text": "General Services Administration\n\nFederal Supply Service\n\nOffice of Acquisition\n\nWashington, DC 20406.\n\nAgencies shall submit recommendations for changes to standardization documents listed in the DoDISS to the cognizant preparing activity."
+          }
+        },
+        "b": {
+          "text": "When an agency cites an existing standardization document but modifies it to meet its needs, the agency shall follow the guidance in Federal Standardization Manual and, for Defense components, DoD 4120.24-M, Defense Standardization Program Policies and Procedures."
+        }
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Customer satisfaction.",
+      "sub": {},
+      "text": {
+        "text": "Acquisition organizations shall communicate with customers to determine how well the requirements document reflects the customer’s needs and to obtain suggestions for corrective actions. Whenever practicable, the agency may provide affected industry an opportunity to comment on the requirements documents."
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Solicitation provisions and contract clauses.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer shall insert the provision at 52.211-1, Availability of Specifications Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29, in solicitations that cite specifications listed in the Index that are not furnished with the solicitation."
+        },
+        "b": {
+          "text": "The contracting officer shall insert the provision at 52.211-2, Availability of Specifications, Standards, and Data Item Descriptions Listed in the Acquisition Streamlining and Standardization Information System (ASSIST), in solicitations that cite specifications listed in the ASSIST that are not furnished with the solicitation."
+        },
+        "c": {
+          "text": "The contracting officer shall insert a provision substantially the same as the provision at 52.211-3, Availability of Specifications Not Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, in solicitations that cite specifications that are not listed in the Index and are not furnished with the solicitation, but may be obtained from a designated source."
+        },
+        "d": {
+          "text": "The contracting officer shall insert a provision substantially the same as the provision at 52.211-4, Availability for Examination of Specifications Not Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, in solicitations that cite specifications that are not listed in the Index and are available for examination at a specified location."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "parentPart": 42,
+  "number": 13,
+  "name": "Suspension of Work, Stop-Work Orders, and Government Delay of Work",
+  "sub": {
+    "1301": {
+      "number": 1301,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "text": "Situations may occur during contract performance that cause the Government to order a suspension of work, or a work stoppage. This subpart provides clauses to meet these situations and a clause for settling contractor claims for unordered Government caused delays that are not otherwise covered in the contract."
+      }
+    },
+    "1302": {
+      "number": 1302,
+      "name": "Suspension of work.",
+      "sub": {},
+      "text": {
+        "text": "A suspension of work under a construction or architect-engineer contract may be ordered by the contracting officer for a reasonable period of time. If the suspension is unreasonable, the contractor may submit a written claim for increases in the cost of performance, excluding profit."
+      }
+    },
+    "1303": {
+      "number": 1303,
+      "name": "Stop-work orders.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Terminate the contract;"
+        },
+        "2": {
+          "text": "Cancel the stop-work order (any cancellation of a stop-work order shall be subject to the same approvals as were required for its issuance); or"
+        },
+        "3": {
+          "text": "Extend the period of the stop-work order if it is necessary and if the contractor agrees (any extension of the stop-work order shall be by a supplemental agreement)."
+        },
+        "a": {
+          "text": "Stop-work orders may be used, when appropriate, in any negotiated fixed-price or cost-reimbursement supply, research and development, or service contract if work stoppage may be required for reasons such as advancement in the state-of-the-art, production or engineering breakthroughs, or realignment of programs."
+        },
+        "b": {
+          "text": "Generally, a stop-work order will be issued only if it is advisable to suspend work pending a decision by the Government and a supplemental agreement providing for the suspension is not feasible. Issuance of a stop-work order shall be approved at a level higher than the contracting officer. Stop-work orders shall not be used in place of a termination notice after a decision to terminate has been made."
+        },
+        "c": {
+          "text": "Stop-work orders should include—",
+          "sub": {
+            "1": {
+              "text": "A description of the work to be suspended;"
+            },
+            "2": {
+              "text": "Instructions concerning the contractor’s issuance of further orders for materials or services;"
+            },
+            "3": {
+              "text": "Guidance to the contractor on action to be taken on any subcontracts; and"
+            },
+            "4": {
+              "text": "Other suggestions to the contractor for minimizing costs."
+            }
+          }
+        },
+        "d": {
+          "text": "Promptly after issuing the stop-work order, the contracting officer should discuss the stop-work order with the contractor and modify the order, if necessary, in light of the discussion."
+        },
+        "e": {
+          "text": "As soon as feasible after a stop-work order is issued, but before its expiration, the contracting officer shall take appropriate action to—"
+        }
+      }
+    },
+    "1304": {
+      "number": 1304,
+      "name": "Government delay of work.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The clause at 52.242-17, Government Delay of Work, provides for the administrative settlement of contractor claims that arise from delays and interruptions in the contract work caused by the acts, or failures to act, of the contracting officer. This clause is not applicable if the contract otherwise specifically provides for an equitable adjustment because of the delay or interruption; e.g., when the Changes clause is applicable."
+        },
+        "b": {
+          "text": "The clause does not authorize the contracting officer to order a suspension, delay, or interruption of the contract work and it shall not be used as the basis or justification of such an order."
+        },
+        "c": {
+          "text": "If the contracting officer has notice of an unordered delay or interruption covered by the clause, the contracting officer shall act to end the delay or take other appropriate action as soon as practicable."
+        },
+        "d": {
+          "text": "The contracting officer shall retain in the file a record of all negotiations leading to any adjustment made under the clause, and related certified cost or pricing data, or data other than certified cost or pricing data."
+        }
+      }
+    },
+    "1305": {
+      "number": 1305,
+      "name": "Contract clauses.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer shall insert the clause at 52.242-14, Suspension of Work, in solicitations and contracts when a fixed-price construction or architect-engineer contract is contemplated."
+        },
+        "b": {
+          "text": "(1) The contracting officer may, when contracting by negotiation, insert the clause at 52.242-15, Stop-Work Order, in solicitations and contracts for supplies, services, or research and development.",
+          "sub": {
+            "2": {
+              "text": "If a cost-reimbursement contract is contemplated, the contracting officer shall use the clause with its Alternate I."
+            }
+          }
+        },
+        "c": {
+          "text": "The contracting officer shall insert the clause at 52.242-17, Government Delay of Work, in solicitations and contracts when a fixed-price contract is contemplated for supplies other than commercial or modified-commercial items. The clause use is optional when a fixed-price contract is contemplated for services, or for supplies that are commercial or modified-commercial items."
+        }
+      }
+    }
+  }
+}

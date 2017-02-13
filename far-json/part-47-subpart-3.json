@@ -1,0 +1,926 @@
+{
+  "parentPart": 47,
+  "number": 3,
+  "name": "Transportation in Supply Contracts",
+  "sub": {
+    "300": {
+      "number": 300,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Contract coverage of transportation; and"
+        },
+        "2": {
+          "text": "Instructions to the contractor to minimize the ultimate transportation costs to the Government."
+        },
+        "a": {
+          "text": "This subpart prescribes policies and procedures for the application of transportation and traffic management considerations in the acquisition of supplies. The terms and conditions contained in this subpart are applicable to fixed-price contracts."
+        },
+        "b": {
+          "text": "If a special requirement exists for application of any of these terms and conditions to other types of contracts; e.g., cost-reimbursement contracts, for which transportation arrangements are normally the responsibility of the contractor and transportation costs are allowable, the contracting officer shall use the terms and conditions prescribed in this subpart as a guide for—"
+        }
+      }
+    },
+    "301": {
+      "number": 301,
+      "name": "General.",
+      "sub": {
+        "1": {
+          "name": "Responsibilities of contracting officers.",
+          "text": {
+            "a": {
+              "text": "Contracting officers shall obtain from traffic management offices transportation factors required for—",
+              "sub": {
+                "1": {
+                  "text": "Solicitations and awards; and"
+                },
+                "2": {
+                  "text": "Contract administration, modification, and termination, including the movement of property by the Government to and from contractors’ plants."
+                }
+              }
+            },
+            "b": {
+              "text": "Contracting officers shall request transportation office participation especially before making an initial acquisition of supplies that are unusually large, heavy, high, wide, or long; have sensitive or dangerous characteristics; or lend themselves to containerized movements from the source. In determining total transportation charges, contracting officers shall also consider additional costs arising from factors such as the use of special equipment, excess blocking and bracing material, or circuitous routing."
+            }
+          }
+        },
+        "2": {
+          "name": "Participation of transportation officers.",
+          "text": {
+            "text": "Agencies’ transportation officers shall participate in the solicitation and evaluation of offers to ensure that all necessary transportation factors, such as transportation costs, transit arrangements, time in transit, and port capabilities, are considered and result in solicitations and contracts advantageous to the Government. Transportation officers shall provide traffic management assistance throughout the acquisition cycle (see 47.105, Transportation assistance)."
+          }
+        },
+        "3": {
+          "name": "Using the Defense Transportation System (DTS).",
+          "text": {
+            "1": {
+              "text": "Effect DoD 4500.9-R, Defense Transportation Regulation Part II documentation and movement control, including air or water terminal shipment clearances; and"
+            },
+            "2": {
+              "text": "Obtain data necessary for shipment marking and freight routing. Contractual documents shall specify that the contractor shall not ship directly to a military air or water port terminal without authorization from the designated contract administration office (see 47.305-6(f))."
+            },
+            "a": {
+              "text": "All military and civilian agencies shipping, or arranging for the acquisition and shipment by Government contractors, through the use of military-controlled transport or through military transshipment facilities shall follow Department of Defense (DoD) Regulation DoD 4500.9-R, Defense Transportation Regulation Part II. This establishes uniform procedures and documents for the generation, documentation, communication, and use of transportation information, thus providing the capability for control of shipments moving in the DTS. DoD 4500.9-R, Defense Transportation Regulation Part II has been implemented on a world-wide basis."
+            },
+            "b": {
+              "text": "Contracting activities are responsible for (1) ensuring that the requirements of the DoD 4500.9-R, Defense Transportation Regulation Part II regulation are included in appropriate contracts for all applicable shipments and (2) enforcing these requirements with regard to shipments under their control. This includes requirements relating to documentation, marking, advance notification of shipment dates, and terminal clearances."
+            },
+            "c": {
+              "text": "Contractual documents shall designate a contract administration office (see 42.202(a)) as the contact point to which the contractor will provide necessary information to—"
+            }
+          }
+        }
+      },
+      "text": {
+        "1": {
+          "text": "Consider all transportation factors including present and future requirements, positioning of supplies, and subsequent distribution to the extent known or ascertainable; and"
+        },
+        "2": {
+          "text": "Provide the contracting office with information and instructions reflecting transportation factors applicable to the particular acquisition."
+        },
+        "a": {
+          "text": "Transportation and traffic management factors are important in awarding and administering contracts to ensure that (1) acquisitions are made on the basis most advantageous to the Government and (2) supplies arrive in good order and condition and on time at the required place. (See 47.104 for possible reduced transportation rates for Government shipments.)"
+        },
+        "b": {
+          "text": "The requiring activity shall—"
+        }
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "Place of delivery—f.o.b. point.",
+      "sub": {},
+      "text": {
+        "2": {
+          "text": "The fact that transportation is f.o.b. destination does not alone necessitate changing the place of acceptance from origin to destination; and the fact that acceptance is at origin does not necessitate an f.o.b. origin delivery term. Providing for inspection and acceptance at origin (if appropriate under 46.402), in conjunction with an f.o.b. destination term, may be advantageous to both the Government and the contractor. Acceptance of title at origin by the Government permits payment of the contractor, provided the invoice is supported either by a copy of the signed commercial bill of lading (indicating the carrier’s receipt of the supplies covered by the invoice for transportation to the particular destination specified in the contract) or by other appropriate evidence of shipment to the particular destination for the contractor’s account."
+        },
+        "a": {
+          "text": "The policies and procedures in 47.304-1, -2, and -3 govern the transportation of supplies from sources in the Contiguous United States (CONUS), except when identifiable costs, nature of the supplies (security, safety, or value), delivery requirements (premium modes of transport, escorts, transit arrangements, and tentative conditions), or other advantages, limitations, or requirements dictate otherwise. The policies and procedures in 47.304-4 govern the transportation of supplies from sources outside CONUS."
+        },
+        "b": {
+          "text": "Generally, the contracting officer shall solicit offers, and award contracts, with delivery terms on the basis prescribed in 47.304. The contracting officer shall document the contract file (see 4.801) with justifications for solicitations that do not specify delivery on the basis prescribed in 47.304."
+        },
+        "c": {
+          "text": "(1) The place of performance of Government acquisition quality assurance actions and the place of acceptance shall not control the delivery term, except that if acceptance is at destination, transportation shall be f.o.b. destination (see 47.304-1(f))."
+        }
+      }
+    },
+    "303": {
+      "number": 303,
+      "name": "Standard delivery terms and contract clauses.",
+      "sub": {
+        "0": {
+          "name": "F.o.b. inland carrier, point of exportation.",
+          "text": {
+            "a": {
+              "text": "Explanation of delivery term. “F.o.b. inland carrier, point of exportation” means free of expense to the Government, on board the conveyance of the inland carrier, delivered to the specified point of exportation."
+            },
+            "b": {
+              "text": "Contractor responsibilities. The contractor shall—",
+              "sub": {
+                "1": {
+                  "text": "(i) Pack and mark the shipment to comply with contract specifications; or",
+                  "sub": {
+                    "ii": {
+                      "text": "In the absence of specifications, prepare the shipment for ocean transportation in conformance with carrier requirements to protect the goods and to ensure assessment of the lowest applicable transportation charge;"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "Prepare and distribute commercial bills of lading;"
+                },
+                "3": {
+                  "text": "(i) Deliver the shipment in good order and condition in or on the conveyance of the carrier on the date or within the period specified; and",
+                  "sub": {
+                    "ii": {
+                      "text": "Pay and bear all applicable charges, including transportation costs, to the point of delivery specified in the contract;"
+                    }
+                  }
+                },
+                "4": {
+                  "text": "Be responsible for any loss of and/or damage to the goods occurring before delivery of the shipment to the point of delivery specified in the contract; and"
+                },
+                "5": {
+                  "text": "At the Government’s request and expense, assist in obtaining the documents required for—"
+                },
+                "i": {
+                  "text": "Exportation; or"
+                },
+                "ii": {
+                  "text": "Importation at destination."
+                }
+              }
+            },
+            "c": {
+              "text": "Contract clause. The contracting officer shall insert in solicitations and contracts the clause at 52.247-38, F.o.b. Inland Carrier, Point of Exportation, when the delivery term is f.o.b. inland carrier, point of exportation."
+            }
+          }
+        },
+        "1": {
+          "name": "F.o.b. inland point, country of importation.",
+          "text": {
+            "a": {
+              "text": "Explanation of delivery term. “F.o.b. inland point, country of importation” means free of expense to the Government, on board the indicated type of conveyance of the carrier, delivered to the specified inland point where the consignee’s facility is located."
+            },
+            "b": {
+              "text": "Contractor responsibilities. The contractor shall—",
+              "sub": {
+                "1": {
+                  "text": "(i) Pack and mark the shipment to comply with contract specifications; or",
+                  "sub": {
+                    "ii": {
+                      "text": "In the absence of specifications, prepare the shipment for ocean transportation in conformance with carrier requirements to protect the goods;"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "(i) Deliver, in or on the inland carrier’s conveyance, the shipment in good order and condition to the specified inland point where the consignee’s facility is located;",
+                  "sub": {
+                    "ii": {
+                      "text": "Pay and bear all applicable charges incurred up to the point of delivery, including transportation costs; export, import, or other fees or taxes; costs of landing; wharfage costs; customs duties and costs of certificates of origin; consular invoices; and other documents that may be required for importation; and"
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Be responsible for any loss of and/or damage to the goods until their arrival on or in the carrier’s conveyance at the specified inland point."
+                }
+              }
+            },
+            "c": {
+              "text": "Contract clause. The contracting officer shall insert in solicitations and contracts the clause at 52.247-39, F.o.b. Inland Point, Country of Importation, when the delivery term is f.o.b. inland point, country of importation."
+            }
+          }
+        },
+        "2": {
+          "name": "Ex dock, pier, or warehouse, port of importation.",
+          "text": {
+            "a": {
+              "text": "Explanation of delivery term. “Ex dock, pier, or warehouse, port of importation” means free of expense to the Government delivered on the designated dock or pier or in the warehouse at the specified port of importation."
+            },
+            "b": {
+              "text": "Contractor responsibilities. The contractor shall—",
+              "sub": {
+                "1": {
+                  "text": "(i) Pack and mark the shipment to comply with contract specifications; or",
+                  "sub": {
+                    "ii": {
+                      "text": "In the absence of specifications, prepare the shipment for ocean transportation in conformance with carrier requirements to protect the goods;"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "(i) Deliver shipment in good order and condition; and",
+                  "sub": {
+                    "ii": {
+                      "text": "Pay and bear all charges up to the point of delivery specified in the contract, including transportation costs; export, import, or other fees or taxes; costs of wharfage and landing, if any; customs duties; and costs of certificates of origin, consular invoices, or other documents that may be required for exportation or importation; and"
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Be responsible for any loss of and/or damage to the goods occurring before delivery of the shipment to the point of delivery specified in the contract."
+                }
+              }
+            },
+            "c": {
+              "text": "Contract clause. The contracting officer shall insert in solicitations and contracts the clause at 52.247-40, Ex Dock, Pier, or Warehouse, Port of Importation, when the delivery term is ex dock, pier, or warehouse, port of importation."
+            }
+          }
+        },
+        "3": {
+          "name": "C. & f. destination.",
+          "text": {
+            "a": {
+              "text": "Explanation of delivery term. “C.&f. (cost & freight) destination” means free of expense to the Government delivered on board the ocean vessel to the specified point of destination, with the cost of transportation paid by the contractor."
+            },
+            "b": {
+              "text": "Contractor responsibilities. The contractor shall—",
+              "sub": {
+                "1": {
+                  "text": "(i) Pack and mark the shipment to comply with contract specifications; or",
+                  "sub": {
+                    "ii": {
+                      "text": "In the absence of specifications, prepare the shipment for ocean transportation in conformance with carrier requirements;"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "(i) Deliver the shipment in good order and condition; and",
+                  "sub": {
+                    "ii": {
+                      "text": "Pay and bear all applicable charges to the point of destination specified in the contract, including transportation costs and export taxes or other fees or charges levied because of exportation;"
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Obtain and dispatch promptly to the Government clean on-board ocean bills of lading to the specified point of destination."
+                },
+                "4": {
+                  "text": "Be responsible for any loss of and/or damage to the goods occurring before delivery; and"
+                },
+                "5": {
+                  "text": "At the Government’s request and expense, provide certificates of origin, consular invoices, or any other documents issued in the country of origin or of shipment, or both, that may be required for importation into the country of destination."
+                }
+              }
+            },
+            "c": {
+              "text": "Contract clause. The contracting officer shall insert in solicitations and contracts the clause at 52.247-41, C.&f. Destination, when the delivery term is c.&f. (Cost & freight) destination."
+            }
+          }
+        },
+        "4": {
+          "name": "C.i.f. destination.",
+          "text": {
+            "a": {
+              "text": "Explanation of delivery term. “C.i.f. (Cost, insurance, freight) destination” means free of expense to the Government delivered on board the ocean vessel to the specified point of destination, with the cost of transportation and marine insurance paid by the contractor."
+            },
+            "b": {
+              "text": "Contractor responsibilities. The contractor’s responsibilities are the same as those listed in 47.303-13(b), except that, in addition, the contractor shall obtain and dispatch to the Government an insurance policy or certificate providing the amount and extent of marine insurance coverage specified in the contract or agreed upon by the Government contracting officer."
+            },
+            "c": {
+              "text": "Contract clause. The contracting officer shall insert in solicitations and contracts the clause at 52.247-42, C.i.f. (Cost, insurance, freight) Destination, when the delivery term is c.i.f. destination."
+            }
+          }
+        },
+        "5": {
+          "name": "F.o.b. designated air carrier’s terminal, point of exportation.",
+          "text": {
+            "a": {
+              "text": "Explanation of delivery term. “F.o.b. designated air carrier’s terminal, point of exportation” means free of expense to the Government loaded aboard the aircraft, or delivered to the custody of the air carrier (if only the air carrier performs the loading), at the air carrier’s terminal specified in the contract."
+            },
+            "b": {
+              "text": "Contractor responsibilities. The contractor shall—",
+              "sub": {
+                "1": {
+                  "text": "(i) Pack and mark the shipment to comply with contract specifications; or",
+                  "sub": {
+                    "ii": {
+                      "text": "In the absence of specifications, prepare the shipment for air transportation in conformance with carrier requirements to protect the goods and to ensure assessment of the lowest applicable transportation charge;"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "(i) Deliver the shipment in good order and condition into the conveyance of the carrier, or to the custody of the carrier (if only the carrier performs the loading), at the point of delivery and on the date or within the period specified in the contract; and",
+                  "sub": {
+                    "ii": {
+                      "text": "Pay and bear all applicable charges up to this point;"
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Provide a clean bill of lading and/or air waybill;"
+                },
+                "4": {
+                  "text": "Be responsible for any loss of and/or damage to the goods occurring before delivery of the goods to the point specified in the contract; and"
+                },
+                "5": {
+                  "text": "At the Government’s request and expense, assist in obtaining the documents required for the purpose of exportation."
+                }
+              }
+            },
+            "c": {
+              "text": "Contract clause. The contracting officer shall insert in solicitations and contracts the clause at 52.247-43. F.o.b. Designated Air Carrier’s Terminal, Point of Exportation, when the delivery term is f.o.b. designated air carrier’s terminal, point of exportation."
+            }
+          }
+        },
+        "6": {
+          "name": "F.o.b. designated air carrier’s terminal, point of importation.",
+          "text": {
+            "a": {
+              "text": "Explanation of delivery term. “F.o.b. designated air carrier’s terminal, point of importation” means free of expense to the Government delivered to the air carrier’s terminal at the point of importation specified in the contract."
+            },
+            "b": {
+              "text": "Contractor responsibilities. The contractor shall—",
+              "sub": {
+                "1": {
+                  "text": "(i) Pack and mark the shipment to comply with contract specifications; or",
+                  "sub": {
+                    "ii": {
+                      "text": "In the absence of specifications, prepare the shipment for air transportation in conformance with carrier requirements to protect the goods;"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "Prepare and distribute bills of lading or air waybills;"
+                },
+                "3": {
+                  "text": "(i) Deliver the shipment in good order and condition to the point of delivery specified in the contract; and",
+                  "sub": {
+                    "ii": {
+                      "text": "Pay and bear all charges incurred up to the point of delivery specified in the contract, including transportation costs; export, import, or other fees or taxes; cost of landing, if any; customs duties; and costs of certificates of origin, consular invoices, or other documents that may be required for exportation or importation; and"
+                    }
+                  }
+                },
+                "4": {
+                  "text": "Be responsible for any loss of and/or damage to the goods until delivery of the goods to the Government at the designated air carrier’s terminal."
+                }
+              }
+            },
+            "c": {
+              "text": "Contract clause. The contracting officer shall insert in solicitations and contracts the clause at 52.247-44, F.o.b. Designated Air Carrier’s Terminal, Point of Importation, when the delivery term is f.o.b. designated air carrier’s terminal, point of importation."
+            }
+          }
+        },
+        "7": {
+          "name": "Contractor-prepaid commercial bills of lading, small package shipments.",
+          "text": {
+            "a": {
+              "text": "If it is advantageous to the Government, the contracting officer may authorize the contractor to ship supplies, which have been acquired f.o.b. origin, to domestic destinations, including DoD air and water terminals by common carriers on commercial bills of lading. Such shipments shall not exceed 150 pounds by commercial air or 1,000 pounds by other commercial carriers and shall not have a security classification."
+            },
+            "b": {
+              "text": "The contracting officer may authorize the shipments under paragraph (a) of this subsection to be consolidated with the contractor’s own prepaid shipments for delivery to one or more destinations, if all appropriate f.o.b. origin shipments under one or more Government contracts have been consolidated initially. The contractor may be authorized to consolidate less-than-carload or less-than-truckload Government shipments with its own shipments so that the Government can take advantage of lower carload or truckload freight costs. The Government shall assume its pro rata share of the combined shipment cost. Agency transportation personnel shall evaluate overall transportation costs before authorizing any movement to ensure savings to the Government consistent with other contract and traffic management considerations. When consolidation is authorized, a copy of the commercial bill of lading shall be mailed promptly to each consignee."
+            },
+            "c": {
+              "text": "Shipments under prepaid commercial bills of lading, as authorized in paragraph (a) of this subsection, do not require a contract modification. Unless otherwise provided in the contract, the supplies move for the account of, and at the risk of, the Government. The supplies become Government property when loaded on the carrier’s equipment and the contractor has obtained the carrier’s receipt. The contractor pays the transportation charges and is reimbursed by the Government. Loss or damage claims shall be processed in accordance with agency regulations."
+            },
+            "d": {
+              "text": "The contractor’s invoice for reimbursement by the Government shall show the prepaid transportation charges as agreed (see paragraph (b) of this subsection), as a separate item for each individual shipment. The contractor shall support the transportation charges with a copy of the carrier’s receipted freight bill or other evidence of receipt, except as follows:",
+              "sub": {
+                "1": {
+                  "text": "A Government agency may determine that receipted freight bills or other evidence of receipt are not required for transportation charges of $100 or less."
+                },
+                "2": {
+                  "text": "A Government agency may pay an invoiced but unsupported transportation charge of $250 or less per transaction (i.e., purchase, invoice, or aggregate billing or payment for multiple purchases), if—",
+                  "sub": {
+                    "i": {
+                      "text": "The contractor cannot reasonably provide a receipted freight bill; and"
+                    },
+                    "ii": {
+                      "text": "The agency has determined that the charges are reasonable. Determination of reasonableness may be based on—"
+                    },
+                    "A": {
+                      "text": "Past experience (authenticated transportation charges for similar shipments);"
+                    },
+                    "B": {
+                      "text": "Rate checks;"
+                    },
+                    "C": {
+                      "text": "Copies of previous freight bills submitted by the contractor; or"
+                    },
+                    "D": {
+                      "text": "Other information submitted by the contractor to substantiate the amount claimed."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Receipted freight bills in support of invoiced transportation charges of $100 or less are not required for reimbursement by the Government, if—"
+                },
+                "i": {
+                  "text": "The underlying contract specifies retention by the contractor of all records for at least 3 years after final payment under the contract; and"
+                },
+                "ii": {
+                  "text": "The contractor agrees to furnish evidence of payment when requested by the Government."
+                }
+              }
+            },
+            "e": {
+              "text": "Shipments and invoices shall not be split to reduce transportation charges to $100 or less per transaction as a means of avoiding the required documented support for the charges. See paragraph (d)(2) of this subsection for unsupported transportation charges of $250 or less."
+            },
+            "f": {
+              "text": "The contracting officer shall insert the clause at 52.247-65, F.o.b. Origin, Prepaid Freight-Small Package Shipments, in solicitations and contracts when f.o.b. origin shipments are to be made."
+            }
+          }
+        },
+        "8": {
+          "name": "F.a.s. vessel, port of shipment.",
+          "text": {
+            "a": {
+              "text": "Explanation of delivery term. “F.a.s. vessel, port of shipment” means free of expense to the Government delivered alongside the ocean vessel and within reach of its loading tackle at the specified port of shipment."
+            },
+            "b": {
+              "text": "Contractor responsibilities. The contractor shall—",
+              "sub": {
+                "1": {
+                  "text": "(i) Pack and mark the shipment to comply with contract specifications; or",
+                  "sub": {
+                    "ii": {
+                      "text": "In the absence of specifications, prepare the shipment for ocean transportation in conformance with carrier requirements to protect the goods and to ensure assessment of the lowest applicable transportation charge;"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "(i) Deliver the shipment in good order and condition alongside the ocean vessel and within reach of its loading tackle, at the point of delivery and on the date or within the period specified in the contract; and",
+                  "sub": {
+                    "ii": {
+                      "text": "Pay and bear all applicable charges, including transportation costs, wharfage, handling, and heavy lift charges, if necessary, up to this point;"
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Provide a clean dock or ship’s receipt;"
+                },
+                "4": {
+                  "text": "Be responsible for any loss of and/or damage to the goods occurring before delivery of the shipment to the point specified in the contract; and"
+                },
+                "5": {
+                  "text": "At the Government’s request and expense, assist in obtaining the documents required for—"
+                },
+                "i": {
+                  "text": "Exportation; or"
+                },
+                "ii": {
+                  "text": "Importation at destination."
+                }
+              }
+            },
+            "c": {
+              "text": "Contract clause. The contracting officer shall insert in solicitations and contracts the clause at 52.247-36, F.a.s. Vessel, Port of Shipment, when the delivery term is f.a.s. vessel, port of shipment."
+            }
+          }
+        },
+        "9": {
+          "name": "F.o.b. vessel, port of shipment.",
+          "text": {
+            "a": {
+              "text": "Explanation of delivery term. “F.o.b. vessel, port shipment” means free of expense to the Government loaded, stowed, and trimmed on board the ocean vessel at the specified port of shipment."
+            },
+            "b": {
+              "text": "Contractor responsibilities. The contractor shall—",
+              "sub": {
+                "1": {
+                  "text": "(i) Pack and mark the shipment to comply with contract specifications; or",
+                  "sub": {
+                    "ii": {
+                      "text": "In the absence of specifications, prepare the shipment for ocean transportation in conformance with carrier requirements to protect the goods and to ensure assessment of the lowest applicable transportation charge;"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "(i) Deliver the shipment on board the ocean vessel in good order and condition on the date or within the period fixed; and",
+                  "sub": {
+                    "ii": {
+                      "text": "Pay and bear all charges incurred in placing the shipment actually on board;"
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Provide a clean ship’s receipt or on-board ocean bill of lading;"
+                },
+                "4": {
+                  "text": "Be responsible for any loss of and/or damage to the goods occurring before delivery of the shipment on board the ocean vessel; and"
+                },
+                "5": {
+                  "text": "At the Government’s request and expense, assist in obtaining the documents required for—"
+                },
+                "i": {
+                  "text": "Exportation; or"
+                },
+                "ii": {
+                  "text": "Importation at destination."
+                }
+              }
+            },
+            "c": {
+              "text": "Contract clause. The contracting officer shall insert in solicitations and contracts the clause at 52.247-37, F.o.b. Vessel, Port of Shipment, when the delivery term is f.o.b. vessel, port of shipment."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": "Standard delivery terms are listed in 47.303-1 through 47.303-16 (but see 47.300 regarding applicability to cost reimbursement contracts)."
+      }
+    },
+    "304": {
+      "number": 304,
+      "name": "Determination of delivery terms.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "1": {
+              "text": "Bulk supplies, such as coal, that require other than Government-owned or operated handling, storage, and loading facilities, are destined for shipment outside CONUS."
+            },
+            "2": {
+              "text": "Steel or other bulk construction products are destined for shipment outside CONUS."
+            },
+            "3": {
+              "text": "Supplies consist of forest products such as lumber."
+            },
+            "4": {
+              "text": "Perishable or medical supplies are subject to in-transit deterioration."
+            },
+            "5": {
+              "text": "Evaluation of f.o.b. origin offers is anticipated to result in increased administrative lead time or administrative cost that would outweigh the potential advantages of an f.o.b. origin determination."
+            },
+            "a": {
+              "text": "The contracting officer shall determine f.o.b. terms generally on the basis of overall costs, giving due consideration to the criteria given in 47.304."
+            },
+            "b": {
+              "text": "Solicitations shall specify whether offerors must submit offers f.o.b. origin, f.o.b. destination, or both; or whether offerors may choose the basis on which they make an offer. The contracting officer shall consider the most advantageous delivery point, such as—",
+              "sub": {
+                "1": {
+                  "text": "F.o.b. origin, carrier’s equipment, wharf, or specified freight station near contractor’s plant; or"
+                },
+                "2": {
+                  "text": "F.o.b. destination."
+                }
+              }
+            },
+            "c": {
+              "text": "In determining whether f.o.b. origin or f.o.b. destination is more advantageous to the Government, the contracting officer shall consider the availability of lower freight rates (Government rate tenders) to the Government for f.o.b. origin acquisitions. F.o.b. origin contracts also present other desirable traffic management features, in that they—",
+              "sub": {
+                "1": {
+                  "text": "Permit use of transit privileges (see 47.305-13);"
+                },
+                "2": {
+                  "text": "Permit diversions to new destinations without price adjustment for transportation (see 47.305-11);"
+                },
+                "3": {
+                  "text": "Facilitate use of special routings or types of equipment (e.g., circuitous routing or oversize shipments) (see 47.305-14);"
+                },
+                "4": {
+                  "text": "Facilitate, if necessary, use of premium cost transportation and permit Government-controlled transportation;"
+                },
+                "5": {
+                  "text": "Permit negotiations for reduced freight rates (see 47.104-1(b)); and"
+                },
+                "6": {
+                  "text": "Permit use of small shipment consolidation stations."
+                }
+              }
+            },
+            "d": {
+              "text": "When destinations are tentative or unknown, the solicitation shall be f.o.b. origin only (see 47.305-5)."
+            },
+            "e": {
+              "text": "When the size or quantity of supplies with confidential or higher security classification requires commercial transportation services, the contracting officer shall generally specify f.o.b. origin acquisitions."
+            },
+            "f": {
+              "text": "When acceptance must be at destination, solicitation shall be on an f.o.b. destination only basis."
+            },
+            "g": {
+              "text": "Following are examples of situations when solicitations shall normally be on an f.o.b. destination only basis because it is advantageous to the Government (see 47.305-4):"
+            }
+          }
+        },
+        "2": {
+          "name": "Shipments within CONUS.",
+          "text": {
+            "a": {
+              "text": "Solicitations shall provide that offers may be submitted on the basis of either or both f.o.b origin and f.o.b. destination and that they will be evaluated on the basis of the lowest overall cost to the Government."
+            },
+            "b": {
+              "text": "When sufficient reasons exist not to follow this policy, the contract file shall be documented to include the reasons."
+            }
+          }
+        },
+        "3": {
+          "name": "Shipments from CONUS for overseas delivery.",
+          "text": {
+            "a": {
+              "text": "When Government acquisitions involve shipments from CONUS to overseas destinations, delivery f.o.b. origin may afford not only the economies of lower freight rates available to the Government within CONUS, but also flexibility for selection of—",
+              "sub": {
+                "1": {
+                  "text": "The port of export; and"
+                },
+                "2": {
+                  "text": "The ocean transportation providing the lowest overall cost to the Government."
+                }
+              }
+            },
+            "b": {
+              "text": "(1) Unless there are valid reasons to the contrary (see 47.304-5), acquisition of supplies originating within CONUS for ultimate delivery to destinations outside CONUS shall be made on the basis of f.o.b. origin. This policy applies to supplies and equipment to be shipped either directly to a port area for export or to a storage or holding area for subsequent forwarding to a port area for export.",
+              "sub": {
+                "2": {
+                  "text": "Justification for the solicitation of offers on other than an f.o.b. origin basis shall be recorded and the contract file documented accordingly."
+                }
+              }
+            },
+            "c": {
+              "text": "Export cargo involves considerations of operational and cost factors from the point of origin within CONUS to the overseas port destination. The lowest cost of shipping can be determined only by evaluating and comparing the various prospective landed costs (including inland, terminal, and ocean costs). Also, agencies may have export licensing privileges for shipments to foreign destinations. The contracting officer shall obtain advice from the transportation officer to ensure full use of these privileges."
+            }
+          }
+        },
+        "4": {
+          "name": "Shipments originating outside CONUS.",
+          "text": {
+            "a": {
+              "text": "Unless there are valid reasons to the contrary (see 47.304-5), acquisition of supplies originating outside CONUS for ultimate delivery to destinations within CONUS or elsewhere, regardless of the quantity of the shipments, shall be on the basis of f.o.b. origin or f.o.b. destination, whichever is more advantageous to the Government."
+            },
+            "b": {
+              "text": "The contracting officer shall request the advice of the transportation officer to determine the most appropriate place of delivery to be specified in acquisition documents, giving full consideration to the possible use of Government transportation facilities, reduced rates available, special licensing or custom requirements, and availability of U.S. flag shipping services between the points involved (see Subpart 47.5)."
+            }
+          }
+        },
+        "5": {
+          "name": "Exceptions.",
+          "text": {
+            "a": {
+              "text": "Unusual conditions or circumstances may require the use of terms other than f.o.b. origin or f.o.b. destination. Such conditions or circumstances include, but are not limited to—",
+              "sub": {
+                "1": {
+                  "text": "Transportation disabilities at origin or destination;"
+                },
+                "2": {
+                  "text": "Mode of transportation required;"
+                },
+                "3": {
+                  "text": "Availability of Government or commercial loading, unloading, or transshipment facilities;"
+                },
+                "4": {
+                  "text": "Characteristics of the supplies;"
+                },
+                "5": {
+                  "text": "Trade customs related to certain supplies;"
+                },
+                "6": {
+                  "text": "Origins or destinations in Alaska and Hawaii; and"
+                },
+                "7": {
+                  "text": "Program requirements."
+                }
+              }
+            },
+            "b": {
+              "text": "Contracting officers shall obtain assistance from transportation officers before issuing solicitations when unusual conditions or circumstances exist that relate to f.o.b. terms."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "305": {
+      "number": 305,
+      "name": "Solicitation provisions, contract clauses, and transportation factors.",
+      "sub": {
+        "0": {
+          "name": "Packing, marking, and consignment instructions.",
+          "text": {
+            "a": {
+              "text": "Acquisition documents shall include packing and marking requirements necessary to prevent deterioration of supplies and damages due to the hazards of shipping, handling, and storage, and, when appropriate, marking in accordance with the requirements of 49 CFR 172.300."
+            },
+            "b": {
+              "text": "Contracts shall include complete consignment and marking instructions at the time the contract is awarded to ensure that supplies are delivered to proper destinations without delay. If complete consignment information is not initially known, the contracting officer shall issue amended delivery instructions under the Changes clause of the contract (see 43.205) as soon as the information becomes known."
+            },
+            "c": {
+              "text": "If necessary to meet required delivery schedules, the contracting officer may issue instructions by telephone or electronic means. The contracting officer shall confirm telephonic instructions in writing, and confirm electronic instructions if the contracting officer did not receive confirmation of receipt."
+            },
+            "d": {
+              "text": "Marking and consignment instructions for military shipments shall conform to the current issue of MIL-STD-129 (Military Standard Marking for Shipment and Storage) and other applicable DoD regulations. Shipments for civilian agencies shall be marked as specified in Federal Standard 123, Marking for Domestic Shipment (Civil Agencies)."
+            }
+          }
+        },
+        "1": {
+          "name": "Options in shipment and delivery.",
+          "text": {
+            "text": "Although the clauses prescribed in Subpart 43.2 allow certain changes to be made in regard to shipment and delivery, it may be desirable to provide specifically for certain options in the solicitation. The Government may reserve the right to—\n\n(a) Direct deliveries of all or part of the contract quantity to destinations or to consignees other than those specified in the solicitation and in the contract;\n\n(b) Direct shipments in quantities that may require transportation rates different from those on which the contract price is based; and\n\n(c) Direct shipments by a mode of transportation other than that stipulated in the solicitation and in the contract."
+          }
+        },
+        "2": {
+          "name": "Delivery of Government-furnished property.",
+          "text": {
+            "1": {
+              "text": "The regular freight classification and"
+            },
+            "2": {
+              "text": "The hazardous material description and hazard class as shown in 49 CFR 172.101."
+            },
+            "a": {
+              "text": "(1) When Government property is furnished to a contractor and transportation costs to the Government are a factor in the evaluation of offers, the contracting officer shall include in the solicitation a clear description of the property, its location, and other information necessary for the preparation of cost estimates.",
+              "sub": {
+                "2": {
+                  "text": "The contracting officer shall insert in solicitations and contracts the clause at 52.247-55, F.o.b. Point for Delivery of Government-Furnished Property, when Government property is to be furnished under a contract and the Government will be responsible for transportation arrangements and costs."
+                }
+              }
+            },
+            "b": {
+              "text": "The contracting officer shall describe explosive and dangerous material according to—"
+            }
+          }
+        },
+        "3": {
+          "name": "Transit arrangements.",
+          "text": {
+            "1": {
+              "text": "In evaluations of f.o.b. origin offers for large quantities of supplies that contractors normally have in process or storage at intermediate points, contracting officers shall make use of contractors’ earned commercial transit credits, which are recorded with the carriers. A transit credit represents the transportation costs for a recorded tonnage from the initial point to an intermediate point. The remaining transportation charges from the intermediate point to the Government destination, because they are based on through rates, are frequently lower than the transportation charges that would apply for the same tonnage if the intermediate point were the initial origin point."
+            },
+            "2": {
+              "text": "If transit credits apply, the contract shall state that the contractor shall ship the goods on prepaid commercial bills of lading, subject to reimbursement by the Government. The contracting officer shall ensure that this does not preclude a proper change in delivery terms under the Changes clause. The shipments move for the account and at the risk of the Government, as they become Government property at origin."
+            },
+            "3": {
+              "text": "The contractor shall show the transportation and transit charges as separate amounts on the invoice for each individual shipment. The amount to be reimbursed by the Government shall not exceed the amount quoted in the offer."
+            },
+            "4": {
+              "text": "The contracting officer shall insert in solicitations and contracts the clause at 52.247-57, Transportation Transit Privilege Credits, when supplies are of such a nature, or when it is the custom of the trade, that offerors may have potential transit credits available and the Government may reduce transportation costs through the use of transit credits."
+            },
+            "a": {
+              "text": "Transit privileges.",
+              "sub": {
+                "1": {
+                  "text": "Transit arrangements permit the stopping of a carload or truckload shipment at a specific intermediate point en route to the final destination for storage, processing, or other purposes, as specified in carrier tariffs or rate tenders. A single through rate is charged from origin to final destination plus a transit or other related charge, rather than a more expensive combination of rates to and from the transit point."
+                },
+                "2": {
+                  "text": "The contracting officer shall consider possible benefits available to the Government through the use of existing transit arrangements or through efforts to obtain additional transit privileges from the carriers. Solicitations incorporating transit arrangements shall be restricted to f.o.b. origin offers, as f.o.b. destination offers can only quote fixed overall delivered prices at first destination."
+                },
+                "3": {
+                  "text": "(i) Traffic management personnel shall furnish information and analyses of situations in which transit arrangements may be beneficial. The quantity to be awarded must be of sufficient tonnage to ensure that carload/truckload shipments can be made by the contractor, and there should be reasonable certainty that shipments out of the transit point will be requested in carload/truckload quantities."
+                },
+                "ii": {
+                  "text": "The contracting officer shall insert in solicitations the provision at 52.247-56, Transit Arrangements, when benefits may accrue to the Government because transit arrangements may apply."
+                }
+              }
+            },
+            "b": {
+              "text": "Transit credits."
+            }
+          }
+        },
+        "4": {
+          "name": "Mode of transportation.",
+          "text": {
+            "text": "Generally, solicitations shall not specify a particular mode of transportation or a particular carrier. If the use of particular types of carriers is necessary to meet program requirements, the solicitation shall provide that only offers involving the specified types of carriers will be considered. The contracting officer shall obtain all specifications for mode, route, delivery, etc., from the transportation office."
+          }
+        },
+        "5": {
+          "name": "Loading responsibilities of contractors.",
+          "text": {
+            "a": {
+              "text": "(1) Contractors are responsible for loading, blocking, and bracing carload shipments as specified in standards published by the Association of American Railroads.",
+              "sub": {
+                "2": {
+                  "text": "The contracting officer shall insert in solicitations and contracts the clause at 52.247-58, Loading, Blocking, and Bracing of Freight Car Shipments, when supplies may be shipped in carload lots by rail."
+                }
+              }
+            },
+            "b": {
+              "text": "If the nature of the supplies or safety, environmental, or transportability factors require special methods for securing the supplies on the carrier’s equipment, or if only a special mode of transportation or type vehicle is appropriate, the contracting officer shall include in solicitations detailed specifications that have been coordinated with the transportation office."
+            }
+          }
+        },
+        "6": {
+          "name": "Shipping characteristics.",
+          "text": {
+            "1": {
+              "text": "When total requirements and destinations to which shipments will be made are known, but the specific quantity to be shipped to each destination cannot be predetermined, solicitations shall state that offers are to be submitted on the basis of delivery “f.o.b. origin” and/or “f.o.b. destination” and that offers will be evaluated on both bases."
+            },
+            "2": {
+              "text": "The contracting officer shall insert in solicitations and contracts the clause at 52.247-62, Specific Quantities Unknown, when total requirements and destinations to which shipments will be made are known, but the specific quantity to be shipped to each destination cannot be predetermined. This clause protects the interests of both the Government and the contractor during the course of the performance of the contract."
+            },
+            "a": {
+              "text": "Required shipping weights. The contracting officer shall insert in solicitations and contracts the clause at 52.247-59, F.o.b. Origin—Carload and Truckload Shipments, when it is contemplated that they may result in f.o.b. origin contracts with shipments in carloads or truckloads. This will facilitate realistic freight cost evaluations of offers and ensure that contractors produce economical shipments of agreed size."
+            },
+            "b": {
+              "text": "Guaranteed shipping characteristics.",
+              "sub": {
+                "1": {
+                  "text": "The contracting officer shall insert in solicitations and contracts, excluding those at or below the simplified acquisition threshold, the clause at 52.247-60, Guaranteed Shipping Characteristics, when shipping and other characteristics are required to evaluate offers as to transportation costs. When all of the shipping characteristics listed in paragraph (a) of the clause at 52.247-60 are not required to evaluate offers as to transportation costs, the contracting officer shall delete the characteristics not required from the clause."
+                },
+                "2": {
+                  "text": "The award document shall show the shipping characteristics used in the evaluation."
+                }
+              }
+            },
+            "c": {
+              "text": "Minimum size of shipments. When volume rates may apply, the contracting officer shall insert in solicitations and contracts the clause at 52.247-61, F.o.b. Origin—Minimum Size of Shipments."
+            },
+            "d": {
+              "text": "Specific quantities unknown."
+            }
+          }
+        },
+        "7": {
+          "name": "Returnable cylinders.",
+          "text": {
+            "text": "The contracting officer shall insert the clause at 52.247-66, Returnable Cylinders, in a solicitation and contract whenever the contract involves the purchase of gas in contractor-furnished returnable cylinders and the contractor retains title to the cylinders."
+          }
+        },
+        "8": {
+          "name": "Consolidation of small shipments and the use of stopoff privileges.",
+          "text": {
+            "a": {
+              "text": "Consolidation of small shipments. Consolidation of small shipments into larger lots frequently results in lower transportation costs. Therefore, the contracting officer, after consultation with the transportation office and the activity requiring the supplies, may revise the delivery schedules to provide for deliveries in larger quantities."
+            },
+            "b": {
+              "text": "Stopping for partial unloading. When feasible, schedules for delivery of supplies to multiple destinations shall be consolidated and the stopoff privileges permitted under carrier tariffs shall be used for partial unloading at one or more points directly en route between the point of origin and the last destination."
+            }
+          }
+        },
+        "9": {
+          "name": "Commodity description and freight classification.",
+          "text": {
+            "a": {
+              "text": "Generally, the freight rate for supplies is based on the rating applicable to the freight classification description published in the National Motor Freight Classification (NMFC) (for carriers) and the Uniform Freight Classification (UFC) (for rail) filed with Federal and State regulatory bodies. Therefore, the contracting officer shall show in the solicitation a complete description of the commodity to be acquired and of packing requirements to determine proper transportation charges for the evaluation of offers. If supplies cannot be properly classified through reference to freight classification tariffs or if doubt exists, the contracting officer shall obtain the applicable freight classification from the transportation office. In some situations prospective contractors have established an official freight classification description that can be applied."
+            },
+            "b": {
+              "text": "(1) When the supplies being acquired are new to the supply system, nonstandard, or modifications of previously shipped items, and different freight classifications may apply, the contracting officer shall insert in solicitations the provision at 52.247-53, Freight Classification Description.",
+              "sub": {
+                "2": {
+                  "text": "The contracting officer shall alert the transportation officer to the possibility of negotiations for appropriate freight classification ratings and reasonable transportation rates."
+                }
+              }
+            },
+            "c": {
+              "text": "The solicitation shall contain adequate descriptions of explosives and other dangerous supplies according to—",
+              "sub": {
+                "1": {
+                  "text": "The regular freight classification; and"
+                },
+                "2": {
+                  "text": "The hazardous material description and hazard class as shown in 49 CFR 172.101."
+                }
+              }
+            },
+            "d": {
+              "text": "The contracting officer shall furnish the freight classification information developed in 47.305-9(a), (b), and (c) of this section to the contract administration office."
+            }
+          }
+        }
+      },
+      "text": {
+        "a": {
+          "text": "The contracting officer shall coordinate transportation factors with the transportation office during the planning, solicitation, and award phases of the acquisition process (see 47.105)."
+        },
+        "b": {
+          "text": "To the extent feasible, activities shall schedule deliveries to effect savings in transportation costs, and concomitant reductions in energy consumption by carriers (see 47.305-7 and 47.305-8 for specific possibilities)."
+        }
+      }
+    },
+    "306": {
+      "number": 306,
+      "name": "Transportation factors in the evaluation of offers.",
+      "sub": {
+        "1": {
+          "name": "Transportation cost determinations.",
+          "text": {
+            "text": "When requesting the transportation officer to assist in evaluating offers, the contracting officer shall give the transportation officer all pertinent data, including the following information:\n\n(a) A complete description of the commodity being acquired including packaging instructions.\n\n(b) Planned date of award.\n\n(c) Date of initial shipment.\n\n(d) Total quantity to be shipped (including weight and cubic content, when appropriate).\n\n(e) Delivery schedule.\n\n(f) Contract period.\n\n(g) Possible use of transit privileges, including stopoffs for partial loading or unloading, or both."
+          }
+        },
+        "2": {
+          "name": "Lowest overall transportation costs.",
+          "text": {
+            "a": {
+              "text": "For the evaluation of offers, the transportation officer shall give to the contracting officer, and the contracting officer shall use, the lowest available freight rates and related accessorial and incidental charges that—",
+              "sub": {
+                "1": {
+                  "text": "Are in effect on, or become effective before, the expected date of the initial shipment; and"
+                },
+                "2": {
+                  "text": "Are on file or published on the date of the bid opening."
+                }
+              }
+            },
+            "b": {
+              "text": "If rates or related charges become available after the bid opening or the due date of offers, they shall not be used in the evaluation unless they cover transportation for which no applicable rates or accessorial or incidental costs were in existence at the time of bid opening or due date of the offers."
+            }
+          }
+        },
+        "3": {
+          "name": "Adequacy of loading and unloading facilities.",
+          "text": {
+            "a": {
+              "text": "When determining the transportation capabilities of an offeror, the contracting officer shall consider the type and adequacy of the offeror’s shipping facilities, including the ability to consolidate and ship in carload or truckload lots."
+            },
+            "b": {
+              "text": "The contracting officer shall consider the type and adequacy of the consignee’s receiving facilities to avoid shipping schedules that cannot be properly accommodated."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": "When evaluating offers, contracting officers shall consider transportation and transportation-related costs as well as the offerors’ shipping and receiving facilities."
+      }
+    }
+  }
+}

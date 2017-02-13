@@ -1,0 +1,255 @@
+{
+  "parentPart": 11,
+  "number": 1,
+  "name": "Selecting and Developing Requirements Documents",
+  "sub": {
+    "101": {
+      "number": 101,
+      "name": "Order of precedence for requirements documents.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Agencies may select from existing requirements documents, modify or combine existing requirements documents, or create new requirements documents to meet agency needs, consistent with the following order of precedence:",
+          "sub": {
+            "1": {
+              "text": "Documents mandated for use by law."
+            },
+            "2": {
+              "text": "Performance-oriented documents (e.g., a PWS or SOO). (See 2.101.)"
+            },
+            "3": {
+              "text": "Detailed design-oriented documents."
+            },
+            "4": {
+              "text": "Standards, specifications and related publications issued by the Government outside the Defense or Federal series for the non-repetitive acquisition of items."
+            }
+          }
+        },
+        "b": {
+          "text": "In accordance with OMB Circular A-119, “Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities,” and Section 12(d) of the National Technology Transfer and Advancement Act of 1995, Pub. L. 104-113 (15 U.S.C. 272 note), agencies must use voluntary consensus standards, when they exist, in lieu of Government-unique standards, except where inconsistent with law or otherwise impractical. The private sector manages and administers voluntary consensus standards. Such standards are not mandated by law (e.g., industry standards such as ISO 9000, and IEEE 1680)."
+        }
+      }
+    },
+    "102": {
+      "number": 102,
+      "name": "Standardization program.",
+      "sub": {},
+      "text": {
+        "text": "Agencies shall select existing requirements documents or develop new requirements documents that meet the needs of the agency in accordance with the guidance contained in the Federal Standardization Manual, FSPM-0001; for DoD components, DoD 4120.24-M, Defense Standardization Program Policies and Procedures; and for IT standards and guidance, the Federal Information Processing Standards Publications (FIPS PUBS). The Federal Standardization Manual may be obtained from the General Services Administration (see address in 11.201(d)(1)). DoD 4120.24-M may be obtained from DoD (see 11.201(d)(2) or 11.201(d)(3)). FIPS PUBS may be obtained from the Government Printing Office (GPO), or the Department of Commerce's National Technical Information Service (NTIS) (see address in 11.201(d)(4))."
+      }
+    },
+    "103": {
+      "number": 103,
+      "name": "Market acceptance.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Describe the circumstances justifying the use of commercial market acceptance criteria; and"
+        },
+        "2": {
+          "text": "Support the specific criteria being used."
+        },
+        "a": {
+          "text": "41 U.S.C. 3307(e) provides that, in accordance with agency procedures, the head of an agency may, under appropriate circumstances, require offerors to demonstrate that the items offered—",
+          "sub": {
+            "1": {
+              "text": "Have either—",
+              "sub": {
+                "i": {
+                  "text": "Achieved commercial market acceptance; or"
+                },
+                "ii": {
+                  "text": "Been satisfactorily supplied to an agency under current or recent contracts for the same or similar requirements; and"
+                }
+              }
+            },
+            "2": {
+              "text": "Otherwise meet the item description, specifications, or other criteria prescribed in the public notice and solicitation."
+            }
+          }
+        },
+        "b": {
+          "text": "Appropriate circumstances may, for example, include situations where the agency’s minimum need is for an item that has a demonstrated reliability, performance or product support record in a specified environment. Use of market acceptance is inappropriate when new or evolving items may meet the agency’s needs."
+        },
+        "c": {
+          "text": "In developing criteria for demonstrating that an item has achieved commercial market acceptance, the contracting officer shall ensure the criteria in the solicitation—",
+          "sub": {
+            "1": {
+              "text": "Reflect the minimum need of the agency and are reasonably related to the demonstration of an item’s acceptability to meet the agency’s minimum need;"
+            },
+            "2": {
+              "text": "Relate to an item’s performance and intended use, not an offeror’s capability;"
+            },
+            "3": {
+              "text": "Are supported by market research;"
+            },
+            "4": {
+              "text": "Include consideration of items supplied satisfactorily under recent or current Government contracts, for the same or similar items; and"
+            },
+            "5": {
+              "text": "Consider the entire relevant commercial market, including small business concerns."
+            }
+          }
+        },
+        "d": {
+          "text": "Commercial market acceptance shall not be used as a sole criterion to evaluate whether an item meets the Government’s requirements."
+        },
+        "e": {
+          "text": "When commercial market acceptance is used, the contracting officer shall document the file to—"
+        }
+      }
+    },
+    "104": {
+      "number": 104,
+      "name": "Use of brand name or equal purchase descriptions.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "While the use of performance specifications is preferred to encourage offerors to propose innovative solutions, the use of brand name or equal purchase descriptions may be advantageous under certain circumstances."
+        },
+        "b": {
+          "text": "Brand name or equal purchase descriptions must include, in addition to the brand name, a general description of those salient physical, functional, or performance characteristics of the brand name item that an “equal” item must meet to be acceptable for award. Use brand name or equal descriptions when the salient characteristics are firm requirements."
+        }
+      }
+    },
+    "105": {
+      "number": 105,
+      "name": "Items peculiar to one manufacturer.",
+      "sub": {},
+      "text": {
+        "text": "Agency requirements shall not be written so as to require a particular brand name, product, or a feature of a product, peculiar to one manufacturer, thereby precluding consideration of a product manufactured by another company, unless—\n\n(a)(1) The particular brand name, product, or feature is essential to the Government’s requirements, and market research indicates other companies’ similar products, or products lacking the particular feature, do not meet, or cannot be modified to meet, the agency’s needs;\n\n(2)(i) The authority to contract without providing for full and open competition is supported by the required justifications and approvals (see 6.302-1); or\n\n(ii) The basis for not providing for maximum practicable competition is documented in the file (see 13.106-1(b)) or justified (see 13.501) when the acquisition is awarded using simplified acquisition procedures.\n\n(3) The documentation or justification is posted for acquisitions over $25,000. (See 5.102(a)(6).)\n\n(b) For multiple award schedule orders, see 8.405-6.\n\n(c) For orders under indefinite-quantity contracts, see 16.505(a)(4)."
+      }
+    },
+    "106": {
+      "number": 106,
+      "name": "Purchase descriptions for service contracts.",
+      "sub": {},
+      "text": {
+        "text": "In drafting purchase descriptions for service contracts, agency requiring activities shall ensure that inherently governmental functions (see Subpart 7.5) are not assigned to a contractor. These purchase descriptions shall—\n\n(a) Reserve final determination for Government officials;\n\n(b) Require proper identification of contractor personnel who attend meetings, answer Government telephones, or work in situations where their actions could be construed as acts of Government officials unless, in the judgment of the agency, no harm can come from failing to identify themselves; and\n\n(c) Require suitable marking of all documents or reports produced by contractors."
+      }
+    },
+    "107": {
+      "number": 107,
+      "name": "Solicitation provision.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Insert the provision at 52.211-6, Brand Name or Equal, when brand name or equal purchase descriptions are included in a solicitation."
+        },
+        "b": {
+          "text": "Insert the provision at 52.211-7, Alternatives to Government-Unique Standards, in solicitations that use Government-unique standards when the agency uses the transaction-based reporting method to report its use of voluntary consensus standards to the National Institute of Standards and Technology (see OMB Circular A-119, “Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities”). Use of the provision is optional for agencies that report their use of voluntary consensus standards to the National Institute of Standards and Technology using the categorical reporting method. Agencies that manage their specifications on a contract-by-contract basis use the transaction-based method of reporting. Agencies that manage their specifications centrally use the categorical method of reporting. Agency regulations regarding specification management describe which method is used."
+        }
+      }
+    },
+    "000": {
+      "number": 0,
+      "name": "Scope of part.",
+      "sub": {},
+      "text": {
+        "text": "This part prescribes policies and procedures for describing agency needs."
+      }
+    },
+    "001": {
+      "number": 1,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this part—\n\n“Reconditioned” means restored to the original normal operating condition by readjustments and material replacement\n\n“Remanufactured” means factory rebuilt to original specifications."
+      }
+    },
+    "002": {
+      "number": 2,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "In fulfilling requirements of 10 U.S.C. 2305(a)(1), 10 U.S.C. 2377, 41 U.S.C. 3306(a), and 41 U.S.C. 3307, agencies shall—",
+          "sub": {
+            "1": {
+              "text": "Specify needs using market research in a manner designed to—",
+              "sub": {
+                "i": {
+                  "text": "Promote full and open competition (see Part 6), or maximum practicable competition when using simplified acquisition procedures, with due regard to the nature of the supplies or services to be acquired; and"
+                },
+                "ii": {
+                  "text": "Only include restrictive provisions or conditions to the extent necessary to satisfy the needs of the agency or as authorized by law."
+                }
+              }
+            },
+            "2": {
+              "text": "To the maximum extent practicable, ensure that acquisition officials—"
+            },
+            "i": {
+              "text": "State requirements with respect to an acquisition of supplies or services in terms of—"
+            },
+            "A": {
+              "text": "Functions to be performed;"
+            },
+            "B": {
+              "text": "Performance required; or"
+            },
+            "C": {
+              "text": "Essential physical characteristics;"
+            },
+            "ii": {
+              "text": "Define requirements in terms that enable and encourage offerors to supply commercial items, or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items, in response to the agency solicitations;"
+            },
+            "iii": {
+              "text": "Provide offerors of commercial items and nondevelopmental items an opportunity to compete in any acquisition to fill such requirements;"
+            },
+            "iv": {
+              "text": "Require prime contractors and subcontractors at all tiers under the agency contracts to incorporate commercial items or nondevelopmental items as components of items supplied to the agency; and"
+            },
+            "v": {
+              "text": "Modify requirements in appropriate cases to ensure that the requirements can be met by commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items."
+            }
+          }
+        },
+        "b": {
+          "text": "The Metric Conversion Act of 1975, as amended by the Omnibus Trade and Competitiveness Act of 1988 (15 U.S.C. 205a, et seq.), designates the metric system of measurement as the preferred system of weights and measures for United States trade and commerce, and it requires that each agency use the metric system of measurement in its acquisitions, except to the extent that such use is impracticable or is likely to cause significant inefficiencies or loss of markets to United States firms. Requiring activities are responsible for establishing guidance implementing this policy in formulating their requirements for acquisitions."
+        },
+        "c": {
+          "text": "To the extent practicable and consistent with Subpart 9.5, potential offerors should be given an opportunity to comment on agency requirements or to recommend application and tailoring of requirements documents and alternative approaches. Requiring agencies should apply specifications, standards, and related documents initially for guidance only, making final decisions on the application and tailoring of these documents as a product of the design and development process. Requiring agencies should not dictate detailed design solutions prematurely (see 7.101 and 7.105(a)(8))."
+        },
+        "d": {
+          "text": "(1) When agencies acquire products and services, various statutes and executive orders (identified in part 23) require consideration of sustainable acquisition (see subpart 23.1) including—",
+          "sub": {
+            "2": {
+              "text": "Unless an exception applies and is documented by the requiring activity, Executive agencies shall, to the maximum practicable, require the use of products and services listed in paragraph (d)(1) of this section when—"
+            },
+            "i": {
+              "text": "Developing, reviewing, or revising Federal and military specifications, product descriptions (including commercial item descriptions) and standards;"
+            },
+            "ii": {
+              "text": "Describing Government requirements for products and services; and"
+            },
+            "iii": {
+              "text": "Developing source-selection factors."
+            },
+            "iv": {
+              "text": "Biobased products (subpart 23.4);"
+            },
+            "v": {
+              "text": "Environmentally preferable products and services, including EPEAT®-registered electronic products and non-toxic or low-toxic alternatives (subpart 23.7); and"
+            },
+            "vi": {
+              "text": "Non-ozone-depleting substances, and products and services that minimize or eliminate, when feasible, the use, release, or emission of high global warming potential hydrofluorocarbons, such as by using reclaimed instead of virgin hydrofluorocarbons (subpart 23.8)."
+            }
+          }
+        },
+        "e": {
+          "text": "Some or all of the performance levels or performance specifications in a solicitation may be identified as targets rather than as fixed or minimum requirements."
+        },
+        "f": {
+          "text": "In accordance with Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), requiring activities must prepare requirements documents for electronic and information technology that comply with the applicable accessibility standards issued by the Architectural and Transportation Barriers Compliance Board at 36 CFR Part 1194 (see Subpart 39.2)."
+        },
+        "g": {
+          "text": "Unless the agency Chief Information Officer waives the requirement, when acquiring information technology using Internet Protocol, the requirements documents must include reference to the appropriate technical capabilities defined in the USGv6 Profile (NIST Special Publication 500-267) and the corresponding declarations of conformance defined in the USGv6 Test Program. The applicability of IPv6 to agency networks, infrastructure, and applications specific to individual acquisitions will be in accordance with the agency's Enterprise Architecture (see OMB Memorandum M-05-22 dated August 2, 2005)."
+        },
+        "h": {
+          "text": "Agencies shall not include in a solicitation a requirement that prohibits an offeror from permitting its employees to telecommute unless the contracting officer executes a written determination in accordance with FAR 7.108(a)."
+        }
+      }
+    }
+  }
+}

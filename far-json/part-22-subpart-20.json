@@ -1,0 +1,429 @@
+{
+  "parentPart": 22,
+  "number": 20,
+  "name": "Fair Pay and Safe Workplaces",
+  "sub": {
+    "2000": {
+      "number": 2000,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures to implement Executive Order (E.O.) 13673, Fair Pay and Safe Workplaces, dated July 31, 2014.\n\nNote to 22.2000:  By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+      }
+    },
+    "2001": {
+      "number": 2001,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "2002": {
+      "number": 2002,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart–\n\n“Administrative merits determination” means certain notices or findings of labor law violations issued by an enforcement agency following an investigation. An administrative merits determination may be final or be subject to appeal or further review. To determine whether a particular notice or finding is covered by this definition, it is necessary to consult section II.B. in the DOL Guidance.\n\n“Agency labor compliance advisor (ALCA)” means the senior official designated in accordance with E.O. 13673.  ALCAs are listed at www.dol.gov/fairpayandsafeworkplaces.\n\n“Arbitral award or decision” means an arbitrator or arbitral panel determination that a labor law violation occurred, or that enjoined or restrained a violation of labor law. It includes an award or decision that is not final or is subject to being confirmed, modified, or vacated by a court, and includes an award or decision resulting from private or confidential proceedings. To determine whether a particular award or decision is covered by this definition, it is necessary to consult section II.B. in the DOL Guidance.\n\n“Civil judgment” means any judgment or order entered by any Federal or State court in which the court determined that a labor law violation occurred, or enjoined or restrained a violation of labor law. It includes a judgment or order that is not final or is subject to appeal. To determine whether a particular judgment or order is covered by this definition, it is necessary to consult section II.B. in the DOL Guidance.\n\n“DOL Guidance” means the Department of Labor (DOL) Guidance entitled: “Guidance for Executive Order 13673, 'Fair Pay and Safe Workplaces’.” The DOL Guidance was initially published in the Federal Register on August 25, 2016, and significant revisions will be published for public comment in the Federal Register. The DOL Guidance and subsequent versions can be obtained from www.dol.gov/fairpayandsafeworkplaces.\n\n“Enforcement agency” means any agency granted authority to enforce the Federal labor laws. It includes the enforcement components of DOL (Wage and Hour Division, Office of Federal Contract Compliance Programs, and Occupational Safety and Health Administration), the Equal Employment Opportunity Commission, the Occupational Safety and Health Review Commission, and the National Labor Relations Board. It also means a State agency designated to administer an OSHA-approved State Plan, but only to the extent that the State agency is acting in its capacity as administrator of such plan. It does not include other Federal agencies which, in their capacity as contracting agencies, conduct investigations of potential labor law violations. The enforcement agencies associated with each labor law under E.O. 13673 are–\n\n(1) Department of Labor Wage and Hour Division (WHD) for–\n\n(i) The Fair Labor Standards Act;\n\n(ii) The Migrant and Seasonal Agricultural Worker Protection Act;\n\n(iii) 40 U.S.C. chapter 31, subchapter IV, formerly known as the Davis-Bacon Act;\n\n(iv) 41 U.S.C. chapter 67, formerly known as the Service Contract Act;\n\n(v) The Family and Medical Leave Act; and\n\n(vi) E.O. 13658 of February 12, 2014 (Establishing a Minimum Wage for Contractors);\n\n(2) Department of Labor Occupational Safety and Health Administration (OSHA) for–\n\n(i) The Occupational Safety and Health Act of 1970; and\n\n(ii) OSHA-approved State Plans;\n\n(3) Department of Labor Office of Federal Contract Compliance Programs (OFCCP) for–\n\n(i) Section 503 of the Rehabilitation Act of 1973;\n\n(ii) The Vietnam Era Veterans’ Readjustment Assistance Act of 1972 and the Vietnam Era Veterans’ Readjustment Assistance Act of 1974; and\n\n(iii) E.O. 11246 of September 24, 1965 (Equal Employment Opportunity);\n\n(4) National Labor Relations Board (NLRB) for the National Labor Relations Act; and\n\n(5) Equal Employment Opportunity Commission (EEOC) for–\n\n(i) Title VII of the Civil Rights Act of 1964;\n\n(ii) The Americans with Disabilities Act of 1990;\n\n(iii) The Age Discrimination in Employment Act of 1967; and\n\n(iv) Section 6(d) of the Fair Labor Standards Act (Equal Pay Act).\n\n“Labor compliance agreement” means an agreement entered into between a contractor or subcontractor and an enforcement agency to address appropriate remedial measures, compliance assistance, steps to resolve issues to increase compliance with the labor laws, or other related matters.\n\n“Labor laws” means the following labor laws and E.O.s:\n\n(1) The Fair Labor Standards Act.\n\n(2) The Occupational Safety and Health Act (OSHA) of 1970.\n\n(3) The Migrant and Seasonal Agricultural Worker Protection Act.\n\n(4) The National Labor Relations Act.\n\n(5) 40 U.S.C. chapter 31, subchapter IV, formerly known as the Davis-Bacon Act.\n\n(6) 41 U.S.C. chapter 67, formerly known as the Service Contract Act.\n\n(7) E.O. 11246 of September 24, 1965 (Equal Employment Opportunity).\n\n(8) Section 503 of the Rehabilitation Act of 1973.\n\n(9) The Vietnam Era Veterans’ Readjustment Assistance Act of 1972 and the Vietnam Era Veterans’ Readjustment Assistance Act of 1974.\n\n(10) The Family and Medical Leave Act.\n\n(11) Title VII of the Civil Rights Act of 1964.\n\n(12) The Americans with Disabilities Act of 1990.\n\n(13) The Age Discrimination in Employment Act of 1967.\n\n(14) E.O. 13658 of February 12, 2014 (Establishing a Minimum Wage for Contractors).\n\n(15) Equivalent State laws as defined in the DOL Guidance. (The only equivalent State laws implemented in the FAR are OSHA-approved State Plans, which can be found at www.osha.gov/dcsp/osp/approved_state_plans.html.)\n\n“Labor law decision” means an administrative merits determination, arbitral award or decision, or civil judgment, which resulted from a violation of one or more of the laws listed in the definition of “labor laws”.\n\n“Pervasive violations,” in the context of E.O. 13673, Fair Pay and Safe Workplaces, means labor law violations that bear on the assessment of a contractor’s integrity and business ethics because they reflect a basic disregard by the contractor for the labor laws, as demonstrated by a pattern of serious and/or willful violations, continuing violations, or numerous violations. To determine whether violations are pervasive it is necessary to consult the DOL Guidance section III.A.4. and associated Appendix D.\n\n“Repeated violation,” in the context of E.O. 13673, Fair Pay and Safe Workplaces, means a labor law violation that bears on the assessment of a contractor’s integrity and business ethics because the contractor had one or more additional labor law violations of the same or a substantially similar requirement within the prior 3 years. To determine whether a particular violation(s) is repeated it is necessary to consult the DOL Guidance section III.A.2. and associated Appendix B.\n\n“Serious violation,” in the context of E.O. 13673, Fair Pay and Safe Workplaces, means a labor law violation that bears on the assessment of a contractor’s integrity and business ethics because of the number of employees affected; the degree of risk imposed, or actual harm done by the violation; the amount of damages incurred or fines or penalties assessed; and/or other similar criteria. To determine whether a particular violation(s) is serious it is necessary to consult the DOL Guidance section III.A.1. and associated Appendix A.\n\n“Willful violation,” in the context of E.O. 13673, Fair Pay and Safe Workplaces, means a labor law violation that bears on the assessment of a contractor’s integrity and business ethics because the contractor acted with knowledge of, reckless disregard for, or plain indifference to the matter of whether its conduct was prohibited by one or more requirements of labor laws. To determine whether a particular violation(s) is willful it is necessary to consult the DOL Guidance section III.A.3. and associated Appendix C.\n\nNote to 22.2002:  By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+      }
+    },
+    "2003": {
+      "number": 2003,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "text": "It is the policy of the Federal Government to promote economy and efficiency in procurement by awarding contracts to contractors that promote safe, healthy, fair, and effective workplaces through compliance with labor laws, and by promoting opportunities for contractors to do the same when awarding subcontracts. Contractors and subcontractors that consistently adhere to labor laws are more likely to have workplace practices that enhance productivity and increase the likelihood of timely, predictable, and satisfactory delivery of goods and services. This policy is supported by E.O. 13673, Fair Pay and Safe Workplaces.\n\nNote to 22.2003:  By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+      }
+    },
+    "2004": {
+      "number": 2004,
+      "name": "Compliance with labor laws.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "1": {
+              "text": "Encouraging prospective contractors and subcontractors that have labor law violations that may be serious, repeated, willful, and/or pervasive to work with enforcement agencies to discuss and address the labor law violations as soon as practicable;"
+            },
+            "2": {
+              "text": "Providing input to the individual responsible for preparing and documenting past performance evaluations in Contractor Performance Assessment Reporting System (CPARS) (see 42.1502(j) and 42.1503) so that labor compliance may be considered during source selection;"
+            },
+            "3": {
+              "text": "Providing written analysis and advice to the contracting officer for consideration in the responsibility determination and during contract performance (see 22.2004-2(b) and 22.2004-3(b)). The analysis requires obtaining labor law decision documents and, using DOL Guidance, assessing the labor law violations and information on mitigating factors and remedial measures, such as contractor actions taken to address the violations, labor compliance agreements, and other steps taken to achieve compliance with labor laws;"
+            },
+            "4": {
+              "text": "Notifying, if appropriate, the agency suspending and debarring official, in accordance with agency procedures (see 9.406-3(a) and 9.407-3(a)), or advising that the contracting officer provide such notification;"
+            },
+            "5": {
+              "text": "Monitoring SAM and FAPIIS for new and updated contractor disclosures of labor law decision information; and"
+            },
+            "6": {
+              "text": "Making a notation in FAPIIS when the ALCA learns that a contractor has entered into a labor compliance agreement.\n\nNote to 22.2004-1: By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\nNote to 22.2004-1: By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+            },
+            "a": {
+              "text": "Contracts. An offeror on a solicitation estimated to exceed $500,000 must represent whether, in the past three years, any labor law decision(s), as defined at 22.2002, was rendered against it. If an offeror represents that a decision(s) was rendered against it, and if the contracting officer has initiated a responsibility determination, the contracting officer will require the offeror to submit information on the labor law decision(s) and afford the offeror an opportunity to provide such additional information as the prospective contractor deems necessary to demonstrate its responsibility including mitigating factors and remedial measures such as contractor actions taken to address the violations, labor compliance agreements, and other steps taken to achieve compliance with labor laws. The contractor must update the information semiannually in the System for Award Management (SAM). For further information, including about phase-ins, see the provisions and clauses prescribed at 22.2007(a) and (c)."
+            },
+            "b": {
+              "text": "Subcontracts. Contractors are required to direct their prospective subcontractors to submit labor law decision information to DOL. Prospective subcontractors will also be afforded an opportunity to provide information to DOL on mitigating factors and remedial measures, such as subcontractor actions taken to address the violations, labor compliance agreements, and other steps taken to achieve compliance with labor laws. Contractors will consider DOL analysis and advice as they make responsibility determinations on their prospective subcontractors for subcontracts at any tier estimated to exceed $500,000, except for subcontracts for commercially available off-the-shelf items. Subcontractors must update the information semiannually. For further information, including about phase-ins, see the provision and clauses prescribed at 22.2007(b) and (c)."
+            },
+            "c": {
+              "text": "ALCA assistance. The ALCA is responsible for accomplishing the specified objectives of the E.O., which include a number of overarching management functions. In addition, the ALCA provides support to the procurement process by–\n\nNote to 22.2004-1: By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+            }
+          }
+        },
+        "2": {
+          "name": "Preaward assessment of an offeror’s labor law violations.",
+          "text": {
+            "2": {
+              "text": "If the contracting officer has reason to question the representation, the contracting officer shall provide the prospective contractor an opportunity to correct its representation or provide the contracting officer an explanation as to why the negative representation is correct.\n\nNote to 22.2004-2: By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\nNote to 22.2004-2: By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+            },
+            "a": {
+              "text": "General. Before awarding a contract in excess of $500,000, the contracting officer shall–",
+              "sub": {
+                "1": {
+                  "text": "Consider relevant past performance information regarding compliance with labor laws when past performance is an evaluation factor; and"
+                },
+                "2": {
+                  "text": "Consider information concerning labor law violations when determining whether a prospective contractor is responsible and has a satisfactory record of integrity and business ethics."
+                }
+              }
+            },
+            "b": {
+              "text": "Assessment of labor law violation information during responsibility determination. When the contracting officer initiates a responsibility determination (see subpart 9.1) and a prospective contractor has provided an affirmative response to the representation at paragraph (c)(2) of the provision at 52.222-57, Representation Regarding Compliance with Labor Laws (Executive Order 13673), or its equivalent for commercial items at 52.212-3(s)(2)(ii)-\n\n“(A) The prospective contractor is to provide a written response to the contracting officer and that the response is required prior to contract award. The response is due in a time specified by the contracting officer. (The contracting officer shall specify a response time that the contracting officer determines is reasonable for the circumstances.);",
+              "sub": {
+                "1": {
+                  "text": "The contracting officer shall request that the prospective contractor–",
+                  "sub": {
+                    "i": {
+                      "text": "Disclose in SAM at www.sam.gov for each labor law decision, the following information, which will be publicly available in FAPIIS:"
+                    },
+                    "A": {
+                      "text": "The labor law violated."
+                    },
+                    "B": {
+                      "text": "The case number, inspection number, charge number, docket number, or other unique identification number."
+                    },
+                    "C": {
+                      "text": "The date rendered."
+                    },
+                    "D": {
+                      "text": "The name of the court, arbitrator(s), agency, board, or commission rendering the determination or decision;"
+                    },
+                    "ii": {
+                      "text": "Provide such additional information, in SAM, as the prospective contractor deems necessary to demonstrate its responsibility, including mitigating factors and remedial measures such as actions taken to address the violations, labor compliance agreements, and other steps taken to achieve compliance with labor laws. Prospective contractors may provide explanatory text and upload documents in SAM. This information will not be made public unless the contractor determines that it wants the information to be made public; and"
+                    },
+                    "iii": {
+                      "text": "Provide the information in paragraphs (b)(1)(i) and (ii) of this section to the contracting officer if the prospective contractor meets an exception to SAM registration (see 4.1102(a));"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "The contracting officer shall–",
+                  "sub": {
+                    "i": {
+                      "text": "Request that the ALCA provide written analysis and advice, as described in paragraph (b)(3) of this section, within three business days of the request, or another time period determined by the contracting officer;"
+                    },
+                    "ii": {
+                      "text": "Furnish to the ALCA all relevant information provided to the contracting officer by the prospective contractor; and"
+                    },
+                    "iii": {
+                      "text": "Request that the ALCA obtain copies of the administrative merits determination(s), arbitral award(s) or decision(s), or civil judgment(s), as necessary to support the ALCA’s analysis and advice, and for each analysis that indicates an unsatisfactory record of labor law compliance. (The ALCA will notify the contracting officer if the ALCA is unable to obtain any of the necessary document(s); the contracting officer shall request that the prospective contractor provide the necessary documentation)."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "The ALCA’s advice to the contracting officer will include one of the following recommendations about the prospective contractor’s record of labor law compliance in order to inform the contracting officer’s assessment of the prospective contractor’s integrity and business ethics. The prospective contractor's record of labor law compliance, including mitigating factors and remedial measures–",
+                  "sub": {
+                    "i": {
+                      "text": "Supports a finding, by the contracting officer, of a satisfactory record of integrity and business ethics;"
+                    },
+                    "ii": {
+                      "text": "Supports a finding, by the contracting officer, of a satisfactory record of integrity and business ethics, but the prospective contractor needs to commit, after award, to negotiating a labor compliance agreement or another acceptable remedial action;"
+                    },
+                    "iii": {
+                      "text": "Could support a finding, by the contracting officer, of a satisfactory record of integrity and business ethics, only if the prospective contractor commits, prior to award, to negotiating a labor compliance agreement or another acceptable remedial action;"
+                    },
+                    "iv": {
+                      "text": "Could support a finding, by the contracting officer, of a satisfactory record of integrity and business ethics, only if the prospective contractor enters, prior to award, into a labor compliance agreement; or"
+                    },
+                    "v": {
+                      "text": "Does not support a finding, by the contracting officer, of a satisfactory record of integrity and business ethics, and the agency suspending and debarring official should be notified in accordance with agency procedures;"
+                    }
+                  }
+                },
+                "4": {
+                  "text": "The ALCA will provide written analysis and advice, using the DOL Guidance, to support the recommendation made in paragraph (b)(3) of this section and for the contracting officer to consider in determining the prospective contractor's responsibility. The analysis and advice shall include the following information:",
+                  "sub": {
+                    "i": {
+                      "text": "Whether any labor law violations should be considered serious, repeated, willful, and/or pervasive."
+                    },
+                    "ii": {
+                      "text": "The number and nature of labor law violations (depending on the nature of the labor law violation, in most cases, a single labor law violation may not necessarily give rise to a determination of lack of responsibility)."
+                    },
+                    "iii": {
+                      "text": "Whether there are any mitigating factors."
+                    },
+                    "iv": {
+                      "text": "Whether the prospective contractor has initiated and implemented, in a timely manner–"
+                    },
+                    "A": {
+                      "text": "Its own remedial measures; and"
+                    },
+                    "B": {
+                      "text": "Other remedial measures entered into through agreement with or as a result of the actions or orders of an enforcement agency, court, or arbitrator."
+                    },
+                    "v": {
+                      "text": "If the ALCA recommends pursuant to paragraphs (b)(3)(iii) or (iv) of this section that the prospective contractor commit to negotiate, or agree to enter into, a labor compliance agreement prior to award, the rationale for such timing (e.g., (1) the prospective contractor has failed to take action or provide adequate justification for not negotiating when previously notified of the need for a labor compliance agreement, or (2) the labor violation history demonstrates an unsatisfactory record of integrity and business ethics unless an immediate commitment is made to negotiate a labor compliance agreement)."
+                    },
+                    "vi": {
+                      "text": "If the ALCA’s recommendation is that the prospective contractor's record of labor law compliance does not support a finding, by the contracting officer, of a satisfactory record of integrity and business ethics, the rationale for the recommendation (e.g., (1) a labor compliance agreement cannot be reasonably expected to improve future compliance, (2) the prospective contractor has shown a basic disregard for labor law including by failing to enter into a labor compliance agreement after having been given reasonable time to do so, or (3) the prospective contractor has breached an existing labor compliance agreement)."
+                    },
+                    "vii": {
+                      "text": "Whether the ALCA supports notification to the suspending and debarring official and whether the ALCA intends to make such notification."
+                    },
+                    "viii": {
+                      "text": "If the ALCA recommends a labor compliance agreement pursuant to paragraphs (b)(3)(ii), (iii) or (iv) of this section, the name of the enforcement agency or agencies that would execute such agreement(s) with the prospective contractor."
+                    },
+                    "ix": {
+                      "text": "Any such additional information that the ALCA finds to be relevant;"
+                    }
+                  }
+                },
+                "5": {
+                  "text": "The contracting officer shall–",
+                  "sub": {
+                    "i": {
+                      "text": "Consider the analysis and advice from the ALCA, if provided in a timely manner, in determining prospective contractors’ responsibility;"
+                    },
+                    "ii": {
+                      "text": "Place the ALCA’s written analysis, if provided, in the contract file with an explanation of how it was considered in the responsibility determination;"
+                    },
+                    "iii": {
+                      "text": "Proceed with making a responsibility determination if a timely written analysis is not received from an ALCA, using available information and business judgment; and"
+                    },
+                    "iv": {
+                      "text": "Comply with 9.103(b) when making a determination that a prospective small business contractor is nonresponsible and refer to the Small Business Administration for a Certificate of Competency;"
+                    }
+                  }
+                },
+                "6": {
+                  "text": "Disclosure of labor law decision(s) does not automatically render the prospective contractor nonresponsible. The contracting officer shall consider the offeror for contract award notwithstanding disclosure of one or more labor law decision(s), unless the contracting officer determines, after considering the analysis and advice from the ALCA on each of the factors described in paragraph (b)(4) of this section, and any other information considered by the contracting officer in performing related responsibility duties under 9.104-5 and 9.104-6, that the offeror does not have a satisfactory record of integrity and business ethics (e.g., the ALCA’s analysis of disclosed or otherwise known violations and lack of or insufficient remediation indicates a basic disregard for labor law)."
+                },
+                "7": {
+                  "text": "If the ALCA’s assessment indicates a labor compliance agreement is warranted, the contracting officer shall provide written notification, prior to award, to the prospective contractor that states that the prospective contractor’s disclosures have been analyzed by the ALCA using DOL’s Guidance, that the ALCA has determined that a labor compliance agreement is warranted, and that identifies the name of the enforcement agency or agencies with whom the prospective contractor should confer regarding the negotiation of such agreement or other such action as agreed upon between the contractor and the enforcement agency or agencies.\n\n“(A) The prospective contractor is to provide a written response to the contracting officer and that the response is required prior to contract award. The response is due in a time specified by the contracting officer. (The contracting officer shall specify a response time that the contracting officer determines is reasonable for the circumstances.);",
+                  "sub": {
+                    "1": {
+                      "text": "Confirm the prospective contractor’s intent to negotiate, in good faith within a reasonable period of time, a labor compliance agreement, or take other remedial action agreed upon between the contractor and the enforcement agency or agencies identified by the contracting officer, or"
+                    },
+                    "2": {
+                      "text": "Explain why the prospective contractor does not intend to negotiate a labor compliance agreement, or take other remedial action agreed upon between the contractor and the enforcement agency or agencies identified by the contracting officer; and",
+                      "sub": {
+                        "1": {
+                          "text": "Will be considered prior to the exercise of a contract option;"
+                        },
+                        "2": {
+                          "text": "May result in the application of a contract remedy; and"
+                        },
+                        "D": {
+                          "text": "The prospective contractor’s failure to enter into a labor compliance agreement or take other remedial action agreed upon between the contractor and the enforcement agency or agencies within six months of contract award, absent explanation that the contracting officer considers to be adequate to justify the lack of agreement–"
+                        }
+                      }
+                    },
+                    "3": {
+                      "text": "Will be considered in any subsequent responsibility determination where the labor law decision on the unremediated violation falls within the disclosure period for that solicitation;\n\n“(A) The prospective contractor is to provide a written response to the contracting officer and that the response is required prior to contract award. The response is due in a time specified by the contracting officer. (The contracting officer shall specify a response time that the contracting officer determines is reasonable for the circumstances.);"
+                    },
+                    "i": {
+                      "text": "If the ALCA’s recommendation is that the prospective contractor needs to commit, after award, to negotiating a labor compliance agreement or another acceptable remedial action (paragraph (b)(3)(ii) of this section), the notification shall indicate that–\n\n“(A) The prospective contractor is to provide a written response to the contracting officer and that the response is required prior to contract award. The response is due in a time specified by the contracting officer. (The contracting officer shall specify a response time that the contracting officer determines is reasonable for the circumstances.);"
+                    },
+                    "A": {
+                      "text": "The prospective contractor is to provide a written response to the contracting officer and that the response is required prior to contract award. The response is due in a time specified by the contracting officer. (The contracting officer shall specify a response time that the contracting officer determines is reasonable for the circumstances.);"
+                    },
+                    "B": {
+                      "text": "The contractor’s response will be considered by the contracting officer in determining responsibility.”"
+                    },
+                    "C": {
+                      "text": "The response shall either–\n\n“(A) The prospective contractor is to provide a written response to the contracting officer and that the response is required prior to contract award. The response is due in a time specified by the contracting officer. (The contracting officer shall specify a response time that the contracting officer determines is reasonable for the circumstances.);"
+                    },
+                    "ii": {
+                      "text": "If the ALCA’s recommendation is that the prospective contractor commit, prior to award, to negotiating a labor compliance agreement or another acceptable remedial action (paragraph (b)(3)(iii) of this section), use the procedures in paragraph (b)(7)(i) but substitute the following for paragraph (b)(7)(i)(A) and (B):\n\n“(A) The prospective contractor is to provide a written response to the contracting officer and that the response is required prior to contract award. The response is due in a time specified by the contracting officer. (The contracting officer shall specify a response time that the contracting officer determines is reasonable for the circumstances.);"
+                    },
+                    "iii": {
+                      "text": "If the ALCA’s recommendation is that the prospective contractor enter, prior to award, into a labor compliance agreement (paragraph (b)(3)(iv) of this section), the notification shall state that the prospective contractor shall enter into a labor compliance agreement before contract award;"
+                    }
+                  }
+                },
+                "8": {
+                  "text": "The contracting officer shall notify the ALCA–",
+                  "sub": {
+                    "i": {
+                      "text": "Of the date notice was provided to the prospective contractor; and"
+                    },
+                    "ii": {
+                      "text": "If the prospective contractor fails to respond by the stated deadline or indicates that it does not intend to negotiate a labor compliance agreement; and"
+                    }
+                  }
+                },
+                "9": {
+                  "text": "If the prospective contractor enters into a labor compliance agreement, the entry shall be noted in FAPIIS by the ALCA."
+                }
+              }
+            },
+            "c": {
+              "text": "(1) The contracting officer may rely on an offeror’s negative response to the representation at paragraph (c)(1) of the provision at 52.222-57, Representation Regarding Compliance with Labor Laws (Executive Order 13673), or its equivalent for commercial items at 52.212-3(s)(2)(i) unless the contracting officer has reason to question the representation (e.g., the ALCA has brought covered labor law decisions to the attention of the contracting officer).\n\nNote to 22.2004-2: By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+            }
+          }
+        },
+        "3": {
+          "name": "Postaward assessment of a prime contractor’s labor law violations.",
+          "text": {
+            "1": {
+              "text": "The ALCA monitors SAM and FAPIIS for new and updated labor law decision information pursuant to paragraph (a) of this section. If the ALCA is unable to obtain any needed relevant documents, the ALCA may request that the contracting officer obtain the documents from the contractor and provide them to the ALCA. If the contractor had previously agreed to enter into a labor compliance agreement, the ALCA verifies, consulting with DOL as needed, whether the contractor is making progress toward, or has entered into and is complying with a labor compliance agreement. The ALCA also considers labor law decision information received from sources other than SAM and FAPIIS. If this information indicates that further consideration or action may be warranted, the ALCA notifies the contracting officer in accordance with agency procedures."
+            },
+            "2": {
+              "text": "If the contracting officer was notified pursuant to paragraph (b)(1) of this section, the contracting officer shall request the contractor submit in SAM any additional information the contractor may wish to provide for the contracting officer's consideration, e.g., remedial measures and mitigating factors or explanations for delays in entering into or for not complying with a labor compliance agreement. Contractors may provide explanatory text and upload documents in SAM. This information will not be made public unless the contractor determines that it wants the information to be made public."
+            },
+            "3": {
+              "text": "The ALCA will provide written analysis and advice, using the DOL Guidance, for the contracting officer to consider in determining whether a contract remedy is warranted.  The analysis and advice shall include the following information:",
+              "sub": {
+                "i": {
+                  "text": "Whether any labor law violations should be considered serious, repeated, willful, and/or pervasive."
+                },
+                "ii": {
+                  "text": "The number and nature of labor law violations (depending on the nature of the labor law violation, in most cases, a single labor law violation may not necessarily warrant action)."
+                },
+                "iii": {
+                  "text": "Whether there are any mitigating factors."
+                },
+                "iv": {
+                  "text": "Whether the contractor has initiated and implemented, in a timely manner–"
+                },
+                "A": {
+                  "text": "Warranted and the enforcement agency or agencies that would execute such agreement with the contractor;"
+                },
+                "B": {
+                  "text": "Under negotiation between the contractor and the enforcement agency;"
+                },
+                "v": {
+                  "text": "Whether a labor compliance agreement or other remedial measure is–"
+                },
+                "C": {
+                  "text": "Established, and whether it is being adhered to; or"
+                },
+                "D": {
+                  "text": "Not being negotiated or has not been established, even though the contractor was notified that one had been recommended, and the contractor's rationale for not doing so."
+                },
+                "vi": {
+                  "text": "Whether the absence of a labor compliance agreement or other remedial measure, or noncompliance with a labor compliance agreement, demonstrates a pattern of conduct or practice that reflects disregard for the recommendation of an enforcement agency."
+                },
+                "vii": {
+                  "text": "Whether the labor law violation(s) merit consideration by the agency suspending and debarring official and whether the ALCA will make such a referral."
+                },
+                "viii": {
+                  "text": "Any such additional information that the ALCA finds to be relevant."
+                }
+              }
+            },
+            "4": {
+              "text": "The contracting officer shall–"
+            },
+            "a": {
+              "text": "Contractor duty to update.",
+              "sub": {
+                "1": {
+                  "text": "If there are new labor law decisions or updates to previously disclosed labor law decisions, the contractor is required to disclose this information in SAM at www.sam.gov, semiannually, pursuant to the clause at 52.222-59, Compliance with Labor Laws (Executive Order 13673)."
+                },
+                "2": {
+                  "text": "The contractor has flexibility in establishing the date for the semiannual update. The contractor may use the six-month anniversary date of contract award, or may choose a different date before that six-month anniversary date. In either case, the contractor must continue to update its disclosures semiannually."
+                },
+                "3": {
+                  "text": "Registrations in SAM are required to be maintained current, accurate, and complete (see 52.204-13, System for Award Management Maintenance). If the SAM registration date is less than six months old, this will be evidence that the required representation and disclosure information is updated and the requirement is met."
+                }
+              }
+            },
+            "b": {
+              "text": "Assessment of labor law violation information during contract performance."
+            },
+            "i": {
+              "text": "Determine appropriate action, using the analysis and advice from the ALCA.  Appropriate action may include–"
+            },
+            "A": {
+              "text": "Continue the contract and take no remedial action; or"
+            },
+            "B": {
+              "text": "Exercise a contract remedy, which may include one or more of the following:"
+            }
+          }
+        },
+        "4": {
+          "name": "Contractor preaward and postaward assessment of a subcontractor’s labor law violations.",
+          "text": {
+            "a": {
+              "text": "The provision at 52.222-58, Subcontractor Responsibility Matters Regarding Compliance with Labor Laws (Executive Order 13673), and the clause at 52.222-59, Compliance with Labor Laws (Executive Order 13673), have requirements for preaward subcontractor labor law decision disclosures and semiannual postaward updates during subcontract performance, and assessments thereof. This requirement applies to subcontracts at any tier estimated to exceed $500,000, other than for commercially available off-the-shelf items."
+            },
+            "b": {
+              "text": "If the contractor notifies the contracting officer of a determination and rationale for proceeding with subcontract award under 52.222-59(c)(5), the contracting officer should inform the ALCA.\n\nNote to 22.2004-4: By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\nNote to 22.2004-4: By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "2005": {
+      "number": 2005,
+      "name": "Paycheck transparency.",
+      "sub": {},
+      "text": {
+        "text": "E.O. 13673 requires contractors and subcontractors to provide, on contracts that exceed $500,000, and subcontracts that exceed $500,000 other than for commercially available off-the-shelf items–\n\n(a) A wage statement document (e.g., a pay stub) in every pay period to all individuals performing work under the contract or subcontract, for which the contractor or subcontractor is required to maintain wage records under the Fair Labor Standards Act (FLSA), Wage Rate Requirements (Construction) statute, or Service Contract Labor Standards statute.  The clause at 52.222-60 Paycheck Transparency (Executive Order 13673) requires certain content to be provided in the wage statement; and\n\n(b) A notice document to all individuals performing work under the contract or subcontract who are treated as independent contractors informing them of that status (see 52.222-60). The notice document must be provided either–\n\n(1) At the time the independent contractor relationship with the individual is established; or\n\n(2) Prior to the time that the individual begins to perform work on that Government contract or subcontract."
+      }
+    },
+    "2006": {
+      "number": 2006,
+      "name": "Arbitration of contractor employee claims.",
+      "sub": {},
+      "text": {
+        "text": "E.O. 13673 requires contractors, on contracts exceeding $1,000,000, to agree that the decision to arbitrate claims arising under title VII of the Civil Rights Act of 1964 or any tort related to or arising out of sexual assault or harassment, be made only with the voluntary consent of employees or independent contractors after such disputes arise, subject to certain exceptions. This flows down to subcontracts exceeding $1,000,000 other than for the acquisition of commercial items.\n\nNote to 22.2006: By a court order issued on October 24, 2016, this section is enjoined indefinitely as of the date of the order. The enjoined section will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\n"
+      }
+    },
+    "2007": {
+      "number": 2007,
+      "name": "Solicitation provisions and contract clauses.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer shall insert the provision at 52.222-57, Representation Regarding Compliance with Labor Laws (Executive Order 13673), in solicitations that contain the clause at 52.222-59.\n\nNote to paragraph (a):  By a court order issued on October 24, 2016, this paragraph (a) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.",
+          "sub": {
+            "text": "Note to paragraph (a):  By a court order issued on October 24, 2016, this paragraph (a) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+          }
+        },
+        "b": {
+          "text": "For solicitations issued on or after October 25, 2017, the contracting officer shall insert the provision at 52.222-58, Subcontractor Responsibility Matters Regarding Compliance with Labor Laws (Executive Order 13673), in solicitations that contain the clause at 52.222-59.\n\nNote to paragraph (b):  By a court order issued on October 24, 2016, this paragraph (b) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.",
+          "sub": {
+            "text": "Note to paragraph (b):  By a court order issued on October 24, 2016, this paragraph (b) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+          }
+        },
+        "c": {
+          "text": "The contracting officer shall insert the clause at 52.222-59, Compliance with Labor Laws (Executive Order 13673)–\n\nNote to paragraph (c):  By a court order issued on October 24, 2016, this paragraph (c) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.",
+          "sub": {
+            "1": {
+              "text": "In solicitations with an estimated value of $50 million or more, issued from October 25, 2016 through April 24, 2017, and resultant contracts; and"
+            },
+            "2": {
+              "text": "In solicitations that are estimated to exceed $500,000 issued after April 24, 2017 and resultant contracts.\n\nNote to paragraph (c):  By a court order issued on October 24, 2016, this paragraph (c) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+            },
+            "c": {
+              "text": ":  By a court order issued on October 24, 2016, this paragraph (c) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+            }
+          }
+        },
+        "d": {
+          "text": "The contracting officer shall, beginning on January 1, 2017 insert the clause at 52.222-60, Paycheck Transparency (Executive Order 13673), in solicitations if the estimated value exceeds $500,000 and resultant contracts."
+        },
+        "e": {
+          "text": ":  By a court order issued on October 24, 2016, this paragraph (e) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+        }
+      }
+    }
+  }
+}

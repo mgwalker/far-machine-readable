@@ -1,0 +1,117 @@
+{
+  "parentPart": 12,
+  "number": 6,
+  "name": "Streamlined Procedures for Evaluation and Solicitation for Commercial Items",
+  "sub": {
+    "601": {
+      "number": 601,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "text": "This subpart provides optional procedures for (a) streamlined evaluation of offers for commercial items; and (b) streamlined solicitation of offers for commercial items for use where appropriate. These procedures are intended to simplify the process of preparing and issuing solicitations, and evaluating offers for commercial items consistent with customary commercial practices."
+      }
+    },
+    "602": {
+      "number": 602,
+      "name": "Streamlined evaluation of offers.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "When evaluation factors are used, the contracting officer may insert a provision substantially the same as the provision at 52.212-2, Evaluation—Commercial Items, in solicitations for commercial items or comply with the procedures in 13.106 if the acquisition is being made using simplified acquisition procedures. When the provision at 52.212-2 is used, paragraph (a) of the provision shall be tailored to the specific acquisition to describe the evaluation factors and relative importance of those factors. However, when using the simplified acquisition procedures in Part 13, contracting officers are not required to describe the relative importance of evaluation factors."
+        },
+        "b": {
+          "text": "Offers shall be evaluated in accordance with the criteria contained in the solicitation. For many commercial items, the criteria need not be more detailed than technical (capability of the item offered to meet the agency need), price and past performance. Technical capability may be evaluated by how well the proposed products meet the Government requirement instead of predetermined subfactors. Solicitations for commercial items do not have to contain subfactors for technical capability when the solicitation adequately describes the item’s intended use. A technical evaluation would normally include examination of such things as product literature, product samples (if requested), technical features and warranty provisions. Past performance shall be evaluated in accordance with the procedures in 13.106 or Subpart 15.3, as applicable. The contracting officer shall ensure the instructions provided in the provision at 52.212-1, Instructions to Offerors—Commercial Items, and the evaluation criteria provided in the provision at 52.212-2, Evaluation—Commercial Items, are in agreement."
+        },
+        "c": {
+          "text": "Select the offer that is most advantageous to the Government based on the factors contained in the solicitation. Fully document the rationale for selection of the successful offeror including discussion of any trade-offs considered."
+        }
+      }
+    },
+    "603": {
+      "number": 603,
+      "name": "Streamlined solicitation for commercial items.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Prepare the synopsis as described at 5.207."
+        },
+        "2": {
+          "text": "In the Description, include the following additional information:\n\nThis is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; proposals are being requested and a written solicitation will not be issued.",
+          "sub": {
+            "i": {
+              "text": "The following statement:\n\nThis is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; proposals are being requested and a written solicitation will not be issued.\n\nThis is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; proposals are being requested and a written solicitation will not be issued."
+            },
+            "ii": {
+              "text": "The solicitation number and a statement that the solicitation is issued as an invitation to bid (IFB), request for quotation (RFQ) or request for proposal (RFP)."
+            },
+            "iii": {
+              "text": "A statement that the solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular _____."
+            },
+            "iv": {
+              "text": "A notice regarding any set-aside and the associated NAICS code and small business size standard."
+            },
+            "v": {
+              "text": "A list of line item number(s) and items, quantities, and units of measure (including option(s), if applicable)."
+            },
+            "vi": {
+              "text": "Description of requirements for the items to be acquired."
+            },
+            "vii": {
+              "text": "Date(s) and place(s) of delivery and acceptance and FOB point."
+            },
+            "viii": {
+              "text": "A statement that the provision at 52.212-1, Instructions to Offerors—Commercial, applies to this acquisition and a statement regarding any addenda to the provision."
+            },
+            "ix": {
+              "text": "A statement regarding the applicability of the provision at 52.212-2, Evaluation—Commercial Items, if used, and the specific evaluation criteria to be included in paragraph (a) of that provision. If this provision is not used, describe the evaluation procedures to be used."
+            },
+            "x": {
+              "text": "A statement advising offerors to include a completed copy of the provision at 52.212-3, Offeror Representations and Certifications—Commercial Items, with its offer."
+            },
+            "xi": {
+              "text": "A statement that the clause at 52.212-4, Contract Terms and Conditions—Commercial Items, applies to this acquisition and a statement regarding any addenda to the clause."
+            },
+            "xii": {
+              "text": "A statement that the clause at 52.212-5, Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Items, applies to this acquisition and a statement regarding which, if any, of the additional FAR clauses cited in the clause are applicable to the acquisition."
+            },
+            "xiii": {
+              "text": "A statement regarding any additional contract requirement(s) or terms and conditions (such as contract financing arrangements or warranty requirements) determined by the contracting officer to be necessary for this acquisition and consistent with customary commercial practices."
+            },
+            "xiv": {
+              "text": "A statement regarding the Defense Priorities and Allocations System (DPAS) and assigned rating, if applicable."
+            },
+            "xv": {
+              "text": "The date, time and place offers are due."
+            },
+            "xvi": {
+              "text": "The name and telephone number of the individual to contact for information regarding the solicitation."
+            }
+          }
+        },
+        "3": {
+          "text": "Allow response time for receipt of offers as follows:",
+          "sub": {
+            "i": {
+              "text": "Because the synopsis and solicitation are contained in a single document, it is not necessary to publicize a separate synopsis 15 days before the issuance of the solicitation."
+            },
+            "ii": {
+              "text": "When using the combined synopsis and solicitation, contracting officers must establish a response time in accordance with 5.203(b) (but see 5.203(h))."
+            }
+          }
+        },
+        "4": {
+          "text": "Publicize amendments to solicitations in the same manner as the initial synopsis and solicitation."
+        },
+        "a": {
+          "text": "When a written solicitation will be issued, the contracting officer may use the following procedure to reduce the time required to solicit and award contracts for the acquisition of commercial items. This procedure combines the synopsis required by 5.203 and the issuance of the solicitation into a single document."
+        },
+        "b": {
+          "text": "When using the combined synopsis/solicitation procedure, the SF 1449 is not used for issuing the solicitation."
+        },
+        "c": {
+          "text": "To use these procedures, the contracting officer shall—\n\nThis is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; proposals are being requested and a written solicitation will not be issued."
+        }
+      }
+    }
+  }
+}

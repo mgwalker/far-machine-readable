@@ -1,0 +1,79 @@
+{
+  "parentPart": 42,
+  "number": 8,
+  "name": "Disallowance of Costs",
+  "sub": {
+    "800": {
+      "number": 800,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures for—\n\n(a) Issuing notices of intent to disallow costs; and\n\n(b) Disallowing costs already incurred during the course of performance."
+      }
+    },
+    "801": {
+      "number": 801,
+      "name": "Notice of intent to disallow costs.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "At any time during the performance of a contract of a type referred to in 42.802, the cognizant contracting officer responsible for administering the contract may issue the contractor a written notice of intent to disallow specified costs incurred or planned for incurrence. However, before issuing the notice, the contracting officer responsible for administering the contract shall make every reasonable effort to reach a satisfactory settlement through discussions with the contractor."
+        },
+        "b": {
+          "text": "A notice of intent to disallow such costs usually results from monitoring contractor costs. The purpose of the notice is to notify the contractor as early as practicable during contract performance that the cost is considered unallowable under the contract terms and to provide for timely resolution of any resulting disagreement. In the event of disagreement, the contractor may submit to the contracting officer a written response. Any such response shall be answered by withdrawal of the notice or by making a written decision within 60 days."
+        },
+        "c": {
+          "text": "As a minimum, the notice shall—",
+          "sub": {
+            "1": {
+              "text": "Refer to the contract’s Notice of Intent to Disallow Costs clause;"
+            },
+            "2": {
+              "text": "State the contractor’s name and list the numbers of the affected contracts;"
+            },
+            "3": {
+              "text": "Describe the costs to be disallowed, including estimated dollar value by item and applicable time periods, and state the reasons for the intended disallowance;"
+            },
+            "4": {
+              "text": "Describe the potential impact on billing rates and forward pricing rate agreements;"
+            },
+            "5": {
+              "text": "State the notice’s effective date and the date by which written response must be received;"
+            },
+            "6": {
+              "text": "List the recipients of copies of the notice; and"
+            },
+            "7": {
+              "text": "Request the contractor to acknowledge receipt of the notice."
+            }
+          }
+        },
+        "d": {
+          "text": "The contracting officer issuing the notice shall furnish copies to all contracting officers cognizant of any segment of the contractor’s organization."
+        },
+        "e": {
+          "text": "If the notice involves elements of indirect cost, it shall not be issued without coordination with the contracting officer or auditor having authority for final indirect cost settlement (see 42.705)."
+        },
+        "f": {
+          "text": "In the event the contractor submits a response that disagrees with the notice (see paragraph (b) of this section), the contracting officer who issued the notice shall either withdraw the notice or issue the written decision, except when elements of indirect cost are involved, in which case the contracting officer responsible under 42.705 for determining final indirect cost rates shall issue the decision."
+        }
+      }
+    },
+    "802": {
+      "number": 802,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.242-1, Notice of Intent to Disallow Costs, in solicitations and contracts when a cost-reimbursement contract, a fixed-price incentive contract, or a contract providing for price redetermination is contemplated."
+      }
+    },
+    "803": {
+      "number": 803,
+      "name": "Disallowing costs after incurrence.",
+      "sub": {},
+      "text": {
+        "text": "Cost-reimbursement contracts, the cost-reimbursement portion of fixed-price contracts, letter contracts that provide for reimbursement of costs, and time-and-material and labor-hour contracts provide for disallowing costs during the course of performance after the costs have been incurred. The following procedures shall apply:\n\n(a) Contracting officer receipt of vouchers. When contracting officers receive vouchers directly from the contractor and, with or without auditor assistance, approve or disapprove them, the process shall be conducted in accordance with the normal procedures of the individual agency.\n\n(b) Auditor receipt of vouchers.\n\n(1) When authorized by agency regulations, the contract auditor may be authorized to (i) receive reimbursement vouchers directly from contractors, (ii) approve for payment those vouchers found acceptable, and (iii) suspend payment of questionable costs. The auditor shall forward approved vouchers for payment to the cognizant contracting, finance, or disbursing officer, as appropriate under the agency’s procedures.\n\n(2) If the examination of a voucher raises a question regarding the allowability of a cost under the contract terms, the auditor, after informal discussion as appropriate, may, where authorized by agency regulations, issue a notice of contract costs suspended and/or disapproved simultaneously to the contractor and the disbursing officer, with a copy to the cognizant contracting officer, for deduction from current payments with respect to costs claimed but not considered reimbursable.\n\n(3) If the contractor disagrees with the deduction from current payments, the contractor may—\n\n(i) Submit a written request to the cognizant contracting officer to consider whether the unreimbursed costs should be paid and to discuss the findings with the contractor;\n\n(ii) File a claim under the Disputes clause, which the cognizant contracting officer will process in accordance with agency procedures; or\n\n(iii) Do both of the above."
+      }
+    }
+  }
+}

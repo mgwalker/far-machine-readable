@@ -1,0 +1,110 @@
+{
+  "parentPart": 46,
+  "number": 8,
+  "name": "Contractor Liability for Loss of or Damage to Property of the Government",
+  "sub": {
+    "800": {
+      "number": 800,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures for limiting contractor liability for loss of or damage to property of the Government that—\n\n(a) Occurs after acceptance and\n\n(b) Results from defects or deficiencies in the supplies delivered or services performed."
+      }
+    },
+    "801": {
+      "number": 801,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "This subpart applies to contracts other than those for (1) information technology, including telecommunications, (2) construction, (3) architect-engineer services, and (4) maintenance and rehabilitation of real property. This subpart does not apply to commercial items."
+        },
+        "b": {
+          "text": "See Subpart 46.7, Warranties, for policies and procedures concerning contractor liability caused by nonconforming technical data."
+        }
+      }
+    },
+    "802": {
+      "number": 802,
+      "name": "Definition.",
+      "sub": {},
+      "text": {
+        "text": "“High-value item,” as used in this subpart, means a contract end item that—\n\n(1) Has a high unit cost (normally exceeding $100,000 per unit), such as an aircraft, an aircraft engine, a communication system, a computer system, a missile, or a ship, and\n\n(2) Is designated by the contracting officer as a high-value item."
+      }
+    },
+    "803": {
+      "number": 803,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "To the extent that contractor liability is expressly provided under a contract clause authorized by this regulation;"
+        },
+        "2": {
+          "text": "When a defect or deficiency in, or Government’s acceptance of, the supplies or services results from willful misconduct or lack of good faith on the part of the contractor’s managerial personnel; or"
+        },
+        "3": {
+          "text": "To the extent that any contractor insurance, or self-insurance reserve, covers liability for loss or damage suffered by the Government through purchase or use of the supplies delivered or services performed under the contract."
+        },
+        "a": {
+          "text": "General. The Government will generally act as a self-insurer by relieving contractors, as specified in this subpart, of liability for loss of or damage to property of the Government that (1) occurs after acceptance of supplies delivered or services performed under a contract and (2) results from defects or deficiencies in the supplies or services. However, the Government will not relieve the contractor of liability for loss of or damage to the contract end item itself, except for high-value items."
+        },
+        "b": {
+          "text": "High-value items. In contracts requiring delivery of high-value items, the Government will relieve contractors of contractual liability for loss of or damage to those items. However, this relief shall not limit the Government’s rights arising under the contract to—",
+          "sub": {
+            "1": {
+              "text": "Have any defective item or its components corrected, repaired, or replaced when the defect or deficiency is discovered before the loss of or damage to a high-value item occurs; or"
+            },
+            "2": {
+              "text": "Obtain equitable relief when the defect or deficiency is discovered after such loss or damage occurs."
+            }
+          }
+        },
+        "c": {
+          "text": "Exception. The Government will not provide contractual relief under paragraphs (a) and (b) of this section when contractor liability can be preserved without increasing the contract price."
+        },
+        "d": {
+          "text": "Limitations. Subject to the specific terms of the limitation of liability clause included in the contract, the relief provided under paragraphs (a) and (b) of this section does not apply—"
+        }
+      }
+    },
+    "804": {
+      "number": 804,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "805": {
+      "number": 805,
+      "name": "Contract clauses.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Contracts that exceed the simplified acquisition threshold. The contracting officer shall insert the appropriate clause or combination of clauses specified in paragraphs (a)(1) through (a)(5) of this section in solicitations and contracts when the contract amount is expected to be in excess of the simplified acquisition threshold and the contract is subject to the requirements of this subpart as indicated in 46.801:",
+          "sub": {
+            "1": {
+              "text": "In contracts requiring delivery of end items that are not high-value items, insert the clause at 52.246-23, Limitation of Liability."
+            },
+            "2": {
+              "text": "In contracts requiring delivery of high-value items, insert the clause at 52.246-24, Limitation of Liability—High Value Items."
+            },
+            "3": {
+              "text": "In contracts requiring delivery of both high-value items and other end items, insert both clauses prescribed in (a)(1) and (a)(2) of this section, Alternate I of the clause at 52.246-24, and identify clearly in the contract schedule the line items designated as high-value items."
+            },
+            "4": {
+              "text": "In contracts requiring the performance of services, insert the clause at 52.246-25, Limitation of Liability—Services."
+            },
+            "5": {
+              "text": "In contracts requiring both the performance of services and the delivery of end items, insert the clause prescribed in paragraph (a)(4) of this section and the appropriate clause or clauses prescribed in paragraph (a)(1), (2), or (3) of this section, and identify clearly in the contract schedule any high-value line items."
+            }
+          }
+        },
+        "b": {
+          "text": "Acquisitions at or below the simplified acquisition threshold. The clauses prescribed by paragraph (a) of this section are not required for contracts at or below the simplified acquisition threshold. However, in response to a contractor’s specific request, the contracting officer may insert the clauses prescribed in paragraph (a)(1) or (a)(4) of this section in a contract at or below the simplified acquisition threshold and may obtain any price reduction that is appropriate."
+        }
+      }
+    }
+  }
+}

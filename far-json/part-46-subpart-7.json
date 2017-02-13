@@ -1,0 +1,204 @@
+{
+  "parentPart": 46,
+  "number": 7,
+  "name": "Warranties",
+  "sub": {
+    "701": {
+      "number": 701,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "702": {
+      "number": 702,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The principal purposes of a warranty in a Government contract are—",
+          "sub": {
+            "1": {
+              "text": "To delineate the rights and obligations of the contractor and the Government for defective items and services; and"
+            },
+            "2": {
+              "text": "To foster quality performance."
+            }
+          }
+        },
+        "b": {
+          "text": "Generally, a warranty should provide—",
+          "sub": {
+            "1": {
+              "text": "A contractual right for the correction of defects notwithstanding any other requirement of the contract pertaining to acceptance of the supplies or services by the Government; and"
+            },
+            "2": {
+              "text": "A stated period of time or use, or the occurrence of a specified event, after acceptance by the Government to assert a contractual right for the correction of defects."
+            }
+          }
+        },
+        "c": {
+          "text": "The benefits to be derived from a warranty must be commensurate with the cost of the warranty to the Government."
+        }
+      }
+    },
+    "703": {
+      "number": 703,
+      "name": "Criteria for use of warranties.",
+      "sub": {},
+      "text": {
+        "text": "The use of warranties is not mandatory. In determining whether a warranty is appropriate for a specific acquisition, the contracting officer shall consider the following factors:\n\n(a) Nature and use of the supplies or services. This includes such factors as—\n\n(1) Complexity and function;\n\n(2) Degree of development;\n\n(3) State of the art;\n\n(4) End use;\n\n(5) Difficulty in detecting defects before acceptance; and\n\n(6) Potential harm to the Government if the item is defective.\n\n(b) Cost. Warranty costs arise from—\n\n(1) The contractor’s charge for accepting the deferred liability created by the warranty; and\n\n(2) Government administration and enforcement of the warranty (see paragraph (c) of this section).\n\n(c) Administration and enforcement. The Government’s ability to enforce the warranty is essential to the effectiveness of any warranty. There must be some assurance that an adequate administrative system for reporting defects exists or can be established. The adequacy of a reporting system may depend upon such factors as the—\n\n(1) Nature and complexity of the item;\n\n(2) Location and proposed use of the item;\n\n(3) Storage time for the item;\n\n(4) Distance of the using activity from the source of the item;\n\n(5) Difficulty in establishing existence of defects; and\n\n(6) Difficulty in tracing responsibility for defects.\n\n(d) Trade practice. In many instances an item is customarily warranted in the trade, and, as a result of that practice, the cost of an item to the Government will be the same whether or not a warranty is included. In those instances, it would be in the Government’s interest to include such a warranty.\n\n(e) Reduced requirements. The contractor’s charge for assumption of added liability may be partially or completely offset by reducing the Government’s contract quality assurance requirements where the warranty provides adequate assurance of a satisfactory product."
+      }
+    },
+    "704": {
+      "number": 704,
+      "name": "Authority for use of warranties.",
+      "sub": {},
+      "text": {
+        "text": "The use of a warranty in an acquisition shall be approved in accordance with agency procedures."
+      }
+    },
+    "705": {
+      "number": 705,
+      "name": "Limitations.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Except for the warranties in the clauses at 52.246-3, Inspection of Supplies—Cost-Reimbursement, and 52.246-8, Inspection of Research and Development—Cost-Reimbursement, the contracting officer shall not include warranties in cost-reimbursement contracts, unless authorized in accordance with agency regulations (see 46.708)."
+        },
+        "b": {
+          "text": "Warranty clauses shall not limit the Government’s rights under an inspection clause (see Subpart 46.3) in relation to latent defects, fraud, or gross mistakes that amount to fraud."
+        },
+        "c": {
+          "text": "Except for warranty clauses in construction contracts, warranty clauses shall provide that the warranty applies notwithstanding inspection and acceptance or other clauses or terms of the contract."
+        }
+      }
+    },
+    "706": {
+      "number": 706,
+      "name": "Warranty terms and conditions.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Extent of contractor obligations.",
+          "sub": {
+            "i": {
+              "text": "Generally, the contractor’s obligations under warranties extend to all defects discovered during the warranty period, but do not include damage caused by the Government. When a warranty for the entire item is not advisable, a warranty may be required for a particular aspect of the item that may require special protection (e.g., installation, components, accessories, subassemblies, preservation, packaging, and packing, etc.)."
+            },
+            "ii": {
+              "text": "If the Government specifies the design of the end item and its measurements, tolerances, materials, tests, or inspection requirements, the contractor’s obligations for correction of defects shall usually be limited to defects in material and workmanship or failure to conform to specifications. If the Government does not specify the design, the warranty extends also to the usefulness of the design."
+            },
+            "iii": {
+              "text": "If express warranties are included in a contract (except contracts for commercial items), all implied warranties of merchantability and fitness for a particular purpose shall be negated by the use of specific language in the clause (see clauses 52.246-17, Warranty of Supplies of a Noncomplex Nature; 52.246-18, Warranty of Supplies of a Complex Nature; and 52.246-19, Warranty of Systems and Equipment under Performance Specifications or Design Criteria)."
+            }
+          }
+        },
+        "2": {
+          "text": "Remedies.",
+          "sub": {
+            "i": {
+              "text": "Normally, a warranty shall provide as a minimum that the Government may—"
+            },
+            "A": {
+              "text": "Reinspect items that the Government reasonably expected to be defective,"
+            },
+            "B": {
+              "text": "Accomplish the required repair or replacement of defective items, and"
+            },
+            "ii": {
+              "text": "If it is not practical to direct the contractor to make the repair or replacement, or, because of the nature of the item, the repair or replacement does not afford an appropriate remedy to the Government, the warranty should provide alternate remedies, such as authorizing the Government to—"
+            },
+            "iii": {
+              "text": "If it can be foreseen that it will not be practical to return an item to the contractor for repair, to remove it to an alternate source for repair, or to replace the defective item, the warranty should provide that the Government may repair, or require the contractor to repair, the item in place at the contractor’s expense. The contract shall provide that in the circumstance where the Government is to accomplish the repair, the contractor will furnish at the place of delivery the material or parts, and the installation instructions required to successfully accomplish the repair."
+            },
+            "iv": {
+              "text": "Unless provided otherwise in the warranty, the contractor’s obligation to repair or replace the defective item, or to agree to an equitable adjustment of the contract, shall include responsibility for the costs of furnishing all labor and material to—"
+            },
+            "C": {
+              "text": "Test, inspect, package, pack, and mark repaired or replaced items."
+            },
+            "v": {
+              "text": "If repair or replacement of defective items is required, the contractor shall generally be required by the warranty to bear the expense of transportation for returning the defective item from the place of delivery specified in the contract (irrespective of the f.o.b. point or the point of acceptance) to the contractor’s plant and subsequent return. When defective items are returned to the contractor from other than the place of delivery specified in the contract, or when the Government exercises alternate remedies, the contractor’s liability for transportation charges incurred shall not exceed an amount equal to the cost of transportation by the usual commercial method of shipment between the place of delivery specified in the contract and the contractor’s plant and subsequent return."
+            }
+          }
+        },
+        "3": {
+          "text": "Duration of the warranty. The time period or duration of the warranty must be clearly specified and shall be established after consideration of such factors as (i) the estimated useful life of the item, (ii) the nature of the item including storage or shelf-life, and (iii) trade practice. The period specified shall not extend the contractor’s liability for patent defects beyond a reasonable time after acceptance by the Government."
+        },
+        "4": {
+          "text": "Notice. The warranty shall specify a reasonable time for furnishing notice to the contractor regarding the discovery of defects. This notice period, which shall apply to all defects discovered during the warranty period, shall be long enough to assure that the Government has adequate time to give notice to the contractor. The contracting officer shall consider the following factors when establishing the notice period:",
+          "sub": {
+            "i": {
+              "text": "The time necessary for the Government to discover the defects."
+            },
+            "ii": {
+              "text": "The time reasonably required for the Government to take necessary administrative steps and make a timely report of discovery of the defects to the contractor."
+            },
+            "iii": {
+              "text": "The time required to discover and report defective replacements."
+            }
+          }
+        },
+        "5": {
+          "text": "Markings. The packaging and preservation requirements of the contract shall require the contractor to stamp or mark the supplies delivered or otherwise furnish notice with the supplies of the existence of the warranty. The purpose of the markings or notice is to inform Government personnel who store, stock, or use the supplies that the supplies are under warranty. Markings may be brief but should include (i) a brief statement that a warranty exists, (ii) the substance of the warranty, (iii) its duration, and (iv) who to notify if the supplies are found to be defective. For commercial items (see 46.709), the contractor’s trade practice in warranty marking is acceptable if sufficient information is presented for supply personnel and users to identify warranted supplies."
+        },
+        "6": {
+          "text": "Consistency. Contracting officers shall ensure that the warranty clause and any other warranty conditions in the contract (e.g., in the specifications or an inspection clause) are consistent. To the extent practicable, all of the warranties to be contained in the contract should be expressed in the warranty clause."
+        },
+        "a": {
+          "text": "To facilitate the pricing and enforcement of warranties, the contracting officer shall ensure that warranties clearly state the—",
+          "sub": {
+            "1": {
+              "text": "Exact nature of the item and its components and characteristics that the contractor warrants;"
+            },
+            "2": {
+              "text": "Extent of the contractor’s warranty including all of the contractor’s obligations to the Government for breach of warranty;"
+            },
+            "3": {
+              "text": "Specific remedies available to the Government; and"
+            },
+            "4": {
+              "text": "Scope and duration of the warranty."
+            }
+          }
+        },
+        "b": {
+          "text": "The contracting officer shall consider the following guidelines when preparing warranty terms and conditions:"
+        }
+      }
+    },
+    "707": {
+      "number": 707,
+      "name": "Pricing aspects of fixed-price incentive contract warranties.",
+      "sub": {},
+      "text": {
+        "text": "If a fixed-price incentive contract contains a warranty (see 46.708), the estimated cost of the warranty to the contractor should be considered in establishing the incentive target price and the ceiling price of the contract. All costs incurred, or estimated to be incurred, by the contractor in complying with the warranty shall be considered when establishing the total final price. Contractor compliance with the warranty after the establishment of the total final price shall be at no additional cost to the Government."
+      }
+    },
+    "708": {
+      "number": 708,
+      "name": "Warranties of data.",
+      "sub": {},
+      "text": {
+        "text": "Warranties of data shall be developed and used in accordance with agency regulations."
+      }
+    },
+    "709": {
+      "number": 709,
+      "name": "Warranties of commercial items.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer should take advantage of commercial warranties, including extended warranties, where appropriate and in the Government’s best interests, offered by the contractor for the repair and replacement of commercial items (see Part 12)."
+      }
+    },
+    "710": {
+      "number": 710,
+      "name": "Contract clauses.",
+      "sub": {},
+      "text": {
+        "text": "The clauses and alternates prescribed in this section may be used in solicitations and contracts in which inclusion of a warranty is appropriate (see 46.709 for warranties for commercial items). However, because of the many situations that may influence the warranty terms and conditions appropriate to a particular acquisition, the contracting officer may vary the terms and conditions of the clauses and alternates to the extent necessary. The alternates prescribed in this section address the clauses; however, the conditions pertaining to each alternate must be considered if the terms and conditions are varied to meet a particular need.\n\n(a)(1) The contracting officer may insert a clause substantially the same as the clause at 52.246-17, Warranty of Supplies of a Noncomplex Nature, in solicitations and contracts for noncomplex items when a fixed-price supply contract is contemplated and the use of a warranty clause has been approved under agency procedures. If the contractor’s design rather than the Government’s design will be used, insert the word “design” before “material” in paragraph (b)(1)(i).\n\n(2) If it is desirable to specify that necessary transportation incident to correction or replacement will be at the Government’s expense (as might be the case if, for example, the cost of a warranty would otherwise be prohibitive), the contracting officer may use the clause with its Alternate II.\n\n(3) If the supplies cannot be obtained from another source, the contracting officer may use the clause with its Alternate III.\n\n(4) If a fixed-price incentive contract is contemplated, the contracting officer may use the clause with its Alternate IV.\n\n(5) If it is anticipated that recovery of the warranted items will involve considerable Government expense for disassembly and/or reassembly of larger items, the contracting officer may use the clause with its Alternate V.\n\n(b)(1) The contracting officer may insert a clause substantially the same as the clause at 52.246-18, Warranty of Supplies of a Complex Nature, in solicitations and contracts for deliverable complex items when a fixed-price supply or research and development contract is contemplated and the use of a warranty clause has been approved under agency procedures. If the contractor’s design rather than the Government’s design will be used, insert the word “design” before “material” in paragraph (b)(1).\n\n(2) If it is desirable to specify that necessary transportation incident to correction or replacement will be at the Government’s expense (as might be the case if, for example, the cost of a warranty would otherwise be prohibitive), the contracting officer may use the clause with its Alternate II.\n\n(3) If a fixed-price incentive contract is contemplated, the contracting officer may use the clause with its Alternate III.\n\n(4) If it is anticipated that recovery of the warranted item will involve considerable Government expense for disassembly and/or reassembly of larger items, the contracting officer may use the clause with its Alternate IV.\n\n(c)(1) The contracting officer may insert a clause substantially the same as the clause at 52.246-19, Warranty of Systems and Equipment under Performance Specifications or Design Criteria, in solicitations and contracts when performance specifications or design are of major importance; a fixed-price supply, service, or research and development contract for systems and equipment is contemplated; and the use of a warranty clause has been approved under agency procedures.\n\n(2) If it is desirable to specify that necessary transportation incident to correction or replacement will be at the Government’s expense (as might be the case if, for example, the cost of a warranty would otherwise be prohibitive), the contracting officer may use the clause with its Alternate I.\n\n(3) If a fixed-price incentive contract is contemplated, the contracting officer may use the clause with its Alternate II.\n\n(4) If it is anticipated that recovery of the warranted item will involve considerable Government expense for disassembly and/or reassembly of larger items, the contracting officer may use the clause with its Alternate III.\n\n(d) The contracting officer may insert a clause substantially the same as the clause at 52.246-20, Warranty of Services, in solicitations and contracts for services when a fixed-price contract for services is contemplated and the use of warranty clause has been approved under agency procedures; unless a clause substantially the same as the clause at 52.246-19, Warranty of Systems and Equipment under Performance Specifications or Design Criteria, has been used.\n\n(e)(1) The contracting officer may insert a clause substantially the same as the clause at 52.246-21, Warranty of Construction, in solicitations and contracts when a fixed-price construction contract (see 46.705(c)) is contemplated and the use of a warranty clause has been approved under agency procedures.\n\n(2) If the Government specifies in the contract the use of any equipment by “brand name and model,” the contracting officer may use the clause with its Alternate I."
+      }
+    }
+  }
+}

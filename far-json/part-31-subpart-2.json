@@ -1,0 +1,558 @@
+{
+  "parentPart": 31,
+  "number": 2,
+  "name": "Contracts with Commercial Organizations",
+  "sub": {
+    "201": {
+      "number": 201,
+      "name": "General.",
+      "sub": {
+        "1": {
+          "name": "Composition of total cost.",
+          "text": {
+            "a": {
+              "text": "The total cost, including standard costs properly adjusted for applicable variances, of a contract is the sum of the direct and indirect costs allocable to the contract, incurred or to be incurred, plus any allocable cost of money pursuant to 31.205-10, less any allocable credits. In ascertaining what constitutes a cost, any generally accepted method of determining or estimating costs that is equitable and is consistently applied may be used."
+            },
+            "b": {
+              "text": "While the total cost of a contract includes all costs properly allocable to the contract, the allowable costs to the Government are limited to those allocable costs which are allowable pursuant to Part 31 and applicable agency supplements."
+            }
+          }
+        },
+        "2": {
+          "name": "Determining allowability.",
+          "text": {
+            "a": {
+              "text": "A cost is allowable only when the cost complies with all of the following requirements:",
+              "sub": {
+                "1": {
+                  "text": "Reasonableness."
+                },
+                "2": {
+                  "text": "Allocability."
+                },
+                "3": {
+                  "text": "Standards promulgated by the CAS Board, if applicable, otherwise, generally accepted accounting principles and practices appropriate to the circumstances."
+                },
+                "4": {
+                  "text": "Terms of the contract."
+                },
+                "5": {
+                  "text": "Any limitations set forth in this subpart."
+                }
+              }
+            },
+            "b": {
+              "text": "Certain cost principles in this subpart incorporate the measurement, assignment, and allocability rules of selected CAS and limit the allowability of costs to the amounts determined using the criteria in those selected standards. Only those CAS or portions of standards specifically made applicable by the cost principles in this subpart are mandatory unless the contract is CAS-covered (see Part 30). Business units that are not otherwise subject to these standards under a CAS clause are subject to the selected standards only for the purpose of determining allowability of costs on Government contracts. Including the selected standards in the cost principles does not subject the business unit to any other CAS rules and regulations. The applicability of the CAS rules and regulations is determined by the CAS clause, if any, in the contract and the requirements of the standards themselves."
+            },
+            "c": {
+              "text": "When contractor accounting practices are inconsistent with this subpart 31.2, costs resulting from such inconsistent practices in excess of the amount that would have resulted from using practices consistent with this subpart are unallowable."
+            },
+            "d": {
+              "text": "A contractor is responsible for accounting for costs appropriately and for maintaining records, including supporting documentation, adequate to demonstrate that costs claimed have been incurred, are allocable to the contract, and comply with applicable cost principles in this subpart and agency supplements. The contracting officer may disallow all or part of a claimed cost that is inadequately supported."
+            }
+          }
+        },
+        "3": {
+          "name": "Determining reasonableness.",
+          "text": {
+            "1": {
+              "text": "Whether it is the type of cost generally recognized as ordinary and necessary for the conduct of the contractor’s business or the contract performance;"
+            },
+            "2": {
+              "text": "Generally accepted sound business practices, arm’s-length bargaining, and Federal and State laws and regulations;"
+            },
+            "3": {
+              "text": "The contractor’s responsibilities to the Government, other customers, the owners of the business, employees, and the public at large; and"
+            },
+            "4": {
+              "text": "Any significant deviations from the contractor’s established practices."
+            },
+            "a": {
+              "text": "A cost is reasonable if, in its nature and amount, it does not exceed that which would be incurred by a prudent person in the conduct of competitive business. Reasonableness of specific costs must be examined with particular care in connection with firms or their separate divisions that may not be subject to effective competitive restraints. No presumption of reasonableness shall be attached to the incurrence of costs by a contractor. If an initial review of the facts results in a challenge of a specific cost by the contracting officer or the contracting officer’s representative, the burden of proof shall be upon the contractor to establish that such cost is reasonable."
+            },
+            "b": {
+              "text": "What is reasonable depends upon a variety of considerations and circumstances, including—"
+            }
+          }
+        },
+        "4": {
+          "name": "Determining allocability.",
+          "text": {
+            "text": "A cost is allocable if it is assignable or chargeable to one or more cost objectives on the basis of relative benefits received or other equitable relationship. Subject to the foregoing, a cost is allocable to a Government contract if it—\n\n(a) Is incurred specifically for the contract;\n\n(b) Benefits both the contract and other work, and can be distributed to them in reasonable proportion to the benefits received; or\n\n(c) Is necessary to the overall operation of the business, although a direct relationship to any particular cost objective cannot be shown."
+          }
+        },
+        "5": {
+          "name": "Credits.",
+          "text": {
+            "text": "The applicable portion of any income, rebate, allowance, or other credit relating to any allowable cost and received by or accruing to the contractor shall be credited to the Government either as a cost reduction or by cash refund. See 31.205-6(j)(3) for rules governing refund or credit to the Government associated with pension adjustments and asset reversions."
+          }
+        },
+        "6": {
+          "name": "Accounting for unallowable costs.",
+          "text": {
+            "2": {
+              "text": "Salary expenses of employees who participate in activities that generate unallowable costs shall be treated as directly associated costs to the extent of the time spent on the proscribed activity, provided the costs are material in accordance with paragraph (e)(1) of this subsection (except when such salary expenses are, themselves, unallowable). The time spent in proscribed activities should be compared to total time spent on company activities to determine if the costs are material. Time spent by employees outside the normal working hours should not be considered except when it is evident that an employee engages so frequently in company activities during periods outside normal working hours as to indicate that such activities are a part of the employee’s regular duties."
+            },
+            "3": {
+              "text": "When a selected item of cost under 31.205 provides that directly associated costs be unallowable, such directly associated costs are unallowable only if determined to be material in amount in accordance with the criteria provided in paragraphs (e)(1) and (e)(2) of this subsection, except in those situations where allowance of any of the directly associated costs involved would be considered to be contrary to public policy."
+            },
+            "a": {
+              "text": "Costs that are expressly unallowable or mutually agreed to be unallowable, including mutually agreed to be unallowable directly associated costs, shall be identified and excluded from any billing, claim, or proposal applicable to a Government contract. A directly associated cost is any cost that is generated solely as a result of incurring another cost, and that would not have been incurred had the other cost not been incurred. When an unallowable cost is incurred, its directly associated costs are also unallowable."
+            },
+            "b": {
+              "text": "Costs that specifically become designated as unallowable or as unallowable directly associated costs of unallowable costs as a result of a written decision furnished by a contracting officer shall be identified if included in or used in computing any billing, claim, or proposal applicable to a Government contract. This identification requirement applies also to any costs incurred for the same purpose under like circumstances as the costs specifically identified as unallowable under either this paragraph or paragraph (a) of this subsection."
+            },
+            "c": {
+              "text": "(1) The practices for accounting for and presentation of unallowable costs must be those described in 48 CFR 9904.405, Accounting for Unallowable Costs.",
+              "sub": {
+                "2": {
+                  "text": "Statistical sampling is an acceptable practice for contractors to follow in accounting for and presenting unallowable costs provided the criteria in paragraphs (c)(2)(i), (c)(2)(ii), and (c)(2)(iii) of this subsection are met:",
+                  "sub": {
+                    "i": {
+                      "text": "The statistical sampling results in an unbiased sample that is a reasonable representation of the sampling universe."
+                    },
+                    "ii": {
+                      "text": "Any large dollar value or high risk transaction is separately reviewed for unallowable costs and excluded from the sampling process."
+                    },
+                    "iii": {
+                      "text": "The statistical sampling permits audit verification."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "For any indirect cost in the selected sample that is subject to the penalty provisions at 42.709-0, the amount projected to the sampling universe from that sampled cost is also subject to the same penalty provisions."
+                },
+                "4": {
+                  "text": "Use of statistical sampling methods for identifying and segregating unallowable costs should be the subject of an advance agreement under the provisions of 31.109 between the contractor and the cognizant administrative contracting officer or Federal official. The advance agreement should specify the basic characteristics of the sampling process. The cognizant administrative contracting officer or Federal official shall request input from the cognizant auditor before entering into any such agreements."
+                },
+                "5": {
+                  "text": "In the absence of an advance agreement, if an initial review of the facts results in a challenge of the statistical sampling methods by the contracting officer or the contracting officer’s representative, the burden of proof shall be on the contractor to establish that such a method meets the criteria in paragraph (c)(2) of this subsection."
+                }
+              }
+            },
+            "d": {
+              "text": "If a directly associated cost is included in a cost pool that is allocated over a base that includes the unallowable cost with which it is associated, the directly associated cost shall remain in the cost pool. Since the unallowable costs will attract their allocable share of costs from the cost pool, no further action is required to assure disallowance of the directly associated costs. In all other cases, the directly associated costs, if material in amount, must be purged from the cost pool as unallowable costs."
+            },
+            "e": {
+              "text": "(1) In determining the materiality of a directly associated cost, consideration should be given to the significance of—"
+            },
+            "i": {
+              "text": "The actual dollar amount,"
+            },
+            "ii": {
+              "text": "The cumulative effect of all directly associated costs in a cost pool, and"
+            },
+            "iii": {
+              "text": "The ultimate effect on the cost of Government contracts."
+            }
+          }
+        },
+        "7": {
+          "name": "Construction and architect-engineer contracts.",
+          "text": {
+            "text": "Specific principles and procedures for evaluating and determining costs in connection with contracts and subcontracts for construction, and architect-engineer contracts related to construction projects, are in 31.105. The applicability of these principles and procedures is set forth in 31.000 and 31.100."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Direct costs.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Is consistently applied to all final cost objectives; and"
+        },
+        "2": {
+          "text": "Produces substantially the same results as treating the cost as a direct cost."
+        },
+        "a": {
+          "text": "No final cost objective shall have allocated to it as a direct cost any cost, if other costs incurred for the same purpose in like circumstances have been included in any indirect cost pool to be allocated to that or any other final cost objective. Direct costs of the contract shall be charged directly to the contract. All costs specifically identified with other final cost objectives of the contractor are direct costs of those cost objectives and are not to be charged to the contract directly or indirectly."
+        },
+        "b": {
+          "text": "For reasons of practicality, the contractor may treat any direct cost of a minor dollar amount as an indirect cost if the accounting treatment—"
+        }
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Indirect costs.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "For contracts subject to full CAS coverage, allocation of indirect costs shall be based on the applicable provisions. For all other contracts, the applicable CAS provisions in paragraphs (b) through (h) of this section apply."
+        },
+        "b": {
+          "text": "After direct costs have been determined and charged directly to the contract or other work, indirect costs are those remaining to be allocated to intermediate or two or more final cost objectives. No final cost objective shall have allocated to it as an indirect cost any cost, if other costs incurred for the same purpose, in like circumstances, have been included as a direct cost of that or any other final cost objective."
+        },
+        "c": {
+          "text": "The contractor shall accumulate indirect costs by logical cost groupings with due consideration of the reasons for incurring such costs. The contractor shall determine each grouping so as to permit use of an allocation base that is common to all cost objectives to which the grouping is to be allocated. The base selected shall allocate the grouping on the basis of the benefits accruing to intermediate and final cost objectives. When substantially the same results can be achieved through less precise methods, the number and composition of cost groupings should be governed by practical considerations and should not unduly complicate the allocation."
+        },
+        "d": {
+          "text": "Once an appropriate base for allocating indirect costs has been accepted, the contractor shall not fragment the base by removing individual elements. All items properly includable in an indirect cost base shall bear a pro rata share of indirect costs irrespective of their acceptance as Government contract costs. For example, when a cost input base is used for the allocation of G&A costs, the contractor shall include in the base all items that would properly be part of the cost input base, whether allowable or unallowable, and these items shall bear their pro rata share of G&A costs."
+        },
+        "e": {
+          "text": "The method of allocating indirect costs may require revision when there is a significant change in the nature of the business, the extent of subcontracting, fixed-asset improvement programs, inventories, the volume of sales and production, manufacturing processes, the contractor’s products, or other relevant circumstances."
+        },
+        "f": {
+          "text": "Separate cost groupings for costs allocable to offsite locations may be necessary to permit equitable distribution of costs on the basis of the benefits accruing to the several cost objectives."
+        },
+        "g": {
+          "text": "A base period for allocating indirect costs is the cost accounting period during which such costs are incurred and accumulated for allocation to work performed in that period.",
+          "sub": {
+            "1": {
+              "text": "For contracts subject to full or modified CAS coverage, the contractor shall follow the criteria and guidance in 48 CFR 9904.406 for selecting the cost accounting periods to be used in allocating indirect costs."
+            },
+            "2": {
+              "text": "For contracts other than those subject to paragraph (g)(1) of this section, the base period for allocating indirect costs shall be the contractor’s fiscal year used for financial reporting purposes in accordance with generally accepted accounting principles. The fiscal year will normally be 12 months, but a different period may be appropriate (e.g., when a change in fiscal year occurs due to a business combination or other circumstances)."
+            }
+          }
+        },
+        "h": {
+          "text": "Special care should be exercised in applying the principles of paragraphs (c), (d), and (e) of this section when Government-owned contractor-operated (GOCO) plants are involved. The distribution of corporate, division or branch office G&A expenses to such plants operating with little or no dependence on corporate administrative activities may require more precise cost groupings, detailed accounts screening, and carefully developed distribution bases."
+        },
+        "i": {
+          "text": "Indirect costs that meet the definition of “excessive pass-through charge” in 52.215-23, are unallowable."
+        }
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Application of principles and procedures.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Costs are allowable to the extent they are reasonable, allocable, and determined to be allowable under 31.201, 31.202, 31.203, and 31.205. These criteria apply to all of the selected items that follow, even if particular guidance is provided for certain items for emphasis or clarity."
+        },
+        "b": {
+          "text": "(1) For the following subcontract types, costs incurred as reimbursements or payments to a subcontractor are allowable to the extent the reimbursements or payments are for costs incurred by the subcontractor that are consistent with this part:",
+          "sub": {
+            "2": {
+              "text": "The requirements of paragraph (b)(1) of this section apply to any tier above the first firm-fixed-price subcontract or fixed-price subcontract with economic price adjustment provisions."
+            },
+            "i": {
+              "text": "Cost-reimbursement."
+            },
+            "ii": {
+              "text": "Fixed-price incentive."
+            },
+            "iii": {
+              "text": "Price redeterminable (i.e., fixed-price contracts with prospective price redetermination and fixed-ceiling-price contracts with retroactive price redetermination)."
+            }
+          }
+        },
+        "c": {
+          "text": "Costs incurred as payments under firm-fixed-price subcontracts or fixed-price subcontracts with economic price adjustment provisions or modifications thereto, for which subcontract cost analysis was performed are allowable if the price was negotiated in accordance with 31.102."
+        },
+        "d": {
+          "text": "Section 31.205 does not cover every element of cost. Failure to include any item of cost does not imply that it is either allowable or unallowable. The determination of allowability shall be based on the principles and standards in this subpart and the treatment of similar or related selected items. When more than one subsection in 31.205 is relevant to a contractor cost, the cost shall be apportioned among the applicable subsections, and the determination of allowability of each portion shall be based on the guidance contained in the applicable subsection. When a cost, to which more than one subsection in 31.205 is relevant, cannot be apportioned, the determination of allowability shall be based on the guidance contained in the subsection that most specifically deals with, or best captures the essential nature of, the cost at issue."
+        }
+      }
+    },
+    "205": {
+      "number": 205,
+      "name": "Selected costs.",
+      "sub": {
+        "0": {
+          "name": "[Reserved]",
+          "text": {
+            "text": ""
+          }
+        },
+        "1": {
+          "name": "Costs of alcoholic beverages.",
+          "text": {
+            "text": "Costs of alcoholic beverages are unallowable."
+          }
+        },
+        "2": {
+          "name": "Asset valuations resulting from business combinations.",
+          "text": {
+            "a": {
+              "text": "For tangible capital assets, when the purchase method of accounting for a business combination is used, whether or not the contract or subcontract is subject to CAS, the allowable depreciation and cost of money shall be based on the capitalized asset values measured and assigned in accordance with 48 CFR 9904.404-50(d), if allocable, reasonable, and not otherwise unallowable."
+            },
+            "b": {
+              "text": "For intangible capital assets, when the purchase method of accounting for a business combination is used, allowable amortization and cost of money shall be limited to the total of the amounts that would have been allowed had the combination not taken place."
+            }
+          }
+        },
+        "3": {
+          "name": "Trade, business, technical and professional activity costs.",
+          "text": {
+            "text": "The following types of costs are allowable:\n\n(a) Memberships in trade, business, technical, and professional organizations.\n\n(b) Subscriptions to trade, business, professional, or other technical periodicals.\n\n(c) When the principal purpose of a meeting, convention, conference, symposium, or seminar is the dissemination of trade, business, technical or professional information or the stimulation of production or improved productivity—\n\n(1) Costs of organizing, setting up, and sponsoring the meetings, conventions, symposia, etc., including rental of meeting facilities, transportation, subsistence, and incidental costs;\n\n(2) Costs of attendance by contractor employees, including travel costs (see 31.205-46); and\n\n(3) Costs of attendance by individuals who are not employees of the contractor, provided—\n\n(i) Such costs are not also reimbursed to the individual by the employing company or organization, and\n\n(ii) The individuals attendance is essential to achieve the purpose of the conference, meeting, convention, symposium, etc."
+          }
+        },
+        "4": {
+          "name": "Training and education costs.",
+          "text": {
+            "text": "Costs of training and education that are related to the field in which the employee is working or may reasonably be expected to work are allowable, except as follows:\n\n(a) Overtime compensation for training and education is unallowable.\n\n(b) The cost of salaries for attending undergraduate level classes or part-time graduate level classes during working hours is unallowable, except when unusual circumstances do not permit attendance at such classes outside of regular working hours.\n\n(c) Costs of tuition, fees, training materials and textbooks, subsistence, salary, and any other payments in connection with full-time graduate level education are unallowable for any portion of the program that exceeds two school years or the length of the degree program, whichever is less.\n\n(d) Grants to educational or training institutions, including the donation of facilities or other properties, scholarships, and fellowships are considered contributions and are unallowable.\n\n(e) Training or education costs for other than bona fide employees are unallowable, except that the costs incurred for educating employee dependents (primary and secondary level studies) when the employee is working in a foreign country where suitable public education is not available may be included in overseas differential pay.\n\n(f) Contractor contributions to college savings plans for employee dependents are unallowable."
+          }
+        },
+        "5": {
+          "name": "[Reserved]",
+          "text": {
+            "text": ""
+          }
+        },
+        "6": {
+          "name": "Travel costs.",
+          "text": {
+            "a": {
+              "text": "Costs for transportation, lodging, meals, and incidental expenses.\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington DC 20402\n\nStock No. 922-002-00000-2;\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington DC 20402\n\nStock No. 908-010-00000-1; or\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington, DC 20402\n\nStock No. 744-008-00000-0.\n\nAppropriate downward adjustments from the maximum per diem rates would normally be required under these circumstances. While these adjustments need not be calculated in accordance with the Federal Travel Regulation or Joint Travel Regulations, they must result in a reasonable charge.",
+              "sub": {
+                "1": {
+                  "text": "Costs incurred by contractor personnel on official company business are allowable, subject to the limitations contained in this subsection. Costs for transportation may be based on mileage rates, actual costs incurred, or on a combination thereof, provided the method used results in a reasonable charge. Costs for lodging, meals, and incidental expenses may be based on per diem, actual expenses, or a combination thereof, provided the method used results in a reasonable charge."
+                },
+                "2": {
+                  "text": "Except as provided in paragraph (a)(3) of this subsection, costs incurred for lodging, meals, and incidental expenses (as defined in the regulations cited in (a)(2)(i) through (iii) of this paragraph) shall be considered to be reasonable and allowable only to the extent that they do not exceed on a daily basis the maximum per diem rates in effect at the time of travel as set forth in the—\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington DC 20402\n\nStock No. 922-002-00000-2;\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington DC 20402\n\nStock No. 908-010-00000-1; or\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington, DC 20402\n\nStock No. 744-008-00000-0.",
+                  "sub": {
+                    "i": {
+                      "text": "Federal Travel Regulations, prescribed by the General Services Administration, for travel in the contiguous United States, available on a subscription basis from the—\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington DC 20402\n\nStock No. 922-002-00000-2;\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington DC 20402\n\nStock No. 908-010-00000-1; or\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington, DC 20402\n\nStock No. 744-008-00000-0.\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington DC 20402\n\nStock No. 922-002-00000-2;"
+                    },
+                    "ii": {
+                      "text": "Joint Travel Regulation, Volume 2, DoD Civilian Personnel, Appendix A, prescribed by the Department of Defense, for travel in Alaska, Hawaii, and outlying areas of the United States, available on a subscription basis from the—\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington DC 20402\n\nStock No. 908-010-00000-1; or\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington, DC 20402\n\nStock No. 744-008-00000-0.\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington DC 20402\n\nStock No. 908-010-00000-1; or"
+                    },
+                    "iii": {
+                      "text": "Standardized Regulations (Government Civilians, Foreign Areas), Section 925, “Maximum Travel Per Diem Allowances for Foreign Areas,” prescribed by the Department of State, for travel in areas not covered in (a)(2)(i) and (ii) of this paragraph, available on a subscription basis from the—\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington, DC 20402\n\nStock No. 744-008-00000-0.\n\nSuperintendent of Documents\n\nU.S. Government Printing Office\n\nWashington, DC 20402\n\nStock No. 744-008-00000-0."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "In special or unusual situations, actual costs in excess of the above-referenced maximum per diem rates are allowable provided that such amounts do not exceed the higher amounts authorized for Federal civilian employees as permitted in the regulations referenced in (a)(2)(i), (ii), or (iii) of this subsection. For such higher amounts to be allowable, all of the following conditions must be met:",
+                  "sub": {
+                    "i": {
+                      "text": "One of the conditions warranting approval of the actual expense method, as set forth in the regulations referenced in paragraphs (a)(2)(i), (ii), or (iii) of this subsection, must exist."
+                    },
+                    "ii": {
+                      "text": "A written justification for use of the higher amounts must be approved by an officer of the contractor’s organization or designee to ensure that the authority is properly administered and controlled to prevent abuse."
+                    },
+                    "iii": {
+                      "text": "If it becomes necessary to exercise the authority to use the higher actual expense method repetitively or on a continuing basis in a particular area, the contractor must obtain advance approval from the contracting officer."
+                    },
+                    "iv": {
+                      "text": "Documentation to support actual costs incurred shall be in accordance with the contractor’s established practices, subject to paragraph (a)(7) of this subsection, and provided that a receipt is required for each expenditure of $75.00 or more. The approved justification required by paragraph (a)(3)(ii) and, if applicable, paragraph (a)(3)(iii) of this subsection must be retained."
+                    }
+                  }
+                },
+                "4": {
+                  "text": "Paragraphs (a)(2) and (a)(3) of this subsection do not incorporate the regulations cited in subdivisions (a)(2)(i), (ii), and (iii) of this subsection in their entirety. Only the maximum per diem rates, the definitions of lodging, meals, and incidental expenses, and the regulatory coverage dealing with special or unusual situations are incorporated herein."
+                },
+                "5": {
+                  "text": "An advance agreement (see 31.109) with respect to compliance with paragraphs (a)(2) and (a)(3) of this subsection may be useful and desirable."
+                },
+                "6": {
+                  "text": "The maximum per diem rates referenced in paragraph (a)(2) of this subsection generally would not constitute a reasonable daily charge—\n\nAppropriate downward adjustments from the maximum per diem rates would normally be required under these circumstances. While these adjustments need not be calculated in accordance with the Federal Travel Regulation or Joint Travel Regulations, they must result in a reasonable charge.",
+                  "sub": {
+                    "i": {
+                      "text": "When no lodging costs are incurred; and/or\n\nAppropriate downward adjustments from the maximum per diem rates would normally be required under these circumstances. While these adjustments need not be calculated in accordance with the Federal Travel Regulation or Joint Travel Regulations, they must result in a reasonable charge."
+                    },
+                    "ii": {
+                      "text": "On partial travel days (e.g., day of departure and return).\n\nAppropriate downward adjustments from the maximum per diem rates would normally be required under these circumstances. While these adjustments need not be calculated in accordance with the Federal Travel Regulation or Joint Travel Regulations, they must result in a reasonable charge.\n\nAppropriate downward adjustments from the maximum per diem rates would normally be required under these circumstances. While these adjustments need not be calculated in accordance with the Federal Travel Regulation or Joint Travel Regulations, they must result in a reasonable charge."
+                    }
+                  }
+                },
+                "7": {
+                  "text": "Costs shall be allowable only if the following information is documented—"
+                },
+                "i": {
+                  "text": "Date and place (city, town, or other similar designation) of the expenses;"
+                },
+                "ii": {
+                  "text": "Purpose of the trip; and"
+                },
+                "iii": {
+                  "text": "Name of person on trip and that person’s title or relationship to the contractor."
+                }
+              }
+            },
+            "b": {
+              "text": "Airfare costs in excess of the lowest priced airfare available to the contractor during normal business hours are unallowable except when such accommodations require circuitous routing, require travel during unreasonable hours, excessively prolong travel, result in increased cost that would offset transportation savings, are not reasonably adequate for the physical or medical needs of the traveler, or are not reasonably available to meet mission requirements. However, in order for airfare costs in excess of the above airfare to be allowable, the applicable condition(s) set forth above must be documented and justified."
+            },
+            "c": {
+              "text": "(1) “Cost of travel by contractor-owned, -leased, or -chartered aircraft,” as used in this paragraph, includes the cost of lease, charter, operation (including personnel), maintenance, depreciation, insurance, and other related costs.",
+              "sub": {
+                "2": {
+                  "text": "The costs of travel by contractor-owned, -leased, or -chartered aircraft are limited to the allowable airfare described in paragraph (b) of this subsection for the flight destination unless travel by such aircraft is specifically required by contract specification, term, or condition, or a higher amount is approved by the contracting officer. A higher amount may be agreed to when one or more of the circumstances for justifying higher than allowable airfare listed in paragraph (b) of this subsection are applicable, or when an advance agreement under paragraph (c)(3) of this subsection has been executed. In all cases, travel by contractor-owned, -leased, or -chartered aircraft must be fully documented and justified. For each contractor-owned, -leased, or -chartered aircraft used for any business purpose which is charged or allocated, directly or indirectly, to a Government contract, the contractor must maintain and make available manifest/logs for all flights on such company aircraft. As a minimum, the manifest/log shall indicate—",
+                  "sub": {
+                    "i": {
+                      "text": "Date, time, and points of departure;"
+                    },
+                    "ii": {
+                      "text": "Destination, date, and time of arrival;"
+                    },
+                    "iii": {
+                      "text": "Name of each passenger and relationship to the contractor;"
+                    },
+                    "iv": {
+                      "text": "Authorization for trip; and"
+                    },
+                    "v": {
+                      "text": "Purpose of trip."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Where an advance agreement is proposed (see 31.109), consideration may be given to the following:"
+                },
+                "i": {
+                  "text": "Whether scheduled commercial airlines or other suitable, less costly, travel facilities are available at reasonable times, with reasonable frequency, and serve the required destinations conveniently."
+                },
+                "ii": {
+                  "text": "Whether increased flexibility in scheduling results in time savings and more effective use of personnel that would outweigh additional travel costs."
+                }
+              }
+            },
+            "d": {
+              "text": "Costs of contractor-owned or -leased automobiles, as used in this paragraph, include the costs of lease, operation (including personnel), maintenance, depreciation, insurance, etc. These costs are allowable, if reasonable, to the extent that the automobiles are used for company business. That portion of the cost of company-furnished automobiles that relates to personal use by employees (including transportation to and from work) is compensation for personal services and is unallowable as stated in 31.205-6(m)(2)."
+            }
+          }
+        },
+        "7": {
+          "name": "Costs related to legal and other proceedings.",
+          "text": {
+            "a": {
+              "text": "Definitions. As used in this subsection—\n\n“Costs” include, but are not limited to, administrative and clerical expenses; the costs of legal services, whether performed by in-house or private counsel; the costs of the services of accountants, consultants, or others retained by the contractor to assist it; costs of employees, officers, and directors; and any similar costs incurred before, during, and after commencement of a judicial or administrative proceeding which bears a direct relationship to the proceeding.\n\n“Fraud” means—\n\n“Penalty” does not include restitution, reimbursement, or compensatory damages.\n\n“Proceeding” includes an investigation.",
+              "sub": {
+                "text": "“Costs” include, but are not limited to, administrative and clerical expenses; the costs of legal services, whether performed by in-house or private counsel; the costs of the services of accountants, consultants, or others retained by the contractor to assist it; costs of employees, officers, and directors; and any similar costs incurred before, during, and after commencement of a judicial or administrative proceeding which bears a direct relationship to the proceeding.\n\n“Fraud” means—\n\n(1) Acts of fraud or corruption or attempts to defraud the Government or to corrupt its agents;\n\n(2) Acts which constitute a cause for debarment or suspension under 9.406-2(a) and 9.407-2(a); and\n\n(3) Acts which violate the False Claims Act, 31U.S.C., sections 3729-3731, or 41 U.S.C. chapter 87, Kickbacks.\n\n“Penalty” does not include restitution, reimbursement, or compensatory damages.\n\n“Proceeding” includes an investigation."
+              }
+            },
+            "b": {
+              "text": "Costs incurred in connection with any proceeding brought by:  a Federal, State, local, or foreign government for a violation of, or failure to comply with, law or regulation by the contractor (including its agents or employees) (41 U.S.C. 4310 and 10 U.S.C. 2324(k)); a contractor or subcontractor employee submitting a whistleblower complaint of reprisal in accordance with 41 U.S.C. 4712 or 10 U.S.C. 2409; or a third party in the name of the United States under the False Claims Act, 31 U.S.C. 3730, are unallowable if the result is—",
+              "sub": {
+                "1": {
+                  "text": "In a criminal proceeding, a conviction;"
+                },
+                "2": {
+                  "text": "In a civil or administrative proceeding, either a finding of contractor liability where the proceeding involves an allegation of fraud or similar misconduct; or imposition of a monetary penalty, or an order issued by the agency head to the contractor or subcontractor to take corrective action under 41 U.S.C. 4712 or 10 U.S.C. 2409, where the proceeding does not involve an allegation of fraud or similar misconduct;"
+                },
+                "3": {
+                  "text": "A final decision by an appropriate official of an executive agency to—",
+                  "sub": {
+                    "i": {
+                      "text": "Debar or suspend the contractor;"
+                    },
+                    "ii": {
+                      "text": "Rescind or void a contract; or"
+                    },
+                    "iii": {
+                      "text": "Terminate a contract for default by reason of a violation or failure to comply with a law or regulation."
+                    }
+                  }
+                },
+                "4": {
+                  "text": "Disposition of the matter by consent or compromise if the proceeding could have led to any of the outcomes listed in paragraphs (b)(1) through (3) of this subsection (but see paragraphs (c) and (d) of this subsection); or"
+                },
+                "5": {
+                  "text": "Not covered by paragraphs (b)(1) through (4) of this subsection, but where the underlying alleged contractor misconduct was the same as that which led to a different proceeding whose costs are unallowable by reason of paragraphs (b)(1) through (4) of this subsection."
+                }
+              }
+            },
+            "c": {
+              "text": "(1) To the extent they are not otherwise unallowable, costs incurred in connection with any proceeding under paragraph (b) of this subsection commenced by the United States that is resolved by consent or compromise pursuant to an agreement entered into between the contractor and the United States, and which are unallowable solely because of paragraph (b) of this subsection, may be allowed to the extent specifically provided in such agreement",
+              "sub": {
+                "2": {
+                  "text": "(i) In the event of a settlement of any proceeding brought by a third party under the False Claims Act in which the United States did not intervene, reasonable costs incurred by the contractor in connection with such a proceeding that are not otherwise unallowable by regulation or by separate agreement with the United States may be allowed if the contracting officer, in consultation with his or her legal advisor, determines that there was very little likelihood that the third party would have been successful on the merits."
+                },
+                "ii": {
+                  "text": "In the event of disposition by consent or compromise of a proceeding brought by a whistleblower for alleged reprisal in accordance with 41 U.S.C. 4712 or 10 U.S.C. 2409, reasonable costs incurred by a contractor or subcontractor in connection with such a proceeding that are not otherwise unallowable by regulation or by agreement with the United States may be allowed if the contracting officer, in consultation with his or her legal advisor, determined that there was very little likelihood that the claimant would have been successful on the merits."
+                }
+              }
+            },
+            "d": {
+              "text": "To the extent that they are not otherwise unallowable, costs incurred in connection with any proceeding under paragraph (b) of this subsection commenced by a State, local, or foreign government may be allowable when the contracting officer (or other official specified in agency procedures) determines, that the costs were incurred either:",
+              "sub": {
+                "1": {
+                  "text": "As a direct result of a specific term or condition of a Federal contract; or"
+                },
+                "2": {
+                  "text": "As a result of compliance with specific written direction of the cognizant contracting officer."
+                }
+              }
+            },
+            "e": {
+              "text": "Costs incurred in connection with proceedings described in paragraph (b) of this subsection, but which are not made unallowable by that paragraph, may be allowable to the extent that:",
+              "sub": {
+                "1": {
+                  "text": "The costs are reasonable in relation to the activities required to deal with the proceeding and the underlying cause of action;"
+                },
+                "2": {
+                  "text": "The costs are not otherwise recovered from the Federal Government or a third party, either directly as a result of the proceeding or otherwise; and"
+                },
+                "3": {
+                  "text": "The percentage of costs allowed does not exceed the percentage determined to be appropriate considering the complexity of procurement litigation, generally accepted principles governing the award of legal fees in civil actions involving the United States as a party, and such other factors as may be appropriate. Such percentage shall not exceed 80 percent. Agreements reached under paragraph (c) of this subsection shall be subject to this limitation. If, however, an agreement described in paragraph (c)(1) of this subsection explicitly states the amount of otherwise allowable incurred legal fees and limits the allowable recovery to 80 percent or less of the stated legal fees, no additional limitation need be applied. The amount of reimbursement allowed for legal costs in connection with any proceeding described in paragraph (c)(2) of this subsection shall be determined by the cognizant contracting officer, but shall not exceed 80 percent of otherwise allowable legal costs incurred."
+                }
+              }
+            },
+            "f": {
+              "text": "Costs not covered elsewhere in this subsection are unallowable if incurred in connection with:",
+              "sub": {
+                "1": {
+                  "text": "Defense against Federal Government claims or appeals or the prosecution of claims or appeals against the Federal Government (see 2.101)."
+                },
+                "2": {
+                  "text": "Organization, reorganization, (including mergers and acquisitions) or resisting mergers and acquisitions (see also 31.205-27)."
+                },
+                "3": {
+                  "text": "Defense of antitrust suits."
+                },
+                "4": {
+                  "text": "Defense of suits brought by employees or ex-employees of the contractor under section 2 of the Major Fraud Act of 1988 where the contractor was found liable or settled."
+                },
+                "5": {
+                  "text": "Costs of legal, accounting, and consultant services and directly associated costs incurred in connection with the defense or prosecution of lawsuits or appeals between contractors arising from either—",
+                  "sub": {
+                    "i": {
+                      "text": "An agreement or contract concerning a teaming arrangement, a joint venture, or similar arrangement of shared interest; or"
+                    },
+                    "ii": {
+                      "text": "Dual sourcing, coproduction, or similar programs, are unallowable, except when—"
+                    },
+                    "A": {
+                      "text": "Incurred as a result of compliance with specific terms and conditions of the contract or written instructions from the contracting officer, or"
+                    },
+                    "B": {
+                      "text": "When agreed to in writing by the contracting officer."
+                    }
+                  }
+                },
+                "6": {
+                  "text": "Patent infringement litigation, unless otherwise provided for in the contract."
+                },
+                "7": {
+                  "text": "Representation of, or assistance to, individuals, groups, or legal entities which the contractor is not legally bound to provide, arising from an action where the participant was convicted of violation of a law or regulation or was found liable in a civil or administrative proceeding."
+                },
+                "8": {
+                  "text": "Protests of Federal Government solicitations or contract awards, or the defense against protests of such solicitations or contract awards, unless the costs of defending against a protest are incurred pursuant to a written request from the cognizant contracting officer."
+                },
+                "9": {
+                  "text": "A Congressional investigation or inquiry into an issue that is the subject matter of a proceeding resulting in a disposition as described in (b)(1) through (5) of this section (see 10 U.S.C. 2324(e)(1)(Q))."
+                }
+              }
+            },
+            "g": {
+              "text": "Costs which may be unallowable under 31.205-47, including directly associated costs, shall be segregated and accounted for by the contractor separately. During the pendency of any proceeding covered by paragraph (b) and paragraphs (f)(4) and (f)(7) of this subsection, the contracting officer shall generally withhold payment of such costs. However, if in the best interests of the Government, the contracting officer may provide for conditional payment upon provision of adequate security, or other adequate assurance, and agreement by the contractor to repay all unallowable costs, plus interest, if the costs are subsequently determined to be unallowable."
+            }
+          }
+        },
+        "8": {
+          "name": "Research and development costs.",
+          "text": {
+            "text": "“Research and development,” as used in this subsection, means the type of technical effort described in 31.205-18 but sponsored by a grant or required in the performance of a contract. When costs are incurred in excess of either the price of a contract or amount of a grant for research and development effort, the excess is unallowable under any other Government contract."
+          }
+        },
+        "9": {
+          "name": "Goodwill.",
+          "text": {
+            "text": "Goodwill, an unidentifiable intangible asset, originates under the purchase method of accounting for a business combination when the price paid by the acquiring company exceeds the sum of the identifiable individual assets acquired less liabilities assumed, based upon their fair values. The excess is commonly referred to as goodwill. Goodwill may arise from the acquisition of a company as a whole or a portion thereof. Any costs for amortization, expensing, write-off, or write-down of goodwill (however represented) are unallowable."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    }
+  }
+}

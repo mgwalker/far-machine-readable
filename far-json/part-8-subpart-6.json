@@ -1,0 +1,139 @@
+{
+  "parentPart": 8,
+  "number": 6,
+  "name": "Acquisition from Federal Prison Industries, Inc.",
+  "sub": {
+    "601": {
+      "number": 601,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Federal Prison Industries, Inc. (FPI), also referred to as UNICOR, is a self-supporting, wholly owned Government corporation of the District of Columbia."
+        },
+        "b": {
+          "text": "FPI provides training and employment for prisoners confined in Federal penal and correctional institutions through the sale of its supplies and services to Government agencies (18 U.S.C. 4121-4128)."
+        },
+        "c": {
+          "text": "FPI diversifies its supplies and services to minimize adverse impact on private industry."
+        },
+        "d": {
+          "text": "Supplies manufactured and services performed by FPI are listed in the FPI Schedule, which can be accessed at http://www.unicor.gov or by submitting a written request to Federal Prison Industries, Inc., Department of Justice, Washington, DC 20534."
+        },
+        "e": {
+          "text": "Agencies are encouraged to purchase FPI supplies and services to the maximum extent practicable."
+        }
+      }
+    },
+    "602": {
+      "number": 602,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "In accordance with 10 U.S.C. 2410n and Section 637 of Division H of the Consolidated Appropriations Act, 2005 (Pub. L. 108-447) (18 U.S.C. 4124 note), and except as provided in paragraph (b) of this section, agencies shall—",
+          "sub": {
+            "1": {
+              "text": "Before purchasing an item of supply listed in the FPI Schedule, conduct market research to determine whether the FPI item is comparable to supplies available from the private sector that best meet the Government’s needs in terms of price, quality, and time of delivery. This is a unilateral determination made at the discretion of the contracting officer. The arbitration provisions of 18 U.S.C. 4124(b) do not apply."
+            },
+            "2": {
+              "text": "Prepare a written determination that includes supporting rationale explaining the assessment of price, quality, and time of delivery, based on the results of market research comparing the FPI item to supplies available from the private sector."
+            },
+            "3": {
+              "text": "If the FPI item is comparable, purchase the item from FPI following the ordering procedures at http://www.unicor.gov, unless a waiver is obtained in accordance with 8.604."
+            },
+            "4": {
+              "text": "If the FPI item is not comparable in one or more of the areas of price, quality, and time of delivery—"
+            },
+            "i": {
+              "text": "Acquire the item using—"
+            },
+            "A": {
+              "text": "Establish and communicate to FPI the item description or specifications, and evaluation factors that will be used as the basis for selecting a source, so that an offer from FPI can be evaluated on the same basis as the contract or schedule holder; and"
+            },
+            "B": {
+              "text": "Consider a timely offer from FPI;"
+            },
+            "ii": {
+              "text": "Include FPI in the solicitation process and consider a timely offer from FPI for award in accordance with the item description or specifications, and evaluation factors in the solicitation—"
+            },
+            "iii": {
+              "text": "When using a multiple award schedule issued under the procedures in Subpart 8.4 or when using the fair opportunity procedures in 16.505—"
+            },
+            "iv": {
+              "text": "Award to the source offering the item determined by the agency to provide the best value to the Government; and"
+            },
+            "v": {
+              "text": "When the FPI item is determined to provide the best value to the Government as a result of FPI’s response to a competitive solicitation, follow the ordering procedures at http://www.unicor.gov."
+            }
+          }
+        },
+        "b": {
+          "text": "The procedures in paragraph (a) of this section do not apply if an exception in 8.605(b) through (g) applies."
+        },
+        "c": {
+          "text": "In some cases where FPI and an AbilityOne participating nonprofit agency produce identical items (see 8.603), FPI grants a waiver to permit the Government to purchase a portion of its requirement from the AbilityOne participating nonprofit agency.  When this occurs, the portion of the requirement for which FPI has granted a waiver—",
+          "sub": {
+            "1": {
+              "text": "Shall be purchased from the AbilityOne participating nonprofit agency using the procedures in Subpart 8.7; and"
+            },
+            "2": {
+              "text": "Shall not be subject to the procedures in paragraph (a) of this section."
+            }
+          }
+        },
+        "d": {
+          "text": "Disputes regarding price, quality, character, or suitability of supplies produced by FPI, except for determinations under paragraph (a)(1) of this section, are subject to arbitration as specified in 18 U.S.C. 4124. The statute provides that the arbitration shall be conducted by a board consisting of the Comptroller General of the United States, the Administrator of General Services, and the President, or their representatives. The decisions of the board are final and binding on all parties."
+        }
+      }
+    },
+    "603": {
+      "number": 603,
+      "name": "Purchase priorities.",
+      "sub": {},
+      "text": {
+        "text": "FPI and nonprofit agencies participating in the AbilityOne Program under 41 U.S.C. chapter 85, Committee for Purchase from People Who Are Blind or Severely Disabled (see Subpart 8.7) may produce identical supplies or services. When this occurs, ordering offices shall purchase supplies and services in the following priorities:\n\n(a) Supplies.\n\n(1) Federal Prison Industries, Inc. (41 U.S.C. 8504).\n\n(2) AbilityOne participating nonprofit agencies.\n\n(3) Commercial sources.\n\n(b) Services.\n\n(1) AbilityOne participating nonprofit agencies.\n\n(2) Federal Prison Industries, Inc., or commercial sources."
+      }
+    },
+    "604": {
+      "number": 604,
+      "name": "Waivers.",
+      "sub": {},
+      "text": {
+        "text": "FPI may grant a waiver for purchase of supplies in the FPI Schedule from another source. FPI waivers ordinarily are of the following types:\n\n(a) General or blanket waivers issued when classes of supplies are not available from FPI.\n\n(b) Formal waivers issued in response to requests from offices desiring to acquire, from other sources, supplies listed in the FPI Schedule and not covered by a general waiver. Agencies shall process waiver requests in accordance with the procedures at http://www.unicor.gov."
+      }
+    },
+    "605": {
+      "number": 605,
+      "name": "Exceptions.",
+      "sub": {},
+      "text": {
+        "text": "Purchase from FPI is not mandatory and a waiver is not required if—\n\n(a)(1) The contracting officer makes a determination that the FPI item of supply is not comparable to supplies available from the private sector that best meet the Government’s needs in terms of price, quality, and time of delivery; and\n\n(2) The item is acquired in accordance with 8.602(a)(4);\n\n(b) Public exigency requires immediate delivery or performance;\n\n(c) Suitable used or excess supplies are available;\n\n(d) The supplies are acquired and used outside the United States;\n\n(e) Acquiring listed items totaling $3,500 or less;\n\n(f) Acquiring items that FPI offers exclusively on a competitive (non-mandatory) basis, as identified in the FPI Schedule; or\n\n(g) Acquiring services."
+      }
+    },
+    "606": {
+      "number": 606,
+      "name": "Evaluating FPI performance.",
+      "sub": {},
+      "text": {
+        "text": "Agencies shall evaluate FPI contract performance in accordance with Subpart 42.15. Performance evaluations do not negate the requirements of 8.602 and 8.604, but they may be used to support a waiver request in accordance with 8.604."
+      }
+    },
+    "607": {
+      "number": 607,
+      "name": "Performance as a subcontractor.",
+      "sub": {},
+      "text": {
+        "text": "Agencies shall not require a contractor, or subcontractor at any tier, to use FPI as a subcontractor for performance of a contract by any means, including means such as—\n\n(a) A solicitation provision requiring a potential contractor to offer to make use of FPI supplies or services;\n\n(b) A contract specification requiring the contractor to use specific supplies or services (or classes of supplies or services) offered by FPI; or\n\n(c) Any contract modification directing the use of FPI supplies or services."
+      }
+    },
+    "608": {
+      "number": 608,
+      "name": "Protection of classified and sensitive information.",
+      "sub": {},
+      "text": {
+        "text": "Agencies shall not enter into any contract with FPI that allows an inmate worker access to any—\n\n(a) Classified data;\n\n(b) Geographic data regarding the location of—\n\n(1) Surface and subsurface infrastructure providing communications or water or electrical power distribution;\n\n(2) Pipelines for the distribution of natural gas, bulk petroleum products, or other commodities; or\n\n(3) Other utilities; or\n\n(c) Personal or financial information about any individual private citizen, including information relating to such person’s real property however described, without the prior consent of the individual."
+      }
+    }
+  }
+}

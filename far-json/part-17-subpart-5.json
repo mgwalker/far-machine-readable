@@ -1,0 +1,273 @@
+{
+  "parentPart": 17,
+  "number": 5,
+  "name": "Interagency Acquisitions",
+  "sub": {
+    "500": {
+      "number": 500,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Interagency reimbursable work performed by Federal employees (other than acquisition assistance), or interagency activities where contracting is incidental to the purpose of the transaction; or"
+        },
+        "2": {
+          "text": "Orders of $550,000 or less issued against Federal Supply Schedules."
+        },
+        "a": {
+          "text": "This subpart prescribes policies and procedures applicable to all interagency acquisitions under any authority, except as provided for in paragraph (c) of this section. In addition to complying with the interagency acquisition policy and procedures in this subpart, nondefense agencies acquiring supplies and services on behalf of the Department of Defense shall also comply with the policy and procedures at subpart 17.7."
+        },
+        "b": {
+          "text": "This subpart applies to interagency acquisitions, see 2.101 for definition, when—",
+          "sub": {
+            "1": {
+              "text": "An agency needing supplies or services obtains them using another agency’s contract; or"
+            },
+            "2": {
+              "text": "An agency uses another agency to provide acquisition assistance, such as awarding and administering a contract, a task order, or delivery order."
+            }
+          }
+        },
+        "c": {
+          "text": "This subpart does not apply to—"
+        }
+      }
+    },
+    "501": {
+      "number": 501,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Interagency acquisitions are commonly conducted through indefinite-delivery contracts, such as task- and delivery-order contracts. The indefinite-delivery contracts used most frequently to support interagency acquisitions are Federal Supply Schedules (FSS), Governmentwide acquisition contracts (GWACs), and multi-agency contracts (MACs)."
+        },
+        "b": {
+          "text": "An agency shall not use an interagency acquisition to circumvent conditions and limitations imposed on the use of funds."
+        },
+        "c": {
+          "text": "An interagency acquisition is not exempt from the requirements of subpart 7.3, Contractor Versus Government Performance."
+        },
+        "d": {
+          "text": "An agency shall not use an interagency acquisition to make acquisitions conflicting with any other agency’s authority or responsibility (for example, that of the Administrator of General Services under title 40, United States Code, “Public Buildings, Property and Works” and 41 U.S.C. division C of subtitle I, Procurement.)"
+        }
+      }
+    },
+    "502": {
+      "number": 502,
+      "name": "Procedures.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "1": {
+              "text": "Consider strategies for the effective participation of small businesses during acquisition planning (see 7.103(u));"
+            },
+            "2": {
+              "text": "Detail the administration of such contract, including an analysis of all direct and indirect costs to the Government of awarding and administering such contract;"
+            },
+            "3": {
+              "text": "Describe the impact such contract will have on the ability of the Government to leverage its purchasing power, e.g., will it have a negative effect because it dilutes other existing contracts;"
+            },
+            "4": {
+              "text": "Include an analysis concluding that there is a need for establishing the multi-agency contract; and"
+            },
+            "5": {
+              "text": "Document roles and responsibilities in the administration of the contract."
+            },
+            "a": {
+              "text": "Determination of best procurement approach.",
+              "sub": {
+                "1": {
+                  "text": "Assisted acquisitions. Prior to requesting that another agency conduct an acquisition on its behalf, the requesting agency shall make a determination that the use of an interagency acquisition represents the best procurement approach. As part of the best procurement approach determination, the requesting agency shall obtain the concurrence of the requesting agency’s responsible contracting office in accordance with internal agency procedures. At a minimum, the determination shall include an analysis of procurement approaches, including an evaluation by the requesting agency that using the acquisition services of another agency—",
+                  "sub": {
+                    "i": {
+                      "text": "Satisfies the requesting agency’s schedule, performance, and delivery requirements (taking into account factors such as the servicing agency’s authority, experience, and expertise as well as customer satisfaction with the servicing agency’s past performance);"
+                    },
+                    "ii": {
+                      "text": "Is cost effective (taking into account the reasonableness of the servicing agency’s fees); and"
+                    },
+                    "iii": {
+                      "text": "Will result in the use of funds in accordance with appropriation limitations and compliance with the requesting agency’s laws and policies."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "Direct acquisitions. Prior to placing an order against another agency’s indefinite-delivery vehicle, the requesting agency shall make a determination that use of another agency’s contract vehicle is the best procurement approach and shall obtain the concurrence of the requesting agency’s responsible contracting office.  At a minimum, the determination shall include an analysis, including factors such as:"
+                },
+                "i": {
+                  "text": "The suitability of the contract vehicle;"
+                },
+                "ii": {
+                  "text": "The value of using the contract vehicle, including—"
+                },
+                "A": {
+                  "text": "The administrative cost savings from using an existing contract;"
+                },
+                "B": {
+                  "text": "Lower prices, greater number of vendors, and reasonable vehicle access fees; and"
+                },
+                "iii": {
+                  "text": "The expertise of the requesting agency to place orders and administer them against the selected contract vehicle throughout the acquisition lifecycle."
+                }
+              }
+            },
+            "b": {
+              "text": "Written agreement on responsibility for management and administration.",
+              "sub": {
+                "1": {
+                  "text": "Assisted acquisitions.",
+                  "sub": {
+                    "i": {
+                      "text": "Prior to the issuance of a solicitation, the servicing agency and the requesting agency shall both sign a written interagency agreement that establishes the general terms and conditions governing the relationship between the parties, including roles and responsibilities for acquisition planning, contract execution, and administration and management of the contract(s) or order(s).  The requesting agency shall provide to the servicing agency any unique terms, conditions, and applicable agency-specific statutes, regulations, directives, and other applicable requirements for incorporation into the order or contract. In the event there are no agency unique requirements beyond the FAR, the requesting agency shall so inform the servicing agency contracting officer in writing.  For acquisitions on behalf of the Department of Defense, also see subpart 17.7. for patent rights, see 27.304-2. In preparing interagency agreements to support assisted acquisitions, agencies should review the Office of Federal Procurement Policy guidance, Interagency Acquisitions, available at http://www.whitehouse.gov/omb/assets/procurement/iac_revised.pdf."
+                    },
+                    "ii": {
+                      "text": "Each agency’s file shall include the interagency agreement between the requesting and servicing agency, and shall include sufficient documentation to ensure an adequate audit consistent with 4.801(b)."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "Direct acquisitions. The requesting agency administers the order; therefore, no written agreement with the servicing agency is required."
+                }
+              }
+            },
+            "c": {
+              "text": "Business-case analysis requirements for multi-agency contracts and governmentwide acquisition contracts. In order to establish a multi-agency or governmentwide acquisition contract, a business-case analysis must be prepared by the servicing agency and approved in accordance with the Office of Federal Procurement Policy (OFPP) business case guidance, available at http://www.whitehouse.gov/sites/default/files/omb/procurement/memo/development-review-and-approval-of-business-cases-for-certain-interagency-and-agency-specific-acquisitions-memo.pdf. The business-case analysis shall—"
+            }
+          }
+        },
+        "2": {
+          "name": "The Economy Act.",
+          "text": {
+            "1": {
+              "text": "The servicing agency may ask the requesting agency, in writing, for advance payment for all or part of the estimated cost of furnishing the supplies or services. Adjustment on the basis of actual costs shall be made as agreed to by the agencies."
+            },
+            "2": {
+              "text": "If approved by the servicing agency, payment for actual costs may be made by the requesting agency after the supplies or services have been furnished."
+            },
+            "3": {
+              "text": "Bills rendered or requests for advance payment shall not be subject to audit or certification in advance of payment."
+            },
+            "4": {
+              "text": "In no event shall the servicing agency require, or the requesting agency pay, any fee or charge in excess of the actual cost (or estimated cost if the actual cost is not known) of entering into and administering the contract or other agreement under which the order is filled."
+            },
+            "a": {
+              "text": "The Economy Act (31 U.S.C. 1535) authorizes agencies to enter into agreements to obtain supplies or services from another agency. The FAR applies when one agency uses another agency’s contract to obtain supplies or services. If the interagency business transaction does not result in a contract or an order, then the FAR does not apply. The Economy Act also provides authority for placement of orders between major organizational units within an agency; procedures for such intra-agency transactions are addressed in agency regulations."
+            },
+            "b": {
+              "text": "The Economy Act applies when more specific statutory authority does not exist. Examples of more specific authority are 40 U.S.C. 501 for the Federal Supply Schedules (subpart 8.4), and 40 U.S.C. 11302(e) for Governmentwide acquisition contracts (GWACs)."
+            },
+            "c": {
+              "text": "Requirements for determinations and findings.",
+              "sub": {
+                "1": {
+                  "text": "Each Economy Act order to obtain supplies or services by interagency acquisition shall be supported by a determination and findings (D&F). The D&F shall—",
+                  "sub": {
+                    "i": {
+                      "text": "State that use of an interagency acquisition is in the best interest of the Government;"
+                    },
+                    "ii": {
+                      "text": "State that the supplies or services cannot be obtained as conveniently or economically by contracting directly with a private source; and"
+                    },
+                    "iii": {
+                      "text": "Include a statement that at least one of the following circumstances applies:"
+                    },
+                    "A": {
+                      "text": "The acquisition will appropriately be made under an existing contract of the servicing agency, entered into before placement of the order, to meet the requirements of the servicing agency for the same or similar supplies or services."
+                    },
+                    "B": {
+                      "text": "The servicing agency has the capability or expertise to enter into a contract for such supplies or services that is not available within the requesting agency."
+                    },
+                    "C": {
+                      "text": "The servicing agency is specifically authorized by law or regulation to purchase such supplies or services on behalf of other agencies."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "The D&F shall be approved by a contracting officer of the requesting agency with authority to contract for the supplies or services to be ordered, or by another official designated by the agency head, except that, if the servicing agency is not covered by the FAR, approval of the D&F may not be delegated below the senior procurement executive of the requesting agency."
+                },
+                "3": {
+                  "text": "The requesting agency shall furnish a copy of the D&F to the servicing agency with the request for order."
+                }
+              }
+            },
+            "d": {
+              "text": "Payment."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "503": {
+      "number": 503,
+      "name": "Ordering procedures.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Before placing an order for supplies or services with another Government agency, the requesting agency shall follow the procedures in 17.502-1 and, if under the Economy Act, also 17.502-2."
+        },
+        "b": {
+          "text": "The order may be placed on any form or document that is acceptable to both agencies. The order should include—",
+          "sub": {
+            "1": {
+              "text": "A description of the supplies or services required;"
+            },
+            "2": {
+              "text": "Delivery requirements;"
+            },
+            "3": {
+              "text": "A funds citation;"
+            },
+            "4": {
+              "text": "A payment provision (see 17.502-2(d) for Economy Act orders); and"
+            },
+            "5": {
+              "text": "Acquisition authority as may be appropriate (see 17.503(d))."
+            }
+          }
+        },
+        "c": {
+          "text": "The requesting and servicing agencies should agree to procedures for the resolution of disagreements that may arise under interagency acquisitions, including, in appropriate circumstances, the use of a third-party forum. If a third party is proposed, consent of the third party should be obtained in writing."
+        },
+        "d": {
+          "text": "When an interagency acquisition requires the servicing agency to award a contract, the following procedures also apply:",
+          "sub": {
+            "1": {
+              "text": "If a justification and approval or a D&F (other than the requesting agency’s D&F required in 17.502-2(c)) is required by law or regulation, the servicing agency shall execute and issue the justification and approval or D&F. The requesting agency shall furnish the servicing agency any information needed to make the justification and approval or D&F."
+            },
+            "2": {
+              "text": "The requesting agency shall also be responsible for furnishing other assistance that may be necessary, such as providing information or special contract terms needed to comply with any condition or limitation applicable to the funds of the requesting agency."
+            },
+            "3": {
+              "text": "The servicing agency is responsible for compliance with all other legal or regulatory requirements applicable to the contract, including—"
+            },
+            "i": {
+              "text": "Having adequate statutory authority for the contractual action; and"
+            },
+            "ii": {
+              "text": "Complying fully with the competition requirements of part 6 (see 6.002). However, if the servicing agency is not subject to the Federal Acquisition Regulation, the requesting agency shall verify that contracts utilized to meet its requirements contain provisions protecting the Government from inappropriate charges (for example, provisions mandated for FAR agencies by part 31), and that adequate contract administration will be provided."
+            }
+          }
+        },
+        "e": {
+          "text": "Nonsponsoring Federal agencies may use a Federally Funded Research and Development Center (FFRDC) only if the terms of the FFRDC’s sponsoring agreement permit work from other than a sponsoring agency. Work placed with the FFRDC is subject to the acceptance by the sponsor and must fall within the purpose, mission, general scope of effort, or special competency of the FFRDC. (See 35.017; see also 6.302 for procedures to follow where using other than full and open competition.) The nonsponsoring agency shall provide to the sponsoring agency necessary documentation that the requested work would not place the FFRDC in direct competition with domestic private industry."
+        }
+      }
+    },
+    "504": {
+      "number": 504,
+      "name": "Reporting requirements.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The senior procurement executive for each executive agency shall submit to the Director of OMB an annual report on interagency acquisitions, as directed by OMB."
+        },
+        "b": {
+          "text": "The contracting officer for the servicing agency shall ensure that service contractor reporting requirements are met in accordance with subpart 4.17, Service Contracts Inventory."
+        }
+      }
+    }
+  }
+}

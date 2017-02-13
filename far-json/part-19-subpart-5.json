@@ -1,0 +1,279 @@
+{
+  "parentPart": 19,
+  "number": 5,
+  "name": "Set-Asides for Small Business",
+  "sub": {
+    "501": {
+      "number": 501,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The purpose of small business set-asides is to award certain acquisitions exclusively to small business concerns. A “set-aside for small business” is the reserving of an acquisition exclusively for participation by small business concerns. A small business set-aside may be open to all small businesses. A small business set-aside of a single acquisition or a class of acquisitions may be total or partial."
+        },
+        "b": {
+          "text": "The determination to make a small business set-aside may be unilateral or joint. A unilateral determination is one that is made by the contracting officer. A joint determination is one that is recommended by the Small Business Administration (SBA) procurement center representative (or, if a procurement center representative is not assigned, see 19.402(a)) and concurred in by the contracting officer."
+        },
+        "c": {
+          "text": "The contracting officer shall review acquisitions to determine if they can be set aside for small business, giving consideration to the recommendations of agency personnel having cognizance of the agency’s small business programs. The contracting officer shall perform market research and document why a small business set-aside is inappropriate when an acquisition is not set aside for small business, unless an award is anticipated to a small business under the 8(a), HUBZone, SDVOSB, or WOSB Programs. If the acquisition is set aside for small business based on this review, it is a unilateral set-aside by the contracting officer. Agencies may establish threshold levels for this review depending upon their needs."
+        },
+        "d": {
+          "text": "At the request of an SBA procurement center representative, (or, if a procurement center representative is not assigned, see 19.402(a)) the contracting officer shall make available for review at the contracting office (to the extent of the SBA representative’s security clearance) all proposed acquisitions in excess of the micro-purchase threshold that have not been unilaterally set aside for small business."
+        },
+        "e": {
+          "text": "To the extent practicable, unilateral determinations initiated by a contracting officer shall be used as the basis for small business set-asides rather than joint determinations by an SBA procurement center representative and a contracting officer."
+        },
+        "f": {
+          "text": "All solicitations involving set-asides must specify the applicable small business size standard and NAICS code (see 19.303)."
+        },
+        "g": {
+          "text": "Except as authorized by law, a contract may not be awarded as a result of a small business set-aside if the cost to the awarding agency exceeds the fair market price."
+        }
+      }
+    },
+    "502": {
+      "number": 502,
+      "name": "Setting aside acquisitions.",
+      "sub": {
+        "1": {
+          "name": "Requirements for setting aside acquisitions.",
+          "text": {
+            "a": {
+              "text": "The contracting officer shall set aside an individual acquisition or class of acquisitions for competition among small businesses when—",
+              "sub": {
+                "1": {
+                  "text": "It is determined to be in the interest of maintaining or mobilizing the Nation’s full productive capacity, war or national defense programs; or"
+                },
+                "2": {
+                  "text": "Assuring that a fair proportion of Government contracts in each industry category is placed with small business concerns; and the circumstances described in 19.502-2 or 19.502-3(a) exist."
+                }
+              }
+            },
+            "b": {
+              "text": "This requirement does not apply to purchases of $3,500 or less ($20,000 or less for acquisitions as described in 13.201(g)(1)), or purchases from required sources of supply under Part 8 (e.g., Committee for Purchase From People Who are Blind or Severely Disabled, and Federal Supply Schedule contracts)."
+            }
+          }
+        },
+        "2": {
+          "name": "Total small business set-asides.",
+          "text": {
+            "a": {
+              "text": "Before setting aside an acquisition under this paragraph, refer to 19.203(b). Each acquisition of supplies or services that has an anticipated dollar value exceeding $3,500 ($20,000 for acquisitions as described in 13.201(g)(1)), but not over $150,000 ($750,000 for acquisitions described in paragraph (1) (i) of the simplified acquisition threshold definition at 2.101), is automatically reserved exclusively for small business concerns and shall be set aside for small business unless the contracting officer determines there is not a reasonable expectation of obtaining offers from two or more responsible small business concerns that are competitive in terms of market prices, quality, and delivery. If the contracting officer does not proceed with the small business set-aside and purchases on an unrestricted basis, the contracting officer shall include in the contract file the reason for this unrestricted purchase. If the contracting officer receives only one acceptable offer from a responsible small business concern in response to a set-aside, the contracting officer should make an award to that firm. If the contracting officer receives no acceptable offers from responsible small business concerns, the set-aside shall be withdrawn and the requirement, if still valid, shall be resolicited on an unrestricted basis. The small business reservation does not preclude the award of a contract as described in 19.203."
+            },
+            "b": {
+              "text": "Before setting aside an acquisition under this paragraph, refer to 19.203(c). The contracting officer shall set aside any acquisition over $150,000 for small business participation when there is a reasonable expectation that—",
+              "sub": {
+                "1": {
+                  "text": "Offers will be obtained from at least two responsible small business concerns offering the products of different small business concerns (see paragraph (c) of this section); and"
+                },
+                "2": {
+                  "text": "Award will be made at fair market prices. Total small business set-asides shall not be made unless such a reasonable expectation exists (see 19.502-3 as to partial set-asides). Although past acquisition history of an item or similar items is always important, it is not the only factor to be considered in determining whether a reasonable expectation exists. In making R&D small business set-asides, there must also be a reasonable expectation of obtaining from small businesses the best scientific and technological sources consistent with the demands of the proposed acquisition for the best mix of cost, performances, and schedules."
+                }
+              }
+            },
+            "c": {
+              "text": "For small business set-asides other than for construction or services, any concern proposing to furnish a product that it did not itself manufacture must furnish the product of a small business manufacturer unless the SBA has granted either a waiver or exception to the nonmanufacturer rule (see 19.102(f)). In industries where the SBA finds that there are no small business manufacturers, it may issue a waiver to the nonmanufacturer rule (see 19.102(f)(4) and (5)). In addition, SBA has excepted procurements processed under simplified acquisition procedures (see Part 13), where the anticipated cost of the procurement will not exceed $25,000, from the nonmanufacturer rule. Waivers permit small businesses to provide any firm’s product. The exception permits small businesses to provide any domestic firm’s product. In both of these cases, the contracting officer’s determination in paragraph (b)(1) of this subsection or the decision not to set aside a procurement reserved for small business under paragraph (a) of this subsection will be based on the expectation of receiving offers from at least two responsible small businesses, including nonmanufacturers, offering the products of different concerns."
+            }
+          }
+        },
+        "3": {
+          "name": "Partial set-asides.",
+          "text": {
+            "2": {
+              "text": "(i) After all awards have been made on the non-set-aside portion, the contracting officer shall negotiate with eligible concerns on the set-aside portion, as provided in the solicitation, and make award. Negotiations shall be conducted only with those offerors who have submitted responsive offers on the non-set-aside portion. Negotiations shall be conducted with small business concerns in the order of priority as indicated in the solicitation (but see paragraph (c)(2)(ii) of this section). The set-aside portion shall be awarded as provided in the solicitation. An offeror entitled to receive the award for quantities of an item under the non-set-aside portion and who accepts the award of additional quantities under the set-aside portion shall not be requested to accept a lower price because of the increased quantities of the award, nor shall negotiation be conducted with a view to obtaining such a lower price based solely upon receipt of award of both portions of the acquisition. This does not prevent acceptance by the contracting officer of voluntary reductions in the price from the low eligible offeror before award, acceptance of voluntary refunds, or the change of prices after award by negotiation of a contract modification."
+            },
+            "a": {
+              "text": "The contracting officer shall set aside a portion of an acquisition, except for construction, for exclusive small business participation when—",
+              "sub": {
+                "1": {
+                  "text": "A total set-aside is not appropriate (see 19.502-2);"
+                },
+                "2": {
+                  "text": "The requirement is severable into two or more economic production runs or reasonable lots;"
+                },
+                "3": {
+                  "text": "One or more small business concerns are expected to have the technical competence and productive capacity to satisfy the set-aside portion of the requirement at a fair market price;"
+                },
+                "4": {
+                  "text": "The acquisition is not subject to simplified acquisition procedures; and"
+                },
+                "5": {
+                  "text": "A partial set-aside shall not be made if there is a reasonable expectation that only two concerns (one large and one small) with capability will respond with offers unless authorized by the head of a contracting activity on a case-by-case basis. Similarly, a class of acquisitions, not including construction, may be partially set aside. Under certain specified conditions, partial set-asides may be used in conjunction with multiyear contracting procedures."
+                }
+              }
+            },
+            "b": {
+              "text": "When the contracting officer determines that a portion of an acquisition is to be set aside, the requirement shall be divided into a set-aside portion and a non-set-aside portion, each of which shall (1) be an economic production run or reasonable lot and (2) have terms and a delivery schedule comparable to the other. When practicable, the set-aside portion should make maximum use of small business capacity."
+            },
+            "c": {
+              "text": "(1) The contracting officer shall award the non-set-aside portion using normal contracting procedures."
+            },
+            "ii": {
+              "text": "If equal low offers are received on the non-set-aside portion from concerns eligible for the set-aside portion, the concern that is awarded the non-set-aside part of the acquisition shall have first priority with respect to negotiations for the set-aside."
+            }
+          }
+        },
+        "4": {
+          "name": "Multiple-award contracts and small business set-asides.",
+          "text": {
+            "text": "In accordance with section 1331 of Public Law 111-240 (15 U.S.C. 644(r)) contracting officers may, at their discretion—\n\n(a) When conducting multiple-award procurements using full and open competition, reserve one or more contract awards for any of the small business concerns identified in 19.000(a)(3). The specific program eligibility requirements identified in this part apply;\n\n(b) Set aside part or parts of a multiple-award contract for any of the small business concerns identified in 19.000(a)(3). The specific program eligibility requirements identified in this part apply; or\n\n(c) Set aside orders placed under multiple-award contracts for any of the small business concerns identified in 19.000(a)(3). For orders placed under the Federal Supply Schedules Program see 8.405-5. For all other multiple-award contracts see 16.505."
+          }
+        },
+        "5": {
+          "name": "Methods of conducting set-asides.",
+          "text": {
+            "a": {
+              "text": "Total small business set-asides may be conducted by using simplified acquisition procedures (see Part 13), sealed bids (see Part 14), or competitive proposals (see Part 15). Partial small business set-asides may be conducted using sealed bids (see Part 14), or competitive proposals (see Part 15)."
+            },
+            "b": {
+              "text": "Except for offers on the non-set-aside portion of partial set-asides, offers received from concerns that do not qualify as small business concerns shall be considered nonresponsive and shall be rejected. However, before rejecting an offer otherwise eligible for award because of questions concerning the size representation, an SBA determination must be obtained (see Subpart 19.3)."
+            }
+          }
+        },
+        "6": {
+          "name": "Insufficient causes for not setting aside an acquisition.",
+          "text": {
+            "text": "None of the following is, in itself, sufficient cause for not setting aside an acquisition:\n\n(a) A large percentage of previous contracts for the required item(s) has been placed with small business concerns.\n\n(b) The item is on an established planning list under the Industrial Readiness Planning Program. However, a total small business set-aside shall not be made when the list contains a large business Planned Emergency Producer of the item(s) who has conveyed a desire to supply some or all of the required items.\n\n(c) The item is on a Qualified Products List. However, a total small business set-aside shall not be made if the list contains the products of large businesses unless none of the large businesses desire to participate in the acquisition.\n\n(d) A period of less than 30 days is available for receipt of offers.\n\n(e) The acquisition is classified.\n\n(f) Small business concerns are already receiving a fair proportion of the agency’s contracts for supplies and services.\n\n(g) A class small business set-aside of the item or service has been made by another contracting activity.\n\n(h) A “brand name or equal” product description will be used in the solicitation."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "503": {
+      "number": 503,
+      "name": "Setting aside a class of acquisitions for small business.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "A class of acquisitions of selected products or services, or a portion of the acquisitions, may be set aside for exclusive participation by small business concerns if individual acquisitions in the class will meet the criteria in 19.502-1, 19.502-2, or 19.502-3(a). The determination to make a class small business set-aside shall not depend on the existence of a current acquisition if future acquisitions can be clearly foreseen."
+        },
+        "b": {
+          "text": "The determination to set aside a class of acquisitions for small business may be either unilateral or joint."
+        },
+        "c": {
+          "text": "Each class small business set-aside determination shall be in writing and must—",
+          "sub": {
+            "1": {
+              "text": "Specifically identify the product(s) and service(s) it covers;"
+            },
+            "2": {
+              "text": "Provide that the set-aside does not apply to any acquisition automatically reserved for small business concerns under 19.502-2(a)."
+            },
+            "3": {
+              "text": "Provide that the set-aside applies only to the (named) contracting office(s) making the determination; and"
+            },
+            "4": {
+              "text": "Provide that the set-aside does not apply to any individual acquisition if the requirement is not severable into two or more economic production runs or reasonable lots, in the case of a partial class set-aside."
+            }
+          }
+        },
+        "d": {
+          "text": "The contracting officer shall review each individual acquisition arising under a class small business set-aside to identify any changes in the magnitude of requirements, specifications, delivery requirements, or competitive market conditions that have occurred since the initial approval of the class set-aside. If there are any changes of such a material nature as to result in probable payment of more than a fair market price by the Government or in a change in the capability of small business concerns to satisfy the requirements, the contracting officer may withdraw or modify (see 19.506(a)) the unilateral or joint set-aside by giving written notice to the SBA procurement center representative (or, if a procurement center representative is not assigned, see 19.402(a)) stating the reasons."
+        }
+      }
+    },
+    "504": {
+      "number": 504,
+      "name": "Inclusion of Federal Prison Industries, Inc.",
+      "sub": {},
+      "text": {
+        "text": "When using competitive procedures in accordance with 8.602(a)(4), agencies shall include Federal Prison Industries, Inc. (FPI), in the solicitation process and consider a timely offer from FPI."
+      }
+    },
+    "505": {
+      "number": 505,
+      "name": "Rejecting Small Business Administration recommendations.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "If the contracting officer rejects a recommendation of the SBA procurement center representative (or, if a procurement center representative is not assigned, see 19.402(a)) or breakout procurement center representative, written notice shall be furnished to the appropriate SBA representative within 5 working days of the contracting officer’s receipt of the recommendation."
+        },
+        "b": {
+          "text": "The SBA procurement center representative (or, if a procurement center representative is not assigned, see 19.402(a)) may appeal the contracting officer’s rejection to the head of the contracting activity (or designee) within 2 working days after receiving the notice. The head of the contracting activity (or designee) shall render a decision in writing, and provide it to the SBA representative within 7 working days. Pending issuance of a decision to the SBA representative, the contracting officer shall suspend action on the acquisition."
+        },
+        "c": {
+          "text": "If the head of the contracting activity agrees that the contracting officer’s rejection was appropriate—",
+          "sub": {
+            "1": {
+              "text": "Within 2 working days, the SBA procurement center representative (or, if a procurement center representative is not assigned, see 19.402(a)) may request the contracting officer to suspend action on the acquisition until the SBA Administrator appeals to the agency head (see paragraph (f) of this section); and"
+            },
+            "2": {
+              "text": "The SBA must be allowed 15 working days after making such a written request, within which the Administrator of SBA—"
+            },
+            "i": {
+              "text": "May appeal to the Secretary of the Department concerned; and"
+            },
+            "ii": {
+              "text": "Must notify the contracting officer whether the further appeal has, in fact, been taken. If notification is not received by the contracting officer within the 15-day period, it is deemed that the SBA request to suspend the contract action has been withdrawn and that an appeal to the Secretary was not taken."
+            }
+          }
+        },
+        "d": {
+          "text": "When the contracting officer has been notified within the 15-day period that the SBA has appealed to the agency head, the head of the contracting activity (or designee) shall forward justification for its decision to the agency head. The contracting officer shall suspend contract action until notification is received that the SBA appeal has been settled."
+        },
+        "e": {
+          "text": "The agency head shall reply to the SBA within 30 working days after receiving the appeal. The decision of the agency head shall be final."
+        },
+        "f": {
+          "text": "A request to suspend action on an acquisition need not be honored if the contracting officer determines that proceeding to contract award and performance is in the public interest. The contracting officer shall include in the contract file a statement of the facts justifying the determination, and shall promptly notify the SBA representative of the determination and provide a copy of the justification."
+        }
+      }
+    },
+    "506": {
+      "number": 506,
+      "name": "Withdrawing or modifying small business set-asides.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "If, before award of a contract involving a small business set-aside, the contracting officer considers that award would be detrimental to the public interest (e.g., payment of more than a fair market price), the contracting officer may withdraw the small business set-aside determination whether it was unilateral or joint. The contracting officer shall initiate a withdrawal of an individual small business set-aside by giving written notice to the agency small business specialist and the SBA procurement center representative (or, if a procurement center representative is not assigned, see 19.402(a)) stating the reasons. In a similar manner, the contracting officer may modify a unilateral or joint class small business set-aside to withdraw one or more individual acquisitions."
+        },
+        "b": {
+          "text": "If the agency small business specialist does not agree to a withdrawal or modification, the case shall be promptly referred to the SBA representative (or, if a procurement center representative is not assigned, see 19.402(a)) for review."
+        },
+        "c": {
+          "text": "The contracting officer shall prepare a written statement supporting any withdrawal or modification of a small business set-aside and include it in the contract file."
+        }
+      }
+    },
+    "507": {
+      "number": 507,
+      "name": "Automatic dissolution of a small business set-aside.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "If a small business set-aside acquisition or portion of an acquisition is not awarded, the unilateral or joint determination to set the acquisition aside is automatically dissolved for the unawarded portion of the set-aside. The required supplies and/or services for which no award was made may be acquired by sealed bidding or negotiation, as appropriate."
+        },
+        "b": {
+          "text": "Before issuing a solicitation for the items called for in a small business set-aside that was dissolved, the contracting officer shall ensure that the delivery schedule is realistic in the light of all relevant factors, including the capabilities of small business concerns."
+        }
+      }
+    },
+    "508": {
+      "number": 508,
+      "name": "Solicitation provisions and contract clauses.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "[Reserved]"
+        },
+        "b": {
+          "text": "[Reserved]"
+        },
+        "c": {
+          "text": "The contracting officer shall insert the clause at 52.219-6, Notice of Total Small Business Set-Aside, in solicitations and contracts involving total small business set-asides or reserves. This includes multiple-award contracts when orders may be set aside for any of the small business concerns identified in 19.000(a)(3), as described in 8.405-5 and 16.505(b)(2)(i)(F). The clause at 52.219-6 with its Alternate I will be used when the acquisition is for a product in a class for which the Small Business Administration has waived the nonmanufacturer rule (see 19.102(f)(4) and (5)). Use the clause at 52.219-6 with its Alternate II when including FPI in the competition in accordance with 19.504."
+        },
+        "d": {
+          "text": "The contracting officer shall insert the clause at 52.219-7, Notice of Partial Small Business Set-Aside, in solicitations and contracts involving partial small business set-asides. This includes part or parts of multiple-award contracts, including those described in 38.101. The clause at 52.219-7 with its Alternate I will be used when the acquisition is for a product in a class for which the Small Business Administration has waived the nonmanufacturer rule (see 19.102(f)(4) and (5)). Use the clause at 52.219-7 with its Alternate II when including FPI in the competition in accordance with 19.504."
+        },
+        "e": {
+          "text": "The contracting officer shall insert the clause at 52.219-14, Limitations on Subcontracting, in solicitations and contracts for supplies, services, and construction, if any portion of the requirement is to be set aside or reserved for small business and the contract amount is expected to exceed $150,000. This includes multiple-award contracts when orders may be set aside for small business concerns, as described in 8.405-5 and 16.505(b)(2)(i)(F)."
+        },
+        "f": {
+          "text": "The contracting officer shall insert the clause at 52.219-13, Notice of Set-Aside of Orders, in solicitations and contracts to notify offerors if an order or orders are to be set aside for any of the small business concerns identified in 19.000(a)(3)."
+        }
+      }
+    }
+  }
+}

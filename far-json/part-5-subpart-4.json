@@ -1,0 +1,157 @@
+{
+  "parentPart": 5,
+  "number": 4,
+  "name": "Release of Information",
+  "sub": {
+    "401": {
+      "number": 401,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "A high level of business security must be maintained in order to preserve the integrity of the acquisition process. When it is necessary to obtain information from potential contractors and others outside the Government for use in preparing Government estimates, contracting officers shall ensure that the information is not publicized or discussed with potential contractors."
+        },
+        "b": {
+          "text": "Contracting officers may make available maximum information to the public, except information—",
+          "sub": {
+            "1": {
+              "text": "On plans that would provide undue or discriminatory advantage to private or personal interests;"
+            },
+            "2": {
+              "text": "Received in confidence from an offeror;"
+            },
+            "3": {
+              "text": "Otherwise requiring protection under Freedom of Information Act (see Subpart 24.2) or Privacy Act (see Subpart 24.1); or"
+            },
+            "4": {
+              "text": "Pertaining to internal agency communications (e.g., technical reviews, contracting authority or other reasons, or recommendations referring thereto)."
+            }
+          }
+        },
+        "c": {
+          "text": "This policy applies to all Government personnel who participate directly or indirectly in any stage of the acquisition cycle."
+        }
+      }
+    },
+    "402": {
+      "number": 402,
+      "name": "General public.",
+      "sub": {},
+      "text": {
+        "text": "Contracting officers shall process requests for specific information from the general public, including suppliers, in accordance with Subpart 24.1 or 24.2, as appropriate."
+      }
+    },
+    "403": {
+      "number": 403,
+      "name": "Requests from Members of Congress.",
+      "sub": {},
+      "text": {
+        "text": "Contracting officers shall give Members of Congress, upon their request, detailed information regarding any particular contract. When responsiveness would result in disclosure of classified matter, business confidential information, or information prejudicial to competitive acquisition, the contracting officer shall refer the proposed reply, with full documentation, to the agency head and inform the legislative liaison office of the action."
+      }
+    },
+    "404": {
+      "number": 404,
+      "name": "Release of long-range acquisition estimates.",
+      "sub": {
+        "1": {
+          "name": "Release procedures.",
+          "text": {
+            "1": {
+              "text": "Classified information is released through existing security channels in accordance with agency security regulations;"
+            },
+            "2": {
+              "text": "The information is publicized as widely as practicable to all parties simultaneously by any of the means described in this part;"
+            },
+            "3": {
+              "text": "Each release states that—",
+              "sub": {
+                "i": {
+                  "text": "The estimate is based on the best information available,"
+                },
+                "ii": {
+                  "text": "The information is subject to modification and is in no way binding on the Government, and"
+                },
+                "iii": {
+                  "text": "More specific information relating to any individual item or class of items will not be furnished until the proposed action is synopsized through the GPE or the solicitation is issued;"
+                }
+              }
+            },
+            "4": {
+              "text": "Each release contains the name and address of the contracting officer that will process the acquisition;"
+            },
+            "5": {
+              "text": "Modifications to the original release are publicized as soon as possible, in the same manner as the original; and"
+            },
+            "6": {
+              "text": "Each release—"
+            },
+            "a": {
+              "text": "Application. The agency head, or a designee, may release long-range acquisition estimates if the information will—",
+              "sub": {
+                "1": {
+                  "text": "Assist industry in its planning and facilitate meeting the acquisition requirements;"
+                },
+                "2": {
+                  "text": "Not encourage undesirable practices (e.g., attempts to corner the market or hoard industrial materials); and"
+                },
+                "3": {
+                  "text": "Not indicate the existing or potential mobilization of the industry as a whole."
+                }
+              }
+            },
+            "b": {
+              "text": "Conditions. The agency head shall ensure that—"
+            },
+            "i": {
+              "text": "Is coordinated in advance with small business, public information, and public relations personnel, as appropriate;"
+            },
+            "ii": {
+              "text": "Contains, if applicable, a statement that small business set-asides may be involved, but that a determination can be made only when acquisition action is initiated; and"
+            },
+            "iii": {
+              "text": "Contains the name or description of the item, and the estimated quantity to be acquired by calendar quarter, fiscal year, or other period. It may also contain such additional information as the number of units last acquired, the unit price, and the name of the last supplier."
+            }
+          }
+        },
+        "2": {
+          "name": "Announcements of long-range acquisition estimates.",
+          "text": {
+            "text": "Further publicizing, consistent with the needs of the individual case, may be accomplished by announcing through the GPE that long-range acquisition estimates have been published and are obtainable, upon request, from the contracting officer."
+          }
+        }
+      },
+      "text": {
+        "text": "To assist industry planning and to locate additional sources of supply, it may be desirable to publicize estimates of unclassified long-range acquisition requirements. Estimates may be publicized as far in advance as possible."
+      }
+    },
+    "405": {
+      "number": 405,
+      "name": "Exchange of acquisition information.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "When the same item or class of items is being acquired by more than one agency, or by more than one contracting activity within an agency, the exchange and coordination of pertinent information, particularly cost and pricing data, between these agencies or contracting activities is necessary to promote uniformity of treatment of major issues and the resolution of particularly difficult or controversial issues. The exchange and coordination of information is particularly beneficial during the period of acquisition planning, presolicitation, evaluation, and pre-award survey."
+        },
+        "b": {
+          "text": "When substantial acquisitions of major items are involved or when the contracting activity deems it desirable, the contracting activity shall request appropriate information (on both the end item and on major subcontracted components) from other agencies or contracting activities responsible for acquiring similar items. Each agency or contracting activity receiving such a request shall furnish the information requested. The contracting officer, early in a negotiation of a contract, or in connection with the review of a subcontract, shall request the contractor to furnish information as to the contractor’s or subcontractor’s previous Government contracts and subcontracts for the same or similar end items and major subcontractor components."
+        }
+      }
+    },
+    "406": {
+      "number": 406,
+      "name": "Public disclosure of justification documents for certain contract actions.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Justifications and approvals for other than full and open competition must be posted in accordance with 6.305."
+        },
+        "b": {
+          "text": "Limited-source justifications (excluding brand name) for FSS orders or blanket purchase agreements with an estimated value greater than the simplified acquisition threshold must be posted in accordance with 8.405-6(a)(2)."
+        },
+        "c": {
+          "text": "Justifications for task or delivery orders greater than the simplified acquisition threshold and awarded without providing for fair opportunity must be posted in accordance with 16.505(b)(2)(ii)(D)."
+        }
+      }
+    }
+  }
+}

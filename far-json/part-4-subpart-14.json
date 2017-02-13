@@ -1,0 +1,60 @@
+{
+  "parentPart": 4,
+  "number": 14,
+  "name": "Reporting Executive Compensation and First-Tier Subcontract Awards",
+  "sub": {
+    "1400": {
+      "number": 1400,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart implements section 2 of the Federal Funding Accountability and Transparency Act of 2006 (Pub. L. 109-282), as amended by section 6202 of the Government Funding Transparency Act of 2008 (Pub. L. 110-252), which requires contractors to report subcontract award data and the total compensation of the five most highly compensated executives of the contractor and subcontractor. The public may view first-tier subcontract award data at https://www.usaspending.gov."
+      }
+    },
+    "1401": {
+      "number": 1401,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "This subpart applies to all contracts with a value of $30,000 or more. Nothing in this subpart requires the disclosure of classified information."
+        },
+        "b": {
+          "text": "Reporting of subcontract information will be limited to the first-tier subcontractor."
+        }
+      }
+    },
+    "1402": {
+      "number": 1402,
+      "name": "Procedures.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Agencies shall ensure that contractors comply with the reporting requirements of 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards. Agencies shall review contractor reports on a quarterly basis to ensure the information is consistent with contract information. The agency is not required to address data for which the agency would not normally have supporting information, such as the compensation information required of contractors and first-tier subcontractors. However, the agency shall inform the contractor of any inconsistencies with the contract information and require that the contractor correct the report, or provide a reasonable explanation as to why it believes the information is correct. Agencies may review the reports at http://www.fsrs.gov."
+        },
+        "b": {
+          "text": "When contracting officers report the contract action to the Federal Procurement Data System (FPDS) in accordance with FAR Subpart 4.6, certain data will then pre-populate from FPDS, to assist contractors in completing and submitting their reports. If data originating from FPDS is found by the contractor to be in error when the contractor completes the subcontract report, the contractor should notify the Government contracting officer, who is responsible for correcting the data in FPDS. Contracts reported using the generic entity identifier allowed at FAR 4.605(c)(2) will interfere with the contractor’s ability to comply with this reporting requirement, because the data will not pre-populate from FPDS."
+        },
+        "c": {
+          "text": "If the contractor fails to comply with the reporting requirements, the contracting officer shall exercise appropriate contractual remedies. In addition, the contracting officer shall make the contractor’s failure to comply with the reporting requirements a part of the contractor’s performance information under Subpart 42.15."
+        },
+        "d": {
+          "text": "There is a reporting exception in 52.204-10(g) for contractors and subcontractors who had gross income in the previous tax year under $300,000."
+        }
+      }
+    },
+    "1403": {
+      "number": 1403,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Except as provided in paragraph (b) of this section, the contracting officer shall insert the clause at 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards, in all solicitations and contracts of $30,000 or more."
+        },
+        "b": {
+          "text": "The clause is not prescribed for contracts that are not required to be reported in the Federal Procurement Data System (FPDS) (see Subpart 4.6)."
+        }
+      }
+    }
+  }
+}

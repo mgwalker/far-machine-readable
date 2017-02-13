@@ -1,0 +1,202 @@
+{
+  "parentPart": 12,
+  "number": 5,
+  "name": "Applicability of Certain Laws to the Acquisition of Commercial Items and Commercially Available Off-The-Shelf Items",
+  "sub": {
+    "500": {
+      "number": 500,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "As required by 41 U.S.C. 1906 and 1907, this subpart lists provisions of law that are not applicable to—",
+          "sub": {
+            "1": {
+              "text": "Contracts for the acquisition of commercial items;"
+            },
+            "2": {
+              "text": "Subcontracts, at any tier, for the acquisition of commercial items; and"
+            },
+            "3": {
+              "text": "Contracts and subcontracts, at any tier, for the acquisition of COTS items."
+            }
+          }
+        },
+        "b": {
+          "text": "This subpart also lists provisions of law that have been amended to eliminate or modify their applicability to either contracts or subcontracts for the acquisition of commercial items."
+        }
+      }
+    },
+    "501": {
+      "number": 501,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "This subpart applies to any contract or subcontract at any tier for the acquisition of commercial items."
+        },
+        "b": {
+          "text": "Nothing in this subpart shall be construed to authorize the waiver of any provision of law with respect to any subcontract if the prime contractor is reselling or distributing commercial items of another contractor without adding value. This limitation is intended to preclude establishment of unusual contractual arrangements solely for the purpose of Government sales."
+        },
+        "c": {
+          "text": "For purposes of this subpart, contractors awarded subcontracts under subpart 19.8, Contracting with the Small Business Administration (the 8(a) Program), shall be considered prime contractors."
+        }
+      }
+    },
+    "502": {
+      "number": 502,
+      "name": "Procedures.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The FAR prescription for the provision or clause for each of the laws listed in 12.503 has been revised in the appropriate part to reflect its proper application to prime contracts for the acquisition of commercial items."
+        },
+        "b": {
+          "text": "For subcontracts for the acquisition of commercial items or commercial components, the clauses at 52.212-5, Contract Terms and Conditions Required to Implement Statutes or Executive Orders—Commercial Items, and 52.244-6, Subcontracts for Commercial Items, reflect the applicability of the laws listed in 12.504 by identifying the only provisions and clauses that are required to be included in a subcontract at any tier for the acquisition of commercial items or commercial components."
+        },
+        "c": {
+          "text": "The FAR prescription for the provision or clause for each of the laws listed in 12.505 has been revised in the appropriate part to reflect its proper application to contracts and subcontracts for the acquisition of COTS items."
+        }
+      }
+    },
+    "503": {
+      "number": 503,
+      "name": "Applicability of certain laws to Executive agency contracts for the acquisition of commercial items.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "41 U.S.C. 4704 and 10 U.S.C. 2402, Prohibition on Limiting Subcontractor Direct Sales to the United States (see 3.503)."
+        },
+        "2": {
+          "text": "41 U.S.C. chapter 35, Truthful Cost or Pricing Data, and 10 U.S.C. 2306a, Truth in Negotiations Act (see 15.403)."
+        },
+        "3": {
+          "text": "41 U.S.C. chapter 15, Cost Accounting Standards (48 CFR Chapter 99) (see 12.214)."
+        },
+        "a": {
+          "text": "The following laws are not applicable to Executive agency contracts for the acquisition of commercial items:",
+          "sub": {
+            "1": {
+              "text": "41 U.S.C. chapter 65, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000 (see subpart 22.6)."
+            },
+            "2": {
+              "text": "41 U.S.C. 3901(b) and 10 U.S.C. 2306(b), Contingent Fees (see 3.404)."
+            },
+            "3": {
+              "text": "41 U.S.C. 1708(e)(3), Minimum Response Time for Offers (see 5.203)."
+            },
+            "4": {
+              "text": "41 U.S.C. chapter 81, Drug-Free Workplace (see 23.501)."
+            },
+            "5": {
+              "text": "31 U.S.C. 1354(a), Limitation on use of appropriated funds for contracts with entities not meeting veterans’ employment reporting requirements (see 22.1302)."
+            },
+            "6": {
+              "text": "[Reserved]"
+            },
+            "7": {
+              "text": "Section 806(a)(3) of Pub. L. 102-190, as amended by Sections 2091 and 8105 of Pub. L. 103-355, (10 U.S.C. 2302 note), Payment Protections for Subcontractors and Suppliers (see 28.106-6)."
+            },
+            "8": {
+              "text": "41 U.S.C. 4706(d)(1) and 10 U.S.C. 2313(c)(1), GAO Access to Contractor Employees, Section 871 of Pub. L. 110-417 (see 52.214-26 and 52.215-2)."
+            },
+            "9": {
+              "text": "41 U.S.C. 2303, Policy on Personal Conflicts of Interest by Contractor Employees (see subpart 3.11)."
+            }
+          }
+        },
+        "b": {
+          "text": "Certain requirements of the following laws are not applicable to executive agency contracts for the acquisition of commercial items:",
+          "sub": {
+            "1": {
+              "text": "40 U.S.C. chapter 37, Requirement for a certificate and clause under the Contract Work Hours and Safety Standards statute (see 22.305)."
+            },
+            "2": {
+              "text": "41 U.S.C. 8703 and 8703, Requirement for a clause and certain other requirements related to kickbacks (see 3.502)."
+            },
+            "3": {
+              "text": "49 U.S.C. 40118, Requirement for a clause under the Fly American provisions (see 47.405)."
+            }
+          }
+        },
+        "c": {
+          "text": "The applicability of the following laws have been modified in regards to Executive agency contracts for the acquisition of commercial items:"
+        }
+      }
+    },
+    "504": {
+      "number": 504,
+      "name": "Applicability of certain laws to subcontracts for the acquisition of commercial items.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "41 U.S.C. 4704 and 10 U.S.C. 2402, Prohibition on Limiting Subcontractor Direct Sales to the United States (see subpart 3.5)."
+        },
+        "2": {
+          "text": "41 U.S.C. chapter 35, Truthful Cost or Pricing Data, and 10 U.S.C. 2306a, Truth in Negotiations (see subpart 15.4)."
+        },
+        "3": {
+          "text": "41 U.S.C. chapter 15, Cost Accounting Standards (48 CFR Chapter 99) (see 12.214)."
+        },
+        "a": {
+          "text": "The following laws are not applicable to subcontracts at any tier for the acquisition of commercial items or commercial components at any tier:",
+          "sub": {
+            "1": {
+              "text": "10 U.S.C. 2631, Transportation of Supplies by Sea (except for the types of subcontracts listed at 47.504(d))."
+            },
+            "2": {
+              "text": "15 U.S.C. 644(d), Requirements relative to labor surplus areas under the Small Business Act (see subpart 19.2)."
+            },
+            "3": {
+              "text": "[Reserved]"
+            },
+            "4": {
+              "text": "41 U.S.C. 6505, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000 (see subpart 22.6)."
+            },
+            "5": {
+              "text": "41 U.S.C. 4703, Validation of Proprietary Data restrictions (see subpart 27.4)."
+            },
+            "6": {
+              "text": "41 U.S.C. 3901(b) and 10 U.S.C. 2306(b), Contingent Fees (see subpart 3.4)."
+            },
+            "7": {
+              "text": "41 U.S.C. 4706(d) and 10 U.S.C. 2313(c), Examination of Records of Contractor, when a subcontractor is not required to provide certified cost or pricing data (see15.209(b)), unless using funds appropriated or otherwise made available by the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5)."
+            },
+            "8": {
+              "text": "41 U.S.C. 1708(e)(3), Minimum Response Time for Offers (see subpart 5.2)."
+            },
+            "9": {
+              "text": "41 U.S.C. 2302, Rights in Technical Data (see subpart 27.4)."
+            },
+            "10": {
+              "text": "41 U.S.C. chapter 81, Drug-Free Workplace Act (see subpart 23.5)."
+            },
+            "11": {
+              "text": "46 U.S.C. App. 1241(b), Transportation in American Vessels of Government Personnel and Certain Cargo (see subpart 47.5) (except for the types of subcontracts listed at 47.504(d))."
+            },
+            "12": {
+              "text": "49 U.S.C. 40118, Fly American provisions (see subpart 47.4)."
+            },
+            "13": {
+              "text": "Section 806(a)(3) of Pub. L. 102-190, as amended by Sections 2091 and 8105 of Pub. L. 103-355 (10 U.S.C. 2302 note), Payment Protections for Subcontractors and Suppliers (see 28.106-6)."
+            }
+          }
+        },
+        "b": {
+          "text": "The requirements for a certificate and clause under the Contract Work Hours and Safety Standards statute, 40 U.S.C. 37, (see subpart 22.3) are not applicable to subcontracts at any tier for the acquisition of commercial items or commercial components."
+        },
+        "c": {
+          "text": "The applicability of the following laws has been modified in regards to subcontracts at any tier for the acquisition of commercial items or commercial components:"
+        }
+      }
+    },
+    "505": {
+      "number": 505,
+      "name": "Applicability of certain laws to contracts for the acquisition of COTS items.",
+      "sub": {},
+      "text": {
+        "text": "COTS items are a subset of commercial items. Therefore, any laws listed in sections 12.503 and 12.504 are also inapplicable or modified in their applicability to contracts or subcontracts for the acquisition of COTS items. In addition, the following laws are not applicable to contracts for the acquisition of COTS items:\n\n(a)(1) The portion of 41 U.S.C. 8302(a)(1), that reads “substantially all from articles, materials, or supplies mined, produced, or manufactured, in the United States,” Buy American- Supplies, component test (see 52.225-1 and 52.225-3).\n\n(2) The portion of 41 U.S.C. 8303(a)(2), that reads “substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States,” Buy American- Construction Materials, component test (see 52.225-9 and 52.225-11).\n\n(b) 42 U.S.C. 6962(c)(3)(A), Certification and Estimate of Percentage of Recovered Material.\n\n(c) Compliance Plan and Certification Requirement, section 1703 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239), Title XVII, Ending trafficking in Government Contracting (see 52.222-50(h) and 52.222-56)."
+      }
+    }
+  }
+}

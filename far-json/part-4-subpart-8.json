@@ -1,0 +1,346 @@
+{
+  "parentPart": 4,
+  "number": 8,
+  "name": "Government Contract Files",
+  "sub": {
+    "800": {
+      "number": 800,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes requirements for establishing, maintaining, and disposing of contract files."
+      }
+    },
+    "801": {
+      "number": 801,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "A file for cancelled solicitations;"
+        },
+        "2": {
+          "text": "A file for each contract; and"
+        },
+        "3": {
+          "text": "A file such as a contractor general file, containing documents relating—for example—to—"
+        },
+        "a": {
+          "text": "The head of each office performing contracting, contract administration, or paying functions shall establish files containing the records of all contractual actions."
+        },
+        "b": {
+          "text": "The documentation in the files (see 4.803) shall be sufficient to constitute a complete history of the transaction for the purpose of—",
+          "sub": {
+            "1": {
+              "text": "Providing a complete background as a basis for informed decisions at each step in the acquisition process;"
+            },
+            "2": {
+              "text": "Supporting actions taken;"
+            },
+            "3": {
+              "text": "Providing information for reviews and investigations; and"
+            },
+            "4": {
+              "text": "Furnishing essential facts in the event of litigation or congressional inquiries."
+            }
+          }
+        },
+        "c": {
+          "text": "The files to be established include—"
+        },
+        "i": {
+          "text": "No specific contract;"
+        },
+        "ii": {
+          "text": "More than one contract; or"
+        },
+        "iii": {
+          "text": "The contractor in a general way (e.g., contractor’s management systems, past performance, or capabilities)."
+        }
+      }
+    },
+    "802": {
+      "number": 802,
+      "name": "Contract files.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "A contract file should generally consist of—",
+          "sub": {
+            "1": {
+              "text": "The contracting office contract file that documents the basis for the acquisition and the award, the assignment of contract administration (including payment responsibilities), and any subsequent actions taken by the contracting office;"
+            },
+            "2": {
+              "text": "The contract administration office contract file that documents actions reflecting the basis for and the performance of contract administration responsibilities; and"
+            },
+            "3": {
+              "text": "The paying office contract file that documents actions prerequisite to, substantiating, and reflecting contract payments."
+            }
+          }
+        },
+        "b": {
+          "text": "Normally, each file should be kept separately; however, if appropriate, any or all of the files may be combined; e.g., if all functions or any combination of the functions are performed by the same office."
+        },
+        "c": {
+          "text": "Files must be maintained at organizational levels that ensure—",
+          "sub": {
+            "1": {
+              "text": "Effective documentation of contract actions;"
+            },
+            "2": {
+              "text": "Ready accessibility to principal users;"
+            },
+            "3": {
+              "text": "Minimal establishment of duplicate and working files;"
+            },
+            "4": {
+              "text": "The safeguarding of classified documents; and"
+            },
+            "5": {
+              "text": "Conformance with agency regulations for file location and maintenance."
+            }
+          }
+        },
+        "d": {
+          "text": "If the contract files or file segments are decentralized (e.g., by type or function) to various organizational elements or to other outside offices, responsibility for their maintenance must be assigned. A central control and, if needed, a locator system should be established to ensure the ability to locate promptly any contract files."
+        },
+        "e": {
+          "text": "Contents of contract files that are contractor bid or proposal information or source selection information as defined in 2.101 must be protected from disclosure to unauthorized persons (see 3.104-4)."
+        },
+        "f": {
+          "text": "Agencies may retain contract files in any medium (paper, electronic, microfilm, etc.) or any combination of media, as long as the requirements of this subpart are satisfied."
+        }
+      }
+    },
+    "803": {
+      "number": 803,
+      "name": "Contents of contract files.",
+      "sub": {},
+      "text": {
+        "text": "The following are examples of the records normally contained, if applicable, in contract files:\n\n(a) Contracting office contract file.\n\n(1) Purchase request, acquisition planning information, and other presolicitation documents.\n\n(2) Justifications and approvals, determinations and findings, and associated documents.\n\n(3) Evidence of availability of funds.\n\n(4) Synopsis of proposed acquisition as required by Part 5 or a reference to the synopsis.\n\n(5) The list of sources solicited, and a list of any firms or persons whose requests for copies of the solicitation were denied, together with the reasons for denial.\n\n(6) Set-aside decision including the type and extent of market research conducted.\n\n(7) Government estimate of contract price.\n\n(8) A copy of the solicitation and all amendments thereto.\n\n(9) Security requirements and evidence of required clearances.\n\n(10) A copy of each offer or quotation, the related abstract, and records of determinations concerning late offers or quotations. Unsuccessful offers or quotations may be maintained separately, if cross-referenced to the contract file. The only portions of the unsuccessful offer or quotation that need be retained are—\n\n(i) Completed solicitation sections A, B, and K;\n\n(ii) Technical and management proposals;\n\n(iii) Cost/price proposals; and\n\n(iv) Any other pages of the solicitation that the offeror or quoter has altered or annotated.\n\n(11) Contractor’s representations and certifications (see 4.1201(c)).\n\n(12) Preaward survey reports or reference to previous preaward survey reports relied upon.\n\n(13) Source selection documentation.\n\n(14) Contracting officer’s determination of the contractor’s responsibility.\n\n(15) Small Business Administration Certificate of Competency.\n\n(16) Records of contractor’s compliance with labor policies including equal employment opportunity policies.\n\n(17) Data and information related to the contracting officer’s determination of a fair and reasonable price. This may include—\n\n(i) Certified cost or pricing data;\n\n(ii) Data other than certified cost or pricing data;\n\n(iii) Justification for waiver from the requirement to submit certified cost or pricing data; or\n\n(iv) Certificates of Current Cost or Pricing Data.\n\n(18) Packaging and transportation data.\n\n(19) Cost or price analysis.\n\n(20) Audit reports or reasons for waiver.\n\n(21) Record of negotiation.\n\n(22) Justification for type of contract.\n\n(23) Authority for deviations from this regulation, statutory requirements, or other restrictions.\n\n(24) Required approvals of award and evidence of legal review.\n\n(25) Notice of award.\n\n(26) The original of—\n\n(i) The signed contract or award;\n\n(ii) All contract modifications; and\n\n(iii) Documents supporting modifications executed by the contracting office.\n\n(27) Synopsis of award or reference thereto.\n\n(28) Notice to unsuccessful quoters or offerors and record of any debriefing.\n\n(29) Acquisition management reports (see subpart 4.6).\n\n(30) Bid, performance, payment, or other bond documents, or a reference thereto, and notices to sureties.\n\n(31) Report of postaward conference.\n\n(32) Notice to proceed, stop orders, and any overtime premium approvals granted at the time of award.\n\n(33) Documents requesting and authorizing modification in the normal assignment of contract administration functions and responsibility.\n\n(34) Approvals or disapprovals of requests for waivers or deviations from contract requirements.\n\n(35) Rejected engineering change proposals.\n\n(36) Royalty, invention, and copyright reports (including invention disclosures) or reference thereto.\n\n(37) Contract completion documents.\n\n(38) Documentation regarding termination actions for which the contracting office is responsible.\n\n(39) Cross-references to pertinent documents that are filed elsewhere.\n\n(40) Any additional documents on which action was taken or that reflect actions by the contracting office pertinent to the contract.\n\n(41) A current chronological list identifying the awarding and successor contracting officers, with inclusive dates of responsibility.\n\n(42) When limiting competition, or awarding on a sole source basis, to economically disadvantaged women-owned small business (EDWOSB) concerns or women-owned small business (WOSB) concerns eligible under the WOSB Program in accordance with subpart 19.15, include documentation—\n\n(i) Of the type and extent of market research; and\n\n(ii) That the NAICS code assigned to the acquisition is for an industry that SBA has designated as—\n\n(A) Underrepresented for EDWOSB concerns; or\n\n(B) Substantially underrepresented for WOSB concerns.\n\n(b) Contract administration office contract file.\n\n(1) Copy of the contract and all modifications, together with official record copies of supporting documents executed by the contract administration office.\n\n(2) Any document modifying the normal assignment of contract administration functions and responsibility.\n\n(3) Security requirements.\n\n(4) Certified cost or pricing data, Certificates of Current Cost or Pricing Data, or data other than certified cost or pricing data; cost or price analysis; and other documentation supporting contractual actions executed by the contract administration office.\n\n(5) Preaward survey information.\n\n(6) Purchasing system information.\n\n(7) Consent to subcontract or purchase.\n\n(8) Performance and payment bonds and surety information.\n\n(9) Postaward conference records.\n\n(10) Orders issued under the contract.\n\n(11) Notice to proceed and stop orders.\n\n(12) Insurance policies or certificates of insurance or references to them.\n\n(13) Documents supporting advance or progress payments.\n\n(14) Progressing, expediting, and production surveillance records.\n\n(15) Quality assurance records.\n\n(16) Property administration records.\n\n(17) Documentation regarding termination actions for which the contract administration office is responsible.\n\n(18) Cross reference to other pertinent documents that are filed elsewhere.\n\n(19) Any additional documents on which action was taken or that reflect actions by the contract administration office pertinent to the contract.\n\n(20) Contract completion documents.\n\n(c) Paying office contract file.\n\n(1) Copy of the contract and any modifications.\n\n(2) Bills, invoices, vouchers, and supporting documents.\n\n(3) Record of payments or receipts.\n\n(4) Other pertinent documents."
+      }
+    },
+    "804": {
+      "number": 804,
+      "name": "Closeout of contract files.",
+      "sub": {
+        "1": {
+          "name": "Closeout by the office administering the contract.",
+          "text": {
+            "1": {
+              "text": "The contract is in litigation or under appeal; or"
+            },
+            "2": {
+              "text": "In the case of a termination, all termination actions have not been completed."
+            },
+            "a": {
+              "text": "Except as provided in paragraph (c) of this section, time standards for closing out contract files are as follows:",
+              "sub": {
+                "1": {
+                  "text": "Files for contracts using simplified acquisition procedures should be considered closed when the contracting officer receives evidence of receipt of property and final payment, unless otherwise specified by agency regulations."
+                },
+                "2": {
+                  "text": "Files for firm-fixed-price contracts, other than those using simplified acquisition procedures, should be closed within 6 months after the date on which the contracting officer receives evidence of physical completion."
+                },
+                "3": {
+                  "text": "Files for contracts requiring settlement of indirect cost rates should be closed within 36 months of the month in which the contracting officer receives evidence of physical completion."
+                },
+                "4": {
+                  "text": "Files for all other contracts should be closed within 20 months of the month in which the contracting officer receives evidence of physical completion."
+                }
+              }
+            },
+            "b": {
+              "text": "When closing out the contract files at 4.804-1(a)(2), (3), and (4), the contracting officer shall use the closeout procedures at 4.804-5. However, these closeout actions may be modified to reflect the extent of administration that has been performed. Quick closeout procedures (see 42.708) should be used, when appropriate, to reduce administrative costs and to enable deobligation of excess funds."
+            },
+            "c": {
+              "text": "A contract file shall not be closed if—"
+            }
+          }
+        },
+        "2": {
+          "name": "Closeout of the contracting office files if another office administers the contract.",
+          "text": {
+            "a": {
+              "text": "Contract files for contracts using simplified acquisition procedures should be considered closed when the contracting officer receives evidence of receipt of property and final payment, unless otherwise specified by agency regulation."
+            },
+            "b": {
+              "text": "All other contract files shall be closed as soon as practicable after the contracting officer receives a contract completion statement from the contract administration office. The contracting officer shall ensure that all contractual actions required have been completed and shall prepare a statement to that effect. This statement is authority to close the contract file and shall be made a part of the official contract file."
+            }
+          }
+        },
+        "3": {
+          "name": "Closeout of paying office contract files.",
+          "text": {
+            "text": "The paying office shall close the contract file upon issuance of the final payment voucher."
+          }
+        },
+        "4": {
+          "name": "Physically completed contracts.",
+          "text": {
+            "1": {
+              "text": "The Government has given the contractor a notice of complete contract termination; or"
+            },
+            "2": {
+              "text": "The contract period has expired."
+            },
+            "a": {
+              "text": "Except as provided in paragraph (b) of this section, a contract is considered to be physically completed when—",
+              "sub": {
+                "1": {
+                  "text": "(i) The contractor has completed the required deliveries and the Government has inspected and accepted the supplies;",
+                  "sub": {
+                    "ii": {
+                      "text": "The contractor has performed all services and the Government has accepted these services; and"
+                    },
+                    "iii": {
+                      "text": "All option provisions, if any, have expired; or"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "The Government has given the contractor a notice of complete contract termination."
+                }
+              }
+            },
+            "b": {
+              "text": "Rental, use, and storage agreements are considered to be physically completed when—"
+            }
+          }
+        },
+        "5": {
+          "name": "Procedures for closing out contract files.",
+          "text": {
+            "1": {
+              "text": "The signed original is placed in the contracting office contract file (or forwarded to the contracting office for placement in the files if the contract administration office is different from the contracting office); and"
+            },
+            "2": {
+              "text": "A signed copy is placed in the appropriate contract administration file if administration is performed by a contract administration office."
+            },
+            "a": {
+              "text": "The contract administration office is responsible for initiating (automated or manual) administrative closeout of the contract after receiving evidence of its physical completion. At the outset of this process, the contract administration office must review the contract funds status and notify the contracting office of any excess funds the contract administration office might deobligate. When complete, the administrative closeout procedures must ensure that—",
+              "sub": {
+                "1": {
+                  "text": "Disposition of classified material is completed;"
+                },
+                "2": {
+                  "text": "Final patent report is cleared. If a final patent report is required, the contracting officer may proceed with contract closeout in accordance with the following procedures, or as otherwise prescribed by agency procedures:",
+                  "sub": {
+                    "i": {
+                      "text": "Final patent reports should be cleared within 60 days of receipt."
+                    },
+                    "ii": {
+                      "text": "If the final patent report is not received, the contracting officer shall notify the contractor of the contractor’s obligations and the Government’s rights under the applicable patent rights clause, in accordance with 27.303. If the contractor fails to respond to this notification, the contracting officer may proceed with contract closeout upon consultation with the agency legal counsel responsible for patent matters regarding the contractor’s failure to respond."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Final royalty report is cleared;"
+                },
+                "4": {
+                  "text": "There is no outstanding value engineering change proposal;"
+                },
+                "5": {
+                  "text": "Plant clearance report is received;"
+                },
+                "6": {
+                  "text": "Property clearance is received;"
+                },
+                "7": {
+                  "text": "All interim or disallowed costs are settled;"
+                },
+                "8": {
+                  "text": "Price revision is completed;"
+                },
+                "9": {
+                  "text": "Subcontracts are settled by the prime contractor;"
+                },
+                "10": {
+                  "text": "Prior year indirect cost rates are settled;"
+                },
+                "11": {
+                  "text": "Termination docket is completed;"
+                },
+                "12": {
+                  "text": "Contract audit is completed;"
+                },
+                "13": {
+                  "text": "Contractor’s closing statement is completed;"
+                },
+                "14": {
+                  "text": "Contractor’s final invoice has been submitted; and"
+                },
+                "15": {
+                  "text": "Contract funds review is completed and excess funds deobligated."
+                }
+              }
+            },
+            "b": {
+              "text": "When the actions in paragraph (a) of this subsection have been verified, the contracting officer administering the contract must ensure that a contract completion statement, containing the following information, is prepared:",
+              "sub": {
+                "1": {
+                  "text": "Contract administration office name and address (if different from the contracting office)."
+                },
+                "2": {
+                  "text": "Contracting office name and address."
+                },
+                "3": {
+                  "text": "Contract number."
+                },
+                "4": {
+                  "text": "Last modification number."
+                },
+                "5": {
+                  "text": "Last call or order number."
+                },
+                "6": {
+                  "text": "Contractor name and address."
+                },
+                "7": {
+                  "text": "Dollar amount of excess funds, if any."
+                },
+                "8": {
+                  "text": "Voucher number and date, if final payment has been made."
+                },
+                "9": {
+                  "text": "Invoice number and date, if the final approved invoice has been forwarded to a disbursing office of another agency or activity and the status of the payment is unknown."
+                },
+                "10": {
+                  "text": "A statement that all required contract administration actions have been fully and satisfactorily accomplished."
+                },
+                "11": {
+                  "text": "Name and signature of the contracting officer."
+                },
+                "12": {
+                  "text": "Date."
+                }
+              }
+            },
+            "c": {
+              "text": "When the statement is completed, the contracting officer must ensure that—"
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "805": {
+      "number": 805,
+      "name": "Storage, handling, and contract files.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Agencies must prescribe procedures for the handling, storing, and disposing of contract files, in accordance with the National Archives and Records Administration (NARA) General Records Schedule 1.1, Financial Management and Reporting Records. The Financial Management and Reporting Records can be found at http://www.archives.gov/records-mgmt/grs.html. These procedures must take into account documents held in all types of media, including microfilm and various electronic media. Agencies may change the original medium to facilitate storage as long as the requirements of Part 4, law, and other regulations are satisfied. The process used to create and store records must record and reproduce the original document, including signatures and other written and graphic images completely, accurately, and clearly. Data transfer, storage, and retrieval procedures must protect the original data from alteration. Unless law or other regulations require signed originals to be kept, they may be destroyed after the responsible agency official verifies that record copies on alternate media and copies reproduced from the record copy are accurate, complete, and clear representations of the originals. When original documents have been converted to alternate media for storage, the requirements in Table 4-1 of this section also apply to the record copies in the alternate media."
+        },
+        "b": {
+          "text": "If administrative records are mixed with program records and cannot be economically segregated, the entire file should be kept for the period of time approved for the program records. Similarly, if documents described in the following table are part of a subject or case file that documents activities that are not described in the table, they should be treated in the same manner as the files of which they are a part."
+        },
+        "c": {
+          "text": "An agency that requires a shorter retention period than those identified in Table 4-1 shall request approval from NARA through the agency’s records officer."
+        }
+      }
+    }
+  }
+}

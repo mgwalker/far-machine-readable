@@ -1,0 +1,113 @@
+{
+  "parentPart": 4,
+  "number": 4,
+  "name": "Safeguarding Classified Information Within Industry",
+  "sub": {
+    "401": {
+      "number": 401,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "402": {
+      "number": 402,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Executive Order 12829, January 6, 1993 (58 FR 3479, January 8, 1993), entitled “National Industrial Security Program” (NISP), establishes a program to safeguard Federal Government classified information that is released to contractors, licensees, and grantees of the United States Government. Executive Order 12829 amends Executive Order 10865, February 20, 1960 (25 FR 1583, February 25, 1960), entitled “Safeguarding Classified Information Within Industry,” as amended by Executive Order 10909, January 17, 1961 (26 FR 508, January 20, 1961)."
+        },
+        "b": {
+          "text": "The National Industrial Security Program Operating Manual (NISPOM) incorporates the requirements of these Executive orders. The Secretary of Defense, in consultation with all affected agencies and with the concurrence of the Secretary of Energy, the Chairman of the Nuclear Regulatory Commission, and the Director of Central Intelligence, is responsible for issuance and maintenance of this Manual. The following DoD publications implement the program:",
+          "sub": {
+            "1": {
+              "text": "National Industrial Security Program Operating Manual (NISPOM) (DoD 5220.22-M)."
+            },
+            "2": {
+              "text": "Industrial Security Regulation (DoD 5220.22-R)."
+            }
+          }
+        },
+        "c": {
+          "text": "Procedures for the protection of information relating to foreign classified contracts awarded to U.S. industry, and instructions for the protection of U.S. information relating to classified contracts awarded to foreign firms, are prescribed in Chapter 10 of the NISPOM."
+        },
+        "d": {
+          "text": "Part 27—Patents, Data, and Copyrights, contains policy and procedures for safeguarding classified information in patent applications and patents."
+        }
+      }
+    },
+    "403": {
+      "number": 403,
+      "name": "Responsibilities of contracting officers.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Agencies covered by the NISP shall use the Contract Security Classification Specification, DD Form 254. The contracting officer, or authorized representative, is the approving official for the form and shall ensure that it is prepared and distributed in accordance with the Industrial Security Regulation."
+        },
+        "2": {
+          "text": "Contracting officers in agencies not covered by the NISP shall follow agency procedures."
+        },
+        "a": {
+          "text": "Presolicitation phase. Contracting officers shall review all proposed solicitations to determine whether access to classified information may be required by offerors, or by a contractor during contract performance.",
+          "sub": {
+            "1": {
+              "text": "If access to classified information of another agency may be required, the contracting officer shall—",
+              "sub": {
+                "i": {
+                  "text": "Determine if the agency is covered by the NISP; and"
+                },
+                "ii": {
+                  "text": "Follow that agency’s procedures for determining the security clearances of firms to be solicited."
+                }
+              }
+            },
+            "2": {
+              "text": "If the classified information required is from the contracting officer’s agency, the contracting officer shall follow agency procedures."
+            }
+          }
+        },
+        "b": {
+          "text": "Solicitation phase. Contracting officers shall—",
+          "sub": {
+            "1": {
+              "text": "Ensure that the classified acquisition is conducted as required by the NISP or agency procedures, as appropriate; and"
+            },
+            "2": {
+              "text": "Include—"
+            },
+            "i": {
+              "text": "An appropriate Security Requirements clause in the solicitation (see 4.404); and"
+            },
+            "ii": {
+              "text": "As appropriate, in solicitations and contracts when the contract may require access to classified information, a requirement for security safeguards in addition to those provided in the clause (52.204-2, Security Requirements)."
+            }
+          }
+        },
+        "c": {
+          "text": "Award phase. Contracting officers shall inform contractors and subcontractors of the security classifications and requirements assigned to the various documents, materials, tasks, subcontracts, and components of the classified contract as follows:"
+        }
+      }
+    },
+    "404": {
+      "number": 404,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer shall insert the clause at 52.204-2, Security Requirements, in solicitations and contracts when the contract may require access to classified information, unless the conditions specified in paragraph (d) of this section apply."
+        },
+        "b": {
+          "text": "If a cost contract (see 16.302) for research and development with an educational institution is contemplated, the contracting officer shall use the clause with its Alternate I."
+        },
+        "c": {
+          "text": "If a construction or architect-engineer contract where employee identification is required for security reasons is contemplated, the contracting officer shall use the clause with its Alternate II."
+        },
+        "d": {
+          "text": "If the contracting agency is not covered by the NISP and has prescribed a clause and alternates that are substantially the same as those at 52.204-2, the contracting officer shall use the agency-prescribed clause as required by agency procedures."
+        }
+      }
+    }
+  }
+}

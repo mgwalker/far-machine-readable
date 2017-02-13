@@ -1,0 +1,182 @@
+{
+  "parentPart": 32,
+  "number": 7,
+  "name": "Contract Funding",
+  "sub": {
+    "700": {
+      "number": 700,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart (a) describes basic requirements for contract funding and (b) prescribes procedures for using limitation of cost or limitation of funds clauses. Detailed acquisition funding requirements are contained in agency fiscal regulations."
+      }
+    },
+    "701": {
+      "number": 701,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "702": {
+      "number": 702,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "text": "No officer or employee of the Government may create or authorize an obligation in excess of the funds available, or in advance of appropriations (Anti-Deficiency Act, 31 U.S.C. 1341), unless otherwise authorized by law. Before executing any contract, the contracting officer shall—\n\n(a) Obtain written assurance from responsible fiscal authority that adequate funds are available or\n\n(b) Expressly condition the contract upon availability of funds in accordance with 32.703-2."
+      }
+    },
+    "703": {
+      "number": 703,
+      "name": "Contract funding requirements.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "a": {
+              "text": "If the contract is fully funded, funds are obligated to cover the price or target price of a fixed-price contract or the estimated cost and any fee of a cost-reimbursement contract."
+            },
+            "b": {
+              "text": "If the contract is incrementally funded, funds are obligated to cover the amount allotted and any corresponding increment of fee."
+            }
+          }
+        },
+        "2": {
+          "name": "Contracts conditioned upon availability of funds.",
+          "text": {
+            "a": {
+              "text": "Fiscal year contracts. The contracting officer may initiate a contract action properly chargeable to funds of the new fiscal year before these funds are available, provided that the contract includes the clause at 52.232-18, Availability of Funds (see 32.706-1(a)). This authority may be used only for operation and maintenance and continuing services (e.g., rentals, utilities, and supply items not financed by stock funds)—",
+              "sub": {
+                "1": {
+                  "text": "Necessary for normal operations; and"
+                },
+                "2": {
+                  "text": "For which Congress previously had consistently appropriated funds, unless specific statutory authority exists permitting applicability to other requirements."
+                }
+              }
+            },
+            "b": {
+              "text": "Indefinite-quantity or requirements contracts. A one-year indefinite-quantity or requirements contract for services that is funded by annual appropriations may extend beyond the fiscal year in which it begins; provided, that—",
+              "sub": {
+                "1": {
+                  "text": "Any specified minimum quantities are certain to be ordered in the initial fiscal year (see 37.106) and"
+                },
+                "2": {
+                  "text": "The contract includes the clause at 52.232-19, Availability of Funds for the Next Fiscal Year (see 32.706-1(b))."
+                }
+              }
+            },
+            "c": {
+              "text": "Acceptance of supplies or services. The Government shall not accept supplies or services under a contract conditioned upon the availability of funds until the contracting officer has given the contractor notice, to be confirmed in writing, that funds are available."
+            }
+          }
+        },
+        "3": {
+          "name": "Contracts crossing fiscal years.",
+          "text": {
+            "a": {
+              "text": "A contract that is funded by annual appropriations may not cross fiscal years, except in accordance with statutory authorization (e.g., 41 U.S.C. 6302, 31 U.S.C. 1308, 42 U.S.C. 2459a, 42 U.S.C. 3515, and paragraph (b) of this subsection), or when the contract calls for an end product that cannot feasibly be subdivided for separate performance in each fiscal year (e.g., contracts for expert or consultant services)."
+            },
+            "b": {
+              "text": "The head of an executive agency, except NASA, may enter into a contract, exercise an option, or place an order under a contract for severable services for a period that begins in one fiscal year and ends in the next fiscal year if the period of the contract awarded, option exercised, or order placed does not exceed one year (10 U.S.C. 2410a and 41 U.S.C. 3902). Funds made available for a fiscal year may be obligated for the total amount of an action entered into under this authority."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "704": {
+      "number": 704,
+      "name": "Limitation of cost or funds.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "(1) When a contract contains the clause at 52.232-20, Limitation of Cost; or 52.232-22, Limitation of Funds, the contracting officer, upon learning that the contractor is approaching the estimated cost of the contract or the limit of the funds allotted, shall promptly obtain funding and programming information pertinent to the contract’s continuation and notify the contractor in writing that—",
+          "sub": {
+            "2": {
+              "text": "Upon learning that a partially funded contract containing any of the clauses referenced in paragraph (a)(1) of this section will receive no further funds, the contracting officer shall promptly give the contractor written notice of the decision not to provide funds."
+            },
+            "i": {
+              "text": "Additional funds have been allotted, or the estimated cost has been increased, in a specified amount;"
+            },
+            "ii": {
+              "text": "The contract is not to be further funded and that the contractor should submit a proposal for an adjustment of fee, if any, based on the percentage of work completed in relation to the total work called for under the contract;"
+            },
+            "iii": {
+              "text": "The contract is to be terminated; or"
+            },
+            "iv": {
+              "text": "(A) The Government is considering whether to allot additional funds or increase the estimated cost—"
+            },
+            "B": {
+              "text": "The contractor is entitled by the contract terms to stop work when the funding or cost limit is reached; and"
+            },
+            "C": {
+              "text": "Any work beyond the funding or cost limit will be at the contractor’s risk."
+            }
+          }
+        },
+        "b": {
+          "text": "Under a cost-reimbursement contract, the contracting officer may issue a change order, a direction to replace or repair defective items or work, or a termination notice without immediately increasing the funds available. Since a contractor is not obligated to incur costs in excess of the estimated cost in the contract, the contracting officer shall ensure availability of funds for directed actions. The contracting officer may direct that any increase in the estimated cost or amount allotted to a contract be used for the sole purpose of funding termination or other specified expenses."
+        },
+        "c": {
+          "text": "Government personnel encouraging a contractor to continue work in the absence of funds will incur a violation of Revised Statutes section 3679 (31 U.S.C. 1341) that may subject the violator to civil or criminal penalties."
+        }
+      }
+    },
+    "705": {
+      "number": 705,
+      "name": "Unenforceability of Unauthorized Obligations.",
+      "sub": {},
+      "text": {
+        "text": "Many supplies or services are acquired subject to supplier license agreements.  These are particularly common in information technology acquisitions, but they may apply to any supply or service.  For example, computer software and services delivered through the internet (web services) are often subject to license agreements, referred to as End User License Agreements (EULA), Terms of Service (TOS), or other similar legal instruments or agreements. Many of these agreements contain indemnification clauses that are inconsistent with Federal law and unenforceable, but which could create a violation of the Anti-Deficiency Act (31 U.S.C. 1341) if agreed to by the Government."
+      }
+    },
+    "706": {
+      "number": 706,
+      "name": "Contract clauses.",
+      "sub": {
+        "1": {
+          "name": "Clauses for contracting in advance of funds.",
+          "text": {
+            "1": {
+              "text": "Is funded by annual appropriations; and"
+            },
+            "2": {
+              "text": "Is to extend beyond the initial fiscal year (see 32.703-2(b))."
+            },
+            "a": {
+              "text": "Insert the clause at 52.232-18, Availability of Funds, in solicitations and contracts if the contract will be chargeable to funds of the new fiscal year and the contract action will be initiated before the funds are available."
+            },
+            "b": {
+              "text": "The contracting officer shall insert the clause at 52.232-19, Availability of Funds for the Next Fiscal Year, in solicitations and contracts if a one-year indefinite-quantity or requirements contract for services is contemplated and the contract—"
+            }
+          }
+        },
+        "2": {
+          "name": "Clauses for limitation of cost or funds.",
+          "text": {
+            "a": {
+              "text": "The contracting officer shall insert the clause at 52.232-20, Limitation of Cost, in solicitations and contracts if a fully funded cost-reimbursement contract is contemplated, whether or not the contract provides for payment of a fee."
+            },
+            "b": {
+              "text": "The contracting officer shall insert the clause at 52.232-22, Limitation of Funds, in solicitations and contracts if an incrementally funded cost-reimbursement contract is contemplated."
+            }
+          }
+        },
+        "3": {
+          "name": "Clause for unenforceability of unauthorized obligations.",
+          "text": {
+            "text": "The contracting officer shall insert the clause at 52.232-39, Unenforceability of Unauthorized Obligations in all solicitations and contracts."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "parentPart": 8,
+  "number": 8,
+  "name": "Acquisition of Printing and Related Supplies",
+  "sub": {
+    "800": {
+      "number": 800,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart provides policy for the acquisition of Government printing and related supplies."
+      }
+    },
+    "801": {
+      "number": 801,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Government printing” means printing, binding, and blankbook work for the use of an executive department, independent agency, or establishment of the Government.\n\n“Related supplies” means supplies that are used and equipment that is usable in printing and binding operations."
+      }
+    },
+    "802": {
+      "number": 802,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "2": {
+          "text": "Paper and envelopes for use by Executive agencies outside the District of Columbia and stocked by GSA shall be requisitioned from GSA in accordance with the procedures listed in Federal Property Management Regulations (FPMR) Subpart 101-26.3."
+        },
+        "a": {
+          "text": "Government printing must be done by or through the Government Printing Office (GPO) (44 U.S.C. 501), unless—",
+          "sub": {
+            "1": {
+              "text": "The GPO cannot provide the printing service (44 U.S.C. 504);"
+            },
+            "2": {
+              "text": "The printing is done in field printing plants operated by an executive agency (44 U.S.C. 501(2));"
+            },
+            "3": {
+              "text": "The printing is acquired by an executive agency from allotments for contract field printing (44 U.S.C. 501(2)); or"
+            },
+            "4": {
+              "text": "The printing is specifically authorized by statute to be done other than by the GPO."
+            }
+          }
+        },
+        "b": {
+          "text": "The head of each agency shall designate a central printing authority; that central printing authority may serve as the liaison with the Congressional Joint Committee on Printing (JCP) and the Public Printer on matters related to printing. Contracting officers shall obtain approval from their designated central printing authority before contracting in any manner, whether directly or through contracts for supplies or services, for the items defined in 8.801 and for composition, platemaking, presswork, binding, and micrographics (when used as a substitute for printing)."
+        },
+        "c": {
+          "text": "(1) Further, 44 U.S.C. 1121 provides that the Public Printer may acquire and furnish paper and envelopes (excluding envelopes printed in the course of manufacture) in common use by two or more Government departments, establishments, or services within the District of Columbia, and provides for reimbursement of the Public Printer from available appropriations or funds. Paper and envelopes that are furnished by the Public Printer may not be acquired in any other manner."
+        }
+      }
+    }
+  }
+}

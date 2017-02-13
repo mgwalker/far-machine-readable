@@ -1,0 +1,74 @@
+{
+  "parentPart": 1,
+  "number": 5,
+  "name": "Agency and Public Participation",
+  "sub": {
+    "501": {
+      "number": 501,
+      "name": "Solicitation of agency and public views.",
+      "sub": {
+        "1": {
+          "name": "Definition.",
+          "text": {
+            "text": "“Significant revisions,” as used in this subpart, means revisions that alter the substantive meaning of any coverage in the FAR System and which have a significant cost or administrative impact on contractors or offerors, or significant effect beyond the internal operating procedures of the issuing agency. This expression, for example, does not include editorial, stylistic, or other revisions that have no impact on the basic meaning of the coverage being revised."
+          }
+        },
+        "2": {
+          "name": "Opportunity for public comments.",
+          "text": {
+            "a": {
+              "text": "Views of agencies and nongovernmental parties or organizations will be considered in formulating acquisition policies and procedures."
+            },
+            "b": {
+              "text": "The opportunity to submit written comments on proposed significant revisions shall be provided by placing a notice in the Federal Register. Each of these notices shall include—",
+              "sub": {
+                "1": {
+                  "text": "The text of the revision or, if it is impracticable to publish the full text, a summary of the proposal;"
+                },
+                "2": {
+                  "text": "The address and telephone number of the individual from whom copies of the revision, in full text, can be requested and to whom comments thereon should be addressed; and"
+                },
+                "3": {
+                  "text": "When 1.501-3(b) is applicable, a statement that the revision is effective on a temporary basis pending completion of the public comment period."
+                }
+              }
+            },
+            "c": {
+              "text": "A minimum of 30 days and, normally, at least 60 days will be given for the receipt of comments."
+            }
+          }
+        },
+        "3": {
+          "name": "Exceptions.",
+          "text": {
+            "a": {
+              "text": "Comments need not be solicited when the proposed coverage does not constitute a significant revision."
+            },
+            "b": {
+              "text": "Advance comments need not be solicited when urgent and compelling circumstances make solicitation of comments impracticable prior to the effective date of the coverage, such as when a new statute must be implemented in a relatively short period of time. In such case, the coverage shall be issued on a temporary basis and shall provide for at least a 30 day public comment period."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "502": {
+      "number": 502,
+      "name": "Unsolicited proposed revisions.",
+      "sub": {},
+      "text": {
+        "text": "Consideration shall also be given to unsolicited recommendations for revisions that have been submitted in writing with sufficient data and rationale to permit their evaluation."
+      }
+    },
+    "503": {
+      "number": 503,
+      "name": "Public meetings.",
+      "sub": {},
+      "text": {
+        "text": "Public meetings may be appropriate when a decision to adopt, amend, or delete FAR coverage is likely to benefit from significant additional views and discussion."
+      }
+    }
+  }
+}

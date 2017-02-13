@@ -1,0 +1,72 @@
+{
+  "parentPart": 39,
+  "number": 2,
+  "name": "Electronic and Information Technology",
+  "sub": {
+    "201": {
+      "number": 201,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Federal employees with disabilities have access to and use of information and data that is comparable to the access and use by Federal employees who are not individuals with disabilities; and"
+        },
+        "2": {
+          "text": "Members of the public with disabilities seeking information or services from an agency have access to and use of information and data that is comparable to the access to and use of information and data by members of the public who are not individuals with disabilities."
+        },
+        "a": {
+          "text": "This subpart implements Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), and the Architectural and Transportation Barriers Compliance Board Electronic and Information Technology (EIT) Accessibility Standards (36 CFR Part 1194)."
+        },
+        "b": {
+          "text": "Further information on Section 508 is available via the Internet at http://www.section508.gov."
+        },
+        "c": {
+          "text": "When acquiring EIT, agencies must ensure that—"
+        }
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Definition.",
+      "sub": {},
+      "text": {
+        "text": "Undue burden, as used in this subpart, means a significant difficulty or expense."
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "2": {
+          "text": "The requiring official must document in writing the nonavailability, including a description of market research performed and which standards cannot be met, and provide documentation to the contracting officer for inclusion in the contract file."
+        },
+        "a": {
+          "text": "Unless an exception at 39.204 applies, acquisitions of EIT supplies and services must meet the applicable accessibility standards at 36 CFR Part 1194."
+        },
+        "b": {
+          "text": "(1) Exception determinations are required prior to contract award, except for indefinite-quantity contracts (see paragraph (b)(2) of this section).",
+          "sub": {
+            "2": {
+              "text": "Exception determinations are not required prior to award of indefinite-quantity contracts, except for requirements that are to be satisfied by initial award. Contracting offices that award indefinite-quantity contracts must indicate to requiring and ordering activities which supplies and services the contractor indicates as compliant, and show where full details of compliance can be found (e.g., vendor’s or other exact website location)."
+            },
+            "3": {
+              "text": "Requiring and ordering activities must ensure supplies or services meet the applicable accessibility standards at 36 CFR Part 1194, unless an exception applies, at the time of issuance of task or delivery orders. Accordingly, indefinite-quantity contracts may include noncompliant items; however, any task or delivery order issued for noncompliant items must meet an applicable exception."
+            }
+          }
+        },
+        "c": {
+          "text": "(1) When acquiring commercial items, an agency must comply with those accessibility standards that can be met with supplies or services that are available in the commercial marketplace in time to meet the agency’s delivery requirements."
+        }
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Exceptions.",
+      "sub": {},
+      "text": {
+        "text": "The requirements in 39.203 do not apply to EIT that—\n\n(a) Is purchased in accordance with Subpart 13.2 (micro-purchases) prior to April 1, 2005. However, for micro-purchases, contracting officers and other individuals designated in accordance with 1.603-3 are strongly encouraged to comply with the applicable accessibility standards to the maximum extent practicable;\n\n(b) Is for a national security system;\n\n(c) Is acquired by a contractor incidental to a contract;\n\n(d) Is located in spaces frequented only by service personnel for maintenance, repair or occasional monitoring of equipment; or\n\n(e) Would impose an undue burden on the agency.\n\n(1) Basis. In determining whether compliance with all or part of the applicable accessibility standards in 36 CFR Part 1194 would be an undue burden, an agency must consider—\n\n(i) The difficulty or expense of compliance; and\n\n(ii) Agency resources available to its program or component for which the supply or service is being acquired.\n\n(2) Documentation.\n\n(i) The requiring official must document in writing the basis for an undue burden decision and provide the documentation to the contracting officer for inclusion in the contract file.\n\n(ii) When acquiring commercial items, an undue burden determination is not required to address individual standards that cannot be met with supplies or service available in the commercial marketplace in time to meet the agency delivery requirements (see 39.203(c)(2) regarding documentation of nonavailability)."
+      }
+    }
+  }
+}

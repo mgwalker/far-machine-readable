@@ -1,0 +1,130 @@
+{
+  "parentPart": 22,
+  "number": 15,
+  "name": "Prohibition of Acquisition of Products Produced by Forced or Indentured Child Labor",
+  "sub": {
+    "1500": {
+      "number": 1500,
+      "name": "Scope.",
+      "sub": {},
+      "text": {
+        "text": "This subpart applies to acquisitions of supplies that exceed the micro-purchase threshold."
+      }
+    },
+    "1501": {
+      "number": 1501,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Forced or indentured child labor” means all work or service—\n\n(1) Exacted from any person under the age of 18 under the menace of any penalty for its nonperformance and for which the worker does not offer himself voluntarily; or\n\n(2) Performed by any person under the age of 18 pursuant to a contract the enforcement of which can be accomplished by process or penalties.\n\n“List of Products Requiring Contractor Certification as to Forced or Indentured Child Labor” means the list published by the Department of Labor in accordance with E.O. 13126 of June 12, 1999, Prohibition of Acquisition of Products Produced by Forced or Indentured Child Labor. The list identifies products, by their country of origin, that the Departments of Labor, Treasury, and State have a reasonable basis to believe might have been mined, produced, or manufactured by forced or indentured child labor."
+      }
+    },
+    "1502": {
+      "number": 1502,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "text": "Agencies must take appropriate action to enforce the laws prohibiting the manufacture or importation of products that have been mined, produced, or manufactured wholly or in part by forced or indentured child labor, consistent with 19 U.S.C. 1307, 29 U.S.C. 201, et seq., and 41 U.S.C. chapter 65. Agencies should make every effort to avoid acquiring such products."
+      }
+    },
+    "1503": {
+      "number": 1503,
+      "name": "Procedures for acquiring end products on the List of Products Requiring Contractor Certification as to Forced or Indentured Child Labor.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "When issuing a solicitation for supplies expected to exceed the micro-purchase threshold, the contracting officer must check the List of Products Requiring Contractor Certification as to Forced or Indentured Child Labor (the List) (www.dol.gov/ilab/) (see 22.1505(a)). Appearance of a product on the List is not a bar to purchase of any such product mined, produced, or manufactured in the identified country, but rather is an alert that there is a reasonable basis to believe that such product may have been mined, produced, or manufactured by forced or indentured child labor."
+        },
+        "b": {
+          "text": "The requirements of this subpart that result from the appearance of any end product on the List do not apply to a solicitation or contract if the identified country of origin on the List is—",
+          "sub": {
+            "1": {
+              "text": "Canada, and the anticipated value of the acquisition is $25,000 or more (subpart 25.4);"
+            },
+            "2": {
+              "text": "Israel, and the anticipated value of the acquisition is $50,000 or more (see 25.406);"
+            },
+            "3": {
+              "text": "Mexico, and the anticipated value of the acquisition is $77,533 or more (see subpart 25.4); or"
+            },
+            "4": {
+              "text": "Armenia, Aruba, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Italy, Japan, Korea, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or the United Kingdom and the anticipated value of the acquisition is $191,000 or more (see 25.402(b))."
+            }
+          }
+        },
+        "c": {
+          "text": "Except as provided in paragraph (b) of this section, before the contracting officer may make an award for an end product (regardless of country of origin) of a type identified by country of origin on the List the offeror must certify that—",
+          "sub": {
+            "1": {
+              "text": "It will not supply any end product on the List that was mined, produced, or manufactured in a country identified on the List for that product, as specified in the solicitation by the contracting officer in the Certification Regarding Knowledge of Child Labor for Listed End Products; or"
+            },
+            "2": {
+              "text": "(i) It has made a good faith effort to determine whether forced or indentured child labor was used to mine, produce, or manufacture any end product to be furnished under the contract that is on the List and was mined, produced, or manufactured in a country identified on the List for that product; and"
+            },
+            "ii": {
+              "text": "On the basis of those efforts, the offeror is unaware of any such use of child labor."
+            }
+          }
+        },
+        "d": {
+          "text": "Absent any actual knowledge that the certification is false, the contracting officer must rely on the offerors’ certifications in making award decisions."
+        },
+        "e": {
+          "text": "Whenever a contracting officer has reason to believe that forced or indentured child labor was used to mine, produce, or manufacture an end product furnished pursuant to a contract awarded subject to the certification required in paragraph (c) of this section, the contracting officer must refer the matter for investigation by the agency’s Inspector General, the Attorney General, or the Secretary of the Treasury, whichever is determined appropriate in accordance with agency procedures, except to the extent that the end product is from the country listed in paragraph (b) of this section, under a contract exceeding the applicable threshold."
+        },
+        "f": {
+          "text": "Proper certification will not prevent the head of an agency from imposing remedies in accordance with section 22.1504(a)(4) if it is later discovered that the contractor has furnished an end product or component that has in fact been mined, produced, or manufactured, wholly or in part, using forced or indentured child labor."
+        }
+      }
+    },
+    "1504": {
+      "number": 1504,
+      "name": "Violations and remedies.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The contracting officer may terminate the contract."
+        },
+        "2": {
+          "text": "The suspending official may suspend the contractor in accordance with the procedures in subpart 9.4."
+        },
+        "3": {
+          "text": "The debarring official may debar the contractor for a period not to exceed 3 years in accordance with the procedures in subpart 9.4."
+        },
+        "a": {
+          "text": "Violations. The Government may impose remedies set forth in paragraph (b) of this section for the following violations (note that the violations in paragraphs (a)(3) and (a)(4) of this section go beyond violations of the requirements relating to certification of end products) (see 22.1503):",
+          "sub": {
+            "1": {
+              "text": "The contractor has submitted a false certification regarding knowledge of the use of forced or indentured child labor."
+            },
+            "2": {
+              "text": "The contractor has failed to cooperate as required in accordance with the clause at 52.222-19, Child Labor Cooperation with Authorities and Remedies, with an investigation of the use of forced or indentured child labor by an Inspector General, the Attorney General, or the Secretary of the Treasury."
+            },
+            "3": {
+              "text": "The contractor uses forced or indentured child labor in its mining, production, or manufacturing processes."
+            },
+            "4": {
+              "text": "The contractor has furnished an end product or component mined, produced, or manufactured, wholly or in part, by forced or indentured child labor. Remedies in paragraphs (b)(2) and (b)(3) of this section are inappropriate unless the contractor knew of the violation."
+            }
+          }
+        },
+        "b": {
+          "text": "Remedies."
+        }
+      }
+    },
+    "1505": {
+      "number": 1505,
+      "name": "Solicitation provision and contract clause.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Except as provided in paragraph (b) of 22.1503, insert the provision at 52.222-18, Certification Regarding Knowledge of Child Labor for Listed End Products, in all solicitations that are expected to exceed the micro-purchase threshold and are for the acquisition of end products (regardless of country of origin) of a type identified by country of origin on the List of Products Requiring Contractor Certification as to Forced or Indentured Child Labor, except solicitations for commercial items that include the provision at 52.212-3, Offeror Representations and Certifications—Commercial Items. The contracting officer must identify in paragraph (b) of the provision at 52.222-18, Certification Regarding Knowledge of Child Labor for Listed End Products, or paragraph (i)(1) of the provision at 52.212-3, any applicable end products and countries of origin from the List. For solicitations estimated to equal or exceed $25,000, the contracting officer must exclude from the List in the solicitation end products from any countries identified at 22.1503(b), in accordance with the specified thresholds."
+        },
+        "b": {
+          "text": "Insert the clause at 52.222-19, Child Labor—Cooperation with Authorities and Remedies, in all solicitations and contracts for the acquisition of supplies that are expected to exceed the micro-purchase thresholds."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "parentPart": 14,
+  "number": 3,
+  "name": "Submission of Bids",
+  "sub": {
+    "301": {
+      "number": 301,
+      "name": "Responsiveness of bids.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "To be considered for award, a bid must comply in all material respects with the invitation for bids. Such compliance enables bidders to stand on an equal footing and maintain the integrity of the sealed bidding system."
+        },
+        "b": {
+          "text": "Facsimile bids shall not be considered unless permitted by the solicitation (see 14.202-7)."
+        },
+        "c": {
+          "text": "Bids should be filled out, executed, and submitted in accordance with the instructions in the invitation. If a bidder uses its own bid form or a letter to submit a bid, the bid may be considered only if—",
+          "sub": {
+            "1": {
+              "text": "The bidder accepts all the terms and conditions of the invitation; and"
+            },
+            "2": {
+              "text": "Award on the bid would result in a binding contract with terms and conditions that do not vary from the terms and conditions of the invitation."
+            }
+          }
+        },
+        "d": {
+          "text": "Bids submitted by electronic commerce shall be considered only if the electronic commerce method was specifically stipulated or permitted by the solicitation."
+        }
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "Bid submission.",
+      "sub": {},
+      "text": {
+        "text": "Bids shall be submitted so that they will be received in the office designated in the invitation for bids not later than the exact time set for opening of bids."
+      }
+    },
+    "303": {
+      "number": 303,
+      "name": "Modification or withdrawal of bids.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Bids may be modified or withdrawn by any method authorized by the solicitation, if notice is received in the office designated in the solicitation not later than the exact time set for opening of bids. If the solicitation authorizes facsimile bids, bids may be modified or withdrawn via facsimile received at any time before the exact time set for receipt of bids, subject to the conditions specified in the provision prescribed in 14.201-6(v). Modifications received by facsimile shall be sealed in an envelope by a proper official.",
+          "sub": {
+            "1": {
+              "text": "The official shall–",
+              "sub": {
+                "i": {
+                  "text": "Write on the envelope–"
+                },
+                "A": {
+                  "text": "The date and time of receipt and by whom; and"
+                },
+                "B": {
+                  "text": "The number of invitation for bids; and"
+                },
+                "ii": {
+                  "text": "Sign the envelope."
+                }
+              }
+            },
+            "2": {
+              "text": "No information contained in the envelope shall be disclosed before the time set for bid opening."
+            }
+          }
+        },
+        "b": {
+          "text": "A bid may be withdrawn in person by a bidder or its authorized representative if, before the exact time set for opening of bids, the identity of the persons requesting withdrawal is established and that person signs a receipt for the bid."
+        },
+        "c": {
+          "text": "Upon withdrawal of an electronically transmitted bid, the data received shall not be viewed and shall be purged from primary and backup data storage systems."
+        }
+      }
+    },
+    "304": {
+      "number": 304,
+      "name": "Submission, modification, and withdrawal of bids.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The date and hour of receipt."
+        },
+        "2": {
+          "text": "A statement, with supporting rationale, regarding whether the bid was considered for award."
+        },
+        "3": {
+          "text": "The envelope, wrapper, or other evidence of the date of receipt."
+        },
+        "a": {
+          "text": "Bidders are responsible for submitting bids, and any modifications or withdrawals, so as to reach the Government office designated in the invitation for bid (IFB) by the time specified in the IFB. They may use any transmission method authorized by the IFB (i.e., regular mail, electronic commerce, or facsimile). If no time is specified in the IFB, the time for receipt is 4:30 p.m., local time, for the designated Government office on the date that bids are due."
+        },
+        "b": {
+          "text": "(1) Any bid, modification, or withdrawal of a bid received at the Government office designated in the IFB after the exact time specified for receipt of bids is “late” and will not be considered unless it is received before award is made, the contracting officer determines that accepting the late bid would not unduly delay the acquisition; and—",
+          "sub": {
+            "2": {
+              "text": "However, a late modification of an otherwise successful bid, that makes its terms more favorable to the Government, will be considered at any time it is received and may be accepted."
+            },
+            "i": {
+              "text": "If it was transmitted through an electronic commerce method authorized by the IFB, it was received at the initial point of entry to the Government infrastructure not later than 5:00 p.m. one working day prior to the date specified for receipt of bids; or"
+            },
+            "ii": {
+              "text": "There is acceptable evidence to establish that it was received at the Government installation designated for receipt of bids and was under the Government’s control prior to the time set for receipt of bids."
+            }
+          }
+        },
+        "c": {
+          "text": "Acceptable evidence to establish the time of receipt at the Government installation includes the time/date stamp of that installation on the bid wrapper, other documentary evidence of receipt maintained by the installation, or oral testimony or statements of Government personnel."
+        },
+        "d": {
+          "text": "If an emergency or unanticipated event interrupts normal Government processes so that bids cannot be received at the Government office designated for receipt of bids by the exact time specified in the IFB, and urgent Government requirements preclude amendment of the bid opening date, the time specified for receipt of bids will be deemed to be extended to the same time of day specified in the IFB on the first work day on which normal Government processes resume."
+        },
+        "e": {
+          "text": "Bids may be withdrawn by written notice received at any time before the exact time set for receipt of bids. If the IFB authorizes facsimile bids, bids may be withdrawn via facsimile received at any time before the exact time set for receipt of bids, subject to the conditions specified in the provision at 52.214-31, Facsimile Bids. A bid may be withdrawn in person by a bidder or its authorized representative if, before the exact time set for receipt of bids, the identity of the person requesting withdrawal is established and the person signs a receipt for the bid. Upon withdrawal of an electronically transmitted bid, the data received must not be viewed and, where practicable, must be purged from primary and backup data storage systems."
+        },
+        "f": {
+          "text": "The contracting officer must promptly notify any bidder if its bid, modification, or withdrawal was received late, and must inform the bidder whether its bid will be considered, unless contract award is imminent and the notices prescribed in 14.409 would suffice."
+        },
+        "g": {
+          "text": "Late bids and modifications that are not considered must be held unopened, unless opened for identification, until after award and then retained with other unsuccessful bids. However, any bid bond or guarantee must be returned."
+        },
+        "h": {
+          "text": "If available, the following must be included in the contract files for each late bid, modification, or withdrawal:"
+        }
+      }
+    }
+  }
+}

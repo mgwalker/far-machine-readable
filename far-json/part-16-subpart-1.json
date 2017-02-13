@@ -1,0 +1,128 @@
+{
+  "parentPart": 16,
+  "number": 1,
+  "name": "Selecting Contract Types",
+  "sub": {
+    "101": {
+      "number": 101,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "A wide selection of contract types is available to the Government and contractors in order to provide needed flexibility in acquiring the large variety and volume of supplies and services required by agencies. Contract types vary according to—",
+          "sub": {
+            "1": {
+              "text": "The degree and timing of the responsibility assumed by the contractor for the costs of performance; and"
+            },
+            "2": {
+              "text": "The amount and nature of the profit incentive offered to the contractor for achieving or exceeding specified standards or goals."
+            }
+          }
+        },
+        "b": {
+          "text": "The contract types are grouped into two broad categories: fixed-price contracts (see Subpart 16.2) and cost-reimbursement contracts (see Subpart 16.3). The specific contract types range from firm-fixed-price, in which the contractor has full responsibility for the performance costs and resulting profit (or loss), to cost-plus-fixed-fee, in which the contractor has minimal responsibility for the performance costs and the negotiated fee (profit) is fixed. In between are the various incentive contracts (see Subpart 16.4), in which the contractor’s responsibility for the performance costs and the profit or fee incentives offered are tailored to the uncertainties involved in contract performance."
+        }
+      }
+    },
+    "102": {
+      "number": 102,
+      "name": "Policies.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Contracts resulting from sealed bidding shall be firm-fixed-price contracts or fixed-price contracts with economic price adjustment."
+        },
+        "b": {
+          "text": "Contracts negotiated under Part 15 may be of any type or combination of types that will promote the Government’s interest, except as restricted in this part (see 10 U.S.C. 2306(a) and 41 U.S.C. 3901). Contract types not described in this regulation shall not be used, except as a deviation under Subpart 1.4."
+        },
+        "c": {
+          "text": "The cost-plus-a-percentage-of-cost system of contracting shall not be used (see 10 U.S.C. 2306(a) and 41 U.S.C. 3905(a)). Prime contracts (including letter contracts) other than firm-fixed-price contracts shall, by an appropriate clause, prohibit cost-plus-a-percentage-of-cost subcontracts (see clauses prescribed in Subpart 44.2 for cost-reimbursement contracts and Subparts 16.2 and 16.4 for fixed-price contracts)."
+        },
+        "d": {
+          "text": "No contract may be awarded before the execution of any determination and findings (D&F’s) required by this part. Minimum requirements for the content of D&F’s required by this part are specified in 1.704."
+        }
+      }
+    },
+    "103": {
+      "number": 103,
+      "name": "Negotiating contract type.",
+      "sub": {},
+      "text": {
+        "2": {
+          "text": "Exceptions to the requirements at (d)(1) of this section are"
+        },
+        "a": {
+          "text": "Selecting the contract type is generally a matter for negotiation and requires the exercise of sound judgment. Negotiating the contract type and negotiating prices are closely related and should be considered together. The objective is to negotiate a contract type and price (or estimated cost and fee) that will result in reasonable contractor risk and provide the contractor with the greatest incentive for efficient and economical performance."
+        },
+        "b": {
+          "text": "A firm-fixed-price contract, which best utilizes the basic profit motive of business enterprise, shall be used when the risk involved is minimal or can be predicted with an acceptable degree of certainty. However, when a reasonable basis for firm pricing does not exist, other contract types should be considered, and negotiations should be directed toward selecting a contract type (or combination of types) that will appropriately tie profit to contractor performance."
+        },
+        "c": {
+          "text": "In the course of an acquisition program, a series of contracts, or a single long-term contract, changing circumstances may make a different contract type appropriate in later periods than that used at the outset. In particular, contracting officers should avoid protracted use of a cost-reimbursement or time-and-materials contract after experience provides a basis for firmer pricing."
+        },
+        "d": {
+          "text": "(1) Each contract file shall include documentation to show why the particular contract type was selected. This shall be documented in the acquisition plan, or in the contract file if a written acquisition plan is not required by agency procedures."
+        },
+        "i": {
+          "text": "Fixed-price acquisitions made under simplified acquisition procedures;"
+        },
+        "ii": {
+          "text": "Contracts on a firm-fixed-price basis other than those for major systems or research and development; and"
+        },
+        "A": {
+          "text": "An analysis of why the use of other than a firm-fixed-price contract (e.g., cost reimbursement, time and materials, labor hour) is appropriate;"
+        },
+        "B": {
+          "text": "Rationale that detail the particular facts and circumstances (e.g., complexity of the requirements, uncertain duration of the work, contractor’s technical capability and financial responsibility, or adequacy of the contractor’s accounting system), and associated reasoning essential to support the contract type selection;"
+        },
+        "C": {
+          "text": "An assessment regarding the adequacy of Government resources that are necessary to properly plan for, award, and administer other than firm-fixed-price contracts; and"
+        },
+        "iii": {
+          "text": "Awards on the set-aside portion of sealed bid partial set-asides for small business."
+        },
+        "iv": {
+          "text": "For other than a firm-fixed price contract, at a minimum the documentation should include"
+        },
+        "D": {
+          "text": "A discussion of the actions planned to minimize the use of other than firm-fixed-price contracts on future acquisitions for the same requirement and to transition to firm-fixed-price contracts to the maximum extent practicable."
+        },
+        "v": {
+          "text": "A discussion of why a level-of-effort, price redetermination, or fee provision was included."
+        }
+      }
+    },
+    "104": {
+      "number": 104,
+      "name": "Factors in selecting contract types.",
+      "sub": {},
+      "text": {
+        "text": "There are many factors that the contracting officer should consider in selecting and negotiating the contract type. They include the following:\n\n(a) Price competition. Normally, effective price competition results in realistic pricing, and a fixed-price contract is ordinarily in the Government’s interest.\n\n(b) Price analysis. Price analysis, with or without competition, may provide a basis for selecting the contract type. The degree to which price analysis can provide a realistic pricing standard should be carefully considered. (See 15.404-1(b).)\n\n(c) Cost analysis. In the absence of effective price competition and if price analysis is not sufficient, the cost estimates of the offeror and the Government provide the bases for negotiating contract pricing arrangements. It is essential that the uncertainties involved in performance and their possible impact upon costs be identified and evaluated, so that a contract type that places a reasonable degree of cost responsibility upon the contractor can be negotiated.\n\n(d) Type and complexity of the requirement. Complex requirements, particularly those unique to the Government, usually result in greater risk assumption by the Government. This is especially true for complex research and development contracts, when performance uncertainties or the likelihood of changes makes it difficult to estimate performance costs in advance. As a requirement recurs or as quantity production begins, the cost risk should shift to the contractor, and a fixed-price contract should be considered.\n\n(e) Combining contract types.  If the entire contract cannot be firm-fixed-price, the contracting officer shall consider whether or not a portion of the contract can be established on a firm-fixed-price basis.\n\n(f) Urgency of the requirement. If urgency is a primary factor, the Government may choose to assume a greater proportion of risk or it may offer incentives tailored to performance outcomes to ensure timely contract performance.\n\n(g) Period of performance or length of production run. In times of economic uncertainty, contracts extending over a relatively long period may require economic price adjustment or price redetermination clauses.\n\n(h) Contractor’s technical capability and financial responsibility.\n\n(i) Adequacy of the contractor's accounting system.  Before agreeing on a contract type other than firm-fixed-price, the contracting officer shall ensure that the contractor’s accounting system will permit timely development of all necessary cost data in the form required by the proposed contract type.  This factor may be critical\n         \n−\n\n(1) When the contract type requires price revision while performance is in progress; or\n\n(2) When a cost-reimbursement contract is being considered and all current or past experience with the contractor has been on a fixed-price basis.  See 42.302(a)(12).\n\n(j) Concurrent contracts. If performance under the proposed contract involves concurrent operations under other contracts, the impact of those contracts, including their pricing arrangements, should be considered.\n\n(k) Extent and nature of proposed subcontracting. If the contractor proposes extensive subcontracting, a contract type reflecting the actual risks to the prime contractor should be selected.\n\n(l) Acquisition history. Contractor risk usually decreases as the requirement is repetitively acquired. Also, product descriptions or descriptions of services to be performed can be defined more clearly."
+      }
+    },
+    "105": {
+      "number": 105,
+      "name": "Solicitation provision.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall complete and insert the provision at 52.216-1, Type of Contract, in a solicitation unless it is for—\n\n(a) A fixed-price acquisition made under simplified acquisition procedures; or\n\n(b) Information or planning purposes."
+      }
+    },
+    "000": {
+      "number": 0,
+      "name": "Scope of part.",
+      "sub": {},
+      "text": {
+        "text": "This part describes types of contracts that may be used in acquisitions. It prescribes policies and procedures and provides guidance for selecting a contract type appropriate to the circumstances of the acquisition."
+      }
+    },
+    "001": {
+      "number": 1,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this part—\n\nAward-Fee Board means the team of individuals identified in the award-fee plan who have been designated to assist the Fee-Determining Official in making award-fee determinations.\n\nFee-Determining Official (FDO) means the designated Agency official(s) who reviews the recommendations of the Award-Fee Board in determining the amount of award fee to be earned by the contractor for each evaluation period.\n\nRollover of unearned award fee means the process of transferring unearned award fee, which the contractor had an opportunity to earn, from one evaluation period to a subsequent evaluation period, thus allowing the contractor an additional opportunity to earn that previously unearned award fee."
+      }
+    }
+  }
+}

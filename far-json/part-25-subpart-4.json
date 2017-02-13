@@ -1,0 +1,235 @@
+{
+  "parentPart": 25,
+  "number": 4,
+  "name": "Trade Agreements",
+  "sub": {
+    "400": {
+      "number": 400,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "This subpart provides policies and procedures applicable to acquisitions that are covered by—",
+          "sub": {
+            "1": {
+              "text": "The World Trade Organization Government Procurement Agreement (WTO GPA), as approved by Congress in the Uruguay Round Agreements Act (Public Law 103-465);"
+            },
+            "2": {
+              "text": "Free Trade Agreements (FTA), consisting of—",
+              "sub": {
+                "i": {
+                  "text": "NAFTA (the North American Free Trade Agreement, as approved by Congress in the North American Free Trade Agreement Implementation Act of 1993 (Pub. L. 103-182) (19 U.S.C. 3301 note));"
+                },
+                "ii": {
+                  "text": "Chile FTA (the United States-Chile Free Trade Agreement, as approved by Congress in the United States-Chile Free Trade Agreement Implementation Act of 1993 (Pub. L. 108-77) (19 U.S.C. 3805 note));"
+                },
+                "iii": {
+                  "text": "Singapore FTA (the United States-Singapore Free Trade Agreement, as approved by Congress in the United States-Singapore Free Trade Agreement Implementation Act (Pub. L. 108-78) (19 U.S.C. 3805 note));"
+                },
+                "iv": {
+                  "text": "Australia FTA (the United States-Australia Free Trade Agreement, as approved by Congress in the United States-Australia Free Trade Agreement Implementation Act (Pub. L. 108-286) (19 U.S.C. 3805 note));"
+                },
+                "v": {
+                  "text": "Morocco FTA (The United States-Morocco Free Trade Agreement, as approved by Congress in the United States-Morocco Free Trade Agreement Implementation Act (Pub. L. 108-302) (19 U.S.C. 3805 note));"
+                },
+                "vi": {
+                  "text": "CAFTA-DR  (The Dominican Republic-Central America-United States Free Trade Agreement, as approved by Congress in the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act (Pub. L. 109-53) (19 U.S.C. 4001 note));"
+                },
+                "vii": {
+                  "text": "Bahrain FTA (the United States-Bahrain Free Trade Agreement, as approved by Congress in the United States-Bahrain Free Trade Agreement Implementation Act (Pub. L. 109-169) (19 U.S.C. 3805 note));"
+                },
+                "viii": {
+                  "text": "Oman FTA (the United States-Oman Free Trade Agreement, as approved by Congress in the United States-Oman Free Trade Agreement Implementation Act (Pub. L. 109-283) (19 U.S.C. 3805 note));"
+                },
+                "ix": {
+                  "text": "Peru FTA (the United States-Peru Trade Promotion Agreement, as approved by Congress in the United States-Peru Trade Promotion Agreement Implementation Act (Pub. L. 110-138) (19 U.S.C. 3805 note));"
+                },
+                "x": {
+                  "text": "Korea FTA (the United States–Korea Free Trade Agreement Implementation Act (Pub. L. 112-41) (19 U.S.C. 3805));"
+                },
+                "xi": {
+                  "text": "Colombia FTA (the United States–Colombia Trade Promotion Agreement Implementation Act (Pub. L. 112-42) (19 U.S.C. 3805 note)); and"
+                },
+                "xii": {
+                  "text": "Panama FTA (the United States-Panama Trade Promotion Agreement Implementation Act (Pub. L. 112-43) (19 U.S.C. 3805 note));"
+                }
+              }
+            },
+            "3": {
+              "text": "The least developed country designation made by the U.S. Trade Representative, pursuant to the Trade Agreements Act (19 U.S.C. 2511(b)(4)), in acquisitions covered by the WTO GPA;"
+            },
+            "4": {
+              "text": "The Caribbean Basin Trade Initiative (CBTI) (determination of the U.S. Trade Representative that end products or construction material granted duty-free entry from countries designated as beneficiaries under the Caribbean Basin Economic Recovery Act (19 U.S.C. 2701, et seq.), with the exception of Panama, must be treated as eligible products in acquisitions covered by the WTO GPA);"
+            },
+            "5": {
+              "text": "The Israeli Trade Act (the U.S.-Israel Free Trade Area Agreement, as approved by Congress in the United States-Israel Free Trade Area Implementation Act of 1985 (19 U.S.C. 2112 note)); or"
+            },
+            "6": {
+              "text": "The Agreement on Trade in Civil Aircraft (U.S. Trade Representative waiver of the Buy American statute for signatories of the Agreement on Trade in Civil Aircraft, as implemented in the Trade Agreements Act of 1979 (19 U.S.C. 2513))."
+            }
+          }
+        },
+        "b": {
+          "text": "For application of the trade agreements that are unique to individual agencies, see agency regulations."
+        }
+      }
+    },
+    "401": {
+      "number": 401,
+      "name": "Exceptions.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "This subpart does not apply to—",
+          "sub": {
+            "1": {
+              "text": "Acquisitions set aside for small businesses;"
+            },
+            "2": {
+              "text": "Acquisitions of arms, ammunition, or war materials, or purchases indispensable for national security or for national defense purposes;"
+            },
+            "3": {
+              "text": "Acquisitions of end products for resale;"
+            },
+            "4": {
+              "text": "Acquisitions from Federal Prison Industries, Inc., under subpart 8.6, and acquisitions under subpart 8.7, Acquisition from Nonprofit Agencies Employing People Who Are Blind or Severely Disabled; and"
+            },
+            "5": {
+              "text": "Other acquisitions not using full and open competition, if authorized by subpart 6.2 or 6.3, when the limitation of competition would preclude use of the procedures of this subpart; or sole source acquisitions justified in accordance with 13.501(a)."
+            }
+          }
+        },
+        "b": {
+          "text": "In the World Trade Organization Government Procurement Agreement (WTO GPA) and each FTA, there is a U.S. schedule that lists services that are excluded from that agreement in acquisitions by the United States. Acquisitions of the following services are excluded from coverage by the U.S. schedule of the WTO GPA or an FTA as indicated in this table:\n\n\n\n"
+        }
+      }
+    },
+    "402": {
+      "number": 402,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "(1) The Trade Agreements Act (19 U.S.C. 2501, et seq.) provides the authority for the President to waive the Buy American statute and other discriminatory provisions for eligible products from countries that have signed an international trade agreement with the United States, or that meet certain other criteria, such as being a least developed country. The President has delegated this waiver authority to the U.S. Trade Representative. In acquisitions covered by the WTO GPA, Free Trade Agreements, or the Israeli Trade Act, the U.S. Trade Representative has waived the Buy American statute and other discriminatory provisions for eligible products. Offers of eligible products receive equal consideration with domestic offers.",
+          "sub": {
+            "2": {
+              "text": "The contracting officer shall determine the origin of services by the country in which the firm providing the services is established. See subpart 25.5 for evaluation procedures for supply contracts covered by trade agreements."
+            }
+          }
+        },
+        "b": {
+          "text": "The value of the acquisition is a determining factor in the applicability of trade agreements. Most of these dollar thresholds are subject to revision by the U.S. Trade Representative approximately every 2 years. The various thresholds are summarized as follows:"
+        }
+      }
+    },
+    "403": {
+      "number": 403,
+      "name": "World Trade Organization Government Procurement Agreement and Free Trade Agreements.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Under the Trade Agreements Act (19 U.S.C. 2512), in acquisitions covered by the WTO GPA, acquire only U.S.-made or designated country end products or U.S. or designated country services, unless offers for such end products or services are either not received or are insufficient to fulfill the requirements. This purchase restriction does not apply below the WTO GPA threshold for supplies and services, even if the acquisition is covered by an FTA."
+        },
+        "2": {
+          "text": "This restriction does not apply to purchases of supplies by the Department of Defense from a country with which it has entered into a reciprocal agreement, as provided in departmental regulations."
+        },
+        "a": {
+          "text": "Eligible products from WTO GPA and FTA countries are entitled to the nondiscriminatory treatment specified in 25.402(a)(1). The WTO GPA and FTAs specify procurement procedures designed to ensure fairness (see 25.408)."
+        },
+        "b": {
+          "text": "Thresholds.",
+          "sub": {
+            "1": {
+              "text": "To determine whether the acquisition of products by lease, rental, or lease-purchase contract (including lease-to-ownership, or lease-with-option-to purchase) is covered by the WTO GPA or an FTA, calculate the estimated acquisition value as follows:",
+              "sub": {
+                "i": {
+                  "text": "If a fixed-term contract of 12 months or less is contemplated, use the total estimated value of the acquisition."
+                },
+                "ii": {
+                  "text": "If a fixed-term contract of more than 12 months is contemplated, use the total estimated value of the acquisition plus the estimated residual value of the leased equipment at the conclusion of the contemplated term of the contract."
+                },
+                "iii": {
+                  "text": "If an indefinite-term contract is contemplated, use the estimated monthly payment multiplied by the total number of months that ordering would be possible under the proposed contract, i.e., the initial ordering period plus any optional ordering periods."
+                },
+                "iv": {
+                  "text": "If there is any doubt as to the contemplated term of the contract, use the estimated monthly payment multiplied by 48."
+                }
+              }
+            },
+            "2": {
+              "text": "The estimated value includes the value of all options."
+            },
+            "3": {
+              "text": "If, in any 12-month period, recurring or multiple awards for the same type of product or products are anticipated, use the total estimated value of these projected awards to determine whether the WTO GPA or an FTA applies. Do not divide any acquisition with the intent of reducing the estimated value of the acquisition below the dollar threshold of the WTO GPA or an FTA."
+            }
+          }
+        },
+        "c": {
+          "text": "Purchase restriction."
+        }
+      }
+    },
+    "404": {
+      "number": 404,
+      "name": "Least developed countries.",
+      "sub": {},
+      "text": {
+        "text": "For acquisitions covered by the WTO GPA, least developed country end products, construction material, and services must be treated as eligible products."
+      }
+    },
+    "405": {
+      "number": 405,
+      "name": "Caribbean Basin Trade Initiative.",
+      "sub": {},
+      "text": {
+        "text": "Under the Caribbean Basin Trade Initiative, the United States Trade Representative has determined that, for acquisitions covered by the WTO GPA, Caribbean Basin country end products, construction material, and services must be treated as eligible products. In accordance with Section 201 (a)(3) of the Dominican Republic-Central America-United States Free Trade Implementation Act (Pub. L. 109-53) (19 U.S.C. 4031), when the CAFTA-DR agreement enters into force with respect to a country, that country is no longer designated as a beneficiary country for purposes of the Caribbean Basin Economic Recovery Act, and is therefore no longer included in the definition of “Caribbean Basin country” for purposes of the Caribbean Basin Trade Initiative."
+      }
+    },
+    "406": {
+      "number": 406,
+      "name": "Israeli Trade Act.",
+      "sub": {},
+      "text": {
+        "text": "Acquisitions of supplies by most agencies are covered by the Israeli Trade Act, if the estimated value of the acquisition is $50,000 or more but does not exceed the WTO GPA threshold for supplies (see 25.402(b)). Agencies other than the Department of Defense, the Department of Energy, the Department of Transportation, the Bureau of Reclamation of the Department of the Interior, the Federal Housing Finance Board, and the Office of Thrift Supervision must evaluate offers of Israeli end products without regard to the restrictions of the Buy American statute. The Israeli Trade Act does not prohibit the purchase of other foreign end products."
+      }
+    },
+    "407": {
+      "number": 407,
+      "name": "Agreement on Trade in Civil Aircraft.",
+      "sub": {},
+      "text": {
+        "text": "Under the authority of Section 303 of the Trade Agreements Act, the U.S. Trade Representative has waived the Buy American statute for civil aircraft and related articles that meet the substantial transformation test of the Trade Agreements Act, from countries that are parties to the Agreement on Trade in Civil Aircraft. Those countries are Albania, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Ireland, Italy, Japan, Latvia, Lithuania, Luxembourg, Macao China, Malta, Montenegro, the Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Taiwan (Chinese Taipei), and the United Kingdom."
+      }
+    },
+    "408": {
+      "number": 408,
+      "name": "Procedures.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "If the WTO GPA or an FTA applies (see 25.401), the contracting officer must—",
+          "sub": {
+            "1": {
+              "text": "Comply with the requirements of 5.203, Publicizing and response time;"
+            },
+            "2": {
+              "text": "Comply with the requirements of 5.207, Preparation and transmittal of synopses;"
+            },
+            "3": {
+              "text": "Not include technical requirements in solicitations solely to preclude the acquisition of eligible products;"
+            },
+            "4": {
+              "text": "Specify in solicitations that offerors must submit offers in the English language and in U.S. dollars (see 52.214-34, Submission of Offers in the English Language, and 52.214-35, Submission of Offers in U.S. Currency, or paragraph (c)(5) of 52.215-1, Instruction to Offerors—Competitive Acquisitions); and"
+            },
+            "5": {
+              "text": "Provide unsuccessful offerors from WTO GPA or FTA countries notice in accordance with 14.409-1 or 15.503."
+            }
+          }
+        },
+        "b": {
+          "text": "See subpart 25.5 for evaluation procedures and examples."
+        }
+      }
+    }
+  }
+}

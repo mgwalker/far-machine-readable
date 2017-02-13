@@ -1,0 +1,85 @@
+{
+  "parentPart": 1,
+  "number": 3,
+  "name": "Agency Acquisition Regulations",
+  "sub": {
+    "301": {
+      "number": 301,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The military departments and defense agencies, issued subject to the authority of the Secretary of Defense;"
+        },
+        "2": {
+          "text": "NASA activities, issued subject to the authorities of the Administrator of NASA; and"
+        },
+        "3": {
+          "text": "The civilian agencies other than NASA, issued by the heads of those agencies subject to the overall authority of the Administrator of General Services or independent authority the agency may have."
+        },
+        "a": {
+          "text": "(1) Subject to the authorities in paragraph (c) of this section and other statutory authority, an agency head may issue or authorize the issuance of agency acquisition regulations that implement or supplement the FAR and incorporate, together with the FAR, agency policies, procedures, contract clauses, solicitation provisions, and forms that govern the contracting process or otherwise control the relationship between the agency, including any of its suborganizations, and contractors or prospective contractors.",
+          "sub": {
+            "2": {
+              "text": "Subject to the authorities in paragraph (c) of this section and other statutory authority, an agency head may issue or authorize the issuance of internal agency guidance at any organizational level (e.g., designations and delegations of authority, assignments of responsibilities, work-flow procedures, and internal reporting requirements)."
+            }
+          }
+        },
+        "b": {
+          "text": "Agency heads shall establish procedures to ensure that agency acquisition regulations are published for comment in the Federal Register in conformance with the procedures in subpart 1.5 and as required by 41 U.S.C. 1707, and other applicable statutes, when they have a significant effect beyond the internal operating procedures of the agency or have a significant cost or administrative impact on contractors or offerors. However, publication is not required for issuances that merely implement or supplement higher level issuances that have previously undergone the public comment process, unless such implementation or supplementation results in an additional significant cost or administrative impact on contractors or offerors or effect beyond the internal operating procedures of the issuing organization. Issuances under 1.301(a)(2) need not be publicized for public comment."
+        },
+        "c": {
+          "text": "When adopting acquisition regulations, agencies shall ensure that they comply with the Paperwork Reduction Act (44 U.S.C. 3501, et seq.) as implemented in 5 CFR 1320 (see 1.106) and the Regulatory Flexibility Act (5 U.S.C. 601, et seq.). Normally, when a law requires publication of a proposed regulation, the Regulatory Flexibility Act applies and agencies must prepare written analyses, or certifications as provided in the law."
+        },
+        "d": {
+          "text": "Agency acquisition regulations implementing or supplementing the FAR are, for—"
+        }
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "Limitations.",
+      "sub": {},
+      "text": {
+        "text": "Agency acquisition regulations shall be limited to—\n\n(a) Those necessary to implement FAR policies and procedures within the agency; and\n\n(b) Additional policies, procedures, solicitation provisions, or contract clauses that supplement the FAR to satisfy the specific needs of the agency."
+      }
+    },
+    "303": {
+      "number": 303,
+      "name": "Publication and codification.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Agency-wide acquisition regulations shall be published in the Federal Register as required by law, shall be codified under an assigned chapter in Title 48, Code of Federal Regulations, and shall parallel the FAR in format, arrangement, and numbering system (but see 1.105-1(c)). Coverage in an agency acquisition regulation that implements a specific part, subpart, section, or subsection of the FAR shall be numbered and titled to correspond to the appropriate FAR number and title. Supplementary material for which there is no counterpart in the FAR shall be codified using chapter, part, subpart, section, or subsection numbers of 70 and up (e.g., for the Department of Interior, whose assigned chapter number in Title 48 is 14, Part 1470, Subpart 1401.70, section 1401.370, or subsection 1401.301-70)."
+        },
+        "b": {
+          "text": "Issuances under 1.301(a)(2) need not be published in the Federal Register."
+        }
+      }
+    },
+    "304": {
+      "number": 304,
+      "name": "Agency control and compliance procedures.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Under the authorities of 1.301(d), agencies shall control and limit issuance of agency acquisition regulations and, in particular, local agency directives that restrain the flexibilities found in the FAR, and shall establish formal procedures for the review of these documents to assure compliance with this Part 1."
+        },
+        "b": {
+          "text": "Agency acquisition regulations shall not—",
+          "sub": {
+            "1": {
+              "text": "Unnecessarily repeat, paraphrase, or otherwise restate material contained in the FAR or higher-level agency acquisition regulations; or"
+            },
+            "2": {
+              "text": "Except as required by law or as provided in subpart 1.4, conflict or be inconsistent with FAR content."
+            }
+          }
+        },
+        "c": {
+          "text": "Agencies shall evaluate all regulatory coverage in agency acquisition regulations to determine if it could apply to other agencies. Coverage that is not peculiar to one agency shall be recommended for inclusion in the FAR."
+        }
+      }
+    }
+  }
+}

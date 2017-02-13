@@ -1,0 +1,50 @@
+{
+  "parentPart": 36,
+  "number": 7,
+  "name": "Standard and Optional Forms for Contracting for Construction, Architect-Engineer Services, and Dismantling, Demolition, or Removal of Improvements",
+  "sub": {
+    "700": {
+      "number": 700,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart sets forth requirements for the use of standard and optional forms, prescribed in Part 53, for contracting for construction, architect-engineer services, or dismantling, demolition, or removal of improvements. These standard and optional forms are illustrated in Part 53."
+      }
+    },
+    "701": {
+      "number": 701,
+      "name": "Standard and optional forms for use in contracting for construction or dismantling, demolition, or removal of improvements.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Standard Form 1442, Solicitation, Offer, and Award (Construction, Alteration, or Repair), shall be used to solicit and submit offers, and award construction or dismantling, demolition, or removal of improvements contracts expected to exceed the simplified acquisition thresholds, and may be used for contracts at or below the simplified acquisition threshold. In all sealed bid solicitations, or when the Government otherwise requires a noncancellable offer acceptance period, the contracting officer shall insert in the blank provided in Block 13D the number of calendar days that the offer must be available for acceptance after the date offers are due."
+        },
+        "b": {
+          "text": "Optional Form 347, Order for Supplies or Services, may be used for construction or dismantling, demolition, or removal of improvements contracts that are at or below the simplified acquisition threshold; provided, that the contracting officer includes the clauses required (see Subpart 36.5) in the simplified acquisitions (see Part 13)."
+        },
+        "c": {
+          "text": "Contracting officers may use Optional Form 1419, Abstract of Offers—Construction, and Optional Form 1419A, Abstract of Offers—Construction, Continuation Sheet, or the automated equivalent, to record offers submitted in response to a sealed bid solicitation (see 14.403) and may also use it to record offers submitted in response to negotiated solicitations.\n\n\n\n"
+        }
+      }
+    },
+    "702": {
+      "number": 702,
+      "name": "Forms for use in contracting for architect-engineer services.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Use the SF 330, Part I—Contract-Specific Qualifications, to obtain information from an architect-engineer firm about its qualifications for a specific contract when the contract amount is expected to exceed the simplified acquisition threshold. Part I may be used when the contract amount is expected to be at or below the simplified acquisition threshold, if the contracting officer determines that its use is appropriate."
+        },
+        "2": {
+          "text": "Use the SF 330, Part II—General Qualifications, to obtain information from an architect-engineer firm about its general professional qualifications.\n\n\n\n"
+        },
+        "a": {
+          "text": "Contracting officers must use Standard Form 252, Architect-Engineer Contract, to award fixed-price contracts for architect-engineer services when the services will be performed in the United States or its outlying areas."
+        },
+        "b": {
+          "text": "The SF 330, Architect-Engineer Qualifications, shall be used to evaluate firms before awarding a contract for architect-engineer services:\n\n"
+        }
+      }
+    }
+  }
+}

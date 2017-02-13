@@ -1,0 +1,87 @@
+{
+  "parentPart": 13,
+  "number": 2,
+  "name": "Actions At or Below the Micro-Purchase Threshold",
+  "sub": {
+    "201": {
+      "number": 201,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Agency heads are encouraged to delegate micro-purchase authority (see 1.603-3)."
+        },
+        "b": {
+          "text": "The Governmentwide commercial purchase card shall be the preferred method to purchase and to pay for micro-purchases (see 2.101)."
+        },
+        "c": {
+          "text": "Purchases at or below the micro-purchase threshold may be conducted using any of the methods described in Subpart 13.3, provided the purchaser is authorized and trained, pursuant to agency procedures, to use those methods."
+        },
+        "d": {
+          "text": "Micro-purchases do not require provisions or clauses, except as provided at 13.202 and 32.1110. This paragraph takes precedence over any other FAR requirement to the contrary, but does not prohibit the use of any clause."
+        },
+        "e": {
+          "text": "The requirements in Part 8 apply to purchases at or below the micro-purchase threshold."
+        },
+        "f": {
+          "text": "The procurement requirements in subparts 23.1, 23.2, 23.4, and 23.7 apply to purchases at or below the micro-purchase threshold."
+        },
+        "g": {
+          "text": "(1) For acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation or to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack, the micro-purchase threshold is —",
+          "sub": {
+            "2": {
+              "text": "Purchases using this authority must have a clear and direct relationship to the support of a contingency operation or the defense against or recovery from nuclear, biological, chemical, or radiological attack."
+            },
+            "i": {
+              "text": "$20,000 in the case of any contract to be awarded and performed, or purchase to be made, inside the United States; and"
+            },
+            "ii": {
+              "text": "$30,000 in the case of any contract to be awarded and performed, or purchase to be made, outside the United States."
+            }
+          }
+        },
+        "h": {
+          "text": "When using the Governmentwide commercial purchase card as a method of payment, purchases at or below the micro-purchase threshold are exempt from verification in the System for Award Management database as to whether the contractor has a delinquent debt subject to collection under the Treasury Offset Program (TOP)."
+        }
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Unenforceability of unauthorized obligations in micro-purchases.",
+      "sub": {},
+      "text": {
+        "text": "Many supplies or services are acquired subject to supplier license agreements.  These are particularly common in information technology acquisitions, but they may apply to any supply or service.  For example, computer software and services delivered through the internet (web services) are often subject to license agreements, referred to as End User License Agreements (EULA), Terms of Service (TOS), or other similar legal instruments or agreements.  Many of these agreements contain indemnification clauses that are inconsistent with Federal law and unenforceable, but which could create a violation of the Anti-Deficiency Act (31 U.S.C.  1341) if agreed to by the Government. The clause at 52.232-39, Unenforceability of Unauthorized Obligations, automatically applies to any micro-purchase, including those made with the Governmentwide purchase card. This clause prevents such violations of the Anti-Deficiency Act (31 U.S.C. 1341)."
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Purchase guidelines.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Solicitation, evaluation of quotations, and award.",
+          "sub": {
+            "1": {
+              "text": "To the extent practicable, micro-purchases shall be distributed equitably among qualified suppliers."
+            },
+            "2": {
+              "text": "Micro-purchases may be awarded without soliciting competitive quotations if the contracting officer or individual appointed in accordance with 1.603-3(b) considers the price to be reasonable."
+            },
+            "3": {
+              "text": "The administrative cost of verifying the reasonableness of the price for purchases may more than offset potential savings from detecting instances of overpricing. Therefore, action to verify price reasonableness need only be taken if—"
+            },
+            "i": {
+              "text": "The contracting officer or individual appointed in accordance with 1.603-3(b) suspects or has information to indicate that the price may not be reasonable (e.g., comparison to the previous price paid or personal knowledge of the supply or service); or"
+            },
+            "ii": {
+              "text": "Purchasing a supply or service for which no comparable pricing information is readily available (e.g., a supply or service that is not the same as, or is not similar to, other supplies or services that have recently been purchased on a competitive basis)."
+            }
+          }
+        },
+        "b": {
+          "text": "Documentation. If competitive quotations were solicited and award was made to other than the low quoter, documentation to support the purchase may be limited to identification of the solicited concerns and an explanation for the award decision."
+        }
+      }
+    }
+  }
+}

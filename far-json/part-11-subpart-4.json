@@ -1,0 +1,154 @@
+{
+  "parentPart": 11,
+  "number": 4,
+  "name": "Delivery or Performance Schedules",
+  "sub": {
+    "401": {
+      "number": 401,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The time of delivery or performance is an essential contract element and shall be clearly stated in solicitations. Contracting officers shall ensure that delivery or performance schedules are realistic and meet the requirements of the acquisition. Schedules that are unnecessarily short or difficult to attain—",
+          "sub": {
+            "1": {
+              "text": "Tend to restrict competition,"
+            },
+            "2": {
+              "text": "Are inconsistent with small business policies, and"
+            },
+            "3": {
+              "text": "May result in higher contract prices."
+            }
+          }
+        },
+        "b": {
+          "text": "Solicitations shall, except when clearly unnecessary, inform bidders or offerors of the basis on which their bids or proposals will be evaluated with respect to time of delivery or performance."
+        },
+        "c": {
+          "text": "If timely delivery or performance is unusually important to the Government, liquidated damages clauses may be used (see Subpart 11.5)."
+        }
+      }
+    },
+    "402": {
+      "number": 402,
+      "name": "Factors to consider in establishing schedules.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Nature and complexity of the project;"
+        },
+        "2": {
+          "text": "Construction seasons involved;"
+        },
+        "3": {
+          "text": "Required completion date;"
+        },
+        "4": {
+          "text": "Availability of materials and equipment;"
+        },
+        "5": {
+          "text": "Capacity of the contractor to perform; and"
+        },
+        "6": {
+          "text": "Use of multiple completion dates. (In any given contract, separate completion dates may be established for separable items of work. When multiple completion dates are used, requests for extension of time must be evaluated with respect to each item, and the affected completion dates modified when appropriate.)"
+        },
+        "a": {
+          "text": "Supplies or services. When establishing a contract delivery or performance schedule, consideration shall be given to applicable factors such as the—",
+          "sub": {
+            "1": {
+              "text": "Urgency of need;"
+            },
+            "2": {
+              "text": "Industry practices;"
+            },
+            "3": {
+              "text": "Market conditions;"
+            },
+            "4": {
+              "text": "Transportation time;"
+            },
+            "5": {
+              "text": "Production time;"
+            },
+            "6": {
+              "text": "Capabilities of small business concerns;"
+            },
+            "7": {
+              "text": "Administrative time for obtaining and evaluating offers and for awarding contracts;"
+            },
+            "8": {
+              "text": "Time for contractors to comply with any conditions precedent to contract performance; and"
+            },
+            "9": {
+              "text": "Time for the Government to perform its obligations under the contract; e.g., furnishing Government property."
+            }
+          }
+        },
+        "b": {
+          "text": "Construction. When scheduling the time for completion of a construction contract, the contracting officer shall consider applicable factors such as the—"
+        }
+      }
+    },
+    "403": {
+      "number": 403,
+      "name": "Supplies or services.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer may express contract delivery or performance schedules in terms of—",
+          "sub": {
+            "1": {
+              "text": "Specific calendar dates;"
+            },
+            "2": {
+              "text": "Specific periods from the date of the contract; i.e., from the date of award or acceptance by the Government, or from the date shown as the effective date of the contract;"
+            },
+            "3": {
+              "text": "Specific periods from the date of receipt by the contractor of the notice of award or acceptance by the Government (including notice by receipt of contract document executed by the Government); or"
+            },
+            "4": {
+              "text": "Specific time for delivery after receipt by the contractor of each individual order issued under the contract, as in indefinite delivery type contracts and GSA schedules."
+            }
+          }
+        },
+        "b": {
+          "text": "The time specified for contract performance should not be curtailed to the prejudice of the contractor because of delay by the Government in giving notice of award."
+        },
+        "c": {
+          "text": "If the delivery schedule is based on the date of the contract, the contracting officer shall mail or otherwise furnish to the contractor the contract, notice of award, acceptance of proposal, or other contract document not later than the date of the contract."
+        },
+        "d": {
+          "text": "If the delivery schedule is based on the date the contractor receives the notice of award, or if the delivery schedule is expressed in terms of specific calendar dates on the assumption that the notice of award will be received by a specified date, the contracting officer shall send the contract, notice of award, acceptance of proposal, or other contract document by certified mail, return receipt requested, or by any other method that will provide evidence of the date of receipt."
+        },
+        "e": {
+          "text": "In invitations for bids, if the delivery schedule is based on the date of the contract, and a bid offers delivery based on the date the contractor receives the contract or notice of award, the contracting officer shall evaluate the bid by adding 5 calendar days (as representing the normal time for arrival through ordinary mail). If the contract or notice of award will be transmitted electronically, (1) the solicitation shall so state; and (2) the contracting officer shall evaluate delivery schedule based on the date of contract receipt or notice of award, by adding one working day. (The term “working day” excludes weekends and U.S. Federal holidays.) If the offered delivery date computed with mailing or transmittal time is later than the delivery date required by the invitation for bids, the bid shall be considered nonresponsive and rejected. If award is made, the delivery date will be the number of days offered in the bid after the contractor actually receives the notice of award."
+        }
+      }
+    },
+    "404": {
+      "number": 404,
+      "name": "Contract clauses.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Supplies or services.",
+          "sub": {
+            "1": {
+              "text": "The contracting officer may use a time of delivery clause to set forth a required delivery schedule and to allow an offeror to propose an alternative delivery schedule. The clauses and their alternates may be used in solicitations and contracts for other than construction and architect-engineering substantially as shown, or they may be changed or new clauses written."
+            },
+            "2": {
+              "text": "The contracting officer may insert in solicitations and contracts other than those for construction and architect-engineering, a clause substantially the same as the clause at 52.211-8, Time of Delivery, if the Government requires delivery by a particular time and the delivery schedule is to be based on the date of the contract. If the delivery schedule is expressed in terms of specific calendar dates or specific periods and is based on an assumed date of award, the contracting officer may use the clause with its Alternate I. If the delivery schedule is expressed in terms of specific calendar dates or specific periods and is based on an assumed date the contractor will receive notice of award, the contracting officer may use the clause with its Alternate II. If the delivery schedule is to be based on the actual date the contractor receives a written notice of award, the contracting officer may use the clause with its Alternate III."
+            },
+            "3": {
+              "text": "The contracting officer may insert in solicitations and contracts other than those for construction and architect-engineering, a clause substantially the same as the clause at 52.211-9, Desired and Required Time of Delivery, if the Government desires delivery by a certain time but requires delivery by a specified later time, and the delivery schedule is to be based on the date of the contract. If the delivery schedule is expressed in terms of specific calendar dates or specific periods and is based on an assumed date of award, the contracting officer may use the clause with its Alternate I. If the delivery schedule is expressed in terms of specific calendar dates or specific periods and is based on an assumed date the contractor will receive notice of award, the contracting officer may use the clause with its Alternate II. If the delivery schedule is to be based on the actual date the contractor receives a written notice of award, the contracting officer may use the clause with its Alternate III."
+            }
+          }
+        },
+        "b": {
+          "text": "Construction. The contracting officer shall insert the clause at 52.211-10, Commencement, Prosecution, and Completion of Work, in solicitations and contracts when a fixed-price construction contract is contemplated. The clause may be changed to accommodate the issuance of orders under indefinite-delivery contracts. If the completion date is expressed as a specific calendar date, computed on the basis of the contractor receiving the notice to proceed by a certain day, the contracting officer may use the clause with its Alternate I."
+        }
+      }
+    }
+  }
+}

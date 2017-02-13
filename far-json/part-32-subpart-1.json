@@ -1,0 +1,672 @@
+{
+  "parentPart": 32,
+  "number": 1,
+  "name": "Non-Commercial Item Purchase Financing",
+  "sub": {
+    "100": {
+      "number": 100,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart provides policies and procedures applicable to contract financing and payment for any purchases other than purchases of commercial items in accordance with Part 12."
+      }
+    },
+    "101": {
+      "number": 101,
+      "name": "Authority.",
+      "sub": {},
+      "text": {
+        "text": "The basic authority for the contract financing described in this part is contained in 41 U.S.C. chapter 45, Contract Financing, 10 U.S.C. 2307, and Title III of the Defense Production Act of l950 (50 U.S.C. App. 2091)."
+      }
+    },
+    "102": {
+      "number": 102,
+      "name": "Description of contract financing methods.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Performance measured by objective, quantifiable methods;"
+        },
+        "2": {
+          "text": "Accomplishment of defined events; or"
+        },
+        "3": {
+          "text": "Other quantifiable measures of results."
+        },
+        "a": {
+          "text": "Advance payments are advances of money by the Government to a prime contractor before, in anticipation of, and for the purpose of complete performance under one or more contracts. They are expected to be liquidated from payments due to the contractor incident to performance of the contracts. Since they are not measured by performance, they differ from partial, progress, or other payments based on the performance or partial performance of a contract. Advance payments may be made to prime contractors for the purpose of making advances to subcontractors."
+        },
+        "b": {
+          "text": "Progress payments based on costs are made on the basis of costs incurred by the contractor as work progresses under the contract. This form of contract financing does not include—",
+          "sub": {
+            "1": {
+              "text": "Payments based on the percentage or stage of completion accomplished;"
+            },
+            "2": {
+              "text": "Payments for partial deliveries accepted by the Government;"
+            },
+            "3": {
+              "text": "Partial payments for a contract termination proposal; or"
+            },
+            "4": {
+              "text": "Performance-based payments."
+            }
+          }
+        },
+        "c": {
+          "text": "Loan guarantees are made by Federal Reserve banks, on behalf of designated guaranteeing agencies, to enable contractors to obtain financing from private sources under contracts for the acquisition of supplies or services for the national defense."
+        },
+        "d": {
+          "text": "Payments for accepted supplies and services that are only a part of the contract requirements (i.e., partial deliveries) are authorized under 41 U.S.C. chapter 45 and 10 U.S.C. 2307. In accordance with 5 CFR 1315.4(k), agencies must pay for partial delivery of supplies or partial performance of services unless specifically prohibited by the contract. Although payments for partial deliveries generally are treated as a method of payment and not as a method of contract financing, using partial delivery payments can assist contractors to participate in contracts without, or with minimal, contract financing. When appropriate, contract statements of work and pricing arrangements must permit acceptance and payment for discrete portions of the work, as soon as accepted (see 32.906(c))."
+        },
+        "e": {
+          "text": "(1) Progress payments based on a percentage or stage of completion are authorized by the statutes cited in 32.101.",
+          "sub": {
+            "2": {
+              "text": "This type of progress payment may be used as a payment method under agency procedures. Agency procedures must ensure that payments are commensurate with work accomplished, which meets the quality standards established under the contract. Furthermore, progress payments may not exceed 80 percent of the eligible costs of work accomplished on undefinitized contract actions."
+            }
+          }
+        },
+        "f": {
+          "text": "Performance-based payments are contract financing payments made on the basis of—"
+        }
+      }
+    },
+    "103": {
+      "number": 103,
+      "name": "Progress payments under construction contracts.",
+      "sub": {},
+      "text": {
+        "text": "When satisfactory progress has not been achieved by a contractor during any period for which a progress payment is to be made, a percentage of the progress payment may be retained. Retainage should not be used as a substitute for good contract management, and the contracting officer should not withhold funds without cause. Determinations to retain and the specific amount to be withheld shall be made by the contracting officers on a case-by-case basis. Such decisions will be based on the contracting officer’s assessment of past performance and the likelihood that such performance will continue. The amount of retainage withheld shall not exceed 10 percent of the approved estimated amount in accordance with the terms of the contract and may be adjusted as the contract approaches completion to recognize better than expected performance, the ability to rely on alternative safeguards, and other factors. Upon completion of all contract requirements, retained amounts shall be paid promptly."
+      }
+    },
+    "104": {
+      "number": 104,
+      "name": "Providing contract financing.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The contractor—",
+          "sub": {
+            "i": {
+              "text": "Will not be able to bill for the first delivery of products for a substantial time after work must begin (normally 4 months or more for small business concerns, and 6 months or more for others), and will make expenditures for contract performance during the predelivery period that have a significant impact on the contractor’s working capital; or"
+            },
+            "ii": {
+              "text": "Demonstrates actual financial need or the unavailability of private financing."
+            }
+          }
+        },
+        "2": {
+          "text": "If the contractor is not a small business concern—",
+          "sub": {
+            "i": {
+              "text": "For an individual contract, the contract price is $2.5 million or more; or"
+            },
+            "ii": {
+              "text": "For an indefinite-delivery contract, a basic ordering agreement or a similar ordering instrument, the contracting officer expects the aggregate value of orders or contracts that individually exceed the simplified acquisition threshold to have a total value of $2.5 million or more. The contracting officer must limit financing to those orders or contracts that exceed the simplified acquisition threshold."
+            }
+          }
+        },
+        "3": {
+          "text": "If the contractor is a small business concern—"
+        },
+        "a": {
+          "text": "Prudent contract financing can be a useful working tool in Government acquisition by expediting the performance of essential contracts. Contracting officers must consider the criteria in this part in determining whether to include contract financing in solicitations and contracts. Resolve reasonable doubts by including contract financing in the solicitation. The contracting officer must—",
+          "sub": {
+            "1": {
+              "text": "Provide Government financing only to the extent actually needed for prompt and efficient performance, considering the availability of private financing and the probable impact on working capital of the predelivery expenditures and production lead-times associated with the contract, or groups of contracts or orders (e.g., issued under indefinite-delivery contracts, basic ordering agreements, or their equivalent);"
+            },
+            "2": {
+              "text": "Administer contract financing so as to aid, not impede, the acquisition;"
+            },
+            "3": {
+              "text": "Avoid any undue risk of monetary loss to the Government through the financing;"
+            },
+            "4": {
+              "text": "Include the form of contract financing deemed to be in the Government’s best interest in the solicitation (see 32.106 and 32.113); and"
+            },
+            "5": {
+              "text": "Monitor the contractor’s use of the contract financing provided and the contractor’s financial status."
+            }
+          }
+        },
+        "b": {
+          "text": "If the contractor is a small business concern, the contracting officer must give special attention to meeting the contractor’s contract financing need. However, a contractor’s receipt of a certificate of competency from the Small Business Administration has no bearing on the contractor’s need for or entitlement to contract financing."
+        },
+        "c": {
+          "text": "Subject to specific agency regulations and paragraph (d) of this section, the contracting officer—",
+          "sub": {
+            "1": {
+              "text": "May provide customary contract financing in accordance with 32.113; and"
+            },
+            "2": {
+              "text": "Must not provide unusual contract financing except as authorized in 32.114."
+            }
+          }
+        },
+        "d": {
+          "text": "Unless otherwise authorized by agency procedures, the contracting officer may provide contract financing in the form of performance-based payments (see Subpart 32.10) or customary progress payments (see Subpart 32.5) if the following conditions are met:"
+        },
+        "i": {
+          "text": "For an individual contract, the contract price exceeds the simplified acquisition threshold; or"
+        },
+        "ii": {
+          "text": "For an indefinite-delivery contract, a basic ordering agreement or a similar ordering instrument, the contracting officer expects the aggregate value of orders or contracts to exceed the simplified acquisition threshold."
+        }
+      }
+    },
+    "105": {
+      "number": 105,
+      "name": "Uses of contract financing.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Contract financing methods covered in this part are intended to be self-liquidating through contract performance. Consequently, agencies shall only use the methods for financing of contractor working capital, not for the expansion of contractor-owned facilities or the acquisition of fixed assets. However, under loan guarantees, exceptions may be made for—",
+          "sub": {
+            "1": {
+              "text": "Facilities expansion of a minor or incidental nature, if a relatively small part of the guaranteed loan is used for the expansion and the contractor’s repayment would not be delayed or impaired; or"
+            },
+            "2": {
+              "text": "Other instances of facilities expansion for which contract financing is appropriate under agency procedures."
+            }
+          }
+        },
+        "b": {
+          "text": "The limitations in this section do not apply to contracts under which facilities are being acquired for Government ownership."
+        }
+      }
+    },
+    "106": {
+      "number": 106,
+      "name": "Order of preference.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer must consider the following order of preference when a contractor requests contract financing, unless an exception would be in the Government’s best interest in a specific case:\n\n(a) Private financing without Government guarantee. It is not intended, however, that the contracting officer require the contractor to obtain private financing—\n\n(1) At unreasonable terms; or\n\n(2) From other agencies.\n\n(b) Customary contract financing other than loan guarantees and certain advance payments (see 32.113).\n\n(c) Loan guarantees.\n\n(d) Unusual contract financing (see 32.114).\n\n(e) Advance payments (see exceptions in 32.402(b))."
+      }
+    },
+    "107": {
+      "number": 107,
+      "name": "Need for contract financing not a deterrent.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "If the contractor or offeror meets the standards prescribed for responsible prospective contractors at 9.104, the contracting officer shall not treat the contractor’s need for contract financing as a handicap for a contract award; e.g., as a responsibility factor or evaluation criterion."
+        },
+        "b": {
+          "text": "The contractor should not be disqualified from contract financing solely because the contractor failed to indicate a need for contract financing before the contract was awarded."
+        }
+      }
+    },
+    "108": {
+      "number": 108,
+      "name": "Financial consultation.",
+      "sub": {},
+      "text": {
+        "text": "Each contracting office should have available and use the services of contract financing personnel competent to evaluate credit and financial problems. In resolving any questions concerning—\n\n(a) The financial capability of an offeror or contractor to perform a contract, or\n\n(b) What form of contract financing is appropriate in a given case, the contracting officer should consult the appropriate contract financing office."
+      }
+    },
+    "109": {
+      "number": 109,
+      "name": "Termination financing.",
+      "sub": {},
+      "text": {
+        "text": "To encourage contractors to invest their own funds in performance despite the susceptibility of the contract to termination for the convenience of the Government, the contract financing procedures under this part may be applied to the financing of terminations either in connection with or independently of financing for contract performance (see 49.112-1)."
+      }
+    },
+    "110": {
+      "number": 110,
+      "name": "Payment of subcontractors under cost-reimbursement prime contracts.",
+      "sub": {},
+      "text": {
+        "text": "If the contractor makes financing payments to a subcontractor under a cost-reimbursement prime contract, the contracting officer should accept the financing payments as reimbursable costs of the prime contract only under the following conditions:\n\n(a) The payments are made under the criteria in Subpart 32.5 for customary progress payments based on costs, 32.202-1 for commercial item purchase financing, or 32.1003 for performance-based payments, as applicable.\n\n(b) If customary progress payments are made, the payments do not exceed the progress payment rate in 32.501-1, unless unusual progress payments to the subcontractor have been approved in accordance with 32.501-2.\n\n(c) If customary progress payments are made, the subcontractor complies with the liquidation principles of 32.503-8, 32.503-9, and 32.503-10.\n\n(d) If performance-based payments are made, the subcontractor complies with the liquidation principles of 32.1004(d).\n\n(e) The subcontract contains financing payments terms as prescribed in this part."
+      }
+    },
+    "111": {
+      "number": 111,
+      "name": "Contract clauses for non-commercial purchases.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The clause at 52.232-10, Payments under Fixed-Price Architect-Engineer Contracts, in fixed-price architect-engineer contracts."
+        },
+        "2": {
+          "text": "The clause at 52.232-11, Extras, in solicitations and contracts when a fixed-price supply contract, fixed-price service contract, or a transportation contract is contemplated."
+        },
+        "a": {
+          "text": "The contracting officer shall insert the following clauses, appropriately modified with respect to payment due dates, in accordance with agency regulations—",
+          "sub": {
+            "1": {
+              "text": "The clause at 52.232-1, Payments, in solicitations and contracts when a fixed-price supply contract, a fixed-price service contract, or a contract for nonregulated communication services is contemplated;"
+            },
+            "2": {
+              "text": "The clause at 52.232-2, Payment under Fixed-Price Research and Development Contracts, in solicitations and contracts when a fixed-price research and development contract is contemplated;"
+            },
+            "3": {
+              "text": "The clause at 52.232-3, Payments under Personal Services Contracts, in solicitations and contracts for personal services;"
+            },
+            "4": {
+              "text": "The clause at 52.232-4, Payments under Transportation Contracts and Transportation-Related Services Contracts, in solicitations and contracts for transportation or transportation-related services;"
+            },
+            "5": {
+              "text": "The clause at 52.232-5, Payments under Fixed-Price Construction Contracts, in solicitations and contracts for construction when a fixed-price contract is contemplated;"
+            },
+            "6": {
+              "text": "The clause at 52.232-6, Payments under Communication Service Contracts with Common Carriers, in solicitations and contracts for regulated communication services by common carriers; and"
+            },
+            "7": {
+              "text": "The clause at 52.232-7, Payments under Time-and-Materials and Labor-Hour Contracts, in solicitations and contracts when a time-and-materials or labor-hour contract is contemplated. If the contracting officer determines that it is necessary to withhold payment to protect the Government’s interests, paragraph (a)(7) of the clause permits the contracting officer to unilaterally issue a modification requiring the contractor to withhold 5 percent of amounts due, up to a maximum of $50,000 under the contract. The contracting officer shall ensure that the modification specifies the percentage and total amount of the withhold payment. Normally, there should be no need to withhold payment for a contractor with a record of timely submittal of the release discharging the Government from all liabilities, obligations, and claims, as required by paragraph (g) of the clause."
+            }
+          }
+        },
+        "b": {
+          "text": "The contracting officer shall insert the following clauses, appropriately modified with respect to payment due dates in accordance with agency regulations:",
+          "sub": {
+            "1": {
+              "text": "The clause at 52.232-8, Discounts for Prompt Payment, in solicitations and contracts when a fixed-price supply contract or fixed-price service contract is contemplated."
+            },
+            "2": {
+              "text": "A clause, substantially the same as the clause at 52.232-9, Limitation on Withholding of Payments, in solicitations and contracts when a supply contract, research and development contract, service contract, time-and-materials contract, or labor-hour contract is contemplated that includes two or more terms authorizing the temporary withholding of amounts otherwise payable to the contractor for supplies delivered or services performed."
+            }
+          }
+        },
+        "c": {
+          "text": "The contracting officer shall insert the following clauses, appropriately modified with respect to payments due dates in accordance with agency regulations:"
+        }
+      }
+    },
+    "112": {
+      "number": 112,
+      "name": "Nonpayment of subcontractors under contracts for noncommercial items.",
+      "sub": {
+        "1": {
+          "name": "Subcontractor assertions of nonpayment.",
+          "text": {
+            "a": {
+              "text": "In accordance with Section 806(a)(4) of Pub. L. 102-190, as amended by Sections 2091 and 8105 of Pub. L. 103-355 (10 U.S.C. 2302 note), upon the assertion by a subcontractor or supplier of a Federal contractor that the subcontractor or supplier has not been paid in accordance with the payment terms of the subcontract, purchase order, or other agreement with the prime contractor, the contracting officer may determine—",
+              "sub": {
+                "1": {
+                  "text": "For a construction contract, whether the contractor has made—",
+                  "sub": {
+                    "i": {
+                      "text": "Progress payments to the subcontractor or supplier in compliance with Chapter 39 of Title 31, United States Code (Prompt Payment Act); or"
+                    },
+                    "ii": {
+                      "text": "Final payment to the subcontractor or supplier in compliance with the terms of the subcontract, purchase order, or other agreement with the prime contractor;"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "For a contract other than construction, whether the contractor has made progress payments, final payments, or other payments to the subcontractor or supplier in compliance with the terms of the subcontract, purchase order, or other agreement with the prime contractor; or"
+                },
+                "3": {
+                  "text": "For any contract, whether the contractor’s certification of payment of a subcontractor or supplier accompanying its payment request to the Government is accurate."
+                }
+              }
+            },
+            "b": {
+              "text": "If, in making the determination in paragraphs (a)(1) and (2) of this subsection, the contracting officer finds the prime contractor is not in compliance, the contracting officer may—",
+              "sub": {
+                "1": {
+                  "text": "Encourage the contractor to make timely payment to the subcontractor or supplier; or"
+                },
+                "2": {
+                  "text": "If authorized by the applicable payment clauses, reduce or suspend progress payments to the contractor."
+                }
+              }
+            },
+            "c": {
+              "text": "If the contracting officer determines that a certification referred to in paragraph (a)(3) of this subsection is inaccurate in any material respect, the contracting officer shall initiate administrative or other remedial action."
+            }
+          }
+        },
+        "2": {
+          "name": "Subcontractor requests for information.",
+          "text": {
+            "1": {
+              "text": "Specifically authorized under criteria established by an Executive order to be kept classified in the interest of national defense or foreign policy; and"
+            },
+            "2": {
+              "text": "Properly classified pursuant to such Executive order."
+            },
+            "a": {
+              "text": "In accordance with Section 806(a)(1) of Pub. L. 102-190, as amended by Sections 2091 and 8105 of Pub. L. 103-355 (10 U.S.C. 2302 note), upon the request of a subcontractor or supplier under a Federal contract for a non-commercial item, the contracting officer shall promptly advise the subcontractor or supplier as to—",
+              "sub": {
+                "1": {
+                  "text": "Whether the prime contractor has submitted requests for progress payments or other payments to the Federal Government under the contract; and"
+                },
+                "2": {
+                  "text": "Whether final payment under the contract has been made by the Federal Government to the prime contractor."
+                }
+              }
+            },
+            "b": {
+              "text": "In accordance with 5 U.S.C. 552(b)(1), this subsection does not apply to matters that are—"
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "113": {
+      "number": 113,
+      "name": "Customary contract financing.",
+      "sub": {},
+      "text": {
+        "text": "The solicitation must specify the customary contract financing offerors may propose. The following are customary contract financing when provided in accordance with this part and agency regulations:\n\n(a) Financing of shipbuilding, or ship conversion, alteration, or repair, when agency regulations provide for progress payments based on a percentage or stage of completion.\n\n(b) Financing of construction or architect-engineer services purchased under the authority of Part 36.\n\n(c) Financing of contracts for supplies or services awarded under the sealed bid method of procurement in accordance with Part 14 through progress payments based on costs in accordance with Subpart 32.5.\n\n(d) Financing of contracts for supplies or services awarded under the competitive negotiation method of procurement in accordance with Part 15, through either progress payments based on costs in accordance with Subpart 32.5, or performance-based payments in accordance with Subpart 32.10 (but not both).\n\n(e) Financing of contracts for supplies or services awarded under a sole-source acquisition as defined in 2.101 and using the procedures of Part 15, through either progress payments based on costs in accordance with Subpart 32.5, or performance-based payments in accordance with Subpart 32.10 (but not both).\n\n(f) Financing of contracts for supplies or services through advance payments in accordance with Subpart 32.4.\n\n(g) Financing of contracts for supplies or services through guaranteed loans in accordance with Subpart 32.3.\n\n(h) Financing of contracts for supplies or services through any appropriate combination of advance payments, guaranteed loans, and either performance-based payments or progress payments (but not both) in accordance with their respective subparts."
+      }
+    },
+    "114": {
+      "number": 114,
+      "name": "Unusual contract financing.",
+      "sub": {},
+      "text": {
+        "text": "Any contract financing arrangement that deviates from this part is unusual contract financing. Unusual contract financing shall be authorized only after approval by the head of the agency or as provided for in agency regulations."
+      }
+    },
+    "000": {
+      "number": 0,
+      "name": "Scope of part.",
+      "sub": {},
+      "text": {
+        "text": "This part prescribes policies and procedures for contract financing and other payment matters. This part addresses—\n\n(a) Payment methods, including partial payments and progress payments based on percentage or stage of completion;\n\n(b) Loan guarantees, advance payments, and progress payments based on costs;\n\n(c) Administration of debts to the Government arising out of contracts;\n\n(d) Contract funding, including the use of contract clauses limiting costs or funds;\n\n(e) Assignment of claims to aid in private financing;\n\n(f) Selected payment clauses;\n\n(g) Financing of purchases of commercial items;\n\n(h) Performance-based payments; and\n\n(i) Electronic funds transfer payments."
+      }
+    },
+    "001": {
+      "number": 1,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this part—\n\n“Commercial interim payment” means any payment that is not a commercial advance payment or a delivery payment. These payments are contract financing payments for prompt payment purposes (i.e., not subject to the interest penalty provisions of the Prompt Payment Act in accordance with Subpart 32.9). A commercial interim payment is given to the contractor after some work has been done, whereas a commercial advance payment is given to the contractor when no work has been done.\n\n“Contract action” means an action resulting in a contract, as defined in Subpart 2.1, including actions for additional supplies or services outside the existing contract scope, but not including actions that are within the scope and under the terms of the existing contract, such as contract modifications issued pursuant to the Changes clause, or funding and other administrative changes.\n\n“Contract financing payment” means an authorized Government disbursement of monies to a contractor prior to acceptance of supplies or services by the Government.\n\n(1) Contract financing payments include—\n\n(i) Advance payments;\n\n(ii) Performance-based payments;\n\n(iii) Commercial advance and interim payments;\n\n(iv) Progress payments based on cost under the clause at 52.232-16, Progress Payments;\n\n(v) Progress payments based on a percentage or stage of completion (see 32.102(e)), except those made under the clause at 52.232-5, Payments Under Fixed-Price Construction Contracts, or the clause at 52.232-10, Payments Under Fixed-Price Architect-Engineer Contracts; and\n\n(vi) Interim payments under a cost reimbursement contract, except for a cost reimbursement contract for services when Alternate I of the clause at 52.232-25, Prompt Payment, is used.\n\n(2) Contract financing payments do not include—\n\n(i) Invoice payments;\n\n(ii) Payments for partial deliveries; or\n\n(iii) Lease and rental payments.\n\n“Customary contract financing” means that financing deemed by an agency to be available for routine use by contracting officers. Most customary contract financing arrangements should be usable by contracting officers without specific reviews or approvals by higher management.\n\n“Delivery payment” means a payment for accepted supplies or services, including payments for accepted partial deliveries. Commercial financing payments are liquidated by deduction from these payments. Delivery payments are invoice payments for prompt payment purposes.\n\n“Designated billing office” means the office or person (governmental or nongovernmental) designated in the contract where the contractor first submits invoices and contract financing requests. The contract might designate different offices to receive invoices and contract financing requests. The designated billing office might be—\n\n(1) The Government disbursing office;\n\n(2) The contract administration office;\n\n(3) The office accepting the supplies delivered or services performed by the contractor;\n\n(4) The contract audit office; or\n\n(5) A nongovernmental agent.\n\n“Designated payment office” means the office designated in the contract to make invoice payments or contract financing payments. Normally, this will be the Government disbursing office.\n\n“Due date” means the date on which payment should be made.\n\n“Invoice payment” means a Government disbursement of monies to a contractor under a contract or other authorization for supplies or services accepted by the Government.\n\n(1) Invoice payments include—\n\n(i) Payments for partial deliveries that have been accepted by the Government;\n\n(ii) Final cost or fee payments where amounts owed have been settled between the Government and the contractor;\n\n(iii) For purposes of Subpart 32.9 only, all payments made under the clause at 52.232-5, Payments Under Fixed-Price Construction Contracts, and the clause at 52.232-10, Payments Under Fixed-Price Architect-Engineer Contracts; and\n\n(iv) Interim payments under a cost-reimbursement contract for services when Alternate I of the clause at 52.232-5, Prompt Payment, is used.\n\n(2) Invoice payments do not include contract financing payments.\n\n“Liquidate” means to decrease a payment for an accepted supply item or service under a contract for the purpose of recouping financing payments previously paid to the contractor.\n\n“Unusual contract financing” means any financing not deemed customary contract financing by the agency. Unusual contract financing is financing that is legal and proper under applicable laws, but that the agency has not authorized contracting officers to use without specific reviews or approvals by higher management."
+      }
+    },
+    "002": {
+      "number": 2,
+      "name": "Applicability of subparts.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Subpart 32.1, Non-Commercial Item Purchase Financing."
+        },
+        "2": {
+          "text": "Subpart 32.4, Advance Payments For Non-Commercial Items."
+        },
+        "3": {
+          "text": "Subpart 32.5, Progress Payments Based on Costs."
+        },
+        "4": {
+          "text": "Subpart 32.10, Performance-Based Payments."
+        },
+        "a": {
+          "text": "The following sections and subparts of this part are applicable to all purchases subject to Part 32:",
+          "sub": {
+            "1": {
+              "text": "Sections 32.000 through 32.009."
+            },
+            "2": {
+              "text": "Subpart 32.3, Loan Guarantees for Defense Production."
+            },
+            "3": {
+              "text": "Subpart 32.6, Contract Debts."
+            },
+            "4": {
+              "text": "Subpart 32.7, Contract Funding."
+            },
+            "5": {
+              "text": "Subpart 32.8, Assignment of Claims."
+            },
+            "6": {
+              "text": "Subpart 32.9, Prompt Payment."
+            },
+            "7": {
+              "text": "Subpart 32.11, Electronic Funds Transfer."
+            }
+          }
+        },
+        "b": {
+          "text": "Subpart 32.2, Commercial Item Purchase Financing, is applicable only to purchases of commercial items under authority of Part 12."
+        },
+        "c": {
+          "text": "The following subparts of this part are applicable to all purchases made under any authority other than Part 12:"
+        }
+      }
+    },
+    "003": {
+      "number": 3,
+      "name": "Simplified acquisition procedures financing.",
+      "sub": {},
+      "text": {
+        "text": "Unless agency regulations otherwise permit, contract financing shall not be provided for purchases made under the authority of Part 13."
+      }
+    },
+    "004": {
+      "number": 4,
+      "name": "Contract performance in foreign countries.",
+      "sub": {},
+      "text": {
+        "text": "The enforceability of contract provisions for security of Government financing in a foreign jurisdiction is dependent upon local law and procedure. Prior to providing contract financing where foreign jurisdictions may become involved, the contracting officer shall ensure the Government’s security is enforceable. This may require the provision of additional or different security than that normally provided for in the standard contract clauses."
+      }
+    },
+    "005": {
+      "number": 5,
+      "name": "Consideration for contract financing.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Requirement. When a contract financing clause is included at the inception of a contract, there shall be no separate consideration for the contract financing clause. The value of the contract financing to the contractor is expected to be reflected in either (1) a bid or negotiated price that will be lower than such price would have been in the absence of the contract financing, or (2) contract terms and conditions, other than price, that are more beneficial to the Government than they would have been in the absence of the contract financing. Adequate new consideration is required for changes to, or the addition of, contract financing after award."
+        },
+        "b": {
+          "text": "Amount of new consideration. The contractor may provide new consideration by monetary or nonmonetary means, provided the value is adequate. The fair and reasonable consideration should approximate the amount by which the price would have been less had the contract financing terms been contained in the initial contract. In the absence of definite information on this point, the contracting officer should apply the following criteria in evaluating whether the proposed new consideration is adequate:",
+          "sub": {
+            "1": {
+              "text": "The value to the contractor of the anticipated amount and duration of the contract financing at the imputed financial costs of the equivalent working capital."
+            },
+            "2": {
+              "text": "The estimated profit rate to be earned through contract performance."
+            }
+          }
+        },
+        "c": {
+          "text": "Interest. Except as provided in Subpart 32.4, Advance Payments for Non-Commercial Items, the contract shall not provide for any other type of specific charges, such as interest, for contract financing."
+        }
+      }
+    },
+    "006": {
+      "number": 6,
+      "name": "Reduction or suspension of contract payments upon finding of fraud.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "a": {
+              "text": "Under 10 U.S.C. 2307(i)(8), the statutory authority implemented by this section is available to the Department of Defense and the National Aeronautics and Space Administration; this statutory authority is not available to the United States Coast Guard.  Under 41 U.S.C. 4506, this statutory authority is available to all agencies subject to Division C of subtitle I of title 41."
+            },
+            "b": {
+              "text": "10 U.S.C. 2307(i)(2) and 41 U.S.C. 4506 provide for a reduction or suspension of further payments to a contractor when the agency head determines there is substantial evidence that the contractor's request for advance, partial, or progress payments is based on fraud. This authority does not apply to commercial interim payments under Subpart 32.2, or performance-based payments under Subpart 32.10."
+            },
+            "c": {
+              "text": "The agency head may not delegate his or her responsibilities under these statutes below Level IV of the Executive Schedule."
+            },
+            "d": {
+              "text": "Authority to reduce or suspend payments under these statutes is in addition to other Government rights, remedies, and procedures."
+            },
+            "e": {
+              "text": "In accordance with these statutes, agency head determinations and decisions under this section may be made for an individual contract or any group of contracts affected by the fraud."
+            }
+          }
+        },
+        "2": {
+          "name": "Definition.",
+          "text": {
+            "text": "“Remedy coordination official,” as used in this section, means the person or entity in the agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities. (See 10 U.S.C. 2307(i)(10) and 41 U.S.C. 4506(a).)"
+          }
+        },
+        "3": {
+          "name": "Responsibilities.",
+          "text": {
+            "a": {
+              "text": "Agencies shall establish appropriate procedures to implement the policies and procedures of this section."
+            },
+            "b": {
+              "text": "Government personnel shall report suspected fraud related to advance, partial, or progress payments in accordance with agency regulations."
+            }
+          }
+        },
+        "4": {
+          "name": "Procedures.",
+          "text": {
+            "1": {
+              "text": "Review the agency head’s determination on which the reduction or suspension decision is based; and"
+            },
+            "2": {
+              "text": "Transmit a recommendation to the agency head as to whether the reduction or suspension should continue."
+            },
+            "a": {
+              "text": "In any case in which an agency’s remedy coordination official finds substantial evidence that a contractor’s request for advance, partial, or progress payments under a contract awarded by that agency is based on fraud, the remedy coordination official shall recommend that the agency head reduce or suspend further payments to the contractor. The remedy coordination official shall submit to the agency head a written report setting forth the remedy coordination official’s findings that support each recommendation."
+            },
+            "b": {
+              "text": "Upon receiving a recommendation from the remedy coordination official under paragraph (a) of this subsection, the agency head shall determine whether substantial evidence exists that the request for payment under a contract is based on fraud."
+            },
+            "c": {
+              "text": "If the agency head determines that substantial evidence exists, the agency head may reduce or suspend further payments to the contractor under the affected contract(s). Such reduction or suspension shall be reasonably commensurate with the anticipated loss to the Government resulting from the fraud."
+            },
+            "d": {
+              "text": "In determining whether to reduce or suspend further payment(s), as a minimum, the agency head shall consider—",
+              "sub": {
+                "1": {
+                  "text": "A recommendation from investigating officers that disclosure of the allegations of fraud to the contractor may compromise an ongoing investigation;"
+                },
+                "2": {
+                  "text": "The anticipated loss to the Government as a result of the fraud;"
+                },
+                "3": {
+                  "text": "The contractor’s overall financial condition and ability to continue performance if payments are reduced or suspended;"
+                },
+                "4": {
+                  "text": "The contractor’s essentiality to the national defense, or to the execution of the agency’s official business; and"
+                },
+                "5": {
+                  "text": "Assessment of all documentation concerning the alleged fraud, including documentation submitted by the contractor in its response to the notice required by paragraph (e) of this subsection."
+                }
+              }
+            },
+            "e": {
+              "text": "Before making a decision to reduce or suspend further payments, the agency head shall, in accordance with agency procedures—",
+              "sub": {
+                "1": {
+                  "text": "Notify the contractor in writing of the action pro-posed by the remedy coordination official and the reasons therefor (such notice must be sufficiently specific to permit the contractor to collect and present evidence addressing the aforesaid reasons); and"
+                },
+                "2": {
+                  "text": "Provide the contractor an opportunity to submit information within a reasonable time, in response to the action proposed by the remedy coordination official."
+                }
+              }
+            },
+            "f": {
+              "text": "When more than one agency has contracts affected by the fraud, the agencies shall consider designating one agency as the lead agency for making the determination and decision."
+            },
+            "g": {
+              "text": "The agency shall retain in its files the written justification for each—",
+              "sub": {
+                "1": {
+                  "text": "Decision of the agency head whether to reduce or suspend further payments; and"
+                },
+                "2": {
+                  "text": "Recommendation received by an agency head in connection with such decision."
+                }
+              }
+            },
+            "h": {
+              "text": "Not later than 180 calendar days after the date of the reduction or suspension action, the remedy coordination official shall—"
+            }
+          }
+        },
+        "5": {
+          "name": "Reporting.",
+          "text": {
+            "1": {
+              "text": "Each recommendation made by the remedy coordination official;"
+            },
+            "2": {
+              "text": "The actions taken on the recommendation(s), with reasons for such actions; and"
+            },
+            "3": {
+              "text": "An assessment of the effects of each action on the Government."
+            },
+            "a": {
+              "text": "In accordance with 41 U.S.C. 4506(h), the head of an agency, other than the Department of Defense, shall prepare a report for each fiscal year in which a recommendation has been received pursuant to 32.006-4(a). Reports within the Department of Defense shall be prepared in accordance with 10 U.S.C. 2307(i)(7)."
+            },
+            "b": {
+              "text": "In accordance with 41 U.S.C. 4506(h) and 10 U.S.C. 2307(i)(7), each report shall contain—"
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "007": {
+      "number": 7,
+      "name": "Contract financing payments.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "(1) Unless otherwise prescribed in agency policies and procedures or otherwise specified in paragraph (b) of this section, the due date for making contract financing payments by the designated payment office is the 30th day after the designated billing office receives a proper contract financing request.",
+          "sub": {
+            "2": {
+              "text": "If an audit or other review of a specific financing request is required to ensure compliance with the terms and conditions of the contract, the designated payment office is not compelled to make payment by the specified due date."
+            },
+            "3": {
+              "text": "Agency heads may prescribe shorter periods for payment based on contract pricing or administrative considerations. For example, a shorter period may be justified by an agency if the nature and extent of contract financing arrangements are integrated with agency contract pricing policies."
+            },
+            "4": {
+              "text": "Agency heads must not prescribe a period shorter than 7 days or longer than 30 days."
+            }
+          }
+        },
+        "b": {
+          "text": "For advance payments, loans, or other arrangements that do not involve recurrent submission of contract financing requests, the designated payment office will make payment in accordance with the applicable contract financing terms or as directed by the contracting officer."
+        },
+        "c": {
+          "text": "A proper contract financing request must comply with the terms and conditions specified by the contract. The contractor must correct any defects in requests submitted in the manner specified in the contract or as directed by the contracting officer."
+        },
+        "d": {
+          "text": "The designated billing office and designated payment office must annotate each contract financing request with the date their respective offices received the request."
+        },
+        "e": {
+          "text": "The Government will not pay an interest penalty to the contractor as a result of delayed contract financing payments."
+        }
+      }
+    },
+    "008": {
+      "number": 8,
+      "name": "Notification of overpayment.",
+      "sub": {},
+      "text": {
+        "text": "If the contractor notifies the contracting officer of a duplicate payment or that the Government has otherwise overpaid, the contracting officer shall follow the procedures at 32.604."
+      }
+    },
+    "009": {
+      "number": 9,
+      "name": "Providing accelerated payments to small business subcontractors.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "text": "Pursuant to the policy provided by OMB Memorandum M-12-16, Providing Prompt Payment to Small Business Subcontractors (and as extended by OMB Memorandum M-13-15 and M-14-10, both titled, Extension of Policy to Provide Accelerated Payment to Small Business Subcontractors), agencies shall take measures to ensure that prime contractors pay small business subcontractors on an accelerated timetable to the maximum extent practicable, and upon receipt of accelerated payments from the Government.  This acceleration does not provide any new rights under the Prompt Payment Act and does not affect the application of the Prompt Payment Act late payment interest provisions."
+          }
+        },
+        "2": {
+          "name": "Contract clause.",
+          "text": {
+            "text": "Insert clause 52.232-40, Providing Accelerated Payments to Small Business Subcontractors, in all solicitations and contracts."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    }
+  }
+}

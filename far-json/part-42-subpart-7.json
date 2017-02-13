@@ -1,0 +1,680 @@
+{
+  "parentPart": 42,
+  "number": 7,
+  "name": "Indirect Cost Rates",
+  "sub": {
+    "700": {
+      "number": 700,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures for establishing—\n\n(a) Billing rates; and\n\n(b) Final indirect cost rates."
+      }
+    },
+    "701": {
+      "number": 701,
+      "name": "Definition.",
+      "sub": {},
+      "text": {
+        "text": "“Billing rate,” as used in this subpart, means an indirect cost rate—\n\n(1) Established temporarily for interim reimbursement of incurred indirect costs; and\n\n(2) Adjusted as necessary pending establishment of final indirect cost rates."
+      }
+    },
+    "702": {
+      "number": 702,
+      "name": "Purpose.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Establishing final indirect cost rates under this subpart provides—",
+          "sub": {
+            "1": {
+              "text": "Uniformity of approach with a contractor when more than one contract or agency is involved;"
+            },
+            "2": {
+              "text": "Economy of administration; and"
+            },
+            "3": {
+              "text": "Timely settlement under cost-reimbursement contracts."
+            }
+          }
+        },
+        "b": {
+          "text": "Establishing billing rates provides a method for interim reimbursement of indirect costs at estimated rates subject to adjustment during contract performance and at the time the final indirect cost rates are established."
+        }
+      }
+    },
+    "703": {
+      "number": 703,
+      "name": "General.",
+      "sub": {
+        "1": {
+          "name": "Policy.",
+          "text": {
+            "1": {
+              "text": "Final indirect cost rates shall be used for contract closeout for a business unit, unless the quick-closeout procedure in 42.708 is used. These final rates shall be binding for all cost-reimbursement contracts at the business unit, subject to any specific limitation in a contract or advance agreement; and"
+            },
+            "2": {
+              "text": "Established final indirect cost rates shall be used in negotiating the final price of fixed-price incentive and fixed-price redeterminable contracts and in other situations requiring that indirect costs be settled before contract prices are established, unless the quick-closeout procedure in 42.708 is used."
+            },
+            "a": {
+              "text": "A single agency (see 42.705-1) shall be responsible for establishing final indirect cost rates for each business unit. These rates shall be binding on all agencies and their contracting offices, unless otherwise specifically prohibited by statute. An agency shall not perform an audit of indirect cost rates when the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit that was conducted by any other department or agency of the Federal Government (10 U.S.C. 2313(d) and 41 U.S.C. 4706(e))."
+            },
+            "b": {
+              "text": "Billing rates and final indirect cost rates shall be used in reimbursing indirect costs under cost-reimbursement contracts and in determining progress payments under fixed-price contracts."
+            },
+            "c": {
+              "text": "To ensure compliance with 10 U.S.C. 2324(a) and 41 U.S.C. 4303(a)—"
+            }
+          }
+        },
+        "2": {
+          "name": "Certificate of indirect costs.",
+          "text": {
+            "1": {
+              "text": "Except as provided in paragraph (f)(2) of this subsection, the clause at 52.242-4, Certification of Final Indirect Costs, shall be incorporated into all solicitations and contracts which provide for establishment of final indirect cost rates."
+            },
+            "2": {
+              "text": "The Department of Energy may provide an alternate clause in its agency supplement for its Management and Operating contracts."
+            },
+            "a": {
+              "text": "General. In accordance with 10 U.S.C. 2324(h) and 41 U.S.C. 4307, a proposal shall not be accepted and no agreement shall be made to establish final indirect cost rates unless the costs have been certified by the contractor."
+            },
+            "b": {
+              "text": "Waiver of certification.",
+              "sub": {
+                "1": {
+                  "text": "The agency head, or designee, may waive the certification requirement when—",
+                  "sub": {
+                    "i": {
+                      "text": "It is determined to be in the interest of the United States; and"
+                    },
+                    "ii": {
+                      "text": "The reasons for the determination are put in writing and made available to the public."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "A waiver may be appropriate for a contract with—"
+                },
+                "i": {
+                  "text": "A foreign government or international organization, such as a subsidiary body of the North Atlantic Treaty Organization;"
+                },
+                "ii": {
+                  "text": "A State or local government subject to the OMB Uniform Guidance at 2 CFR part 200, subpart E and appendices V and VII;"
+                },
+                "iii": {
+                  "text": "An educational institution (defined as an institution of higher education in the OMB Uniform Guidance at 2 CFR part 200, subpart A, and 20 U.S.C. 1001) subject to the OMB Uniform Guidance at 2 CFR part 200, subpart E and appendix III; and"
+                },
+                "iv": {
+                  "text": "A nonprofit organization (as defined in the OMB Uniform Guidance at 2 CFR part 200) subject to the OMB Uniform Guidance at 2 CFR part 200, subpart E and appendix IV."
+                }
+              }
+            },
+            "c": {
+              "text": "Failure to certify.",
+              "sub": {
+                "1": {
+                  "text": "If the contractor has not certified its proposal for final indirect cost rates and a waiver is not appropriate, the contracting officer may unilaterally establish the rates."
+                },
+                "2": {
+                  "text": "Rates established unilaterally should be—"
+                },
+                "i": {
+                  "text": "Based on audited historical data or other available data as long as unallowable costs are excluded; and"
+                },
+                "ii": {
+                  "text": "Set low enough to ensure that unallowable costs will not be reimbursed."
+                }
+              }
+            },
+            "d": {
+              "text": "False certification. The contracting officer should consult with legal counsel to determine appropriate action when a contractor’s certificate of final indirect costs is thought to be false."
+            },
+            "e": {
+              "text": "Penalties for unallowable costs. 10 U.S.C. 2324(a) through (d) and 41 U.S.C. 4303 prescribe penalties for submission of unallowable costs in final indirect cost rate proposals (see 42.709-0 for penalties and contracting officer responsibilities)."
+            },
+            "f": {
+              "text": "Contract clause."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "704": {
+      "number": 704,
+      "name": "Billing rates.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer (or cognizant Federal agency official) or auditor responsible under 42.705 for establishing the final indirect cost rates also shall be responsible for determining the billing rates."
+        },
+        "b": {
+          "text": "The contracting officer (or cognizant Federal agency official) or auditor shall establish billing rates on the basis of information resulting from recent review, previous rate audits or experience, or similar reliable data or experience of other contracting activities. In establishing billing rates, the contracting officer (or cognizant Federal agency official) or auditor should ensure that the billing rates are as close as possible to the final indirect cost rates anticipated for the contractor’s fiscal period, as adjusted for any unallowable costs. When the contracting officer (or cognizant Federal agency official) or auditor determines that the dollar value of contracts requiring use of billing rates does not warrant submission of a detailed billing rate proposal, the billing rates may be established by making appropriate adjustments from the prior year’s indirect cost experience to eliminate unallowable and nonrecurring costs and to reflect new or changed conditions."
+        },
+        "c": {
+          "text": "Once established, billing rates may be prospectively or retroactively revised by mutual agreement of the contracting officer (or cognizant Federal agency official) or auditor and the contractor at either party’s request, to prevent substantial overpayment or underpayment. When agreement cannot be reached, the billing rates may be unilaterally determined by the contracting officer (or cognizant Federal agency official)."
+        },
+        "d": {
+          "text": "The elements of indirect cost and the base or bases used in computing billing rates shall not be construed as determinative of the indirect costs to be distributed or of the bases of distribution to be used in the final settlement."
+        },
+        "e": {
+          "text": "When the contractor provides to the cognizant contracting officer the certified final indirect cost rate proposal in accordance with 42.705-1(b) or 42.705-2(b), the contractor and the Government may mutually agree to revise billing rates to reflect the proposed indirect cost rates, as approved by the Government to reflect historically disallowed amounts from prior years’ audits, until the proposal has been audited and settled. The historical decrement will be determined by either the cognizant contracting officer (42.705-1(b)) or the cognizant auditor (42.705-2(b))."
+        }
+      }
+    },
+    "705": {
+      "number": 705,
+      "name": "Final indirect cost rates.",
+      "sub": {
+        "1": {
+          "name": "Contracting officer determination procedure.",
+          "text": {
+            "1": {
+              "text": "In accordance with the Allowable Cost and Payment clause at 52.216-7, the contractor is required to submit an adequate final indirect cost rate proposal to the contracting officer (or cognizant Federal agency official) and to the cognizant auditor.",
+              "sub": {
+                "i": {
+                  "text": "The required content of the proposal and supporting data will vary depending on such factors as business type, size, and accounting system capabilities. The contractor, contracting officer, and auditor must work together to make the proposal, audit, and negotiation process as efficient as possible."
+                },
+                "ii": {
+                  "text": "Each contractor is required to submit the final indirect cost rate proposal within the six-month period following the expiration of each of its fiscal years. The contracting officer may grant, in writing, reasonable extensions, for exceptional circumstances only, when requested in writing by the contractor."
+                },
+                "iii": {
+                  "text": "Upon receipt of the proposal—"
+                },
+                "A": {
+                  "text": "The cognizant auditor will review the adequacy of the contractor’s proposal for audit in support of negotiating final indirect cost rates and will provide a written description of any inadequacies to the contractor and contracting officer."
+                },
+                "B": {
+                  "text": "If the auditor and contractor are unable to resolve the proposal’s inadequacies identified by the auditor, the auditor will elevate the issue to the contracting office to resolve the inadequacies."
+                },
+                "iv": {
+                  "text": "The proposal must be supported with adequate supporting data, some of which may be required subsequent to finding that the proposal is adequate for audit in support of negotiating final indirect cost rates (e.g., during the course of the performance of the advisory audit). See the clause at 52.216-7(d)(2) for the description of an adequate final indirect cost rate proposal and supporting data."
+                }
+              }
+            },
+            "2": {
+              "text": "Once a proposal has been determined to be adequate for audit in support of negotiating final indirect cost rates, the auditor will audit the proposal and prepare an advisory audit report to the contracting officer (or cognizant Federal agency official), including a listing of any relevant advance agreements or restrictive terms of specific contracts."
+            },
+            "3": {
+              "text": "The contracting officer (or cognizant Federal agency official) shall head the Government negotiating team, which includes the cognizant auditor and technical or functional personnel as required. Contracting offices having significant dollar interest shall be invited to participate in the negotiation and in the preliminary discussion of critical issues. Individuals or offices that have provided a significant input to the Government position should be invited to attend."
+            },
+            "4": {
+              "text": "The Government negotiating team shall develop a negotiation position. Pursuant to 10 U.S.C. 2324(f) and 41 U.S.C. 4305, the contracting officer shall—",
+              "sub": {
+                "i": {
+                  "text": "Not resolve any questioned costs until obtaining—"
+                },
+                "A": {
+                  "text": "Adequate documentation on the costs; and"
+                },
+                "B": {
+                  "text": "The contract auditor’s opinion on the allowability of the costs."
+                },
+                "ii": {
+                  "text": "Whenever possible, invite the contract auditor to serve as an advisor at any negotiation or meeting with the contractor on the determination of the contractor’s final indirect cost rates."
+                }
+              }
+            },
+            "5": {
+              "text": "The cognizant contracting officer shall—"
+            },
+            "a": {
+              "text": "Applicability and responsibility. Contracting officer determination shall be used for the following, with the indicated cognizant contracting officer (or cognizant Federal agency official) responsible for establishing the final indirect cost rates:",
+              "sub": {
+                "1": {
+                  "text": "Business units of a multidivisional corporation under the cognizance of a corporate administrative contracting officer (see Subpart 42.6), with that officer responsible for the determination, assisted, as required, by the administrative contracting officers, assigned to the individual business units. Negotiations may be conducted on a coordinated or centralized basis, depending upon the degree of centralization within the contractor’s organization."
+                },
+                "2": {
+                  "text": "Business units not under the cognizance of a corporate administrative contracting officer, but having a resident administrative contracting officer (see 42.602), with that officer responsible for the determination. For this purpose, a nonresident administrative contracting officer is considered as resident if at least 75 percent of the administrative contracting officer’s time is devoted to a single contractor."
+                },
+                "3": {
+                  "text": "For business units not included in paragraph (a)(1) or (a)(2) of this subsection, the contracting officer (or cognizant Federal agency official) will determine whether the rates will be contracting officer or auditor determined."
+                },
+                "4": {
+                  "text": "Educational institutions (see 42.705-3)."
+                },
+                "5": {
+                  "text": "State and local governments (see 42.705-4)."
+                },
+                "6": {
+                  "text": "Nonprofit organizations other than educational and state and local governments (see 42.705-5)."
+                }
+              }
+            },
+            "b": {
+              "text": "Procedures."
+            },
+            "i": {
+              "text": "Conduct negotiations;"
+            },
+            "ii": {
+              "text": "Prepare a written indirect cost rate agreement conforming to the requirements of the contracts;"
+            },
+            "iii": {
+              "text": "Prepare, sign, and place in the contractor general file (see 4.801(c)(3)) a negotiation memorandum covering—"
+            },
+            "A": {
+              "text": "The disposition of significant matters in the advisory audit report;"
+            },
+            "B": {
+              "text": "Reconciliation of all costs questioned, with identification of items and amounts allowed or disallowed in the final settlement as well as the disposition of period costing or allocability issues;"
+            },
+            "C": {
+              "text": "Reasons why any recommendations of the auditor or other Government advisors were not followed; and"
+            },
+            "D": {
+              "text": "Identification of certified cost or pricing data submitted during the negotiations and relied upon in reaching a settlement; and"
+            },
+            "iv": {
+              "text": "Distribute resulting documents in accordance with 42.706."
+            },
+            "v": {
+              "text": "Notify the contractor of the individual costs which were considered unallowable and the respective amounts of the disallowance."
+            }
+          }
+        },
+        "2": {
+          "name": "Auditor determination procedure.",
+          "text": {
+            "1": {
+              "text": "The contractor shall submit to the cognizant contracting officer (or cognizant Federal agency official) and auditor a final indirect cost rate proposal in accordance with 42.705-1(b)(1)."
+            },
+            "2": {
+              "text": "Once a proposal has been determined to be adequate for audit in support of negotiating final indirect cost rates, the auditor shall—"
+            },
+            "a": {
+              "text": "Applicability and responsibility.",
+              "sub": {
+                "1": {
+                  "text": "The cognizant Government auditor shall establish final indirect cost rates for business units not covered in 42.705-1(a)."
+                },
+                "2": {
+                  "text": "In addition, auditor determination may be used for business units that are covered in 42.705-1(a) when the contracting officer (or cognizant Federal agency official) and auditor agree that the indirect costs can be settled with little difficulty and any of the following circumstances apply:"
+                },
+                "i": {
+                  "text": "The business unit has primarily fixed-price contracts, with only minor involvement in cost-reimbursement contracts."
+                },
+                "ii": {
+                  "text": "The administrative cost of contracting officer determination would exceed the expected benefits."
+                },
+                "iii": {
+                  "text": "The business unit does not have a history of disputes and there are few cost problems."
+                },
+                "iv": {
+                  "text": "The contracting officer (or cognizant Federal agency official) and auditor agree that special circumstances require auditor determination."
+                }
+              }
+            },
+            "b": {
+              "text": "Procedures."
+            },
+            "i": {
+              "text": "Audit the proposal and prepare an advisory audit report, including a listing of any relevant advance agreements or restrictive terms of specific contracts;"
+            },
+            "ii": {
+              "text": "Seek agreement on indirect costs with the contractor;"
+            },
+            "iii": {
+              "text": "Prepare an indirect cost rate agreement conforming to the requirements of the contracts.The agreement shall be signed by the contractor and the auditor;"
+            },
+            "iv": {
+              "text": "If agreement with the contractor is not reached, forward the audit report to the contracting officer (or cognizant Federal agency official) identified in the Directory of Contract Administration Services Components (see 42.203), who will then resolve the disagreement; and"
+            },
+            "v": {
+              "text": "Distribute resulting documents in accordance with 42.706."
+            }
+          }
+        },
+        "3": {
+          "name": "Educational institutions.",
+          "text": {
+            "1": {
+              "text": "Under cost-reimbursement research and development contracts with universities, colleges, or other educational institutions (41 U.S.C. 4708), payment for reimbursable indirect costs may be made on the basis of predetermined final indirect cost rates. The cognizant agency is not required to establish predetermined rates, but if they are established, their use must be extended to all the institution’s Government contracts."
+            },
+            "2": {
+              "text": "In deciding whether the use of predetermined rates would be appropriate for the educational institution concerned, the agency should consider both the stability of the institution’s indirect costs and bases over a period of years and any anticipated changes in the amount of the direct and indirect costs."
+            },
+            "3": {
+              "text": "Unless their use is approved at a level in the agency (see paragraph (a)(2) of this subsection) higher than the contracting officer, predetermined rates shall not be used when—",
+              "sub": {
+                "i": {
+                  "text": "There has been no recent audit of the indirect costs;"
+                },
+                "ii": {
+                  "text": "There have been frequent or wide fluctuations in the indirect cost rates and the bases over a period of years; or"
+                },
+                "iii": {
+                  "text": "The estimated reimbursable costs for any individual contract are expected to exceed $1 million annually."
+                }
+              }
+            },
+            "4": {
+              "text": "(i) If predetermined rates are to be used and no rates have been previously established for the institution’s current fiscal year, the agency shall obtain from the institution a proposal for predetermined rates.",
+              "sub": {
+                "ii": {
+                  "text": "If the proposal is found to be generally acceptable, the agency shall negotiate the predetermined rates with the institution. The rates should be based on an audit of the institution’s costs for the year immediately preceding the year in which the rates are being negotiated. If this is not possible, an earlier audit may be used, but appropriate steps should be taken to identify and evaluate significant variations in costs incurred or in bases used that may have a bearing on the reasonableness of the proposed rates. However, in the case of smaller contracts (i.e.,contracts that do not exceed the simplified acquisition threshold), an audit made at an earlier date is acceptable if—"
+                },
+                "A": {
+                  "text": "There have been no significant changes in the contractor’s organization; and"
+                },
+                "B": {
+                  "text": "It is reasonably apparent that another audit would have little effect on the rates finally agreed upon and the potential for overpayment of indirect cost is relatively insignificant."
+                }
+              }
+            },
+            "5": {
+              "text": "If predetermined rates are used—",
+              "sub": {
+                "i": {
+                  "text": "The contracting officer shall include the negotiated rates and bases in the contract Schedule; and"
+                },
+                "ii": {
+                  "text": "See 16.307(g), which prescribes the clause at 52.216-15, Predetermined Indirect Cost Rates."
+                }
+              }
+            },
+            "6": {
+              "text": "Predetermined indirect cost rates shall be applicable for a period of not more than four years. The agency shall obtain the contractor’s proposal for new predetermined rates sufficiently in advance so that the new rates, based on current data, may be promptly negotiated near the beginning of the new fiscal year or other period agreed to by the parties (see paragraphs (b) and (d) of the clause at 52.216-15, Predetermined Indirect Cost Rates)."
+            },
+            "7": {
+              "text": "Contracting officers shall use billing rates established by the agency to reimburse the contractor for work performed during a period not covered by predetermined rates."
+            },
+            "8": {
+              "text": "The OMB Uniform Guidance at 2 CFR part 200, subpart E and appendix III, provides additional guidance on how long predetermined rates may be used."
+            },
+            "a": {
+              "text": "General.",
+              "sub": {
+                "1": {
+                  "text": "Postdetermined final indirect cost rates shall be used in the settlement of indirect costs for all cost-reimbursement contracts with educational institutions, unless predetermined final indirect cost rates are authorized and used (see paragraph (b) of this subsection)."
+                },
+                "2": {
+                  "text": "The OMB Uniform Guidance at 2 CFR part 200, appendix III assigns each educational institution (defined as an institution of higher education in the OMB Uniform Guidance at 2 CFR part 200, subpart A, and 20 U.S.C. 1001) to a single Government agency for the negotiation of indirect cost rates and provides that those rates shall be accepted by all Federal agencies. Cognizant Government agencies and educational institutions are listed in the Directory of Federal Contract Audit Offices (see 42.103)."
+                },
+                "3": {
+                  "text": "The cognizant agency for indirect costs shall establish the billing rates and final indirect cost rates at the educational institution (defined as an institution of higher education in 2 CFR 200, subpart A, and 20 U.S.C. 1001) consistent with the requirements of this subpart, subpart 31.3, and the OMB Uniform Guidance at 2 CFR part 200, subpart E and appendix III. The agency shall follow the procedures outlined in 42.705-1(b)."
+                }
+              }
+            },
+            "b": {
+              "text": "Predetermined final indirect cost rates."
+            }
+          }
+        },
+        "4": {
+          "name": "State and local governments.",
+          "text": {
+            "text": "The OMB Uniform Guidance at 2 CFR part 200, subpart E and appendix V, concerning cost principles for state and local governments (see Subpart 31.6) establishes the cognizant agency concept and the procedures for determining a cognizant agency for approving State and local government indirect costs associated with federally-funded programs and activities. The indirect cost rates negotiated and approved by the cognizant agency for indirect costs will be used by all Federal agencies that also award contracts to these same State and local governments."
+          }
+        },
+        "5": {
+          "name": "Nonprofit organizations other than educational and state and local governments.",
+          "text": {
+            "See the OMB Uniform Guidance at 2 CFR part 200, subpart E and appendix IV; but see appendix VIII for nonprofit organizations exempt from subpart E": {
+              "text": ".)"
+            }
+          }
+        }
+      },
+      "text": {
+        "2": {
+          "text": "This contracting officer determination must be issued as a final decision in accordance with 33.211."
+        },
+        "a": {
+          "text": "Final indirect cost rates shall be established on the basis of—",
+          "sub": {
+            "1": {
+              "text": "Contracting officer determination procedure (see 42.705-1), or"
+            },
+            "2": {
+              "text": "Auditor determination procedure (see 42.705-2)."
+            }
+          }
+        },
+        "b": {
+          "text": "Within 120 days (or longer period, if approved in writing by the contracting officer,) after settlement of the final annual indirect cost rates for all years of a physically complete contract, the contractor must submit a completion invoice or voucher reflecting the settled amounts and rates. To determine whether a period longer than 120 days is appropriate, the contracting officer should consider whether there are extenuating circumstances, such as the following:",
+          "sub": {
+            "1": {
+              "text": "Pending closeout of subcontracts awaiting Government audit."
+            },
+            "2": {
+              "text": "Pending contractor, subcontractor, or Government claims."
+            },
+            "3": {
+              "text": "Delays in the disposition of Government property."
+            },
+            "4": {
+              "text": "Delays in contract reconciliation."
+            },
+            "5": {
+              "text": "Any other pertinent factors."
+            }
+          }
+        },
+        "c": {
+          "text": "(1) If the contractor fails to submit a completion invoice or voucher within the time specified in paragraph (b) of this section, the contracting officer may—"
+        },
+        "i": {
+          "text": "Determine the amounts due to the contractor under the contract; and"
+        },
+        "ii": {
+          "text": "Record this determination in a unilateral modification to the contract."
+        }
+      }
+    },
+    "706": {
+      "number": 706,
+      "name": "Distribution of documents.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer or auditor shall promptly distribute executed copies of the indirect cost rate agreement to the contractor and to each affected contracting agency and shall provide copies of the agreement for the contract files, in accordance with the guidance for contract modifications in Subpart 4.2, Contract Distribution."
+        },
+        "b": {
+          "text": "Copies of the negotiation memorandum prepared under contracting officer determination or audit report prepared under auditor determination shall be furnished, as appropriate, to the contracting offices and Government audit offices."
+        }
+      }
+    },
+    "707": {
+      "number": 707,
+      "name": "Cost-sharing rates and limitations on indirect cost rates.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The Government will not be obligated to pay any additional amount should the final indirect cost rates exceed the negotiated ceiling rates, and"
+        },
+        "2": {
+          "text": "In the event the final indirect cost rates are less than the negotiated ceiling rates, the negotiated rates will be reduced to conform with the lower rates."
+        },
+        "a": {
+          "text": "Cost-sharing arrangements, when authorized, may call for the contractor to participate in the costs of the contract by accepting indirect cost rates lower than the anticipated actual rates. In such cases, a negotiated indirect cost rate ceiling may be incorporated into the contract for prospective application. For cost sharing under research and development contracts, see 35.003(b)."
+        },
+        "b": {
+          "text": "(1) Other situations may make it prudent to provide a final indirect cost rate ceiling in a contract. Examples of such circumstances are when the proposed contractor—",
+          "sub": {
+            "2": {
+              "text": "In such cases, an equitable ceiling covering the final indirect cost rates may be negotiated and specified in the contract."
+            },
+            "i": {
+              "text": "Is a new or recently reorganized company, and there is no past or recent record of incurred indirect costs;"
+            },
+            "ii": {
+              "text": "Has a recent record of a rapidly increasing indirect cost rate due to a declining volume of sales without a commensurate decline in indirect expenses; or"
+            },
+            "iii": {
+              "text": "Seeks to enhance its competitive position in a particular circumstance by basing its proposal on indirect cost rates lower than those that may reasonably be expected to occur during contract performance, thereby causing a cost overrun."
+            }
+          }
+        },
+        "c": {
+          "text": "When ceiling provisions are utilized, the contract shall also provide that—"
+        }
+      }
+    },
+    "708": {
+      "number": 708,
+      "name": "Quick-closeout procedure.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer responsible for contract closeout shall negotiate the settlement of direct and indirect costs for a specific contract, task order, or delivery order to be closed, in advance of the determination of final direct costs and indirect rates set forth in 42.705, if—",
+          "sub": {
+            "1": {
+              "text": "The contract, task order, or delivery order is physically complete;"
+            },
+            "2": {
+              "text": "The amount of unsettled direct costs and indirect costs to be allocated to the contract, task order, or delivery order is relatively insignificant. Cost amounts will be considered relatively insignificant when the total unsettled direct costs and indirect costs to be allocated to any one contract, task order, or delivery order does not exceed the lesser of—",
+              "sub": {
+                "i": {
+                  "text": "$1,000,000; or"
+                },
+                "ii": {
+                  "text": "10 percent of the total contract, task order, or delivery order amount;"
+                }
+              }
+            },
+            "3": {
+              "text": "The contracting officer performs a risk assessment and determines that the use of the quick-closeout procedure is appropriate. The risk assessment shall include—",
+              "sub": {
+                "i": {
+                  "text": "Consideration of the contractor’s accounting, estimating, and purchasing systems;"
+                },
+                "ii": {
+                  "text": "Other concerns of the cognizant contract auditors; and"
+                },
+                "iii": {
+                  "text": "Any other pertinent information, such as, documented history of Federal Government approved indirect cost rate agreements, changes to contractor’s rate structure, volatility of rate fluctuations during affected periods, mergers or acquisitions, special contract provisions limiting contractor’s recovery of otherwise allowable indirect costs under cost reimbursement or time-and-materials contracts; and"
+                }
+              }
+            },
+            "4": {
+              "text": "Agreement can be reached on a reasonable estimate of allocable dollars."
+            }
+          }
+        },
+        "b": {
+          "text": "Determinations of final indirect costs under the quick-closeout procedure provided for by the Allowable Cost and Payment clause at 52.216-7 shall be final for the contract it covers and no adjustment shall be made to other contracts for over- or under-recoveries of costs allocated or allocable to the contract covered by the agreement."
+        },
+        "c": {
+          "text": "Indirect cost rates used in the quick closeout of a contract shall not be considered a binding precedent when establishing the final indirect cost rates for other contracts."
+        }
+      }
+    },
+    "709": {
+      "number": 709,
+      "name": "Penalties for unallowable costs.",
+      "sub": {
+        "0": {
+          "name": "Scope.",
+          "text": {
+            "a": {
+              "text": "This section implements 10 U.S.C. 2324(a) through (d) and 41 U.S.C. 4303. It covers the assessment of penalties against contractors which include unallowable indirect costs in—",
+              "sub": {
+                "1": {
+                  "text": "Final indirect cost rate proposals; or"
+                },
+                "2": {
+                  "text": "The final statement of costs incurred or estimated to be incurred under a fixed-price incentive contract."
+                }
+              }
+            },
+            "b": {
+              "text": "This section applies to all contracts in excess of $750,000, except fixed-price contracts without cost incentives or any firm-fixed-price contracts for the purchase of commercial items."
+            }
+          }
+        },
+        "1": {
+          "name": "General.",
+          "text": {
+            "a": {
+              "text": "The following penalties apply to contracts covered by this section:",
+              "sub": {
+                "1": {
+                  "text": "If the indirect cost is expressly unallowable under a cost principle in the FAR, or an executive agency supplement to the FAR, that defines the allowability of specific selected costs, the penalty is equal to—",
+                  "sub": {
+                    "i": {
+                      "text": "The amount of the disallowed costs allocated to contracts that are subject to this section for which an indirect cost proposal has been submitted; plus"
+                    },
+                    "ii": {
+                      "text": "Interest on the paid portion, if any, of the disallowance."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "If the indirect cost was determined to be unallowable for that contractor before proposal submission, the penalty is two times the amount in paragraph (a)(1)(i) of this section."
+                }
+              }
+            },
+            "b": {
+              "text": "These penalties are in addition to other administrative, civil, and criminal penalties provided by law."
+            },
+            "c": {
+              "text": "It is not necessary for unallowable costs to have been paid to the contractor in order to assess a penalty."
+            }
+          }
+        },
+        "2": {
+          "name": "Responsibilities.",
+          "text": {
+            "1": {
+              "text": "Recommending to the contracting officer which costs may be unallowable and subject to the penalties in 42.709-1(a);"
+            },
+            "2": {
+              "text": "Providing rationale and supporting documentation for any recommendation; and"
+            },
+            "3": {
+              "text": "Referring the matter to the appropriate criminal investigative organization for review and for appropriate coordination of remedies, if there is evidence that the contractor knowingly submitted unallowable costs."
+            },
+            "a": {
+              "text": "The cognizant contracting officer is responsible for—",
+              "sub": {
+                "1": {
+                  "text": "Determining whether the penalties in 42.709-1(a) should be assessed;"
+                },
+                "2": {
+                  "text": "Determining whether such penalties should be waived pursuant to 42.709-5; and"
+                },
+                "3": {
+                  "text": "Referring the matter to the appropriate criminal investigative organization for review and for appropriate coordination of remedies, if there is evidence that the contractor knowingly submitted unallowable costs."
+                }
+              }
+            },
+            "b": {
+              "text": "The contract auditor, in the review and/or the determination of final indirect cost proposals for contracts subject to this section, is responsible for—"
+            }
+          }
+        },
+        "3": {
+          "name": "Assessing the penalty.",
+          "text": {
+            "text": "Unless a waiver is granted pursuant to 42.709-5, the cognizant contracting officer shall—\n\n(a) Assess the penalty in 42.709-1(a)(1), when the submitted cost is expressly unallowable under a cost principle in the FAR or an executive agency supplement that defines the allowability of specific selected costs; or\n\n(b) Assess the penalty in 42.709-1(a)(2), when the submitted cost was determined to be unallowable for that contractor prior to submission of the proposal. Prior determinations of unallowability may be evidenced by—\n\n(1) A DCAA Form 1, Notice of Contract Costs Suspended and/or Disapproved (see 48 CFR 242.705-2), or any similar notice which the contractor elected not to appeal and was not withdrawn by the cognizant Government agency;\n\n(2) A contracting officer final decision which was not appealed;\n\n(3) A prior executive agency Board of Contract Appeals or court decision involving the contractor, which upheld the cost disallowance; or\n\n(4) A determination or agreement of unallowability under 31.201-6.\n\n(c) Issue a final decision (see 33.211) which includes a demand for payment of any penalty assessed under paragraph (a) or (b) of this section. The letter shall state that the determination is a final decision under the Disputes clause of the contract. (Demanding payment of the penalty is separate from demanding repayment of any paid portion of the disallowed cost.)"
+          }
+        },
+        "4": {
+          "name": "Computing interest.",
+          "text": {
+            "text": "For 42.709-1(a)(1)(ii), compute interest on any paid portion of the disallowed cost as follows:\n\n(a) Consider the overpayment to have occurred, and interest to have begun accumulating, from the midpoint of the contractor’s fiscal year. Use an alternate equitable method if the cost was not paid evenly over the fiscal year.\n\n(b) Use the interest rate specified by the Secretary of the Treasury pursuant to Pub. L. 92-41 (85 Stat. 97).\n\n(c) Compute interest from the date of overpayment to the date of the demand letter for payment of the penalty.\n\n(d) Determine the paid portion of the disallowed costs in consultation with the contract auditor."
+          }
+        },
+        "5": {
+          "name": "Waiver of the penalty.",
+          "text": {
+            "text": "The cognizant contracting officer shall waive the penalties at 42.709-1(a) when—\n\n(a) The contractor withdraws the proposal before the Government formally initiates an audit of the proposal and the contractor submits a revised proposal (an audit will be deemed to be formally initiated when the Government provides the contractor with written notice, or holds an entrance conference, indicating that audit work on a specific final indirect cost proposal has begun);\n\n(b) The amount of the unallowable costs under the proposal which are subject to the penalty is $10,000 or less (i.e., if the amount of expressly or previously determined unallowable costs which would be allocated to the contracts specified in 42.709-0(b) is $10,000 or less); or\n\n(c) The contractor demonstrates, to the cognizant contracting officer’s satisfaction, that—\n\n(1) It has established policies and personnel training and an internal control and review system that provide assurance that unallowable costs subject to penalties are precluded from being included in the contractor’s final indirect cost rate proposals (e.g., the types of controls required for satisfactory participation in the Department of Defense sponsored self-governance programs, specific accounting controls over indirect costs, compliance tests which demonstrate that the controls are effective, and Government audits which have not disclosed recurring instances of expressly unallowable costs); and\n\n(2) The unallowable costs subject to the penalty were inadvertently incorporated into the proposal; i.e., their inclusion resulted from an unintentional error, notwithstanding the exercise of due care."
+          }
+        },
+        "6": {
+          "name": "Contract clause.",
+          "text": {
+            "text": "Use the clause at 52.242-3, Penalties for Unallowable Costs, in all solicitations and contracts over $750,000 except fixed-price contracts without cost incentives or any firm-fixed-price contract for the purchase of commercial items. Generally, covered contracts are those which contain one of the clauses at 52.216-7, 52.216-16, or 52.216-17, or a similar clause from an executive agency’s supplement to the FAR."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    }
+  }
+}

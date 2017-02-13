@@ -1,0 +1,22 @@
+{
+  "name": "far-machine-readable",
+  "version": "1.0.0",
+  "description": "Get the FAR into a machine-readable format",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --fix *.js",
+    "test": "npm run lint"
+  },
+  "author": "Greg Walker",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0",
+    "roman-numerals": "^0.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "eslint-config-airbnb-base": "^11.1.0",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}

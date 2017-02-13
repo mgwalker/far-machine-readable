@@ -1,0 +1,165 @@
+{
+  "parentPart": 23,
+  "number": 2,
+  "name": "Energy and Water Efficiency and Renewable Energy",
+  "sub": {
+    "200": {
+      "number": 200,
+      "name": "Scope.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "This subpart prescribes policies and procedures for—",
+          "sub": {
+            "1": {
+              "text": "Acquiring energy- and water-efficient products and services, and products that use renewable energy technology; and"
+            },
+            "2": {
+              "text": "Using an energy-savings performance contract to obtain energy-efficient technologies at Government facilities without Government capital expense."
+            }
+          }
+        },
+        "b": {
+          "text": "This subpart applies to acquisitions in the United States and its outlying areas. Agencies conducting acquisitions outside of theses areas must use their best efforts to comply with this subpart."
+        }
+      }
+    },
+    "201": {
+      "number": 201,
+      "name": "Authorities. ",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Energy Policy and Conservation Act (42 U.S.C. 6361(a)(1)) and Resource Conservation and Recovery Act of 1976 (42 U.S.C. 6901, et seq.)."
+        },
+        "b": {
+          "text": "National Energy Conservation Policy Act (42 U.S.C. 8253, 8259b, 8262g, and 8287)."
+        },
+        "c": {
+          "text": "Section 706 of Division D, Title VII of the Omnibus Appropriations Act, 2009 (Pub. L. 111-8)."
+        },
+        "d": {
+          "text": "Title VI of the Clean Air Act, as amended (42 U.S.C. 7671, et seq.)."
+        },
+        "e": {
+          "text": "Executive Order 11912 of April 13, 1976, Delegations of Authority under the Energy Policy and Conservation Act."
+        },
+        "f": {
+          "text": "Executive Order 13221 of July 31, 2001, Energy-Efficient Standby Power Devices."
+        },
+        "g": {
+          "text": "Executive Order 13423 of January 24, 2007, Strengthening Federal Environmental, Energy, and Transportation Management."
+        },
+        "h": {
+          "text": "Executive Order 13514 of October 5, 2009, Federal Leadership in Environmental, Energy, and Economic Performance."
+        }
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Reducing potable water consumption intensity to include low-flow fixtures and efficient cooling towers;"
+        },
+        "2": {
+          "text": "Reducing agency, industry, landscaping, and agricultural water consumption; and"
+        },
+        "3": {
+          "text": "Storm water management in accordance with section 438 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17094) as implemented in http://www.epa.gov/nps/lid/section438."
+        },
+        "a": {
+          "text": "Introduction. The Government’s policy is to acquire supplies and services that promote a clean energy economy that increases our Nation’s energy security, safeguards the health of our environment, and reduces greenhouse gas emissions from direct and indirect Federal activities. To implement this policy, Federal acquisitions will foster markets for sustainable technologies, products, and services. This policy extends to all acquisitions, including those below the simplified acquisition threshold and those at or below the micro-purchase threshold (including those made with a Government purchase card)."
+        },
+        "b": {
+          "text": "Water-efficient. In accordance with Executive Order 13514, dated October 5, 2009, Federal Leadership in Environmental, Energy, and Economic Performance, it is the policy and objective of the Government to use and manage water through water-efficient means by—"
+        }
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Energy-efficient products.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "ENERGY STAR® at http://www.energystar.gov/products; and"
+        },
+        "2": {
+          "text": "FEMP at http://www1.eere.energy.gov/femp/procurement/eep_requirements.html."
+        },
+        "a": {
+          "text": "Unless exempt as provided at 23.204—",
+          "sub": {
+            "1": {
+              "text": "When acquiring energy-consuming products listed in the ENERGY STAR® Program or Federal Energy Management Program (FEMP)—",
+              "sub": {
+                "i": {
+                  "text": "Agencies shall purchase ENERGY STAR® or FEMP-designated products; and"
+                },
+                "ii": {
+                  "text": "For products that consume power in a standby mode and are listed on FEMP’s Low Standby Power Devices product listing, agencies shall—"
+                },
+                "A": {
+                  "text": "Purchase items which meet FEMP’s standby power wattage recommendation or document the reason for not purchasing such items; or"
+                },
+                "B": {
+                  "text": "If FEMP has listed a product without a corresponding wattage recommendation, purchase items which use no more than one watt in their standby power consuming mode.  When it is impracticable to meet the one watt requirement, agencies shall purchase items with the lowest standby wattage practicable; and"
+                }
+              }
+            },
+            "2": {
+              "text": "When contracting for services or construction that will include the provision of energy-consuming products, agencies shall specify products that comply with the applicable requirements in paragraph (a)(1) of this section."
+            }
+          }
+        },
+        "b": {
+          "text": "Information is available via the Internet about—"
+        }
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Procurement exemptions.",
+      "sub": {},
+      "text": {
+        "text": "An agency is not required to procure an ENERGY STAR® or FEMP-designated product if the head of the agency determines in writing that—\n\n(a) No ENERGY STAR® or FEMP-designated product is reasonably available that meets the functional requirements of the agency; or\n\n(b) No ENERGY STAR® or FEMP-designated product is cost effective over the life of the product taking energy cost savings into account."
+      }
+    },
+    "205": {
+      "number": 205,
+      "name": "Energy-savings performance contracts.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Must use the procedures, selection method, and terms and conditions provided in 10 CFR Part 436, Subpart B; at http://www1.eere.energy.gov/femp/financing/espcs_regulations.html; and"
+        },
+        "2": {
+          "text": "May use the “Qualified List” of energy service companies established by the Department of Energy and other agencies."
+        },
+        "a": {
+          "text": "Agencies should make maximum use of the authority provided in the National Energy Conservation Policy Act (42 U.S.C. 8287) to use an energy-savings performance contract (ESPC), when life-cycle cost-effective, to reduce energy use and cost in the agency’s facilities and operations."
+        },
+        "b": {
+          "text": "(1) Under an ESPC, an agency can contract with an energy service company for a period not to exceed 25 years to improve energy efficiency in one or more agency facilities at no direct capital cost to the United States Treasury. The energy service company finances the capital costs of implementing energy conservation measures and receives, in return, a contractually determined share of the cost savings that result.",
+          "sub": {
+            "2": {
+              "text": "Except as provided in 10 CFR 436.34, ESPC’s are subject to Subpart 17.1."
+            }
+          }
+        },
+        "c": {
+          "text": "To solicit and award an ESPC, the contracting officer—"
+        }
+      }
+    },
+    "206": {
+      "number": 206,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "Unless exempt pursuant to 23.204, insert the clause at 52.223-15, Energy Efficiency in Energy-Consuming Products, in solicitations and contracts when energy-consuming products listed in the ENERGY STAR® Program or FEMP will be—\n\n(a) Delivered;\n\n(b) Acquired by the contractor for use in performing services at a Federally-controlled facility;\n\n(c) Furnished by the contractor for use by the Government; or\n\n(d) Specified in the design of a building or work, or incorporated during its construction, renovation, or maintenance."
+      }
+    }
+  }
+}

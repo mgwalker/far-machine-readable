@@ -1,0 +1,263 @@
+{
+  "parentPart": 12,
+  "number": 2,
+  "name": "Special Requirements for the Acquisition of Commercial Items",
+  "sub": {
+    "201": {
+      "number": 201,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "text": "This subpart identifies special requirements for the acquisition of commercial items intended to more closely resemble those customarily used in the commercial marketplace, as well as other considerations necessary for proper planning, solicitation, evaluation, and award of contracts for commercial items."
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Market research and description of agency need.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Market research (see 10.001) is an essential element of building an effective strategy for the acquisition of commercial items and establishes the foundation for the agency description of need (see Part 11), the solicitation, and resulting contract."
+        },
+        "b": {
+          "text": "The description of agency need must contain sufficient detail for potential offerors of commercial items to know which commercial products or services may be suitable. Generally, for acquisitions in excess of the simplified acquisition threshold, an agency’s statement of need for a commercial item will describe the type of product or service to be acquired and explain how the agency intends to use the product or service in terms of function to be performed, performance requirement or essential physical characteristics. Describing the agency’s needs in these terms allows offerors to propose methods that will best meet the needs of the Government."
+        },
+        "c": {
+          "text": "Follow the procedures in subpart 11.2 regarding the identification and availability of specifications, standards and commercial item descriptions."
+        },
+        "d": {
+          "text": "Requirements documents for electronic and information technology must comply with the applicable accessibility standards issued by the Architectural and Transportation Barriers Compliance Board at 36 CFR Part 1194 (see subpart 39.2)."
+        },
+        "e": {
+          "text": "When acquiring information technology using Internet Protocol, agencies must include the appropriate Internet Protocol compliance requirements in accordance with 11.002(g)."
+        }
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Procedures for solicitation, evaluation, and award.",
+      "sub": {},
+      "text": {
+        "text": "Contracting officers shall use the policies unique to the acquisition of commercial items prescribed in this part in conjunction with the policies and procedures for solicitation, evaluation and award prescribed in Part 13, Simplified Acquisition Procedures; Part 14, Sealed Bidding; or Part 15, Contracting by Negotiation, as appropriate for the particular acquisition. The contracting officer may use the streamlined procedure for soliciting offers for commercial items prescribed in 12.603. For acquisitions of commercial items exceeding the simplified acquisition threshold but not exceeding $7 million ($13 million for acquisitions as described in 13.500(c)), including options, contracting activities may use any of the simplified procedures authorized by subpart 13.5."
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Solicitation/contract form.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer shall use the Standard Form 1449, Solicitation/Contract/Order for Commercial Items, if (1) the acquisition is expected to exceed the simplified acquisition threshold; (2) a paper solicitation or contract is being issued; and (3) procedures at 12.603 are not being used. Use of the SF 1449 is nonmandatory but encouraged for commercial acquisitions not exceeding the simplified acquisition threshold."
+        },
+        "b": {
+          "text": "Consistent with the requirements at 5.203(a) and (h), the contracting officer may allow fewer than 15 days before issuance of the solicitation."
+        }
+      }
+    },
+    "205": {
+      "number": 205,
+      "name": "Offers.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Where technical information is necessary for evaluation of offers, agencies should, as part of market research, review existing product literature generally available in the industry to determine its adequacy for purposes of evaluation. If adequate, contracting officers shall request existing product literature from offerors of commercial items in lieu of unique technical proposals."
+        },
+        "b": {
+          "text": "Contracting officers should allow offerors to propose more than one product that will meet a Government need in response to solicitations for commercial items. The contracting officer shall evaluate each product as a separate offer."
+        },
+        "c": {
+          "text": "Consistent with the requirements at 5.203(b), the contracting officer may allow fewer than 30 days response time for receipt of offers for commercial items, unless the acquisition is covered by the World Trade Organization Government Procurement Agreement or a Free Trade Agreement (see 5.203(h))."
+        }
+      }
+    },
+    "206": {
+      "number": 206,
+      "name": "Use of past performance.",
+      "sub": {},
+      "text": {
+        "text": "Past performance should be an important element of every evaluation and contract award for commercial items. Contracting officers should consider past performance data from a wide variety of sources both inside and outside the Federal Government in accordance with the policies and procedures contained in subpart 9.1, 13.106, or subpart 15.3, as applicable."
+      }
+    },
+    "207": {
+      "number": 207,
+      "name": "Contract type.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "A time-and-materials contract or labor-hour contract (see subpart 16.6) may be used for the acquisition of commercial services when—",
+          "sub": {
+            "1": {
+              "text": "Conduct an analysis of pricing and other relevant factors to determine if the action is in the best interest of the Government;"
+            },
+            "i": {
+              "text": "The service is acquired under a contract awarded using—"
+            },
+            "A": {
+              "text": "Executes a determination and findings (D&F) for the contract, in accordance with paragraph (b)(2) of this section (but see paragraph (c) of this section for indefinite-delivery contracts), that no other contract type authorized by this subpart is suitable;"
+            },
+            "B": {
+              "text": "Includes a ceiling price in the contract or order that the contractor exceeds at its own risk; and"
+            },
+            "C": {
+              "text": "Prior to increasing the ceiling price of a time-and-materials or labor-hour contract or order, shall—"
+            },
+            "ii": {
+              "text": "The contracting officer—"
+            }
+          }
+        },
+        "2": {
+          "text": "Document the decision in the contract or order file; and"
+        },
+        "3": {
+          "text": "When making a change that modifies the general scope of—",
+          "sub": {
+            "2": {
+              "text": "Each D&F required by paragraph (b)(1)(ii)(A) of this section shall contain sufficient facts and rationale to justify that no other contract type authorized by this subpart is suitable. At a minimum, the D&F shall—",
+              "sub": {
+                "i": {
+                  "text": "Include a description of the market research conducted (see 10.002(e));"
+                },
+                "ii": {
+                  "text": "Establish that it is not possible at the time of placing the contract or order to accurately estimate the extent or duration of the work or to anticipate costs with any reasonable degree of confidence;"
+                },
+                "iii": {
+                  "text": "Establish that the requirement has been structured to maximize the use of firm-fixed-price or fixed-price with economic price adjustment contracts (e.g., by limiting the value or length of the time-and-material/labor-hour contract or order; establishing fixed prices for portions of the requirement) on future acquisitions for the same or similar requirements; and"
+                },
+                "iv": {
+                  "text": "Describe actions planned to maximize the use of firm-fixed-price or fixed-price with economic price adjustment contracts on future acquisitions for the same requirements."
+                }
+              }
+            },
+            "3": {
+              "text": "See 16.601(d)(1) for additional approval required for contracts expected to extend beyond three years."
+            },
+            "i": {
+              "text": "A contract, follow the procedures at 6.303;"
+            },
+            "ii": {
+              "text": "An order issued under the Federal Supply Schedules, follow the procedures at 8.405-6; or"
+            },
+            "iii": {
+              "text": "An order issued under multiple award task and delivery order contracts, follow the procedures at 16.505(b)(2)."
+            }
+          }
+        },
+        "4": {
+          "text": "See 8.404(h) for the requirement for determination and findings when using Federal Supply Schedules."
+        },
+        "a": {
+          "text": "Except as provided in paragraph (b) of this section, agencies shall use firm-fixed-price contracts or fixed-price contracts with economic price adjustment for the acquisition of commercial items.\n\n(b)\n\n(b)"
+        },
+        "c": {
+          "text": "(1) Indefinite-delivery contracts (see subpart 16.5) may be used when—",
+          "sub": {
+            "2": {
+              "text": "When an indefinite-delivery contract is awarded with services priced on a time-and-materials or labor-hour basis, contracting officers shall, to the maximum extent practicable, also structure the contract to allow issuance of orders on a firm-fixed-price or fixed-price with economic price adjustment basis. For such contracts, the contracting officer shall execute the D&F required by paragraph (b)(2) of this section, for each order placed on a time-and-materials or labor-hour basis. Placement of orders shall be in accordance with subpart 8.4 or 16.5, as applicable."
+            },
+            "3": {
+              "text": "If an indefinite-delivery contract only allows for the issuance of orders on a time-and-materials or labor-hour basis, the D&F required by paragraph (b)(2) of this section shall be executed to support the basic contract and shall also explain why providing for an alternative firm-fixed-price or fixed-price with economic price adjustment pricing structure is not practicable. The D&F for this contract shall be approved one level above the contracting officer. Placement of orders shall be in accordance with subpart 16.5."
+            },
+            "i": {
+              "text": "The prices are established based on a firm-fixed-price or fixed-price with economic price adjustment; or"
+            },
+            "ii": {
+              "text": "Rates are established for commercial services acquired on a time-and-materials or labor-hour basis."
+            }
+          }
+        },
+        "d": {
+          "text": "The contract types authorized by this subpart may be used in conjunction with an award fee and performance or delivery incentives when the award fee or incentive is based solely on factors other than cost (see 16.202-1 and 16.203-1)."
+        },
+        "e": {
+          "text": "Use of any contract type other than those authorized by this subpart to acquire commercial items is prohibited."
+        }
+      }
+    },
+    "208": {
+      "number": 208,
+      "name": "Contract quality assurance.",
+      "sub": {},
+      "text": {
+        "text": "Contracts for commercial items shall rely on contractors’ existing quality assurance systems as a substitute for Government inspection and testing before tender for acceptance unless customary market practices for the commercial item being acquired include in-process inspection. Any in-process inspection by the Government shall be conducted in a manner consistent with commercial practice."
+      }
+    },
+    "209": {
+      "number": 209,
+      "name": "Determination of price reasonableness.",
+      "sub": {},
+      "text": {
+        "text": "While the contracting officer must establish price reasonableness in accordance with 13.106-3, 14.408-2, or subpart 15.4, as applicable, the contracting officer should be aware of customary commercial terms and conditions when pricing commercial items. Commercial item prices are affected by factors that include, but are not limited to, speed of delivery, length and extent of warranty, limitations of seller’s liability, quantities ordered, length of the performance period, and specific performance requirements. The contracting officer must ensure that contract terms, conditions, and prices are commensurate with the Government’s need."
+      }
+    },
+    "210": {
+      "number": 210,
+      "name": "Contract financing.",
+      "sub": {},
+      "text": {
+        "text": "Customary market practice for some commercial items may include buyer contract financing. The contracting officer may offer Government financing in accordance with the policies and procedures in Part 32."
+      }
+    },
+    "211": {
+      "number": 211,
+      "name": "Technical data.",
+      "sub": {},
+      "text": {
+        "text": "Except as provided by agency-specific statutes, the Government shall acquire only the technical data and the rights in that data customarily provided to the public with a commercial item or process. The contracting officer shall presume that data delivered under a contract for commercial items was developed exclusively at private expense. When a contract for commercial items requires the delivery of technical data, the contracting officer shall include appropriate provisions and clauses delineating the rights in the technical data in addenda to the solicitation and contract (see Part 27 or agency FAR supplements)."
+      }
+    },
+    "212": {
+      "number": 212,
+      "name": "Computer software.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Commercial computer software or commercial computer software documentation shall be acquired under licenses customarily provided to the public to the extent such licenses are consistent with Federal law and otherwise satisfy the Government’s needs. Generally, offerors and contractors shall not be required to—",
+          "sub": {
+            "1": {
+              "text": "Furnish technical information related to commercial computer software or commercial computer software documentation that is not customarily provided to the public; or"
+            },
+            "2": {
+              "text": "Relinquish to, or otherwise provide, the Government rights to use, modify, reproduce, release, perform, display, or disclose commercial computer software or commercial computer software documentation except as mutually agreed to by the parties."
+            }
+          }
+        },
+        "b": {
+          "text": "With regard to commercial computer software and commercial computer software documentation, the Government shall have only those rights specified in the license contained in any addendum to the contract. For additional guidance regarding the use and negotiation of license agreements for commercial computer software, see 27.405-3."
+        }
+      }
+    },
+    "213": {
+      "number": 213,
+      "name": "Other commercial practices.",
+      "sub": {},
+      "text": {
+        "text": "It is a common practice in the commercial marketplace for both the buyer and seller to propose terms and conditions written from their particular perspectives. The terms and conditions prescribed in this part seek to balance the interests of both the buyer and seller. These terms and conditions are generally appropriate for use in a wide range of acquisitions. However, market research may indicate other commercial practices that are appropriate for the acquisition of the particular item. These practices should be considered for incorporation into the solicitation and contract if the contracting officer determines them appropriate in concluding a business arrangement satisfactory to both parties and not otherwise precluded by law or Executive order."
+      }
+    },
+    "214": {
+      "number": 214,
+      "name": "Cost Accounting Standards.",
+      "sub": {},
+      "text": {
+        "text": "Cost Accounting Standards (CAS) do not apply to contracts and subcontracts for the acquisition of commercial items when these contracts and subcontracts are firm-fixed-price or fixed-price with economic price adjustment (provided that the price adjustment is not based on actual costs incurred). See 30.201-1 for CAS applicability to fixed-price with economic price adjustment contracts and subcontracts for commercial items when the price adjustment is based on actual costs incurred. When CAS applies, the contracting officer shall insert the appropriate provisions and clauses as prescribed in 30.201."
+      }
+    },
+    "215": {
+      "number": 215,
+      "name": "Notification of overpayment.",
+      "sub": {},
+      "text": {
+        "text": "If the contractor notifies the contracting officer of a duplicate payment or that the Government has otherwise overpaid, the contracting officer shall follow the procedures at 32.604."
+      }
+    },
+    "216": {
+      "number": 216,
+      "name": "Unenforceability of unauthorized obligations.",
+      "sub": {},
+      "text": {
+        "text": "Many supplies or services are acquired subject to supplier license agreements.  These are particularly common in information technology acquisitions, but they may apply to any supply or service.  For example, computer software and services delivered through the internet (web services) are often subject to license agreements, referred to as End User License Agreements (EULA), Terms of Service (TOS), or other similar legal instruments or agreements.  Many of these agreements contain indemnification clauses that are inconsistent with Federal law and unenforceable, but which could create a violation of the Anti-Deficiency Act (31 U.S.C. 1341) if agreed to by the Government. Paragraph (u) of the clause at 52.212-4 prevents any such violations."
+      }
+    }
+  }
+}

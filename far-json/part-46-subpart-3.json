@@ -1,0 +1,156 @@
+{
+  "parentPart": 46,
+  "number": 3,
+  "name": "Contract Clauses",
+  "sub": {
+    "301": {
+      "number": 301,
+      "name": "Contractor inspection requirements.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.246-1, Contractor Inspection Requirements, in solicitations and contracts for supplies or services when the contract amount is expected to be at or below the simplified acquisition threshold and (a) inclusion of the clause is necessary to ensure an explicit understanding of the contractor’s inspection responsibilities, or (b) inclusion of the clause is required under agency procedures. The clause shall not be used if the contracting officer has made the determination specified in 46.202-2(b)."
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "Fixed-price supply contracts.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.246-2, Inspection of Supplies—Fixed-Price, in solicitations and contracts for supplies, or services that involve the furnishing of supplies, when a fixed-price contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold. The contracting officer may insert the clause in such solicitations and contracts when the contract amount is expected to be at or below the simplified acquisition threshold and inclusion of the clause is in the Government’s interest. If a fixed-price incentive contract is contemplated, the contracting officer shall use the clause with its Alternate I. If a fixed-ceiling-price contract with retroactive price redetermination is contemplated, the contracting officer shall use the clause with its Alternate II."
+      }
+    },
+    "303": {
+      "number": 303,
+      "name": "Cost-reimbursement supply contracts.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.246-3, Inspection of Supplies—Cost-Reimbursement, in solicitations and contracts for supplies, or services that involve the furnishing of supplies, when a cost-reimbursement contract is contemplated."
+      }
+    },
+    "304": {
+      "number": 304,
+      "name": "Fixed-price service contracts.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.246-4, Inspection of Services—Fixed-Price, in solicitations and contracts for services, or supplies that involve the furnishing of services, when a fixed-price contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold. The contracting officer may insert the clause in such solicitations and contracts when the contract amount is expected to be at or below the simplified acquisition threshold and inclusion is in the Government’s interest."
+      }
+    },
+    "305": {
+      "number": 305,
+      "name": "Cost-reimbursement service contracts.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.246-5, Inspection of Services—Cost Reimbursement, in solicitations and contracts for services, or supplies that involve the furnishing of services, when a cost-reimbursement contract is contemplated."
+      }
+    },
+    "306": {
+      "number": 306,
+      "name": "Time-and-material and labor-hour contracts.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.246-6, Inspection—Time-and-Material and Labor-Hour, in solicitations and contracts when a time-and-material contract or a labor-hour contract is contemplated. If Government inspection and acceptance are to be performed at the contractor’s plant, the contracting officer shall use the clause with its Alternate I."
+      }
+    },
+    "307": {
+      "number": 307,
+      "name": "Fixed-price research and development contracts.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer shall insert the clause at 52.246-7, Inspection of Research and Development—Fixed-Price, in solicitations and contracts for research and development when—",
+          "sub": {
+            "1": {
+              "text": "The primary objective of the contract is the delivery of end items other than designs, drawings, or reports,"
+            },
+            "2": {
+              "text": "A fixed-price contract is contemplated, and"
+            },
+            "3": {
+              "text": "The contract amount is expected to exceed the simplified acquisition threshold; unless use of the clause is impractical and the clause prescribed in 46.309 is considered to be more appropriate."
+            }
+          }
+        },
+        "b": {
+          "text": "The contracting officer may insert the clause in such solicitations and contracts when the contract amount is expected to be at or below the simplified acquisition threshold, and its use is in the Government’s interest."
+        }
+      }
+    },
+    "308": {
+      "number": 308,
+      "name": "Cost-reimbursement research and development contracts.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.246-8, Inspection of Research and Development—Cost-Reimbursement, in solicitations and contracts for research and development when (a) the primary objective of the contract is the delivery of end items other than designs, drawings, or reports, and (b) a cost-reimbursement contract is contemplated; unless use of the clause is impractical and the clause prescribed in 46.309 is considered to be more appropriate. If it is contemplated that the contract will be on a no-fee basis, the contracting officer shall use the clause with its Alternate I."
+      }
+    },
+    "309": {
+      "number": 309,
+      "name": "Research and development contracts (short form).",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.246-9, Inspection of Research and Development (Short Form), in solicitations and contracts for research and development when the clause prescribed in 46.307 or the clause prescribed in 46.308 is not used."
+      }
+    },
+    "310": {
+      "number": 310,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "311": {
+      "number": 311,
+      "name": "Higher-level contract quality requirement.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer shall insert the clause at 52.246-11, Higher-Level Contract Quality Requirement, in solicitations and contracts when the inclusion of a higher-level contract quality requirement is necessary (see 46.202-4)."
+        },
+        "b": {
+          "text": "For each higher-level quality standard, the contracting officer shall fill in the title, number, date, and tailoring (if any)."
+        }
+      }
+    },
+    "312": {
+      "number": 312,
+      "name": "Construction contracts.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.246-12, Inspection of Construction, in solicitations and contracts for construction when a fixed-price contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold. The contracting officer may insert the clause in such solicitations and contracts when the contract amount is expected to be at or below the simplified acquisition threshold, and its use is in the Government’s interest."
+      }
+    },
+    "313": {
+      "number": 313,
+      "name": "Contracts for dismantling, demolition, or removal of improvements.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.246-13, Inspection—Dismantling, Demolition, or Removal of Improvements, in solicitations and contracts for dismantling, demolition, or removal of improvements."
+      }
+    },
+    "314": {
+      "number": 314,
+      "name": "Transportation contracts.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.246-14, Inspection of Transportation, in solicitations and contracts for freight transportation services (including local drayage) by rail, motor (including bus), domestic freight forwarder, and domestic water carriers (including inland, coastwise, and intercoastal). The contracting officer shall not use the clause for the acquisition of transportation services by domestic or international air carriers or by international ocean carriers, or to freight services provided under bills of lading or to those negotiated for reduced rates under 49 U.S.C. 10721 or 13712. (See Part 47, Transportation.)"
+      }
+    },
+    "315": {
+      "number": 315,
+      "name": "Certificate of conformance.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.246-15, Certificate of Conformance, in solicitations and contracts for supplies or services when the conditions in 46.504 apply."
+      }
+    },
+    "316": {
+      "number": 316,
+      "name": "Responsibility for supplies.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.246-16, Responsibility for Supplies, in solicitations and contracts for (a) supplies, (b) services involving the furnishing of supplies, or (c) research and development, when a fixed-price contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold. The contracting officer may insert the clause in such solicitations and contracts when the contract amount is not expected to exceed the simplified acquisition threshold and inclusion of the clause is authorized under agency procedures."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "parentPart": 43,
+  "number": 3,
+  "name": "Forms",
+  "sub": {
+    "301": {
+      "number": 301,
+      "name": "Use of forms.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "(1) The Standard Form 30 (SF 30), Amendment of Solicitation/Modification of Contract, shall (except for the options stated in 43.301(a)(2) or actions processed under Part 15) be used for—",
+          "sub": {
+            "2": {
+              "text": "The SF 30 may be used for—",
+              "sub": {
+                "i": {
+                  "text": "Modifications that change the price of contracts for the acquisition of petroleum as a result of economic price adjustment;"
+                },
+                "ii": {
+                  "text": "Termination notices; and"
+                },
+                "iii": {
+                  "text": "Purchase order modifications as specified in 13.302-3."
+                }
+              }
+            },
+            "3": {
+              "text": "If it is anticipated that a change will result in a price change, the estimated amount of the price change shall not be shown on copies of SF 30 furnished to the contractor."
+            },
+            "i": {
+              "text": "Any amendment to a solicitation;"
+            },
+            "ii": {
+              "text": "Change orders issued under the Changes clause of the contract;"
+            },
+            "iii": {
+              "text": "Any other unilateral contract modification issued under a contract clause authorizing such modification without the consent of the contractor;"
+            },
+            "iv": {
+              "text": "Administrative changes such as the correction of typographical mistakes, changes in the paying office, and changes in accounting and appropriation data;"
+            },
+            "v": {
+              "text": "Supplemental agreements (see 43.103); and"
+            },
+            "vi": {
+              "text": "Removal, reinstatement, or addition of funds to a contract."
+            }
+          }
+        },
+        "b": {
+          "text": "The Optional Form 336 (OF 336), Continuation Sheet, or a blank sheet of paper, may be used as a continuation sheet for a contract modification."
+        }
+      }
+    }
+  }
+}

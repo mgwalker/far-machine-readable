@@ -1,0 +1,56 @@
+{
+  "parentPart": 29,
+  "number": 1,
+  "name": "General",
+  "sub": {
+    "101": {
+      "number": 101,
+      "name": "Resolving tax problems.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "For information on foreign tax treaties and agreements in force and on the implementation of any foreign-tax-relief programs; and"
+        },
+        "2": {
+          "text": "To resolve any other tax questions affecting the prospective contract."
+        },
+        "a": {
+          "text": "Contract tax problems are essentially legal in nature and vary widely. Specific tax questions must be resolved by reference to the applicable contract terms and to the pertinent tax laws and regulations. Therefore, when tax questions arise, contracting officers should request assistance from the agency-designated legal counsel."
+        },
+        "b": {
+          "text": "To keep treatment within an agency consistent, contracting officers or other authorized personnel shall consult the agency-designated counsel before negotiating with any taxing authority for the purpose of—",
+          "sub": {
+            "1": {
+              "text": "Determining whether or not a tax is valid or applicable; or"
+            },
+            "2": {
+              "text": "Obtaining exemption from, or refund of, a tax."
+            }
+          }
+        },
+        "c": {
+          "text": "When the constitutional immunity of the Government from State or local taxation may reasonably be at issue, contractors should be discouraged from negotiating independently with taxing authorities if the contract involved is either—",
+          "sub": {
+            "1": {
+              "text": "A cost-reimbursement contract; or"
+            },
+            "2": {
+              "text": "A fixed-price contract containing a tax escalation clause."
+            }
+          }
+        },
+        "d": {
+          "text": "Before purchasing goods or services from a foreign source, the contracting officer should consult the agency-designated counsel—"
+        }
+      }
+    },
+    "000": {
+      "number": 0,
+      "name": "Scope of part.",
+      "sub": {},
+      "text": {
+        "text": "This part prescribes policies and procedures for (a) using tax clauses in contracts (including foreign contracts), (b) asserting immunity or exemption from taxes, and (c) obtaining tax refunds. It explains Federal, State, and local taxes on certain supplies and services acquired by executive agencies and the applicability of such taxes to the Federal Government. It is for the general information of Government personnel and does not present the full scope of the tax laws and regulations."
+      }
+    }
+  }
+}

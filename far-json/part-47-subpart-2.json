@@ -1,0 +1,394 @@
+{
+  "parentPart": 47,
+  "number": 2,
+  "name": "Contracts for Transportation or for Transportation-Related Services",
+  "sub": {
+    "200": {
+      "number": 200,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "This subpart prescribes procedures for the acquisition by sealed bid or negotiated contracts of—",
+          "sub": {
+            "1": {
+              "text": "Freight transportation (including local drayage) from rail, motor (including bus), domestic water (including inland, coastwise, and intercoastal) carriers, and from freight forwarders; and"
+            },
+            "2": {
+              "text": "Transportation-related services including but not limited to stevedoring, storage, packing, marking, and ocean freight forwarding."
+            }
+          }
+        },
+        "b": {
+          "text": "Except as provided in paragraph (c) of this section, this subpart does not apply to—",
+          "sub": {
+            "1": {
+              "text": "The acquisition of freight transportation from—",
+              "sub": {
+                "i": {
+                  "text": "Domestic or international air carriers; and"
+                },
+                "ii": {
+                  "text": "International ocean carriers (see Subparts 47.4 and 47.5);"
+                }
+              }
+            },
+            "2": {
+              "text": "Freight transportation acquired by bills of lading;"
+            },
+            "3": {
+              "text": "Household goods for which rates are negotiated under 49 U.S.C. 10721 and 13712. (These statutes do not apply in intrastate moves); or"
+            },
+            "4": {
+              "text": "Contracts at or below the simplified acquisition threshold."
+            }
+          }
+        },
+        "c": {
+          "text": "With appropriate modifications, the procedures in this subpart may be applied to the acquisition of freight transportation from the carriers listed in paragraph (b)(1) of this section and passenger transportation from any carrier or mode."
+        },
+        "d": {
+          "text": "The procedures in this subpart are applicable to the transportation of household goods of persons being relocated at Government expense except when acquired—",
+          "sub": {
+            "1": {
+              "text": "Under the commuted rate schedules as required in the Federal Travel Regulation (41 CFR Chapter 302);"
+            },
+            "2": {
+              "text": "By DoD under the DoD 4500.9-R, Defense Transportation Regulation; or"
+            },
+            "3": {
+              "text": "Under 49 U.S.C. 10721 and 13712 rates. (These statutes do not apply in intrastate moves.)"
+            }
+          }
+        },
+        "e": {
+          "text": "Additional guidance for DoD acquisition of freight and passenger transportation is in the Defense Transportation Regulation."
+        }
+      }
+    },
+    "201": {
+      "number": 201,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“General freight” means supplies, goods, and transportable property not encompassed in the definitions of “household goods” or “office furniture.”\n\n“Office furniture” means furniture, equipment, fixtures, records, and other equipment and materials used in Government offices, hospitals, and similar establishments."
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Presolicitation planning.",
+      "sub": {},
+      "text": {
+        "text": "Contracting officers shall inform activities that plan to acquire transportation or transportation-related services of the applicable lead-time requirements, that is—\n\n(a) The Service Contract Labor Standards statute requirement to obtain a wage determination by accessing the Wage Determination OnLine website (http://www.wdol.gov) using the WDOL process or by submitting a request directly to the Department of Labor on this website using the e98 process before the issuance of an invitation for bid, request for proposal, or commencement of negotiations for any contract exceeding $2,500 that may be subject to the Service Contract Labor Standards statute (see subpart 22.10);\n\n(b) The possible requirement to provide, during the solicitation period, time for prospective offerors or contractors to inspect origin and destination locations; or\n\n(c) The possible requirement for inspection by agency personnel of prospective contractor facilities and equipment."
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Single-movement contracts.",
+      "sub": {},
+      "text": {
+        "text": "Single-movement contracts may be awarded for unique transportation services that are not otherwise available under carrier tariffs or covered by DoD or GSA contracts; e.g., special requirements at origin and/or destination."
+      }
+    },
+    "205": {
+      "number": 205,
+      "name": "Availability of term contracts and basic ordering agreements for transportation or for transportation-related services.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "All Government agencies may contract for transportation or for transportation-related services and execute basic ordering agreements (BOA’s) (see subpart 16.7) unless agency regulations prescribe otherwise. However, it is generally more economical and efficient for most agencies to make use of term contracts and basic ordering agreements that have been executed by agencies that employ personnel experienced in contracting for transportation or for transportation-related services. The Department of Defense (DoD) and the General Services Administration (GSA) contract for transportation or for transportation-related services on behalf of other activities and agencies. For instance, GSA awards term contracts for services such as local drayage, office moves, and ocean-freight forwarding (see 47.105 for assistance)."
+        },
+        "b": {
+          "text": "Agencies may obtain transportation or transportation-related services for which the cost does not exceed the simplified acquisition threshold if term contracts or basic ordering agreements are not available."
+        }
+      }
+    },
+    "206": {
+      "number": 206,
+      "name": "Preparation of solicitations and contracts.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Contracting officers shall prepare solicitations and contracts for transportation or for transportation-related services as prescribed elsewhere in the FAR for fixed-price service contracts to the extent that those requirements are applicable and not inconsistent with the requirements in subpart 47.2."
+        },
+        "b": {
+          "text": "In addition, the contracting officer shall include in solicitations and contracts for transportation or for transportation-related services provisions, clauses, and instructions as prescribed in section 47.207."
+        }
+      }
+    },
+    "207": {
+      "number": 207,
+      "name": "Solicitation provisions, contract clauses, and special requirements.",
+      "sub": {
+        "0": {
+          "name": "Discrepancies incident to shipments.",
+          "text": {
+            "text": "Discrepancies incident to shipment include overage, shortage, loss, damage, and other discrepancies between the quantity and/or condition of supplies received from commercial carrier and the quantity and/or condition of these supplies as shown on the covering bill of lading or other transportation document. Regulations and procedures for reporting and adjusting discrepancies in Government shipments are in 41 CFR parts 102-117 and 118. (For the Department of Defense (DoD), see DoD 4500.9-R, Defense Transportation Regulation, Part II, Chapter 210)."
+          }
+        },
+        "1": {
+          "name": "Volume movements within the contiguous United States.",
+          "text": {
+            "a": {
+              "text": "For purposes of contract administration, a volume movement is—",
+              "sub": {
+                "1": {
+                  "text": "In DoD, the aggregate of freight shipments amounting to or exceeding 25 carloads, 25 truckloads, or 500,000 pounds, to move during the contract period from one origin point for delivery to one destination point or area; and"
+                },
+                "2": {
+                  "text": "In civilian agencies, 50 short tons (100,000 pounds) in the aggregate to move during the contract period from one origin point for delivery to one destination point or area."
+                }
+              }
+            },
+            "b": {
+              "text": "Transportation personnel assigned to or supporting the CAO, or appropriate agency personnel, shall report planned and actual volume movements in accordance with agency regulations. DoD activities report to the Military Surface Deployment and Distribution Command (SDDC) under DoD 4500.9-R, Defense Transportation Regulation. Civilian agencies report to the local office of GSA’s Office of Transportation (see www.gsa.gov/transportation (click on Transportation Management Zone Offices in left-hand column, then click on Transportation Management Zones under Contacts on right-hand column)."
+            }
+          }
+        },
+        "2": {
+          "name": "Duration of contract and time of performance.",
+          "text": {
+            "text": "The contracting officer shall—\n\n(a) Establish a specific expiration date (month, day, and year) for the contract or state the length of time that the contract will remain in effect; e.g., 6 months commencing from the date of award; and\n\n(b) Include the following items as appropriate:\n\n(1) A statement of the time period during which the service is required when the service is a one-time job; e.g., a routine office relocation.\n\n(2) A time schedule for the performance of segments of a major job; e.g., an office relocation for which the work phases must be coordinated to meet other needs of the agency.\n\n(3) Statements of performance times for particular services; e.g., pickup and delivery services. Specify—\n\n(i) On which days of the week and during which hours of the day pickup and delivery services may be required;\n\n(ii) The maximum time allowable to the contractor for accomplishing delivery under regular or priority service; and\n\n(iii) How much advance notice the contractor will be given for regular pickup services and, if applicable, priority pickup services."
+          }
+        },
+        "3": {
+          "name": "Description of shipment, origin, and destination.",
+          "text": {
+            "1": {
+              "text": "The contracting officer shall state the actual weight of the freight or a reasonably accurate estimate. The following are examples:",
+              "sub": {
+                "i": {
+                  "text": "If the contract covers transportation services required over an extended period of time, include a schedule of actual or estimated tonnage or number of items to be transported per week, month, or other time period."
+                },
+                "ii": {
+                  "text": "If the contract covers a group movement of household goods, give an estimate of the aggregate weights and the basis for determining the aggregate weight."
+                }
+              }
+            },
+            "2": {
+              "text": "The contracting officer shall insert the clause at 52.247-8, Estimated Weights or Quantities Not Guaranteed, when weights or quantities are estimates."
+            },
+            "a": {
+              "text": "Origin of shipments. The contracting officer shall include in solicitations full details regarding the location from which the freight is to be shipped. For example, if a single location is shown, furnish the shipper’s name, street address, city, State, and ZIP code. If several or indefinite locations are involved, as in the case of multiple shippers or drayage contracts, describe the area of origin including boundaries and ZIP codes."
+            },
+            "b": {
+              "text": "Destination of shipments. The contracting officer shall include full details regarding delivery points. For example, if a single delivery point is shown, furnish the consignee’s name, street address, city, State, and ZIP code. If several or indefinite delivery points are involved, describe the delivery area, including boundaries and ZIP codes."
+            },
+            "c": {
+              "text": "Description of the freight. The contracting officer shall include in solicitations—",
+              "sub": {
+                "1": {
+                  "text": "An inventory if the freight consists of nonbulk items; and"
+                },
+                "2": {
+                  "text": "The freight classification description, which should be obtained from the transportation office. If a freight classification description is not available, use a clear nontechnical description. Include additional details necessary to ensure that the prospective offerors have complete information about the freight; e.g., size, weight, hazardous material, whether packed for export, or unusual value."
+                }
+              }
+            },
+            "d": {
+              "text": "Exclusion of freight. The contracting officer shall—",
+              "sub": {
+                "1": {
+                  "text": "Clearly identify any freight or types of shipments that are subject to exclusion; e.g., bulk freight, hazardous commodities, or shipments under or over specified weights; and"
+                },
+                "2": {
+                  "text": "Insert a clause substantially the same as the clause at 52.247-7, Freight Excluded, when any commodities or types of shipments have been identified for exclusion."
+                }
+              }
+            },
+            "e": {
+              "text": "Quantity."
+            }
+          }
+        },
+        "4": {
+          "name": "Determination of weights.",
+          "text": {
+            "text": "The contracting officer shall specify in the contract the method of determining the weights of shipments as appropriate for the kind of freight involved and the type of service required.\n\n(a) Shipments of freight other than household goods and office furniture.\n\n(1) The contracting officer shall insert the clause at 52.247-9, Agreed Weight—General Freight, when the shipping activity determines the weight of shipments of freight other than office furniture.\n\n(2) The contracting officer shall insert the clause at 52.247-10, Net Weight—General Freight, when the weight of shipments of freight other than household goods or office furniture is not known at the time of shipment and the contractor is responsible for determining the net weight of the shipments.\n\n(b) Shipments of household goods or office furniture. The contracting officer shall insert the clause at 52.247-11, Net Weight—Household Goods or Office Furniture, when movements of Government employees’ household goods or relocations of Government offices are involved."
+          }
+        },
+        "5": {
+          "name": "Contractor responsibilities.",
+          "text": {
+            "text": "Contractor responsibilities vary with the kinds of freight to be shipped and services required. The contracting officer shall specify clearly those service requirements that are not considered normal transportation or transportation-related requirements.\n\n(a) Type of equipment. If appropriate, the contracting officer shall specify the type and size of equipment to be furnished by the contractor. Otherwise, state that the contractor shall furnish clean and sound closed-type equipment of sufficient size to accommodate the shipment.\n\n(b) Supervision, labor, or materials. The contracting officer shall insert a clause substantially the same as the clause at 52.247-12, Supervision, Labor, or Materials, when the contractor is required to furnish supervision, labor, or materials.\n\n(c) Accessorial services—moving contracts. The contracting officer shall insert a clause substantially the same as the clause at 52.247-13, Accessorial Services—Moving Contracts, in contracts for the transportation of household goods or office furniture.\n\n(d) Receipt of shipment. The contracting officer shall insert the clause at 52.247-14, Contractor Responsibility for Receipt of Shipment.\n\n(e) Loading and unloading. The contracting officer shall insert the clause at 52.247-15, Contractor Responsibility for Loading and Unloading, when the contractor is responsible for loading and unloading shipments.\n\n(f) Return of undelivered freight. The contracting officer shall insert the clause at 52.247-16, Contractor Responsibility for Returning Undelivered Freight, when the contractor is responsible for returning undelivered freight."
+          }
+        },
+        "6": {
+          "name": "Rates and charges.",
+          "text": {
+            "1": {
+              "text": "Combination of pricing bases. If various types of services with different bases for assessing charges are required under the same contract, show each service separately and the applicable basis for that service."
+            },
+            "2": {
+              "text": "Hourly rate basis. If charges are based on an hourly rate, state the method for charging for fractions of an hour; e.g.—",
+              "sub": {
+                "i": {
+                  "text": "A period of 30 minutes or less is charged at one-half the hourly rate; and"
+                },
+                "ii": {
+                  "text": "The hourly rate applies to any portion of an hour that exceeds 30 minutes."
+                }
+              }
+            },
+            "3": {
+              "text": "Shipments of varying weights. If charges are based on weight and shipments will vary in weight, request rates on a graduated weight basis. Include a table of graduated weights for offerors to insert rates."
+            },
+            "4": {
+              "text": "Multiple origins and/or destinations. Specify whether rates are requested for each origin and/or each destination or for specific groups of origins and/or destinations."
+            },
+            "5": {
+              "text": "Multiple shipments from one origin. If multiple shipments will be tendered at one time to the contractor for delivery to two or more consignees at the same destination, request the rate applicable to the aggregate weight. If such shipments are for delivery to various destinations along the route between origin and last destination, request the rate applicable to the aggregate weight and a stopoff charge for each intermediate destination.",
+              "sub": {
+                "i": {
+                  "text": "The contracting officer shall insert the clause at 52.247-18, Multiple Shipments, when multiple shipments are tendered at one time to the contractor for transportation from one origin to two or more consignees at the same destination."
+                },
+                "ii": {
+                  "text": "The contracting officer shall insert the clause at 52.247-19, Stopping in Transit for Partial Unloading, when multiple shipments are tendered at one time to the contractor for transportation from one origin to two or more consignees along the route between origin and last destination."
+                }
+              }
+            },
+            "6": {
+              "text": "Estimated quantities or weights. The contracting officer shall insert in solicitations the provision at 52.247-20, Estimated Quantities or Weights for Evaluation of Offers, when quantities or weights of shipments between each origin and destination are not known, stating estimated quantity or weight for each origin/destination pair."
+            },
+            "7": {
+              "text": "Additional services. If services in addition to those covered in the basic rate are anticipated; e.g., inside delivery, state the conditions under which payment will be made for those services."
+            },
+            "a": {
+              "text": "(1) The contracting officer shall include in the solicitation a statement that the charges in the contract shall not exceed the contractor’s charges for the same service that is—",
+              "sub": {
+                "2": {
+                  "text": "The contracting officer shall insert the clause at 52.247-17, Charges."
+                },
+                "i": {
+                  "text": "Available to the general public; or"
+                },
+                "ii": {
+                  "text": "Otherwise tendered to the Government."
+                }
+              }
+            },
+            "b": {
+              "text": "The contracting officer shall include in the solicitation a tabulation listing each required service and the basis for the rate (price); e.g., “unit of weight” or “per work-hour,” leaving sufficient space for offerors to insert the rates offered for each service."
+            },
+            "c": {
+              "text": "The following guidelines apply to the composition of a tabulation of transportation or of transportation-related services and their rate (price) bases:"
+            }
+          }
+        },
+        "7": {
+          "name": "Liability and insurance.",
+          "text": {
+            "a": {
+              "text": "The contracting officer shall specify—",
+              "sub": {
+                "1": {
+                  "text": "The contractor’s liability for injury to persons or damage to property other than the freight being transported;"
+                },
+                "2": {
+                  "text": "The contractor’s liability for loss of and/or dam- age to the freight being transported; and"
+                },
+                "3": {
+                  "text": "The amount of insurance the contractor is required to maintain."
+                }
+              }
+            },
+            "b": {
+              "text": "When the contractor’s liability for loss of and/or damage to the freight being transported is not specified, the usual measure of liability as prescribed in section 11706 of the Interstate Commerce Act (49 U.S.C. 11706) applies."
+            },
+            "c": {
+              "text": "The contracting officer shall insert the clause at 52.247-21, Contractor Liability for Personal Injury and/or Property Damage."
+            },
+            "d": {
+              "text": "The contracting officer shall insert the clause at 52.247-22, Contractor Liability for Loss of and/or Damage to Freight other than Household Goods, in solicitations and contracts for the transportation of freight other than household goods."
+            },
+            "e": {
+              "text": "The contracting officer shall insert the clause at 52.247-23, Contractor Liability for Loss of and/or Damage to Household Goods, in solicitations and contracts for the transportation of household goods, including the rate per pound appropriate to the situation."
+            },
+            "f": {
+              "text": "When freight is not shipped under rates subject to released or declared value, see 28.313(a) and the clause at 52.228-9, Cargo Insurance."
+            },
+            "g": {
+              "text": "When the contracting officer determines that vehicular liability and/or general public liability insurance required by law are not sufficient for a contract, see 28.313(b) and the clause at 52.228-10, Vehicular and General Public Liability Insurance."
+            }
+          }
+        },
+        "8": {
+          "name": "Government responsibilities.",
+          "text": {
+            "a": {
+              "text": "The contracting officer shall state clearly the Government’s responsibilities that have a direct bearing on the contractor’s performance under the contract; e.g., the Government’s responsibility to notify the contractor in advance when hazardous materials are included in a shipment.",
+              "sub": {
+                "1": {
+                  "text": "Advance notification. The contracting officer shall insert the clause at 52.247-24, Advance Notification by the Government, when the Government is responsible for notifying the contractor of specific service times or unusual shipments."
+                },
+                "2": {
+                  "text": "Government equipment with or without operators.",
+                  "sub": {
+                    "i": {
+                      "text": "The contracting officer shall insert the clause at 52.247-25, Government-Furnished Equipment With or Without Operators, when the Government furnishes equipment with or without operators."
+                    },
+                    "ii": {
+                      "text": "Insert the kind of equipment and the locations where the equipment will be furnished."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Direction and marking. The contracting officer shall insert the clause at 52.247-26, Government Direction and Marking, when office relocations are involved."
+                }
+              }
+            },
+            "b": {
+              "text": "The contracting officer shall insert the clause at 52.247-27, Contract Not Affected by Oral Agreement."
+            }
+          }
+        },
+        "9": {
+          "name": "Annotation and distribution of shipping and billing documents.",
+          "text": {
+            "a": {
+              "text": "The contracting officer shall state in detail the responsibilities of the contractor, the contracting agency, and, if appropriate, the consignee for the annotation and distribution of shipping and billing documents. See 41 CFR part 102-118, Transportation Payment and Audit."
+            },
+            "b": {
+              "text": "In instances of mass movements of freight made available to the contractor at one time, it is particularly important that the contracting officer specifies that bills of lading be cross-referenced so that the Government benefits from applicable volume rates."
+            },
+            "c": {
+              "text": "The contracting officer shall insert the clause at 52.247-28, Contractor’s Invoices, in drayage or other term contracts."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": "The contracting officer shall include provisions, clauses, and special requirements in solicitations and contracts for transportation or for transportation-related services as prescribed in 47.207-1 through 47.207-9."
+      }
+    },
+    "208": {
+      "number": 208,
+      "name": "Report of shipment (REPSHIP).",
+      "sub": {
+        "1": {
+          "name": "Advance notice.",
+          "text": {
+            "text": "Military (and as required, civilian agency) storage and distribution points, depots, and other receiving activities require advance notice of shipments en route from contractors’plants. Generally, this notification is required only for classified material; sensitive, controlled, and certain other protected material; explosives, and some other hazardous materials; selected shipments requiring movement control; or minimum carload or truckload shipments. It facilitates arrangements for transportation control, labor, space, and use of materials handling equipment at destination. Also, timely receipt of notices by the consignee transportation office precludes the incurring of demurrage and vehicle detention charges."
+          }
+        },
+        "2": {
+          "name": "Contract clause.",
+          "text": {
+            "text": "The contracting officer shall insert the clause at 52.247-68, Report of Shipment (REPSHIP), in solicitations and contracts when advance notice of shipment is required for safety or security reasons, or where carload or truckload shipments will be made to DoD installations or, as required, to civilian agency facilities."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    }
+  }
+}

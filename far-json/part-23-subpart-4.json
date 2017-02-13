@@ -1,0 +1,243 @@
+{
+  "parentPart": 23,
+  "number": 4,
+  "name": "Use of Recovered Materials and Biobased Products",
+  "sub": {
+    "400": {
+      "number": 400,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The agency anticipates the aggregate amount paid will exceed $10,000; or"
+        },
+        "2": {
+          "text": "The agency intends to establish or continue an affirmative procurement program in the following fiscal year."
+        },
+        "a": {
+          "text": "The procedures in this subpart apply to all agency acquisitions of an Environmental Protection Agency (EPA) or United States Department of Agriculture (USDA)-designated item, if—",
+          "sub": {
+            "1": {
+              "text": "The price of the designated item exceeds $10,000; or"
+            },
+            "2": {
+              "text": "The aggregate amount paid for designated items, or for functionally equivalent designated items, in the preceding fiscal year was $10,000 or more."
+            }
+          }
+        },
+        "b": {
+          "text": "While micro-purchases are included in determining the aggregate amount paid under paragraph (a)(2) of this section, it is not recommended that an agency track micro-purchases when—"
+        }
+      }
+    },
+    "401": {
+      "number": 401,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n(a) “EPA-designated item” means a product that is or can be made with recovered material—\n\n(1) That is listed by EPA in a procurement guideline (40 CFR part 247); and\n\n(2) For which EPA has provided purchasing recommendations in a related Recovered Materials Advisory Notice (RMAN) (available at http://www.epa.gov/epawaste/conserve/tools/cpg/index.htm).\n\n(b) “USDA-designated item” means a generic grouping of products that are or can be made with biobased materials—\n\n(1) That is listed by USDA in a procurement guideline (7 CFR part 3201, subpart B); and\n\n(2) For which USDA has provided purchasing recommendations."
+      }
+    },
+    "402": {
+      "number": 402,
+      "name": "Authorities.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The Resource Conservation and Recovery Act of 1976 (RCRA), 42 U.S.C. 6962."
+        },
+        "b": {
+          "text": "The Farm Security and Rural Investment Act of 2002 (FSRIA), 7 U.S.C. 8102."
+        },
+        "c": {
+          "text": "Executive Order 13423 of January 24, 2007, Strengthening Federal Environmental, Energy, and Transportation Management."
+        },
+        "d": {
+          "text": "The Energy Policy Act of 2005, Pub. L. 109-58."
+        },
+        "e": {
+          "text": "Executive Order 13514 of October 5, 2009, Federal Leadership in Environmental, Energy, and Economic Performance."
+        }
+      }
+    },
+    "403": {
+      "number": 403,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "text": "Government policy on the use of products containing recovered materials and biobased products considers cost, availability of competition, and performance. Agencies shall purchase these products or require in the acquisition of services, the delivery, use, or furnishing (see 23.103(b)) of such products. Agency contracts should specify that these products are composed of the highest percent of recovered material or biobased content practicable, or at least meet, but may exceed, the minimum recovered materials or biobased content of an EPA- or USDA- designated product. Agencies shall purchase these products to the maximum extent practicable without jeopardizing the intended use of the product while maintaining a satisfactory level of competition at a reasonable price.  Such products shall meet the reasonable performance standards of the agency and be acquired competitively, in a cost-effective manner. Except as provided at 23.404(b), virgin material shall not be required by the solicitation (see 11.302)."
+      }
+    },
+    "404": {
+      "number": 404,
+      "name": "Agency affirmative procurement programs.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Meet the criteria for the definition of biobased product, except that the products need not meet the requirement that renewable agricultural materials or forestry materials in such product must be domestic; and"
+        },
+        "2": {
+          "text": "Otherwise meet all requirements for participation in the preference program."
+        },
+        "a": {
+          "text": "An agency must establish an affirmative procurement program for EPA and USDA-designated items if the agency’s purchases of designated items exceed the threshold set forth in 23.400.",
+          "sub": {
+            "1": {
+              "text": "Agencies have a period of 1 year to revise their procurement program(s) after the designation of any new item by EPA or USDA."
+            },
+            "2": {
+              "text": "Technical or requirements personnel and procurement personnel are responsible for the preparation, implementation, and monitoring of affirmative procurement programs."
+            },
+            "3": {
+              "text": "Agency affirmative procurement programs must include—"
+            },
+            "i": {
+              "text": "A recovered materials and biobased products preference program;"
+            },
+            "ii": {
+              "text": "An agency promotion program;"
+            },
+            "iii": {
+              "text": "For EPA-designated items only, a program for requiring reasonable estimates, certification, and verification of recovered material used in the performance of contracts.  Both the recovered material content and biobased programs require preaward certification that the products meet EPA or USDA recommendations.  A second certification is required at contract completion for recovered material content; and"
+            },
+            "iv": {
+              "text": "Annual review and monitoring of the effectiveness of the program."
+            }
+          }
+        },
+        "b": {
+          "text": "“Exemptions”.",
+          "sub": {
+            "1": {
+              "text": "Agency affirmative procurement programs must require that 100 percent of purchases of EPA or USDA-designated items contain recovered material or biobased content, respectively, unless the item cannot be acquired—",
+              "sub": {
+                "i": {
+                  "text": "Competitively within a reasonable time frame;"
+                },
+                "ii": {
+                  "text": "Meeting reasonable performance standards; or"
+                },
+                "iii": {
+                  "text": "At a reasonable price."
+                }
+              }
+            },
+            "2": {
+              "text": "EPA and USDA may provide categorical exemptions for items that they designate, when procured for a specific purpose.  For example, all USDA-designated items (see 7 CFR 3201.3 (e)) are exempt from the preferred procurement requirement for the following:"
+            },
+            "i": {
+              "text": "Spacecraft system and launch support equipment."
+            },
+            "ii": {
+              "text": "Military equipment, i.e., a product or system designed or procured for combat or combat-related missions."
+            }
+          }
+        },
+        "c": {
+          "text": "Agency affirmative procurement programs must provide guidance for purchases of EPA-designated items at or below the micro-purchase threshold."
+        },
+        "d": {
+          "text": "Agencies may use their own specifications or commercial product descriptions when procuring products containing recovered materials or biobased products.  When using either, the contract should specify—",
+          "sub": {
+            "1": {
+              "text": "For products containing recovered materials, that the product is composed of the—",
+              "sub": {
+                "i": {
+                  "text": "Highest percent of recovered materials practicable; or"
+                },
+                "ii": {
+                  "text": "Minimum content standards in accordance with EPA’s Recovered Materials Advisory Notices; and"
+                }
+              }
+            },
+            "2": {
+              "text": "For biobased products, that the product is composed of—"
+            },
+            "i": {
+              "text": "The highest percentage of biobased material practicable; or"
+            },
+            "ii": {
+              "text": "USDA’s recommended minimum contents standards."
+            }
+          }
+        },
+        "e": {
+          "text": "Agencies shall treat as eligible for the preference for biobased products, products from “designated countries,” as defined in 25.003, provided that those products—"
+        }
+      }
+    },
+    "405": {
+      "number": 405,
+      "name": "Procedures.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Designated items and procurement guidelines.",
+          "sub": {
+            "1": {
+              "text": "Recovered Materials. Contracting officers should refer to EPA’s list of EPA-designated items (available via the Internet at http://www.epa.gov/cpg/products.htm) and to their agencies’ affirmative procurement program when purchasing products that contain recovered material, or services that could include the use of products that contain recovered material."
+            },
+            "2": {
+              "text": "Biobased products. Contracting officers should refer to USDA’s list of USDA-designated items (available through the Internet at http://www.biopreferred.gov) and to their agencies affirmative procurement program when purchasing supplies that contain biobased material or when purchasing services that could include supplies that contain biobased material."
+            },
+            "3": {
+              "text": "When acquiring recovered material or biobased products, the contracting officer may request information or data on such products, including recycled or biobased content or related standards of the products (see 11.302(c))."
+            }
+          }
+        },
+        "b": {
+          "text": "Procurement exemptions.",
+          "sub": {
+            "1": {
+              "text": "Once an item has been designated by either EPA or USDA, agencies shall purchase conforming products unless an exemption applies (see 23.404(b))."
+            },
+            "2": {
+              "text": "When an exemption is used for an EPA-designated item or the procurement of a product containing recovered material does not meet or exceed the EPA recovered material content guidelines, the contracting officer shall place a written justification in the contract file."
+            }
+          }
+        },
+        "c": {
+          "text": "Program priorities.  When both the USDA-designated item and the EPA-designated item will be used for the same purposes, and both meet the agency’s needs, the agency shall purchase the EPA-designated item."
+        }
+      }
+    },
+    "406": {
+      "number": 406,
+      "name": "Solicitation provisions and contract clauses.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Insert the provision at 52.223-1, Biobased Product Certification, in solicitations that—",
+          "sub": {
+            "1": {
+              "text": "Require the delivery or specify the use of USDA-designated items; or"
+            },
+            "2": {
+              "text": "Include the clause at 52.223-2."
+            }
+          }
+        },
+        "b": {
+          "text": "Insert the clause at 52.223-2, Affirmative Procurement of Biobased Products Under Service and Construction Contracts, in service or construction solicitations and contracts, unless the contract will not involve the use of USDA-designated items at http://www.biopreferred.gov or 7 CFR part 3201."
+        },
+        "c": {
+          "text": "Except for the acquisition of commercially available off-the-shelf items, insert the provision at 52.223-4, Recovered Material Certification, in solicitations that—",
+          "sub": {
+            "1": {
+              "text": "Require the delivery or specify the use of EPA-designated items; or"
+            },
+            "2": {
+              "text": "Include the clause at 52.223-17, Affirmative Procurement of EPA-designated Items in Service and Construction Contracts."
+            }
+          }
+        },
+        "d": {
+          "text": "Except for the acquisition of commercially available off-the-shelf items, insert the clause at 52.223-9, Estimate of Percentage of Recovered Material Content for EPA-designated Items, in solicitations and contracts exceeding $150,000 that are for, or specify the use of, EPA-designated items containing recovered materials.  If technical personnel advise that estimates can be verified, use the clause with its Alternate I."
+        },
+        "e": {
+          "text": "Insert the clause at 52.223-17, Affirmative Procurement of EPA-designated Items in Service and Construction Contracts, in service or construction solicitations and contracts unless the contract will not involve the use of EPA-designated items."
+        }
+      }
+    }
+  }
+}

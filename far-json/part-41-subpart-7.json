@@ -1,0 +1,64 @@
+{
+  "parentPart": 41,
+  "number": 7,
+  "name": "Formats",
+  "sub": {
+    "701": {
+      "number": 701,
+      "name": "Formats for utility service specifications.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The following specification formats for use in acquiring utility services are available from the address specified at 41.301(a) and may be used and modified at the agency’s discretion:",
+          "sub": {
+            "1": {
+              "text": "Electric service."
+            },
+            "2": {
+              "text": "Water service."
+            },
+            "3": {
+              "text": "Steam service."
+            },
+            "4": {
+              "text": "Sewage service."
+            },
+            "5": {
+              "text": "Natural gas service."
+            }
+          }
+        },
+        "b": {
+          "text": "Contracting officers may modify the specification format referenced in paragraph (a) of this section and attach technical items, details on Government ownership of equipment and real property and maintenance or repair obligations, maps or drawings of delivery points, and other information deemed necessary to fully define the service conditions."
+        },
+        "c": {
+          "text": "The specifications and attachments (see paragraph (b) of this section) shall be inserted in Section C of the utility service solicitation and contract."
+        }
+      }
+    },
+    "702": {
+      "number": 702,
+      "name": "Formats for annual utility service review.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Formats for use in conducting annual reviews of the following utility services are available from the address specified at 41.301(a) and may be used at the agency’s discretion:",
+          "sub": {
+            "1": {
+              "text": "Electric service."
+            },
+            "2": {
+              "text": "Gas service."
+            },
+            "3": {
+              "text": "Water and sewage service."
+            }
+          }
+        },
+        "b": {
+          "text": "Contracting officers may modify the annual utility service review format as necessary to fully cover the service used."
+        }
+      }
+    }
+  }
+}

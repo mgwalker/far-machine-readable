@@ -1,0 +1,206 @@
+{
+  "parentPart": 25,
+  "number": 5,
+  "name": "Evaluating Foreign Offers—Supply Contracts",
+  "sub": {
+    "501": {
+      "number": 501,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer—\n\n(a) Must apply the evaluation procedures of this subpart to each line item of an offer unless either the offer or the solicitation specifies evaluation on a group basis (see 25.503);\n\n(b) May rely on the offeror’s certification of end product origin when evaluating a foreign offer;\n\n(c) Must identify and reject offers of end products that are prohibited in accordance with Subpart 25.7; and\n\n(d) Must not use the Buy American statute evaluation factors prescribed in this subpart to provide a preference for one foreign offer over another foreign offer."
+      }
+    },
+    "502": {
+      "number": 502,
+      "name": "Application.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "If application of an evaluation factor results in a tie between a domestic offer and a foreign offer, award on the domestic offer."
+        },
+        "2": {
+          "text": "If no evaluation preference was applied (i.e., offers afforded nondiscriminatory treatment under the Buy American statute), resolve ties between domestic and foreign offers by a witnessed drawing of lots by an impartial individual."
+        },
+        "3": {
+          "text": "Resolve ties between foreign offers from small business concerns (under the Buy American statute, a small business offering a manufactured article that does not meet the definition of “domestic end product” is a foreign offer) or foreign offers from a small business concern and a large business concern in accordance with 14.408-6(a)."
+        },
+        "a": {
+          "text": "Unless otherwise specified in agency regulations, perform the following steps in the order presented:",
+          "sub": {
+            "1": {
+              "text": "Eliminate all offers or offerors that are unacceptable for reasons other than price; e.g., nonresponsive, debarred or suspended, or a prohibited source (see Subpart 25.7)."
+            },
+            "2": {
+              "text": "Rank the remaining offers by price."
+            },
+            "3": {
+              "text": "If the solicitation specifies award on the basis of factors in addition to cost or price, apply the evaluation factors as specified in this section and use the evaluated cost or price in determining the offer that represents the best value to the Government."
+            }
+          }
+        },
+        "b": {
+          "text": "For acquisitions covered by the WTO GPA (see Subpart 25.4)—",
+          "sub": {
+            "1": {
+              "text": "Consider only offers of U.S.-made or designated country end products, unless no offers of such end products were received;"
+            },
+            "2": {
+              "text": "If the agency gives the same consideration given eligible offers to offers of U.S.-made end products that are not domestic end products, award on the low offer. Otherwise, evaluate in accordance with agency procedures; and"
+            },
+            "3": {
+              "text": "If there were no offers of U.S.-made or designated country end products, make a nonavailability determination (see 25.103(b)(2)) and award on the low offer (see 25.403(c))."
+            }
+          }
+        },
+        "c": {
+          "text": "For acquisitions not covered by the WTO GPA, but subject to the Buy American statute (an FTA or the Israeli Trade Act also may apply), the following applies:",
+          "sub": {
+            "1": {
+              "text": "If the low offer is a domestic offer or an eligible offer under an FTA or the Israeli Trade Act, award on that offer."
+            },
+            "2": {
+              "text": "If the low offer is a noneligible offer and there were no domestic offers (see 25.103(b)(3)), award on the low offer."
+            },
+            "3": {
+              "text": "If the low offer is a noneligible offer and there is an eligible offer that is lower than the lowest domestic offer, award on the low offer. The Buy American statute provides an evaluation preference only for domestic offers."
+            },
+            "4": {
+              "text": "Otherwise, apply the appropriate evaluation factor provided in 25.105 to the low offer."
+            },
+            "i": {
+              "text": "If the evaluated price of the low offer remains less than the lowest domestic offer, award on the low offer."
+            },
+            "ii": {
+              "text": "If the price of the lowest domestic offer is less than the evaluated price of the low offer, award on the lowest domestic offer."
+            }
+          }
+        },
+        "d": {
+          "text": "Ties."
+        }
+      }
+    },
+    "503": {
+      "number": 503,
+      "name": "Group offers.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "If the proposed price of domestic end products exceeds 50 percent of the total proposed price of the group, evaluate the entire group as a domestic offer. Evaluate all other groups as foreign offers."
+        },
+        "2": {
+          "text": "For foreign offers, if the proposed price of domestic end products and eligible products exceeds 50 percent of the total proposed price of the group, evaluate the entire group as an eligible offer."
+        },
+        "3": {
+          "text": "Apply the evaluation factor to the entire group in accordance with 25.502."
+        },
+        "a": {
+          "text": "If the solicitation or an offer specifies that award can be made only on a group of line items or on all line items contained in the solicitation or offer, reject the offer—",
+          "sub": {
+            "1": {
+              "text": "If any part of the award would consist of prohibited end products (see Subpart 25.7); or"
+            },
+            "2": {
+              "text": "If the acquisition is covered by the WTO GPA and any part of the offer consists of items restricted in accordance with 22.403(c)."
+            }
+          }
+        },
+        "b": {
+          "text": "If an offer restricts award to a group of line items or to all line items contained in the offer, determine for each line item whether to apply an evaluation factor (see 25.504-4, Example 1).",
+          "sub": {
+            "1": {
+              "text": "First, evaluate offers that do not specify an award restriction on a line item basis in accordance with 25.502, determining a tentative award pattern by selecting for each line item the offer with the lowest evaluated price."
+            },
+            "2": {
+              "text": "Evaluate an offer that specifies an award restriction against the offered prices of the tentative award pattern, applying the appropriate evaluation factor on a line item basis."
+            },
+            "3": {
+              "text": "Compute the total evaluated price for the tentative award pattern and the offer that specified an award restriction."
+            },
+            "4": {
+              "text": "Unless the total evaluated price of the offer that specified an award restriction is less than the total evaluated price of the tentative award pattern, award based on the tentative award pattern."
+            }
+          }
+        },
+        "c": {
+          "text": "If the solicitation specifies that award will be made only on a group of line items or all line items contained in the solicitation, determine the category of end products on the basis of each line item, but determine whether to apply an evaluation factor on the basis of the group of items (see 25.504-4, Example 2)."
+        }
+      }
+    },
+    "504": {
+      "number": 504,
+      "name": "Evaluation examples.",
+      "sub": {
+        "1": {
+          "name": "Buy American statute.",
+          "text": {
+            "2": {
+              "text": "Analysis: This acquisition is for end products for use in the United States and is set aside for small business concerns. The Buy American statute applies. Perform the steps in 25.502(a). Offer C is evaluated as a foreign end product because it is the product of a small business but is not a domestic end product (see 25.502(c)(4)). After applying the 12 percent factor, the evaluated price of Offer C is $11,424. Award on Offer B at $10,700 (see 25.502(c)(4)(ii))."
+            },
+            "a": {
+              "text": "(1) Example 1.",
+              "sub": {
+                "2": {
+                  "text": "Analysis: This acquisition is for end products for use in the United States and is set aside for small business concerns. The Buy American statute applies. Since the acquisition value is less than $25,000 and the acquisition is set aside, none of the trade agreements apply. Perform the steps in 25.502(a). Offer C is evaluated as a foreign end product because it is the product of a small business, but is not a domestic end product (see 25.502(c)(4)). Since Offer B is a domestic offer, apply the 12 percent factor to Offer C (see 25.105(b)(2)). The resulting evaluated price of $11,200 remains lower than Offer B. The cost of Offer B is therefore unreasonable (see 25.105(c)). Award on Offer C at $10,000 (see 25.502(c)(4)(i))."
+                }
+              }
+            },
+            "b": {
+              "text": "(1) Example 2."
+            }
+          }
+        },
+        "2": {
+          "name": "WTO GPA/Caribbean Basin Trade Initiative/FTAs.",
+          "text": {
+            "text": "Example 1.\n\nAnalysis: Eliminate Offer D because the acquisition is covered by the WTO GPA and there is an offer of a U.S.-made or an eligible product (see 25.502(b)(1)). If the agency gives the same consideration given eligible offers to offers of U.S.-made end products that are not domestic offers, it is unnecessary to determine if U.S.-made end products are domestic (large or small business). No further analysis is necessary. Award on the low remaining offer, Offer C (see 25.502(b)(2))."
+          }
+        },
+        "3": {
+          "name": "FTA/Israeli Trade Act.",
+          "text": {
+            "a": {
+              "text": "Example 1.\n\nAnalysis: Since the low offer is an eligible offer, award on the low offer (see 25.502(c)(1)).",
+              "sub": {
+                "text": "Analysis: Since the low offer is an eligible offer, award on the low offer (see 25.502(c)(1))."
+              }
+            },
+            "b": {
+              "text": "Example 2.\n\nAnalysis: Since the acquisition is not covered by the WTO GPA, the contracting officer can consider the noneligible offer. Since no domestic offer was received, make a nonavailability determination and award on Offer B (see 25.502(c)(2)).",
+              "sub": {
+                "text": "Analysis: Since the acquisition is not covered by the WTO GPA, the contracting officer can consider the noneligible offer. Since no domestic offer was received, make a nonavailability determination and award on Offer B (see 25.502(c)(2))."
+              }
+            },
+            "c": {
+              "text": "Example 3.\n\nAnalysis: Since the acquisition is not covered by the WTO GPA, the contracting officer can consider the noneligible offer. Because the eligible offer (Offer B) is lower than the domestic offer (Offer A), no evaluation factor applies to the low offer (Offer C). Award on the low offer (see 25.502(c)(3))."
+            },
+            "Offer B": {
+              "text": "is lower than the domestic offer (Offer A), no evaluation factor applies to the low offer (Offer C). Award on the low offer (see 25.502(c)(3))."
+            }
+          }
+        },
+        "4": {
+          "name": "Group award basis.",
+          "text": {
+            "a": {
+              "text": "Example 1.\n\nProblem: Offeror C specifies all-or-none award. Assume all offerors are large businesses. The acquisition is not covered by the WTO GPA.\n\nAnalysis: (see 25.503)\n\n\n\nSTEP 1: Evaluate Offers A & B before considering Offer C and determine which offer has the lowest evaluated cost for each line item (the tentative award pattern):\n\nItem 1: Low offer A is domestic; select A.\n\nItem 2: Low offer B is eligible; do not apply factor; select B.\n\nItem 3: Low offer A is noneligible and Offer B is a domestic offer. Apply a 6 percent factor to Offer A. The evaluated price of Offer A is higher than Offer B; select B.\n\nItem 4: Low offer A is noneligible. Since neither offer is a domestic offer, no evaluation factor applies; select A.\n\nItem 5: Low offer B is noneligible; apply a 6 percent factor to Offer B. Offer A is still higher than Offer B; select B.\n\n\n\nSTEP 2: Evaluate Offer C against the tentative award pattern for Offers A and B:\n\n*Offer + 6 percent.\n\nOn a line item basis, apply a factor to any noneligible offer if the other offer for that line item is domestic.\n\nFor Item 1, apply a factor to Offer C because Offer A is domestic and the acquisition was not covered by the WTO GPA. The evaluated price of Offer C, Item 1, becomes $53,000 ($50,000 plus 6 percent). Apply a factor to Offer B, Item 5, because it is a noneligible product and Offer C is domestic. The evaluated price of Offer B is $10,600 ($10,000 plus 6 percent). Evaluate the remaining items without applying a factor.\n\n\n\nSTEP 3: The tentative unrestricted award pattern from Offers A and B is lower than the evaluated price of Offer C. Award the combination of Offers A and B. Note that if Offer C had not specified all-or-none award, award would be made on Offer C for line items 1, 3, and 4, totaling an award of $82,000.",
+              "sub": {
+                "text": "Problem: Offeror C specifies all-or-none award. Assume all offerors are large businesses. The acquisition is not covered by the WTO GPA.\n\nAnalysis: (see 25.503)\n\n\n\nSTEP 1: Evaluate Offers A & B before considering Offer C and determine which offer has the lowest evaluated cost for each line item (the tentative award pattern):\n\nItem 1: Low offer A is domestic; select A.\n\nItem 2: Low offer B is eligible; do not apply factor; select B.\n\nItem 3: Low offer A is noneligible and Offer B is a domestic offer. Apply a 6 percent factor to Offer A. The evaluated price of Offer A is higher than Offer B; select B.\n\nItem 4: Low offer A is noneligible. Since neither offer is a domestic offer, no evaluation factor applies; select A.\n\nItem 5: Low offer B is noneligible; apply a 6 percent factor to Offer B. Offer A is still higher than Offer B; select B.\n\n\n\nSTEP 2: Evaluate Offer C against the tentative award pattern for Offers A and B:\n\n*Offer + 6 percent.\n\nOn a line item basis, apply a factor to any noneligible offer if the other offer for that line item is domestic.\n\nFor Item 1, apply a factor to Offer C because Offer A is domestic and the acquisition was not covered by the WTO GPA. The evaluated price of Offer C, Item 1, becomes $53,000 ($50,000 plus 6 percent). Apply a factor to Offer B, Item 5, because it is a noneligible product and Offer C is domestic. The evaluated price of Offer B is $10,600 ($10,000 plus 6 percent). Evaluate the remaining items without applying a factor.\n\n\n\nSTEP 3: The tentative unrestricted award pattern from Offers A and B is lower than the evaluated price of Offer C. Award the combination of Offers A and B. Note that if Offer C had not specified all-or-none award, award would be made on Offer C for line items 1, 3, and 4, totaling an award of $82,000."
+              }
+            },
+            "b": {
+              "text": "Example 2.\n\nProblem: The solicitation specifies award on a group basis. Assume the Buy American statute applies and the acquisition cannot be set aside for small business concerns. All offerors are large businesses.\n\nAnalysis: (see 25.503(c))\n\n\n\nSTEP 1: Determine which of the offers are domestic (see 25.503(c)(1)):\n\nSTEP 2: Determine whether foreign offers are eligible or noneligible offers (see 25.503(c)(2)):\n\nSTEP 3: Determine whether to apply an evaluation factor (see 25.503(c)(3)). The low offer (Offer C) is a foreign offer. There is no eligible offer lower than the domestic offer. Therefore, apply the factor to the low offer. Addition of the 6 percent factor (use 12 percent if Offer A is a small business) to Offer C yields an evaluated price of $96,248 ($90,800 + 6 percent). Award on Offer A (see 25.502(c)(4)(ii)). Note that, if Offer A were greater than Offer B, an evaluation factor would not be applied and award would be on Offer C (see 25.502(c)(3)).\n\nProblem: The solicitation specifies award on a group basis. Assume the Buy American statute applies and the acquisition cannot be set aside for small business concerns. All offerors are large businesses."
+            },
+            "see 25.503(c": {
+              "text": "(3)). The low offer (Offer C) is a foreign offer. There is no eligible offer lower than the domestic offer. Therefore, apply the factor to the low offer. Addition of the 6 percent factor (use 12 percent if Offer A is a small business) to Offer C yields an evaluated price of $96,248 ($90,800 + 6 percent). Award on Offer A (see 25.502(c)(4)(ii)). Note that, if Offer A were greater than Offer B, an evaluation factor would not be applied and award would be on Offer C (see 25.502(c)(3))."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": "The following examples illustrate the application of the evaluation procedures in 25.502 and 25.503. The examples assume that the contracting officer has eliminated all offers that are unacceptable for reasons other than price or a trade agreement (see 25.502(a)(1)). The evaluation factor may change as provided in agency regulations."
+      }
+    }
+  }
+}

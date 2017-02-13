@@ -1,0 +1,604 @@
+{
+  "parentPart": 50,
+  "number": 1,
+  "name": "Extraordinary Contractual Actions",
+  "sub": {
+    "100": {
+      "number": 100,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this part—\n\n“Approving authority” means an agency official or contract adjustment board authorized to approve actions under Pub. L. 85-804 and E.O. 10789.\n\n“Secretarial level” means a level at or above the level of a deputy assistant agency head, or a contract adjustment board."
+      }
+    },
+    "101": {
+      "number": 101,
+      "name": "General.",
+      "sub": {
+        "1": {
+          "name": "Authority. ",
+          "text": {
+            "a": {
+              "text": "Pub. L. 85-804 empowers the President to authorize agencies exercising functions in connection with the national defense to enter into, amend, and modify contracts, without regard to other provisions of law related to making, performing, amending, or modifying contracts, whenever the President considers that such action would facilitate the national defense."
+            },
+            "b": {
+              "text": "E.O. 10789 authorizes the heads of the following agencies to exercise the authority conferred by Pub. L. 85-804 and to delegate it to other officials within the agency: the Government Printing Office; the Department of Homeland Security; the Tennessee Valley Authority; the National Aeronautics and Space Administration; the General Services Administration; the Defense, Army, Navy, Air Force, Treasury, Interior, Agriculture, Commerce, and Transportation Departments; the Department of Energy for functions transferred to that Department from other authorized agencies; and any other agency that may be authorized by the President."
+            }
+          }
+        },
+        "2": {
+          "name": "Policy. ",
+          "text": {
+            "a": {
+              "text": "The authority conferred by Pub. L. 85-804 may not—",
+              "sub": {
+                "1": {
+                  "text": "Be used in a manner that encourages carelessness and laxity on the part of persons engaged in the defense effort; or"
+                },
+                "2": {
+                  "text": "Be relied upon when other adequate legal authority exists within the agency."
+                }
+              }
+            },
+            "b": {
+              "text": "Actions authorized under Pub. L. 85-804 shall be accomplished as expeditiously as practicable, consistent with the care, restraint, and exercise of sound judgment appropriate to the use of such extraordinary authority."
+            },
+            "c": {
+              "text": "Certain kinds of relief previously available only under Pub. L. 85-804; e.g., rescission or reformation for mutual mistake, are now available under the authority of 41 U.S.C. chapter 71, Contract Disputes. In accordance with paragraph (a)(2) of this subsection, part 33 must be followed in preference to subpart 50.1 for such relief. In case of doubt as to whether part 33 applies, the contracting officer should seek legal advice."
+            }
+          }
+        },
+        "3": {
+          "name": "Records.",
+          "text": {
+            "text": "Agencies shall maintain complete records of all actions taken under this subpart 50.1. For each request for relief processed, these records shall include, as a minimum—\n\n(a) The contractor’s request;\n\n(b) All relevant memorandums, correspondence, affidavits, and other pertinent documents;\n\n(c) The Memorandum of Decision (see 50.103-6 and 50.104-2); and\n\n(d) A copy of the contractual document implementing an approved request."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "102": {
+      "number": 102,
+      "name": "Delegation of and limitations on exercise of authority. ",
+      "sub": {
+        "1": {
+          "name": "Delegation of authority. ",
+          "text": {
+            "text": "An agency head may delegate in writing authority under Pub. L. 85-804 and E.O. 10789, subject to the following limitations:\n\n(a) Authority delegated shall be to a level high enough to ensure uniformity of action.\n\n(b) Authority to approve requests to obligate the Government in excess of $70,000 may not be delegated below the secretarial level.\n\n(c) Regardless of dollar amount, authority to approve any amendment without consideration that increases the contract price or unit price may not be delegated below the secretarial level, except in extraordinary cases or classes of cases when the agency head finds that special circumstances clearly justify such delegation.\n\n(d) Regardless of dollar amount, authority to indemnify against unusually hazardous or nuclear risks, including extension of such indemnification to subcontracts, shall be exercised only by the Secretary or Administrator of the agency concerned, the Public Printer, or the Chairman of the Board of Directors of the Tennessee Valley Authority (see 50.104-3)."
+          }
+        },
+        "2": {
+          "name": "Contract adjustment boards. ",
+          "text": {
+            "text": "An agency head may establish a contract adjustment board with authority to approve, authorize, and direct appropriate action under this subpart 50.1 and to make all appropriate determinations and findings. The decisions of the board shall not be subject to appeal; however, the board may reconsider and modify, correct, or reverse its previous decisions. The board shall determine its own procedures and have authority to take all action necessary or appropriate to conduct its functions."
+          }
+        },
+        "3": {
+          "name": "Limitations on exercise of authority.",
+          "text": {
+            "1": {
+              "text": "For the Department of Defense, the Secretary of Defense has determined that the exercise of authority under E.O. 10789 is necessary for the timely and effective conduct of the United States military or intelligence activities, after consideration of the authority provided under the SAFETY Act (Subtitle G of title VIII of the Homeland Security Act of 2002, 6 U.S.C. 441-444); or"
+            },
+            "2": {
+              "text": "For other departments and agencies that have authority under E.O. 10789—"
+            },
+            "a": {
+              "text": "Pub. L. 85-804 is not authority for—",
+              "sub": {
+                "1": {
+                  "text": "Using a cost-plus-a-percentage-of-cost system of contracting;"
+                },
+                "2": {
+                  "text": "Making any contract that violates existing law limiting profit or fees;"
+                },
+                "3": {
+                  "text": "Providing for other than full and open competition for award of contracts for supplies or services; or"
+                },
+                "4": {
+                  "text": "Waiving any bid bond, payment bond, performance bond, or other bond required by law."
+                }
+              }
+            },
+            "b": {
+              "text": "No contract, amendment, or modification shall be made under Pub. L. 85-804’s authority—",
+              "sub": {
+                "1": {
+                  "text": "Unless the approving authority finds that the action will facilitate the national defense;"
+                },
+                "2": {
+                  "text": "Unless other legal authority within the agency concerned is deemed to be lacking or inadequate;"
+                },
+                "3": {
+                  "text": "Except within the limits of the amounts appropriated and the statutory contract authorization (however, indemnification agreements authorized by an agency head (50.104-3) are not limited to amounts appropriated or to contract authorization); and"
+                },
+                "4": {
+                  "text": "That will obligate the Government for any amount over $34 million, unless the Senate and House Committees on Armed Services are notified in writing of the proposed obligation and 60 days of continuous session of Congress have passed since the transmittal of such notification. However, this paragraph (b)(4) does not apply to indemnification agreements authorized under 50.104-3."
+                }
+              }
+            },
+            "c": {
+              "text": "No contract shall be amended or modified unless the contractor submits a request before all obligations (including final payment) under the contract have been discharged. No amendment or modification shall increase the contract price to an amount higher than the lowest rejected bid of any responsible bidder, if the contract was negotiated under 14.404-1(f)."
+            },
+            "d": {
+              "text": "No informal commitment shall be formalized unless—",
+              "sub": {
+                "1": {
+                  "text": "The contractor submits a written request for payment within 6 months after furnishing, or arranging to furnish, supplies or services in reliance upon the commitment; and"
+                },
+                "2": {
+                  "text": "The approving authority finds that, at the time the commitment was made, it was impracticable to use normal contracting procedures."
+                }
+              }
+            },
+            "e": {
+              "text": "The exercise of authority by officials below the secretarial level is subject to the following additional limitations:",
+              "sub": {
+                "1": {
+                  "text": "The action shall not—",
+                  "sub": {
+                    "i": {
+                      "text": "Release a contractor from performance of an obligation over $70,000;"
+                    },
+                    "ii": {
+                      "text": "Result in an increase in cost to the Government over $70,000;"
+                    },
+                    "iii": {
+                      "text": "Deal with, or directly affect, any matter that has been submitted to the Government Accountability Office; or"
+                    },
+                    "iv": {
+                      "text": "Involve disposal of Government surplus property."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "Mistakes shall not be corrected by an action obligating the Government for over $1,000, unless the contracting officer receives notice of the mistake before final payment."
+                },
+                "3": {
+                  "text": "The correction of a contract because of a mistake in its making shall not increase the original contract price to an amount higher than the next lowest responsive offer of a responsible offeror."
+                }
+              }
+            },
+            "f": {
+              "text": "No executive department or agency shall exercise the indemnification authority granted under paragraph 1A of E.O. 10789 with respect to any supply or service that has been, or could be, designated by the Secretary of Homeland Security as a qualified anti-terrorism technology unless—"
+            },
+            "i": {
+              "text": "The Secretary of Homeland Security has advised whether the use of the authority under the SAFETY Act would be appropriate; and"
+            },
+            "ii": {
+              "text": "The Director of the Office of Management and Budget has approved the exercise of authority under the Executive order."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "103": {
+      "number": 103,
+      "name": "Contract adjustments.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "text": "The fact that losses occur under a contract is not sufficient basis for exercising the authority conferred by Pub. L. 85-804. Whether appropriate action will facilitate the national defense is a judgment to be made on the basis of all of the facts of the case. Although it is impossible to predict or enumerate all the types of cases in which action may be appropriate, examples are included in 50.103-2. Even if all of the factors in any of the examples are present, other considerations may warrant denying a contractor's request for contract adjustment. The examples are not intended to exclude other cases in which the approving authority determines that the circumstances warrant action."
+          }
+        },
+        "2": {
+          "name": "Types of contract adjustment.",
+          "text": {
+            "a": {
+              "text": "Amendments without consideration.",
+              "sub": {
+                "1": {
+                  "text": "When an actual or threatened loss under a defense contract, however caused, will impair the productive ability of a contractor whose continued performance on any defense contract or whose continued operation as a source of supply is found to be essential to the national defense, the contract may be amended without consideration, but only to the extent necessary to avoid such impairment to the contractor’s productive ability."
+                },
+                "2": {
+                  "text": "When a contractor suffers a loss (not merely a decrease in anticipated profits) under a defense contract because of Government action, the character of the action will generally determine whether any adjustment in the contract will be made, and its extent. When the Government directs its action primarily at the contractor and acts in its capacity as the other contracting party, the contract may be adjusted in the interest of fairness. Thus, when Government action, while not creating any liability on the Government’s part, increases performance cost and results in a loss to the contractor, fairness may make some adjustment appropriate."
+                }
+              }
+            },
+            "b": {
+              "text": "Correcting mistakes.",
+              "sub": {
+                "1": {
+                  "text": "A contract may be amended or modified to correct or mitigate the effect of a mistake. The following are examples of mistakes that may make such action appropriate:",
+                  "sub": {
+                    "i": {
+                      "text": "A mistake or ambiguity consisting of the failure to express, or express clearly, in a written contract, the agreement as both parties understood it."
+                    },
+                    "ii": {
+                      "text": "A contractor’s mistake so obvious that it was or should have been apparent to the contracting officer."
+                    },
+                    "iii": {
+                      "text": "A mutual mistake as to a material fact."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "Amending contracts to correct mistakes with the least possible delay normally will facilitate the national defense by expediting the contracting program and assuring contractors that mistakes will be corrected expeditiously and fairly."
+                }
+              }
+            },
+            "c": {
+              "text": "Formalizing informal commitments. Under certain circumstances, informal commitments may be formalized to permit payment to persons who have taken action without a formal contract; for example, when a person, responding to an agency official’s written or oral instructions and relying in good faith upon the official’s apparent authority to issue them, has furnished or arranged to furnish supplies or services to the agency, or to a defense contractor or subcontractor, without formal contractual coverage. Formalizing commitments under such circumstances normally will facilitate the national defense by assuring such persons that they will be treated fairly and paid expeditiously."
+            }
+          }
+        },
+        "3": {
+          "name": "Contract adjustment.",
+          "text": {
+            "1": {
+              "text": "The request is made in good faith; and"
+            },
+            "2": {
+              "text": "The supporting data are accurate and complete to the best of that person’s knowledge and belief."
+            },
+            "a": {
+              "text": "Contractor requests. A contractor seeking a contract adjustment shall submit a request in duplicate to the contracting officer or an authorized representative. The request, normally a letter, shall state as a minimum—",
+              "sub": {
+                "1": {
+                  "text": "The precise adjustment requested;"
+                },
+                "2": {
+                  "text": "The essential facts, summarized chronologically in narrative form;"
+                },
+                "3": {
+                  "text": "The contractor’s conclusions based on these facts, showing, in terms of the considerations set forth in 50.103-1 and 50.103-2, when the contractor considers itself entitled to the adjustment; and"
+                },
+                "4": {
+                  "text": "Whether or not—"
+                },
+                "i": {
+                  "text": "All obligations under the contracts involved have been discharged;"
+                },
+                "ii": {
+                  "text": "Final payment under the contracts involved has been made;"
+                },
+                "iii": {
+                  "text": "Any proceeds from the request will be subject to assignment or other transfer, and to whom; and"
+                },
+                "iv": {
+                  "text": "The contractor has sought the same, or a similar or related, adjustment from the Government Accountability Office or any other part of the Government, or anticipates doing so."
+                }
+              }
+            },
+            "b": {
+              "text": "Contractor certification. A contractor seeking a contract adjustment that exceeds the simplified acquisition threshold shall, at the time the request is submitted, submit a certification by a person authorized to certify the request on behalf of the contractor that—"
+            }
+          }
+        },
+        "4": {
+          "name": "Facts and evidence.",
+          "text": {
+            "1": {
+              "text": "Copies of any written instructions or assurances (or a sworn statement of any oral instructions or assurances) given the contractor, and identification of the Government official who gave them."
+            },
+            "2": {
+              "text": "A statement as to when the contractor furnished or arranged to furnish the supplies or services involved, and to whom."
+            },
+            "3": {
+              "text": "Evidence that the contractor relied upon the instructions or assurances, with a full description of the circumstances that led to this reliance."
+            },
+            "4": {
+              "text": "Evidence that, when performing the work, the contractor expected to be compensated directly for it by the Government and did not anticipate recovering the costs in some other way."
+            },
+            "5": {
+              "text": "A cost breakdown supporting the amount claimed as fair compensation for the work performed."
+            },
+            "6": {
+              "text": "A statement and evidence of the impracticability of providing, in an appropriate contractual instrument, for the work performed."
+            },
+            "a": {
+              "text": "General. When it is appropriate, the contracting officer or other agency official shall request the contractor to support any request made under 50.103-3(a) with any of the following information:",
+              "sub": {
+                "1": {
+                  "text": "A brief description of the contracts involved, the dates of execution and amendments, the items being acquired, the price or prices, the delivery schedules, and any special contract provisions relevant to the request."
+                },
+                "2": {
+                  "text": "A history of performance indicating when work under the contracts or commitments began, the progress made to date, an exact statement of the contractor’s remaining obligations, and the contractor’s expectations regarding completion."
+                },
+                "3": {
+                  "text": "A statement of payments received, due, and yet to be received or to become due, including advance and progress payments; amounts withheld by the Government; and information as to any obligations of the Government yet to be performed under the contracts."
+                },
+                "4": {
+                  "text": "A detailed analysis of the request’s monetary elements, including precisely how the actual or estimated dollar amount was determined and the effect of approval or denial on the contractor’s profits before Federal income taxes."
+                },
+                "5": {
+                  "text": "A statement of the contractor’s understanding of why the request’s subject matter cannot now, and could not at the time it arose, be disposed of under the contract terms."
+                },
+                "6": {
+                  "text": "The best supporting evidence available to the contractor, including contemporaneous memorandums, correspondence, and affidavits."
+                },
+                "7": {
+                  "text": "Relevant financial statements, cost analyses, or other such data, preferably certified by a certified public accountant, as necessary to support the request’s monetary elements."
+                },
+                "8": {
+                  "text": "A list of persons connected with the contracts who have factual knowledge of the subject matter, including, when possible, their names, offices or titles, addresses, and telephone numbers."
+                },
+                "9": {
+                  "text": "A statement and evidence of steps taken to reduce losses and claims to a minimum."
+                },
+                "10": {
+                  "text": "Any other relevant statements or evidence that may be required."
+                }
+              }
+            },
+            "b": {
+              "text": "Amendments without consideration-essentiality a factor. When a request involves possible amendment without consideration, and essentiality to the national defense is a factor (50.103-2(a)(1)), the contractor may be asked to furnish, in addition to the facts and evidence listed in paragraph (a) of this subsection, any of the following information:",
+              "sub": {
+                "1": {
+                  "text": "A statement and evidence of the contractor’s original breakdown of estimated costs, including contingency allowances, and profit."
+                },
+                "2": {
+                  "text": "A statement and evidence of the contractor’s present estimate of total costs under the contracts involved if it is enabled to complete them, broken down between costs accrued to date and completion costs, and between costs paid and those owed."
+                },
+                "3": {
+                  "text": "A statement and evidence of the contractor’s estimate of the final price of the contracts, taking into account all known or contemplated escalation, changes, extras, and the like."
+                },
+                "4": {
+                  "text": "A statement of any claims known or contemplated by the contractor against the Government involving the contracts, other than those stated in response to paragraph (b)(3) of this subsection."
+                },
+                "5": {
+                  "text": "An estimate of the contractor’s total profit or loss under the contracts if it is enabled to complete them at the estimated final contract price, broken down between profit or loss to date and completion profit or loss."
+                },
+                "6": {
+                  "text": "An estimate of the contractor’s total profit or loss from other Government business and all other sources, from the date of the first contract involved to the estimated completion date of the last contract involved."
+                },
+                "7": {
+                  "text": "A statement of the amount of any tax refunds to date, and an estimate of those anticipated, for the period from the date of the first contract involved to the estimated completion date of the last contract involved."
+                },
+                "8": {
+                  "text": "A detailed statement of efforts the contractor has made to obtain funds from commercial sources to enable contract completion."
+                },
+                "9": {
+                  "text": "A statement of the minimum amount the contractor needs as an amendment without consideration to enable contract completion, and the detailed basis for that amount."
+                },
+                "10": {
+                  "text": "An estimate of the time required to complete each contract if the request is granted."
+                },
+                "11": {
+                  "text": "A statement of the factors causing the loss under the contracts involved."
+                },
+                "12": {
+                  "text": "A statement of the course of events anticipated if the request is denied."
+                },
+                "13": {
+                  "text": "Balance sheets, preferably certified by a certified public accountant, (i) for the contractor’s fiscal year immediately preceding the date of the first contract, (ii) for each subsequent fiscal year, (iii) as of the request date, and (iv) projected as of the completion date of all the contracts involved (assuming the contractor is enabled to complete them at the estimated final prices), together with income statements for annual periods subsequent to the date of the first balance sheet. Balance sheets and income statements should be both consolidated and broken down by affiliates. They should show all transactions between the contractor and its affiliates, stockholders, and partners, including loans to the contractor guaranteed by any stockholder or partner."
+                },
+                "14": {
+                  "text": "A list of all salaries, bonuses, and other compensation paid or furnished to the principal officers or partners, and of all dividends and other withdrawals, and of all payments to stockholders in any form since the date of the first contract involved."
+                }
+              }
+            },
+            "c": {
+              "text": "Amendments without consideration-essentiality not a factor. When a request involves possible amendment without consideration because of Government action, and essentiality to the national defense is not a factor (50.103-2(a)(2)), the contractor may be asked to furnish, in addition to the facts and evidence listed in paragraph (a) of this subsection, any of the following information:",
+              "sub": {
+                "1": {
+                  "text": "A clear statement of the precise Government action that the contractor considers to have caused a loss under the contract, with evidence to support each essential fact."
+                },
+                "2": {
+                  "text": "A statement and evidence of the contractor’s original breakdown of estimated costs, including contingency allowances, and profit."
+                },
+                "3": {
+                  "text": "The estimated total loss under the contract, with detailed supporting analysis."
+                },
+                "4": {
+                  "text": "The estimated loss resulting specifically from the Government action, with detailed supporting analysis."
+                }
+              }
+            },
+            "d": {
+              "text": "Correcting mistakes. When a request involves possible correction of a mistake (50.103-2(b)), the contractor may be asked to furnish, in addition to the facts and evidence listed in paragraph (a) of this subsection, any of the following information:",
+              "sub": {
+                "1": {
+                  "text": "A statement and evidence of the precise error made, ambiguity existing, or misunderstanding arising, showing what it consists of, how it occurred, and the intention of the parties."
+                },
+                "2": {
+                  "text": "A statement explaining when the mistake was discovered, when the contracting officer was given notice of it, and whether this notice was given before completion of work under, or the effective termination date of, the contract."
+                },
+                "3": {
+                  "text": "An estimate of profit or loss under the contract, with detailed supporting analysis."
+                },
+                "4": {
+                  "text": "An estimate of the increase in cost to the Government resulting from the adjustment requested, with detailed supporting analysis."
+                }
+              }
+            },
+            "e": {
+              "text": "Formalizing informal commitments. When a request involves possible formalizing of an informal commitment (50.103-2(c)), the contractor may be asked to furnish, in addition to the facts and evidence listed in paragraph (a) of this subsection, any of the following information:"
+            }
+          }
+        },
+        "5": {
+          "name": "Processing cases.",
+          "text": {
+            "a": {
+              "text": "In response to a contractor request made in accordance with 50.103-3(a), the contracting officer or an authorized representative shall make a thorough investigation to establish the facts necessary to decide a given case. Facts and evidence, including signed statements of material facts within the knowledge of individuals when documentary evidence is lacking, and audits if considered necessary to establish financial or cost facts, shall be obtained from contractor and Government personnel."
+            },
+            "b": {
+              "text": "When a case involves matters of interest to more than one Government agency, the interested agencies should maintain liaison with each other to determine whether joint action should be taken."
+            },
+            "c": {
+              "text": "When additional funds are required from another agency, the contracting agency may not approve adjustment requests before receiving advice that the funds will be available. The request for this advice shall give the contractor’s name, the contract number, the amount of proposed relief, a brief description of the contract, and the accounting classification or fund citation. If the other agency makes additional funds available, the agency considering the adjustment request shall be solely responsible for any action taken on the request."
+            },
+            "d": {
+              "text": "When essentiality to the national defense is an issue (50.103-2(a)(1)), agencies considering requests for amendment without consideration involving another agency shall obtain advice on the issue from the other agency before making the final decision. When this advice is received, the agency considering the request for amendment without consideration shall be responsible for taking whatever action is appropriate."
+            }
+          }
+        },
+        "6": {
+          "name": "Disposition.",
+          "text": {
+            "text": "When approving or denying a contractor’s request made in accordance with 50.103-3(a), the approving authority shall sign and date a Memorandum of Decision containing—\n\n(a) The contractor’s name and address, the contract identification, and the nature of the request;\n\n(b) A concise description of the supplies or services involved;\n\n(c) The decision reached and the actual cost or estimated potential cost involved, if any;\n\n(d) A statement of the circumstances justifying the decision;\n\n(e) Identification of any of the foregoing information classified “Confidential” or higher (instead of being included in the memorandum, such information may be set forth in a separate classified document referenced in the memorandum); and\n\n(f) If some adjustment is approved, a statement in substantially the following form: “I find that the action authorized herein will facilitate the national defense.” The case files supporting this statement will show the derivation and rationale for the dollar amount of the award. When the dollar amount exceeds the amounts supported by audit or other independent reviews, the approving authority will further document the rationale for deviating from the recommendation."
+          }
+        },
+        "7": {
+          "name": "Contract requirements.",
+          "text": {
+            "a": {
+              "text": "Pub. L. 85-804 and E.O. 10789 require that every contract entered into, amended, or modified under this subpart 50.1 shall contain—",
+              "sub": {
+                "1": {
+                  "text": "A citation of Pub. L. 85-804 and E.O. 10789;"
+                },
+                "2": {
+                  "text": "A brief statement of the circumstances justifying the action; and"
+                },
+                "3": {
+                  "text": "A recital of the finding that the action will facilitate the national defense."
+                }
+              }
+            },
+            "b": {
+              "text": "The authority in 50.101-1(a) shall not be used to omit from contracts, when otherwise required, the clauses at 52.203-5, Covenant Against Contingent Fees; 52.215-2, Audit and Records-Negotiation; 52.222-4, Contract Work Hours and Safety Standards-Overtime Compensation; 52.222-6, Construction Wage Rate Requirements; 52.222-10, Compliance With Copeland Act Requirements; 52.222-20, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000; 52.222-26, Equal Opportunity; and 52.232-23, Assignment of Claims."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": "This section prescribes standards and procedures for processing contractors’ requests for contract adjustment under Pub. L. 85-804 and E.O. 10789."
+      }
+    },
+    "104": {
+      "number": 104,
+      "name": "Residual powers.",
+      "sub": {
+        "1": {
+          "name": "Standards for use.",
+          "text": {
+            "text": "Subject to the limitations in 50.102-3, residual powers may be used in accordance with the policies in 50.101-2 when necessary and appropriate, all circumstances considered. In authorizing the inclusion of the clause at 52.250-1, Indemnification Under Public Law 85-804, in a contract or subcontract, an agency head may require the indemnified contractor to provide and maintain financial protection of the type and amount determined appropriate. In deciding whether to approve use of the indemnification clause, and in determining the type and amount of financial protection the indemnified contractor is to provide and maintain, an agency head shall consider such factors as self-insurance, other proof of financial responsibility, workers’ compensation insurance, and the availability, cost, and terms of private insurance. The approval and determination shall be final."
+          }
+        },
+        "2": {
+          "name": "General.",
+          "text": {
+            "a": {
+              "text": "When approving or denying a proposal for the exercise of residual powers, the approving authority shall sign and date a Memorandum of Decision containing substantially the same information called for by 50.103-6."
+            },
+            "b": {
+              "text": "Every contract entered into, amended, or modified under residual powers shall comply with the requirements of 50.103-7."
+            }
+          }
+        },
+        "3": {
+          "name": "Special procedures for unusually hazardous or nuclear risks.",
+          "text": {
+            "1": {
+              "text": "The contracting officer, with assistance from legal counsel and cognizant program office personnel, shall review the indemnification request and ascertain whether it contains all required information. If the contracting officer, after considering the facts and evidence, denies the request, the contracting officer shall notify the contractor promptly of the denial and of the reasons for it. If recommending approval, the contracting officer shall forward the request (as modified, if necessary, by negotiation) through channels to the appropriate official specified in 50.102-1(d). The contracting officer’s submission shall include all information submitted by the contractor and—",
+              "sub": {
+                "i": {
+                  "text": "All pertinent information regarding the proposed contract or program, including the period of performance, locations, and facilities involved;"
+                },
+                "ii": {
+                  "text": "A definition of the unusually hazardous or nuclear risks involved in the proposed contract or program, with a statement that the parties have agreed to it;"
+                },
+                "iii": {
+                  "text": "A statement by responsible authority that the indemnification action would facilitate the national defense;"
+                },
+                "iv": {
+                  "text": "A statement that the contract will involve unusually hazardous or nuclear risks that could impose liability upon the contractor in excess of financial protection reasonably available;"
+                },
+                "v": {
+                  "text": "A statement that the contractor is complying with applicable Government safety requirements;"
+                },
+                "vi": {
+                  "text": "A statement of whether the indemnification should be extended to subcontractors; and"
+                },
+                "vii": {
+                  "text": "A description of any significant changes in the contractor's insurance coverage (see 50.104-3(a)(2)) occurring since submission of the indemnification request."
+                }
+              }
+            },
+            "2": {
+              "text": "Approval of a request to include the indemnification clause in a contract shall be by a Memorandum of Decision executed by the appropriate official specified in 50.102-1(d)."
+            },
+            "3": {
+              "text": "When use of the indemnification clause is approved under paragraph (b)(2) of this subsection, the definition of unusually hazardous or nuclear risks (see paragraph (b)(1)(ii) of this subsection) shall be incorporated into the contract, along with the clause."
+            },
+            "4": {
+              "text": "When approval is—"
+            },
+            "a": {
+              "text": "Indemnification requests.",
+              "sub": {
+                "1": {
+                  "text": "Contractor requests for the indemnification clause to cover unusually hazardous or nuclear risks should be submitted to the contracting officer and shall include the following information:",
+                  "sub": {
+                    "i": {
+                      "text": "Identification of the contract for which the indemnification clause is requested."
+                    },
+                    "ii": {
+                      "text": "Identification and definition of the unusually hazardous or nuclear risks for which indemnification is requested, with a statement indicating how the contractor would be exposed to them."
+                    },
+                    "iii": {
+                      "text": "A statement, executed by a corporate official with binding contractual authority, of all insurance coverage applicable to the risks to be defined in the contract as unusually hazardous or nuclear, including—"
+                    },
+                    "A": {
+                      "text": "A statement of any insurance coverage of the parent corporation that bears on the risks for which the contractor seeks indemnification; and"
+                    },
+                    "B": {
+                      "text": "A description of the precise legal relationship between parent and subsidiary or division."
+                    },
+                    "C": {
+                      "text": "Dollar limits per occurrence and annually, and any other limitation, for relevant segments of the total insurance coverage;"
+                    },
+                    "D": {
+                      "text": "Deductibles, if any, applicable to losses under the policies;"
+                    },
+                    "E": {
+                      "text": "Any exclusions from coverage under such policies for unusually hazardous or nuclear risks; and"
+                    },
+                    "F": {
+                      "text": "Applicable workers’ compensation insurance coverage."
+                    },
+                    "iv": {
+                      "text": "The controlling or limiting factors for determining the amount of financial protection the contractor is to provide and maintain, with information regarding the availability, cost, and terms of additional insurance or other forms of financial protection."
+                    },
+                    "v": {
+                      "text": "Whether the contractor’s insurance program has been approved or accepted by any Government agency; and whether the contractor has an indemnification agreement covering similar risks under any other Government program, and, if so, a brief description of any limitations."
+                    },
+                    "vi": {
+                      "text": "If the contractor is a division or subsidiary of a parent corporation—"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "If the dollar value of the contractor’s insurance coverage varies by 10 percent or more from that stated in an indemnification request submitted in accordance with paragraph (a)(1) of this subsection, or if other significant changes in insurance coverage occur after submission and before approval, the contractor shall immediately submit to the contracting officer a brief description of the changes."
+                }
+              }
+            },
+            "b": {
+              "text": "Action on indemnification requests."
+            },
+            "i": {
+              "text": "Authorized in the Memorandum of Decision; and"
+            },
+            "ii": {
+              "text": "Justified by the circumstances, the contracting officer may approve the contractor’s written request to provide for indemnification of subcontractors, using the same procedures as those required for contractors."
+            }
+          }
+        },
+        "4": {
+          "name": "Contract clause.",
+          "text": {
+            "text": "The contracting officer shall insert the clause at 52.250-1, Indemnification Under Public Law 85-804, in contracts whenever the approving official determines that the contractor shall be indemnified against unusually hazardous or nuclear risks (also see 50.104-3(b)(3)). In cost-reimbursement contracts, the contracting officer shall use the clause with its Alternate I."
+          }
+        }
+      },
+      "text": {
+        "text": "This section prescribes standards and procedures for exercising residual powers under Pub. L. 85-804. The term “residual powers” includes all authority under Pub. L. 85-804 except—\n\n(a) That covered by section 50.103; and\n\n(b) The authority to make advance payments (see subpart 32.4)."
+      }
+    },
+    "000": {
+      "number": 0,
+      "name": "Scope of part.",
+      "sub": {},
+      "text": {
+        "text": "This part—\n\n(a)(1) Prescribes policies and procedures for entering into, amending, or modifying contracts in order to facilitate the national defense under the extraordinary emergency authority granted by Public Law 85-804 (50 U.S.C. 1431-1434) and Executive Order 10789, dated November 14, 1958. It does not cover advance payments (see subpart 32.4); and\n\n(2) Implements indemnification authority granted by Pub. L. 85-804 and paragraph 1A of E.O. 10789 with respect to any matter that has been, or could be, designated by the Secretary of Homeland Security as a qualified anti-terrorism technology as defined in the Support Anti-terrorism by Fostering Effective Technologies Act of 2002 (SAFETY Act); and\n\n(b) Implements SAFETY Act liability protections to promote development and use of anti-terrorism technologies."
+      }
+    }
+  }
+}

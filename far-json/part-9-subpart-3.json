@@ -1,0 +1,150 @@
+{
+  "parentPart": 9,
+  "number": 3,
+  "name": "First Article Testing and Approval",
+  "sub": {
+    "301": {
+      "number": 301,
+      "name": "Definition.",
+      "sub": {},
+      "text": {
+        "text": "“Approval,” as used in this subpart, means the contracting officer’s written notification to the contractor accepting the test results of the first article."
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "text": "First article testing and approval (hereafter referred to as testing and approval) ensures that the contractor can furnish a product that conforms to all contract requirements for acceptance. Before requiring testing and approval, the contracting officer shall consider the—\n\n(a) Impact on cost or time of delivery;\n\n(b) Risk to the Government of foregoing such test; and\n\n(c) Availability of other, less costly, methods of ensuring the desired quality."
+      }
+    },
+    "303": {
+      "number": 303,
+      "name": "Use.",
+      "sub": {},
+      "text": {
+        "text": "Testing and approval may be appropriate when—\n\n(a) The contractor has not previously furnished the product to the Government;\n\n(b) The contractor previously furnished the product to the Government, but—\n\n(1) There have been subsequent changes in processes or specifications;\n\n(2) Production has been discontinued for an extended period of time; or\n\n(3) The product acquired under a previous contract developed a problem during its life;\n\n(c) The product is described by a performance specification; or\n\n(d) It is essential to have an approved first article to serve as a manufacturing standard."
+      }
+    },
+    "304": {
+      "number": 304,
+      "name": "Exceptions.",
+      "sub": {},
+      "text": {
+        "text": "Normally, testing and approval is not required in contracts for—\n\n(a) Research or development;\n\n(b) Products requiring qualification before award (e.g., when an applicable qualified products list exists (see Subpart 9.2));\n\n(c) Products normally sold in the commercial market; or\n\n(d) Products covered by complete and detailed technical specifications, unless the requirements are so novel or exacting that it is questionable whether the products would meet the requirements without testing and approval."
+      }
+    },
+    "305": {
+      "number": 305,
+      "name": "Risk.",
+      "sub": {},
+      "text": {
+        "text": "Before first article approval, the acquisition of materials or components, or commencement of production, is normally at the sole risk of the contractor. To minimize this risk, the contracting officer shall provide sufficient time in the delivery schedule for acquisition of materials and components, and for production after receipt of first article approval. When Government requirements preclude this action, the contracting officer may, before approval of the first article, authorize the contractor to acquire specific materials or components or commence production to the extent essential to meet the delivery schedule (see Alternate II of the clause at 52.209-3, First Article Approval—Contractor Testing, and Alternate II of the clause at 52.209-4, First Article Approval—Government Testing). Costs incurred based on this authorization are allocable to the contract for—\n\n(1) Progress payments; and\n\n(2) Termination settlements if the contract is terminated for the convenience of the Government."
+      }
+    },
+    "306": {
+      "number": 306,
+      "name": "Solicitation requirements.",
+      "sub": {},
+      "text": {
+        "text": "Solicitations containing a testing and approval requirement shall—\n\n(a) Provide, in the circumstance where the contractor is to be responsible for the first article approval testing—\n\n(1) The performance or other characteristics that the first article must meet for approval;\n\n(2) The detailed technical requirements for the tests that must be performed for approval; and\n\n(3) The necessary data that must be submitted to the Government in the first article approval test report;\n\n(b) Provide, in the circumstance where the Government is to be responsible for the first article approval testing—\n\n(1) The performance or other characteristics that the first article must meet for approval; and\n\n(2) The tests to which the first article will be subjected for approval;\n\n(c) Inform offerors that the requirement may be waived when supplies identical or similar to those called for have previously been delivered by the offeror and accepted by the Government (see 52.209-3(h) and 52.209-4(i));\n\n(d) Permit the submission of alternative offers, one including testing and approval and the other excluding testing and approval (if eligible under 9.306(c));\n\n(e) State clearly the first article’s relationship to the contract quantity (see paragraph (e) of the clause at 52.209-3, First Article Approval—Contractor Testing, or 52.209-4, First Article Approval—Government Testing);\n\n(f) Contain a delivery schedule for the production quantity (see 12.104). The delivery schedule may—\n\n(1) Be the same whether or not testing and approval is waived; or\n\n(2) Provide for earlier delivery when testing and approval is waived and the Government desires earlier delivery. In the latter case, any resulting difference in delivery schedules shall not be a factor in evaluation for award. The clause at 52.209-4, First Article Approval—Government Testing, shall contain the delivery schedule for the first article;\n\n(g) Provide for the submission of contract numbers, if any, to document the offeror’s eligibility under 9.306(c);\n\n(h) State whether the approved first article will serve as a manufacturing standard; and\n\n(i) Include, when the Government is responsible for first article testing, the Government’s estimated testing costs as a factor for use in evaluating offers (when appropriate).\n\n(j) Inform offerors that the prices for first articles and first article tests in relation to production quantities shall not be materially unbalanced (see 15.404-1(g)) if first article test items or tests are to be separately priced."
+      }
+    },
+    "307": {
+      "number": 307,
+      "name": "Government administration procedures.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Before the contractor ships the first article, or the first article test report, to the Government laboratory or other activity responsible for approval at the address specified in the contract, the contract administration office shall provide that activity with as much advance notification as is feasible of the forthcoming shipment, and—",
+          "sub": {
+            "1": {
+              "text": "Advise that activity of the contractual requirements for testing and approval, or evaluation, as appropriate;"
+            },
+            "2": {
+              "text": "Call attention to the notice requirement in paragraph (b) of the clause at 52.209-3, First Article Approval—Contractor Testing, or 52.209-4, First Article Approval—Government Testing; and"
+            },
+            "3": {
+              "text": "Request that the activity inform the contract administration office of the date when testing or evaluation will be completed."
+            }
+          }
+        },
+        "b": {
+          "text": "The Government laboratory or other activity responsible for first article testing or evaluation shall inform the contracting office whether to approve, conditionally approve, or disapprove the first article. The contracting officer shall then notify the contractor of the action taken and furnish a copy of the notice to the contract administration office. The notice shall include the first article shipment number, when available, and the applicable line item number. Any changes in the drawings, designs, or specifications determined by the contracting officer to be necessary shall be made under the Changes clause, and not by the notice of approval, conditional approval, or disapproval furnished the contractor."
+        }
+      }
+    },
+    "308": {
+      "number": 308,
+      "name": "Contract clauses.",
+      "sub": {
+        "1": {
+          "name": "Testing performed by the contractor.",
+          "text": {
+            "2": {
+              "text": "If it is intended that the contractor be required to produce the first article and the production quantity at the same facility, the contracting officer shall use a clause substantially the same as the clause at 52.209-3, First Article Approval—Contractor Testing, with its Alternate I."
+            },
+            "3": {
+              "text": "If it is necessary to authorize the contractor to purchase material or to commence production before first article approval, the contracting officer shall use a clause substantially the same as the clause at 52.209-3, First Article Approval—Contractor Testing, with its Alternate II."
+            },
+            "a": {
+              "text": "(1) The contracting officer shall insert the clause at 52.209-3, First Article Approval—Contractor Testing, in solicitations and contracts when a fixed-price contract is contemplated and it is intended that the contract require—",
+              "sub": {
+                "2": {
+                  "text": "If it is intended that the contractor be required to produce the first article and the production quantity at the same facility, the contracting officer shall use the clause with its Alternate I."
+                },
+                "3": {
+                  "text": "If it is necessary to authorize the contractor to purchase material or to commence production before first article approval, the contracting officer shall use the clause with its Alternate II."
+                },
+                "i": {
+                  "text": "First article approval; and"
+                },
+                "ii": {
+                  "text": "That the contractor be required to conduct the first article testing."
+                }
+              }
+            },
+            "b": {
+              "text": "(1) The contracting officer shall insert a clause substantially the same as the clause at 52.209-3, First Article Approval—Contractor Testing, in solicitations and contracts when a cost-reimbursement contract is contemplated and it is intended that the contract require—"
+            },
+            "i": {
+              "text": "First article approval; and"
+            },
+            "ii": {
+              "text": "That the contractor be required to conduct the first article test."
+            }
+          }
+        },
+        "2": {
+          "name": "Testing performed by the Government.",
+          "text": {
+            "2": {
+              "text": "If it is intended that the contractor be required to produce the first article and the production quantity at the same facility, the contracting officer shall use a clause substantially the same as the clause at 52.209-4, First Article Approval—Government Testing, with its Alternate I."
+            },
+            "3": {
+              "text": "If it is necessary to authorize the contractor to purchase material or to commence production before first article approval, the contracting officer shall use a clause substantially the same as the clause at 52.209-4, First Article Approval—Government Testing, with its Alternate II."
+            },
+            "a": {
+              "text": "(1) The contracting officer shall insert the clause at 52.209-4, First Article Approval—Government Testing, in solicitations and contracts when a fixed-price contract is contemplated and it is intended that the contract require first article approval and that the Government will be responsible for conducting the first article test.",
+              "sub": {
+                "2": {
+                  "text": "If it is intended that the contractor be required to produce the first article and the production quantity at the same facility, the contracting officer shall use the basic clause with its Alternate I."
+                },
+                "3": {
+                  "text": "If it is necessary to authorize the contractor to purchase material or to commence production before first article approval, the contracting officer shall use the basic clause with its Alternate II."
+                }
+              }
+            },
+            "b": {
+              "text": "(1) The contracting officer shall insert a clause substantially the same as the clause at 52.209-4, First Article Approval—Government Testing, in solicitations and contracts when a cost-reimbursement contract is contemplated and it is intended that the contract require first article approval and that the Government be responsible for conducting the first article test."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    }
+  }
+}

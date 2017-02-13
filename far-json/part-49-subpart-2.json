@@ -1,0 +1,296 @@
+{
+  "parentPart": 49,
+  "number": 2,
+  "name": "Additional Principles for Fixed-Price Contracts Terminated for Convenience",
+  "sub": {
+    "201": {
+      "number": 201,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "A settlement should compensate the contractor fairly for the work done and the preparations made for the terminated portions of the contract, including a reasonable allowance for profit. Fair compensation is a matter of judgment and cannot be measured exactly. In a given case, various methods may be equally appropriate for arriving at fair compensation. The use of business judgment, as distinguished from strict accounting principles, is the heart of a settlement."
+        },
+        "b": {
+          "text": "The primary objective is to negotiate a settlement by agreement. The parties may agree upon a total amount to be paid the contractor without agreeing on or segregating the particular elements of costs or profit comprising this amount."
+        },
+        "c": {
+          "text": "Cost and accounting data may provide guides, but are not rigid measures, for ascertaining fair compensation. In appropriate cases, costs may be estimated, differences compromised, and doubtful questions settled by agreement. Other types of data, criteria, or standards may furnish equally reliable guides to fair compensation. The amount of recordkeeping, reporting, and accounting related to the settlement of terminated contracts should be kept to a minimum compatible with the reasonable protection of the public interest."
+        }
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Profit.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Comply with paragraphs (a) and (b) of this section;"
+        },
+        "2": {
+          "text": "Allow profit on the prime contractor’s settlements with construction subcontractors for actual work in place at the job site; and"
+        },
+        "3": {
+          "text": "Exclude profit on the prime contractor’s settlements with construction subcontractors for materials on hand and for preparations made to complete the work."
+        },
+        "a": {
+          "text": "The TCO shall allow profit on preparations made and work done by the contractor for the terminated portion of the contract but not on the settlement expenses. Anticipatory profits and consequential damages shall not be allowed (but see 49.108-5). Profit for the contractor’s efforts in settling subcontractor proposals shall not be based on the dollar amount of the subcontract settlement agreements but the contractor’s efforts will be considered in determining the overall rate of profit allowed the contractor. Profit shall not be allowed the contractor for material or services that, as of the effective date of termination, have not been delivered by a subcontractor, regardless of the percentage of completion. The TCO may use any reasonable method to arrive at a fair profit."
+        },
+        "b": {
+          "text": "In negotiating or determining profit, factors to be considered include—",
+          "sub": {
+            "1": {
+              "text": "Extent and difficulty of the work done by the contractor as compared with the total work required by the contract (engineering estimates of the percentage of completion ordinarily should not be required, but if available should be considered);"
+            },
+            "2": {
+              "text": "Engineering work, production scheduling, planning, technical study and supervision, and other necessary services;"
+            },
+            "3": {
+              "text": "Efficiency of the contractor, with particular regard to—",
+              "sub": {
+                "i": {
+                  "text": "Attainment of quantity and quality production;"
+                },
+                "ii": {
+                  "text": "Reduction of costs;"
+                },
+                "iii": {
+                  "text": "Economic use of materials, facilities, and manpower; and"
+                },
+                "iv": {
+                  "text": "Disposition of termination inventory;"
+                }
+              }
+            },
+            "4": {
+              "text": "Amount and source of capital and extent of risk assumed;"
+            },
+            "5": {
+              "text": "Inventive and developmental contributions, and cooperation with the Government and other contractors in supplying technical assistance;"
+            },
+            "6": {
+              "text": "Character of the business, including the source and nature of materials and the complexity of manufacturing techniques;"
+            },
+            "7": {
+              "text": "The rate of profit that the contractor would have earned had the contract been completed;"
+            },
+            "8": {
+              "text": "The rate of profit both parties contemplated at the time the contract was negotiated; and"
+            },
+            "9": {
+              "text": "Character and difficulty of subcontracting, including selection, placement, and management of subcontracts, and effort in negotiating settlements of terminated subcontracts."
+            }
+          }
+        },
+        "c": {
+          "text": "When computing profit on the terminated portion of a construction contract, the contracting officer shall—"
+        }
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Adjustment for loss.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The amount negotiated or determined for settlement expenses."
+        },
+        "2": {
+          "text": "The remainder of the total settlement amount otherwise agreed upon or determined (lines 7 and 14 of SF 1436, Settlement Proposal (Total Cost Basis)) reduced by multiplying the remainder by the ratio of—"
+        },
+        "a": {
+          "text": "In the negotiation or determination of any settlement, the TCO shall not allow profit if it appears that the contractor would have incurred a loss had the entire contract been completed. The TCO shall negotiate or determine the amount of loss and make an adjustment in the amount of settlement as specified in paragraph (b) or (c) of this section. In estimating the cost to complete, the TCO shall consider expected production efficiencies and other factors affecting the cost to complete."
+        },
+        "b": {
+          "text": "If the settlement is on an inventory basis (see 49.206-2(a)), the contractor shall not be paid more than the total of the amounts in paragraphs (b)(1), (2), and (3) of this section, less all disposal credits and all unliquidated advance and progress payments previously made under the contract:",
+          "sub": {
+            "1": {
+              "text": "The amount negotiated or determined for settlement expenses."
+            },
+            "2": {
+              "text": "The contract price, as adjusted, for acceptable completed end items (see 49.205)."
+            },
+            "3": {
+              "text": "The remainder of the settlement amount otherwise agreed upon or determined (including the allocable portion of initial costs (see 31.205-42(c)), reduced by multiplying the remainder by the ratio of—"
+            },
+            "i": {
+              "text": "The total contract price to"
+            },
+            "ii": {
+              "text": "The total cost incurred before termination plus the estimated cost to complete the entire contract."
+            }
+          }
+        },
+        "c": {
+          "text": "If the settlement is on a total cost basis (see 49.206-2(b)), the contractor shall not be paid more than the total of the amounts in paragraphs (c)(1) and (2) of this section, less all disposal and other credits, all advance and progress payments, and all other amounts previously paid under the contract:"
+        },
+        "i": {
+          "text": "The total contract price to"
+        },
+        "ii": {
+          "text": "The remainder plus the estimated cost to complete the entire contract."
+        }
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Deductions.",
+      "sub": {},
+      "text": {
+        "text": "From the amount payable to the contractor under a settlement, the TCO shall deduct—\n\n(a) The agreed price for any part of the termination inventory purchased or retained by the contractor, and the proceeds from any materials sold that have not been paid or credited to the Government;\n\n(b) The fair value, as determined by the TCO, of any part of the termination inventory that, before transfer of title to the Government or to a buyer under Part 45, is lost or so damaged as to become undeliverable (normal spoilage is excepted, as is inventory for which the Government has expressly assumed the risk of loss); and\n\n(c) Any other amounts as appropriate in the particular case."
+      }
+    },
+    "205": {
+      "number": 205,
+      "name": "Completed end items.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Promptly after the effective date of termination, the TCO shall (1) have all undelivered completed end items inspected and accepted if they comply with the contract requirements, and (2) determine which accepted end items are to be delivered under the contract. The contractor shall invoice accepted and delivered end items at the contract price in the usual manner and shall not include them in the settlement proposal. When completed end items, though accepted, are not to be delivered under the contract, the contractor shall include them in the settlement proposal at the contract price, adjusted for any saving of freight or other charges, together with any credits for their purchase, retention, or sale."
+        },
+        "b": {
+          "text": "Work in place accepted by the Government under a construction contract is not considered a completed item even though that work may have been paid for at unit prices specified in the contract."
+        }
+      }
+    },
+    "206": {
+      "number": 206,
+      "name": "Settlement proposals.",
+      "sub": {
+        "1": {
+          "name": "Submission of settlement proposals.",
+          "text": {
+            "a": {
+              "text": "Subject to the provisions of the termination clause, the contractor should promptly submit to the TCO a settlement proposal for the amount claimed because of the termination. The final settlement proposal must be submitted within one year from the effective date of the termination, unless the period is extended by the TCO. Termination charges under a single prime contract involving two or more divisions or units of the prime contractor may be consolidated and included in a single settlement proposal."
+            },
+            "b": {
+              "text": "The settlement proposal must cover all cost elements including settlements with subcontractors and any proposed profit. With the consent of the TCO, proposals may be filed in successive steps covering separate portions of the contractor’s costs. Such interim proposals shall include all costs of a particular type, except as the TCO may authorize otherwise."
+            },
+            "c": {
+              "text": "Settlement proposals must be on the forms prescribed in 49.602 unless the forms are inadequate for a particular contract. Settlement proposals must be in reasonable detail supported by adequate accounting data. Actual, standard (appropriately adjusted), or average costs may be used in preparing settlement proposals if they are determined under generally recognized accounting principles consistently followed by the contractor. When actual, standard, or average costs are not reasonably available, estimated costs may be used if the method of arriving at the estimates is approved by the TCO. Contractors shall not be required to maintain unduly elaborate cost accounting systems merely because their contracts may subsequently be terminated."
+            },
+            "d": {
+              "text": "The contractor may use the Settlement Proposal (Short Form), SF 1438 (see 49.602-1(d) and 53.249), when the total proposal is less than $10,000, unless otherwise instructed by the TCO. Settlement proposals that would normally be included in a single settlement proposal; e.g., those based on a series of separate orders for the same item under one contract, should be consolidated whenever possible and not divided to bring them below $10,000."
+            },
+            "e": {
+              "text": "The Schedule of Accounting Information, SF 1439, must be submitted for each termination under a contract for which a settlement proposal is submitted, except when the Standard Form 1438 is used. Although several interim proposals may be submitted, SF 1439 need be submitted only once unless, subsequent to filing the original form, major changes occur in the information submitted."
+            }
+          }
+        },
+        "2": {
+          "name": "Bases for settlement proposals.",
+          "text": {
+            "a": {
+              "text": "Inventory basis.",
+              "sub": {
+                "1": {
+                  "text": "Use of the inventory basis for settlement proposals is preferred. Under this basis, the contractor may propose only costs allocable to the terminated portion of the contract, and the settlement proposal must itemize separately—",
+                  "sub": {
+                    "i": {
+                      "text": "Metals, raw materials, purchased parts, work in process, finished parts, components, dies, jigs, fixtures, and tooling, at purchase or manufacturing cost;"
+                    },
+                    "ii": {
+                      "text": "Charges such as engineering costs, initial costs, and general administrative costs;"
+                    },
+                    "iii": {
+                      "text": "Costs of settlements with subcontractors;"
+                    },
+                    "iv": {
+                      "text": "Settlement expenses; and"
+                    },
+                    "v": {
+                      "text": "Other proper charges."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "An allowance for profit (49.202) or adjustment for loss (49.203(b)) must be made to complete the gross settlement proposal. All unliquidated advance and progress payments and all disposal and other credits known when the proposal is submitted must then be deducted."
+                },
+                "3": {
+                  "text": "This inventory basis is also appropriate for use under the following circumstances:"
+                },
+                "i": {
+                  "text": "The partial termination of a construction or related professional services contract."
+                },
+                "ii": {
+                  "text": "The partial or complete termination of supply orders under any terminated construction contract."
+                },
+                "iii": {
+                  "text": "The complete termination of a unit-price (as distinguished from a lump-sum) professional services contract."
+                }
+              }
+            },
+            "b": {
+              "text": "Total cost basis.",
+              "sub": {
+                "1": {
+                  "text": "When use of the inventory basis is not practicable or will unduly delay settlement, the total-cost basis (SF 1436) may be used if approved in advance by the TCO as in the following examples:",
+                  "sub": {
+                    "i": {
+                      "text": "If production has not commenced and the accumulated costs represent planning and preproduction or “get ready” expenses."
+                    },
+                    "ii": {
+                      "text": "If, under the contractor’s accounting system, unit costs for work in process and finished products cannot readily be established."
+                    },
+                    "iii": {
+                      "text": "If the contract does not specify unit prices."
+                    },
+                    "iv": {
+                      "text": "If the termination is complete and involves a letter contract."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "When the total-cost basis is used under a complete termination, the contractor must itemize costs incurred under the contract up to the effective date of termination. The costs of settlements with subcontractors and applicable settlement expenses must also be added. An allowance for profit (49.202) or adjustment for loss (49.203(c)) must be made. The contract price for all end items delivered or to be delivered and accepted must be deducted. All unliquidated advance and progress payments and disposal and other credits known when the proposal is submitted must also be deducted."
+                },
+                "3": {
+                  "text": "When the total-cost basis is used under a partial termination, the settlement proposal shall not be submitted until completion of the continued portion of the contract. The settlement proposal must be prepared as in paragraph (b)(2) of this section, except that all costs incurred to the date of completion of the continued portion of the contract must be included."
+                },
+                "4": {
+                  "text": "If a construction contract or a lump-sum professional services contract is completely terminated, the contractor shall—"
+                },
+                "i": {
+                  "text": "Use the total cost basis of settlement;"
+                },
+                "ii": {
+                  "text": "Omit Line 10 “Deduct-Finished Product Invoiced or to be Invoiced” from Section II of SF 1436 Settlement Proposal (Total Cost Basis); and"
+                },
+                "iii": {
+                  "text": "Reduce the gross amount of the settlement by the total of all progress and other payments."
+                }
+              }
+            },
+            "c": {
+              "text": "Other basis. Settlement proposals may not be submitted on any basis other than paragraph (a) or (b) of this section without the prior approval of the chief of the contracting or contract administration office."
+            }
+          }
+        },
+        "3": {
+          "name": "Submission of inventory disposal schedules.",
+          "text": {
+            "text": "Subject to the terms of the termination clause, and whenever termination inventory is involved, the contractor shall submit complete inventory disposal schedules to the TCO reflecting inventory that is allocable to the terminated portion of the contract. The inventory disposal schedules shall be submitted within 120 days from the effective date of termination unless otherwise extended by the TCO based on a written justification to support the extension. The inventory schedules shall be prepared on Standard Form 1428, Inventory Disposal Schedule."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "207": {
+      "number": 207,
+      "name": "Limitation on settlements.",
+      "sub": {},
+      "text": {
+        "text": "The total amount payable to the contractor for a settlement, before deducting disposal or other credits and exclusive of settlement costs, must not exceed the contract price less payments otherwise made or to be made under the contract."
+      }
+    },
+    "208": {
+      "number": 208,
+      "name": "Equitable adjustment after partial termination.",
+      "sub": {},
+      "text": {
+        "text": "Under the termination clause, after partial termination, a contractor may request an equitable adjustment in the price or prices of the continued portion of a fixed-price contract. The TCO shall forward the proposal to the contracting officer except when negotiation authority is delegated to the TCO. The contractor shall submit the proposal in the format of Table 15-2 of 15.408.\n\n(a) When the contracting officer retains responsibility for negotiating the equitable adjustment and executing a supplemental agreement, the contracting officer shall ensure that no portion of an increase in price is included in a termination settlement made or in process.\n\n(b) The TCO shall also ensure that no portion of the costs included in the equitable adjustment are included in the termination settlement."
+      }
+    }
+  }
+}

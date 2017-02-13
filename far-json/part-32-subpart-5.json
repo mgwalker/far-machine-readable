@@ -1,0 +1,511 @@
+{
+  "parentPart": 32,
+  "number": 5,
+  "name": "Progress Payments Based on Costs",
+  "sub": {
+    "500": {
+      "number": 500,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies, procedures, forms, solicitation provisions, and contract clauses for providing contract financing through progress payments based on costs. This subpart does not apply to—\n\n(a) Payments under cost-reimbursement contracts, but see 32.110 for progress payments made to subcontractors under cost-reimbursement prime contracts; or\n\n(b) Contracts for construction or for shipbuilding or ship conversion, alteration, or repair, when the contracts provide for progress payments based on a percentage or stage of completion."
+      }
+    },
+    "501": {
+      "number": 501,
+      "name": "General.",
+      "sub": {
+        "1": {
+          "name": "Customary progress payment rates.",
+          "text": {
+            "a": {
+              "text": "The customary progress payment rate is 80 percent, applicable to the total costs of performing the contract. The customary rate for contracts with small business concerns is 85 percent."
+            },
+            "b": {
+              "text": "The contracting officer must—",
+              "sub": {
+                "1": {
+                  "text": "Consider any rate higher than those permitted in paragraph (a) of this section an unusual progress payment; and"
+                },
+                "2": {
+                  "text": "Not include a higher rate in a contract unless advance agency approval is obtained as prescribed in 32.501-2."
+                }
+              }
+            },
+            "c": {
+              "text": "When advance payments and progress payments are authorized under the same contract, the contracting officer must not authorize a progress payment rate higher than the customary rate."
+            },
+            "d": {
+              "text": "In accordance with 10 U.S.C. 2307(e)(2) and 41 U.S.C. 4504(b), the limit for progress payments is 80 percent on work accomplished under undefinitized contract actions. The contracting officer must not authorize a higher rate under unusual progress payments or other customary progress payments for the undefinitized actions."
+            }
+          }
+        },
+        "2": {
+          "name": "Unusual progress payments.",
+          "text": {
+            "a": {
+              "text": "The contracting officer may provide unusual progress payments only if—",
+              "sub": {
+                "1": {
+                  "text": "The contract necessitates predelivery expenditures that are large in relation to contract price and in relation to the contractor’s working capital and credit;"
+                },
+                "2": {
+                  "text": "The contractor fully documents an actual need to supplement any private financing available, including guaranteed loans; and"
+                },
+                "3": {
+                  "text": "The contractor’s request is approved by the head of the contracting activity or a designee. In addition, see 32.502-2."
+                }
+              }
+            },
+            "b": {
+              "text": "The excess of the unusual progress payment rate approved over the customary progress payment rate should be the lowest amount possible under the circumstances."
+            },
+            "c": {
+              "text": "Progress payments will not be considered unusual merely because they are on letter contracts or the definitive contracts that supersede letter contracts."
+            }
+          }
+        },
+        "3": {
+          "name": "Contract price.",
+          "text": {
+            "a": {
+              "text": "For the purpose of making progress payments and determining the limitation on progress payments, the contract price shall be as follows:",
+              "sub": {
+                "1": {
+                  "text": "Under firm-fixed price contracts, the contract price is the current amount fixed by the contract plus the not-to-exceed amount for any unpriced modifications."
+                },
+                "2": {
+                  "text": "If the contract is redeterminable or subject to economic price adjustment, the contract price is the initial price until modified."
+                },
+                "3": {
+                  "text": "Under a fixed-price incentive contract, the contract price is the target price plus the not-to-exceed amount of unpriced modifications. However, if the contractor’s properly incurred costs exceed the target price, the contracting officer may provisionally increase the price up to the ceiling or maximum price."
+                },
+                "4": {
+                  "text": "Under a letter contract, the contract price is the maximum amount obligated by the contract as modified."
+                },
+                "5": {
+                  "text": "Under an unpriced order issued against a basic ordering agreement, the contract price is the maximum amount obligated by the order, as modified."
+                },
+                "6": {
+                  "text": "Any portion of the contract specifically providing for reimbursement of costs only shall be excluded from the contract price."
+                }
+              }
+            },
+            "b": {
+              "text": "The contracting officer shall not make progress payments or increase the contract price beyond the funds obligated under the contract, as amended."
+            }
+          }
+        },
+        "4": {
+          "name": "[Reserved]",
+          "text": {
+            "text": ""
+          }
+        },
+        "5": {
+          "name": "Other protective terms.",
+          "text": {
+            "text": "If the contracting officer considers it necessary for protection of the Government’s interest, protective terms such as the following may be used in addition to the Progress Payments clause of the contract:\n\n(a) Personal or corporate guarantees.\n\n(b) Subordinations or standbys of indebtedness.\n\n(c) Special bank accounts.\n\n(d) Protective covenants of the kinds in paragraph (p) of the clause at 52.232-12, Advance Payments.\n\n(e) A provision, included in the solicitation and resultant contract when first article testing is required (see Subpart 9.3), limiting progress payments on first article work by a stated amount or percentage."
+          }
+        }
+      },
+      "text": {
+        "text": "Progress payments may be customary or unusual. Customary progress payments are those made under the general guidance in this subpart, using the customary progress payment rate, the cost base, and frequency of payment established in the Progress Payments clause, and either the ordinary liquidation method or the alternate method as provided in subsections 32.503-8 and 32.503-9. Any other progress payments are considered unusual, and may be used only in exceptional cases when authorized in accordance with subsection 32.501-2."
+      }
+    },
+    "502": {
+      "number": 502,
+      "name": "Preaward matters.",
+      "sub": {
+        "1": {
+          "name": "Use of customary progress payments.",
+          "text": {
+            "text": "The contracting officer may use a Progress Payments clause in solicitations and contracts, in accordance with this subpart. The contracting officer must reject as nonresponsive bids conditioned on progress payments when the solicitation did not provide for progress payments."
+          }
+        },
+        "2": {
+          "name": "Contract finance office clearance.",
+          "text": {
+            "text": "The contracting officer shall obtain the approval of the contract finance office or other offices designated under agency procedures before taking any of the following actions:\n\n(a) Providing a progress payment rate higher than the customary rate (see 32.501-1).\n\n(b) Deviating from the progress payments terms prescribed in this part.\n\n(c) Providing progress payments to a contractor—\n\n(1) Whose financial condition is in doubt;\n\n(2) Who has had an advance payment request or loan guarantee denied for financial reasons (or approved but withdrawn or lapsed) within the previous 12 months; or\n\n(3) Who is named in the consolidated list of contractors indebted to the United States (known commonly as the “Hold-up List”)."
+          }
+        },
+        "3": {
+          "name": "Solicitation provisions.",
+          "text": {
+            "a": {
+              "text": "The contracting officer shall insert the provision at 52.232-13, Notice of Progress Payments, in invitations for bids and requests for proposals that include a Progress Payments clause."
+            },
+            "b": {
+              "text": "(1) Under the authority of the statutes cited in 32.101, an invitation for bids may restrict the availability of progress payments to small business concerns only.",
+              "sub": {
+                "2": {
+                  "text": "The contracting officer shall insert the provision at 52.232-14, Notice of Availability of Progress Payments Exclusively for Small Business Concerns, in invitations for bids if it is anticipated that—"
+                },
+                "i": {
+                  "text": "Both small business concerns and others may submit bids in response to the same invitation; and"
+                },
+                "ii": {
+                  "text": "Only the small business bidders would need progress payments."
+                }
+              }
+            },
+            "c": {
+              "text": "The contracting officer shall insert the provision at 52.232-15, Progress Payments Not Included, in invitations for bids if the solicitation will not contain one of the provisions prescribed in paragraphs (a) and (b) of this section."
+            }
+          }
+        },
+        "4": {
+          "name": "Contract clauses.",
+          "text": {
+            "a": {
+              "text": "(1) Insert the clause at 52.232-16, Progress Payments, in—",
+              "sub": {
+                "2": {
+                  "text": "If advance agency approval has been given in accordance with 32.501-1, the contracting officer may substitute a different customary rate for other than small business concerns for the progress payment and liquidation rate indicated."
+                },
+                "3": {
+                  "text": "If an unusual progress payment rate is approved for the prime contractor (see 32.501-2), substitute the approved rate for the customary rate in paragraphs (a)(1), (a)(6), and (b) of the clause."
+                },
+                "4": {
+                  "text": "If the liquidation rate is changed from the customary progress payment rate (see 32.503-8 and 32.503-9), substitute the new rate for the rate in paragraphs (a)(1), (a)(6), and (b) of the clause."
+                },
+                "5": {
+                  "text": "If an unusual progress payment rate is approved for a subcontract (see 32.504(c) and 32.501-2), modify paragraph (j)(6) of the clause to specify the new rate, the name of the subcontractor, and that the new rate shall be used for that subcontractor in lieu of the customary rate."
+                },
+                "i": {
+                  "text": "Solicitations that may result in contracts providing for progress payments based on costs; and"
+                },
+                "ii": {
+                  "text": "Fixed-price contracts under which the Government will provide progress payments based on costs."
+                }
+              }
+            },
+            "b": {
+              "text": "If the contractor is a small business concern, use the clause with its Alternate I."
+            },
+            "c": {
+              "text": "If the contract is a letter contract, use the clause with its Alternate II."
+            },
+            "d": {
+              "text": "If the contractor is not a small business concern, and progress payments are authorized under an indefinite-delivery contract, basic ordering agreement, or their equivalent, use the clause with its Alternate III."
+            },
+            "e": {
+              "text": "If the nature of the contract necessitates separate progress payment rates for portions of work that are clearly severable and accounting segregation would be maintained (e.g., annual production requirements), describe the application of separate progress payment rates in a supplementary special provision within the contract. The contractor must submit separate progress payment requests and subsequent invoices for the severable portions of work in order to maintain accounting integrity."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": "This section covers matters that generally are relevant only before contract award. This does not preclude taking actions discussed here after award, if appropriate; e.g., postaward addition of a Progress Payments clause for consideration."
+      }
+    },
+    "503": {
+      "number": 503,
+      "name": "Postaward matters.",
+      "sub": {
+        "0": {
+          "name": "Establishing alternate liquidation rates. ",
+          "text": {
+            "1": {
+              "text": "The contracting officer must compute the expected progress payments by multiplying the estimated cost of performing the contract by the progress payment rate."
+            },
+            "2": {
+              "text": "For purposes of computing the liquidation rate, the contracting officer may adjust the estimated cost and the contract price to include the estimated value of any work authorized but not yet priced and any projected economic adjustments; however, the contracting officer’s adjustment must not exceed the Government’s estimate of the price of all authorized work or the funds obligated for the contract."
+            },
+            "3": {
+              "text": "The following are examples of the computation. Assuming an estimated price of $2,200,000 and total estimated costs eligible for progress payments of $2,000,000:\n\n$2,000,000\n \n         \n×\n 80%  =  72.7%\n\n$2,200,000\n\n$2,000,000\n \n         \n×\n 85%  =  77.3%\n\n$2,200,000",
+              "sub": {
+                "i": {
+                  "text": "If the progress payment rate is 80 percent, the minimum liquidation rate should be 72.7 percent, computed as follows:\n\n$2,000,000\n \n         \n×\n 80%  =  72.7%\n\n$2,200,000\n\n$2,000,000\n \n         \n×\n 85%  =  77.3%\n\n$2,200,000\n\n$2,000,000\n \n         \n×\n 80%  =  72.7%\n\n$2,200,000"
+                },
+                "ii": {
+                  "text": "If the progress payment rate is 85 percent, the minimum liquidation rate should be 77.3 percent, computed as follows:\n\n$2,000,000\n \n         \n×\n 85%  =  77.3%\n\n$2,200,000\n\n$2,000,000\n \n         \n×\n 85%  =  77.3%\n\n$2,200,000"
+                }
+              }
+            },
+            "4": {
+              "text": "Minimum liquidation rates will generally be expressed to tenths of a percent. Decimals between tenths will be rounded up to the next highest tenth (not necessarily the nearest tenth), since rounding down would produce a rate below the minimum rate calculated."
+            },
+            "a": {
+              "text": "The contracting officer must ensure that the liquidation rate is—",
+              "sub": {
+                "1": {
+                  "text": "High enough to result in Government recoupment of the applicable progress payments on each billing; and"
+                },
+                "2": {
+                  "text": "Supported by documentation included in the administration office contract file."
+                }
+              }
+            },
+            "b": {
+              "text": "The minimum liquidation rate is the expected progress payments divided by the contract price. Each of these factors is discussed below:\n\n$2,000,000\n \n         \n×\n 80%  =  72.7%\n\n$2,200,000\n\n$2,000,000\n \n         \n×\n 85%  =  77.3%\n\n$2,200,000"
+            }
+          }
+        },
+        "1": {
+          "name": "Adjustments for price reduction.",
+          "text": {
+            "a": {
+              "text": "If a retroactive downward price reduction occurs under a redeterminable contract that provides for progress payments, the contracting officer shall—",
+              "sub": {
+                "1": {
+                  "text": "Determine the refund due and obtain repayment from the contractor for the excess of payments made for delivered items over amounts due as recomputed at the reduced prices; and"
+                },
+                "2": {
+                  "text": "Increase the unliquidated progress payments amount for overdeductions made from the contractor’s billings for items delivered."
+                }
+              }
+            },
+            "b": {
+              "text": "The contracting officer shall also increase the unliquidated progress payments amount if the contractor makes an interim or voluntary price reduction under a redeterminable or incentive contract."
+            }
+          }
+        },
+        "2": {
+          "name": "Maximum unliquidated amount.",
+          "text": {
+            "a": {
+              "text": "The contracting officer shall ensure that any excess of the unliquidated progress payments over the contractual limitation in paragraph (a) of the Progress Payments clause in the contract is promptly corrected through one or more of the following actions:",
+              "sub": {
+                "1": {
+                  "text": "Increasing the liquidation rate."
+                },
+                "2": {
+                  "text": "Reducing the progress payment rate."
+                },
+                "3": {
+                  "text": "Suspending progress payments."
+                }
+              }
+            },
+            "b": {
+              "text": "The excess described in paragraph (a) of this section is most likely to arise under the following circumstances:",
+              "sub": {
+                "1": {
+                  "text": "The costs of performance exceed the contract price."
+                },
+                "2": {
+                  "text": "The alternate method of liquidation (see 32.503-9) is used and the actual costs of performance exceed the cost estimates used to establish the liquidation rate."
+                },
+                "3": {
+                  "text": "The rate of progress or the quality of contract performance is unsatisfactory."
+                },
+                "4": {
+                  "text": "The rate of rejections, waste, or spoilage is excessive."
+                }
+              }
+            },
+            "c": {
+              "text": "As required, the services of the responsible audit agency or office should be fully utilized, along with the services of qualified cost analysis and engineering personnel."
+            }
+          }
+        },
+        "3": {
+          "name": "[Reserved]",
+          "text": {
+            "text": ""
+          }
+        },
+        "4": {
+          "name": "Protection of Government title.",
+          "text": {
+            "a": {
+              "text": "Since the Progress Payments clause gives the Government title to all of the materials, work-in-process, finished goods, and other items of property described in paragraph (d) of the Progress Payments clause, under the contract under which progress payments have been made, the ACO must ensure that the Government title to these inventories is not compromised by other encumbrances. Ordinarily, the ACO, in the absence of reason to believe otherwise, may rely upon the contractor’s certification contained in the progress payment request."
+            },
+            "b": {
+              "text": "If the ACO becomes aware of any arrangement or condition that would impair the Government’s title to the property affected by progress payment, the ACO shall require additional protective provisions (see 32.501-5) to establish and protect the Government’s title."
+            },
+            "c": {
+              "text": "The existence of any such encumbrance is a violation of the contractor’s obligations under the contract, and the ACO may, if necessary, suspend or reduce progress payments under the terms of the Progress Payments clause covering failure to comply with any material requirement of the contract. In addition, if the contractor fails to disclose an existing encumbrance in the progress payments certification, the ACO should consult with legal counsel concerning possible violation of 31 U.S.C. 3729, the False Claims Act."
+            }
+          }
+        },
+        "5": {
+          "name": "Application of Government title terms.",
+          "text": {
+            "a": {
+              "text": "Property to which the Government obtains title by operation of the Progress Payments clause solely is not, as a consequence, Government-furnished property."
+            },
+            "b": {
+              "text": "Although property title is vested in the Government under the Progress Payments clause, the acquisition, handling, and disposition of certain types of property are governed by—",
+              "sub": {
+                "1": {
+                  "text": "The clause at 52.245-1, Government Property; and"
+                },
+                "2": {
+                  "text": "The termination clauses at 52.249, for termination inventory."
+                }
+              }
+            },
+            "c": {
+              "text": "The contractor may sell or otherwise dispose of current production scrap in the ordinary course of business on its own volition, even if title has vested in the Government under the Progress Payments clause. The contracting officer shall require the contractor to credit the costs of the contract performance with the proceeds of the scrap disposition."
+            },
+            "d": {
+              "text": "When the title to materials or other inventories is vested in the Government under the Progress Payments clause, the contractor may transfer the inventory items from the contract for its own use or other disposition only if, and on terms, approved by the contracting officer. The contractor shall—",
+              "sub": {
+                "1": {
+                  "text": "Eliminate the costs allocable to the transferred property from the costs of contract performance, and"
+                },
+                "2": {
+                  "text": "Repay or credit to the Government an amount equal to the unliquidated progress payments, allocable to the transferred property."
+                }
+              }
+            },
+            "e": {
+              "text": "If excess property remains after the contract performance is complete and all contractor obligations under the contract are satisfied, including full liquidation of progress payments, the excess property is outside the scope of the Progress Payments clause. Therefore, the contractor holds title to it."
+            }
+          }
+        },
+        "6": {
+          "name": "Risk of loss.",
+          "text": {
+            "a": {
+              "text": "Under the Progress Payments clause, and except for normal spoilage, the contractor bears the risk of loss for Government property under the clause, even though title is vested in the Government, unless the Government has expressly assumed this risk. The clauses prescribed in this regulation related to progress payments, default, and terminations do not constitute a Government assumption of this risk."
+            },
+            "b": {
+              "text": "If a loss occurs in connection with property for which the contractor bears the risk, the contractor is obligated to repay to the Government the amount of unliquidated progress payments based on costs allocable to the property."
+            },
+            "c": {
+              "text": "The contractor is not obligated to pay for the loss of property for which the Government has assumed the risk of loss. However, a serious loss may impede the satisfactory progress of contract performance, so that the contracting officer may need to act under paragraph (c)(5) of the Progress Payments clause."
+            }
+          }
+        },
+        "7": {
+          "name": "[Reserved]",
+          "text": {
+            "text": ""
+          }
+        },
+        "8": {
+          "name": "Liquidation rates—ordinary method.",
+          "text": {
+            "text": "The Government recoups progress payments through the deduction of liquidations from payments that would otherwise be due to the contractor for completed contract items. To determine the amount of the liquidation, the contracting officer applies a liquidation rate to the contract price of contract items delivered and accepted. The ordinary method is that the liquidation rate is the same as the progress payment rate. At the beginning of a contract, the contracting officer must use this method."
+          }
+        },
+        "9": {
+          "name": "Liquidation rates—alternate method.",
+          "text": {
+            "a": {
+              "text": "The liquidation rate determined under 32.503-8 shall apply throughout the period of contract performance unless the contracting officer adjusts the liquidation rate under the alternate method in this 32.503-9. The objective of the alternate liquidation rate method is to permit the contractor to retain the earned profit element of the contract prices for completed items in the liquidation process. The contracting officer may reduce the liquidation rate if—",
+              "sub": {
+                "1": {
+                  "text": "The contractor requests a reduction in the rate;"
+                },
+                "2": {
+                  "text": "The rate has not been reduced in the preceding 12 months;"
+                },
+                "3": {
+                  "text": "The contract delivery schedule extends at least 18 months from the contract award date;"
+                },
+                "4": {
+                  "text": "Data on actual costs are available—",
+                  "sub": {
+                    "i": {
+                      "text": "For the products delivered, or"
+                    },
+                    "ii": {
+                      "text": "If no deliveries have been made, for a performance period of at least 12 months;"
+                    }
+                  }
+                },
+                "5": {
+                  "text": "The reduced liquidation rate would result in the Government recouping under each invoice the full extent of the progress payments applicable to the costs allocable to that invoice;"
+                },
+                "6": {
+                  "text": "The contractor would not be paid for more than the costs of items delivered and accepted (less allocable progress payments) and the earned profit on those items;"
+                },
+                "7": {
+                  "text": "The unliquidated progress payments would not exceed the limit prescribed in paragraph (a)(5) of the Progress Payments clause;"
+                },
+                "8": {
+                  "text": "The parties agree on an appropriate rate; and"
+                },
+                "9": {
+                  "text": "The contractor agrees to certify annually, or more often if requested by the contracting officer, that the alternate rate continues to meet the conditions of subsections 5, 6, and 7 of this section. The certificate must be accompanied by adequate supporting information."
+                }
+              }
+            },
+            "b": {
+              "text": "The contracting officer shall change the liquidation rate in the following circumstances:",
+              "sub": {
+                "1": {
+                  "text": "The rate shall be increased for both previous and subsequent transactions, if the contractor experiences a lower profit rate than the rate anticipated at the time the liquidation rate was associated with contract items already delivered, as well as subsequent progress payments."
+                },
+                "2": {
+                  "text": "The rate shall be increased or decreased in keeping with the successive changes to the contract price or target profit when—"
+                },
+                "i": {
+                  "text": "The target profit is changed under a fixed-price incentive contract with successive targets; or"
+                },
+                "ii": {
+                  "text": "A redetermined price involves a change in the profit element under a contract with prospective price redetermination at stated intervals."
+                }
+              }
+            },
+            "c": {
+              "text": "Whenever the liquidation rate is changed, the contracting officer shall issue a contract modification to specify the new rate in the Progress Payments clause. Adequate consideration for these contract modifications is provided by the consideration included in the initial contract. The parties shall promptly make the payment or liquidation required in the circumstances."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": "This section covers matters that are generally relevant only after award of a contract. This does not preclude taking actions discussed here before award, if appropriate; e.g., preaward review of accounting systems and controls."
+      }
+    },
+    "504": {
+      "number": 504,
+      "name": "Subcontracts under prime contracts providing progress payments.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Subcontracts may include either performance-based payments, provided they meet the criteria in 32.1003, or progress payments, provided they meet the criteria in Subpart 32.5 for customary progress payments, but not both. Subcontracts for commercial purchases may include commercial item purchase financing terms, provided they meet the criteria in 32.202-1."
+        },
+        "b": {
+          "text": "The contractor’s requests for progress payments may include the full amount of commercial item purchase financing payments, performance-based payments, or progress payments to a subcontractor, whether paid or unpaid, provided that unpaid amounts are limited to amounts determined due and that the contractor will pay—",
+          "sub": {
+            "1": {
+              "text": "In accordance with the terms and conditions of a subcontract or invoice; and"
+            },
+            "2": {
+              "text": "Ordinarily within 30 days of the submission of the contractor’s progress payment request to the Government."
+            }
+          }
+        },
+        "c": {
+          "text": "If the contractor is considering making unusual progress payments to a subcontractor, the parties will be guided by the policies in 32.501-2. If the Government approves unusual progress payments for the subcontract, the contracting officer must issue a contract modification to specify the new rate in paragraph (j)(6) of the clause at 52.232-16, Progress Payments, in the prime contract. This will allow the contractor to include the progress payments to the subcontractor in the cost basis for progress payments by the Government. This modification is not a deviation and does not require the clearance prescribed in 32.502-2(b)."
+        },
+        "d": {
+          "text": "The contractor has a duty to ensure that financing payments to subcontractors conform to the standards and principles prescribed in paragraph (j) of the Progress Payments clause in the prime contract. Although the contracting officer should, to the extent appropriate, review the subcontract as part of the overall administration of progress payments in the prime contract, there is no special requirement for contracting officer review or consent merely because the subcontract includes financing payments, except as provided in paragraph (c) of this section. However, the contracting officer must ensure that the contractor has installed the necessary management control systems, including internal audit procedures."
+        },
+        "e": {
+          "text": "When financing payments are in the form of progress payments, the Progress Payments clause at 52.232-16 requires that the subcontract include the substance of the Progress Payments clause in the prime contract, modified to indicate that the contractor, not the Government, awards the subcontract and administers the progress payments. The following exceptions apply to wording modifications:",
+          "sub": {
+            "1": {
+              "text": "The subcontract terms on title to property under progress payments shall provide for vesting of title in the Government, not the contractor, as in paragraph (d) of the Progress Payments clause in the prime contract. A reference to the contractor may, however, be substituted for “Government” in paragraph (d)(2)(iv) of the clause."
+            },
+            "2": {
+              "text": "In the subcontract terms on reports and access to records, the contractor shall not delete the references to “Contracting Officer” and “Government” in adapting paragraph (g) of the Progress Payments clause in the contract, but may expand the terms as follows:",
+              "sub": {
+                "i": {
+                  "text": "The term “Contracting Officer” may be changed to “Contracting Officer or Prime Contractor.”"
+                },
+                "ii": {
+                  "text": "The term “the Government” may be changed to “the Government or Prime Contractor.”"
+                }
+              }
+            },
+            "3": {
+              "text": "The subcontract special terms regarding default shall include paragraph (h) of the Progress Payments clause in the contract through its subdivision (i). The rest of paragraph (h) is optional."
+            }
+          }
+        },
+        "f": {
+          "text": "When financing payments are in the form of performance-based payments, the Performance-Based Payments clause at 52.232-32 requires that the subcontract terms include the substance of the Performance-Based Payments clause, modified to indicate that the contractor, not the Government, awards the subcontract and administers the performance-based payments, and include appropriately worded modifications similar to those noted in paragraph (e) of this section."
+        },
+        "g": {
+          "text": "When financing payments are in the form of commercial item purchase financing, the subcontract must include a contract financing clause structured in accordance with 32.206."
+        }
+      }
+    }
+  }
+}

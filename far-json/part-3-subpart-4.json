@@ -1,0 +1,80 @@
+{
+  "parentPart": 3,
+  "number": 4,
+  "name": "Contingent Fees",
+  "sub": {
+    "400": {
+      "number": 400,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures that restrict contingent fee arrangements for soliciting or obtaining Government contracts to those permitted by 10 U.S.C. 2306(b) and 41 U.S.C. 3901."
+      }
+    },
+    "401": {
+      "number": 401,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Bona fide agency” means an established commercial or selling agency, maintained by a contractor for the purpose of securing business, that neither exerts nor proposes to exert improper influence to solicit or obtain Government contracts nor holds itself out as being able to obtain any Government contract or contracts through improper influence.\n\n“Bona fide employee” means a person, employed by a contractor and subject to the contractor’s supervision and control as to time, place, and manner of performance, who neither exerts nor proposes to exert improper influence to solicit or obtain Government contracts nor holds out as being able to obtain any Government contract or contracts through improper influence.\n\n“Contingent fee” means any commission, percentage, brokerage, or other fee that is contingent upon the success that a person or concern has in securing a Government contract.\n\n“Improper influence” means any influence that induces or tends to induce a Government employee or officer to give consideration or to act regarding a Government contract on any basis other than the merits of the matter."
+      }
+    },
+    "402": {
+      "number": 402,
+      "name": "Statutory requirements.",
+      "sub": {},
+      "text": {
+        "text": "Contractors’ arrangements to pay contingent fees for soliciting or obtaining Government contracts have long been considered contrary to public policy because such arrangements may lead to attempted or actual exercise of improper influence. In 10 U.S.C. 2306(b) and 41 U.S.C. 3901, Congress affirmed this public policy but permitted certain exceptions. These statutes—\n\n(a) Require in every negotiated contract a warranty by the contractor against contingent fees;\n\n(b) Permit, as an exception to the warranty, contingent fee arrangements between contractors and bona fide employees or bona fide agencies; and\n\n(c) Provide that, for breach or violation of the warranty by the contractor, the Government may annul the contract without liability or deduct from the contract price or consideration, or otherwise recover, the full amount of the contingent fee."
+      }
+    },
+    "403": {
+      "number": 403,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "text": "This subpart applies to all contracts. Statutory requirements for negotiated contracts are, as a matter of policy, extended to sealed bid contracts."
+      }
+    },
+    "404": {
+      "number": 404,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.203-5, Covenant Against Contingent Fees, in all solicitations and contracts exceeding the simplified acquisition threshold, other than those for commercial items (see Parts 2 and 12)."
+      }
+    },
+    "405": {
+      "number": 405,
+      "name": "Misrepresentations or violations of the Covenant Against Contingent Fees.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "If before award, reject the bid or proposal."
+        },
+        "2": {
+          "text": "If after award, enforce the Government’s right to annul the contract or to recover the fee."
+        },
+        "3": {
+          "text": "Initiate suspension or debarment action under Subpart 9.4."
+        },
+        "4": {
+          "text": "Refer suspected fraudulent or criminal matters to the Department of Justice, as prescribed in agency regulations."
+        },
+        "a": {
+          "text": "Government personnel who suspect or have evidence of attempted or actual exercise of improper influence, misrepresentation of a contingent fee arrangement, or other violation of the Covenant Against Contingent Fees shall report the matter promptly to the contracting officer or appropriate higher authority in accordance with agency procedures."
+        },
+        "b": {
+          "text": "When there is specific evidence or other reasonable basis to suspect one or more of the violations in paragraph (a) of this section, the chief of the contracting office shall review the facts and, if appropriate, take or direct one or more of the following, or other, actions:"
+        }
+      }
+    },
+    "406": {
+      "number": 406,
+      "name": "Records.",
+      "sub": {},
+      "text": {
+        "text": "For enforcement purposes, agencies shall preserve any specific evidence of one or more of the violations in 3.405(a), together with all other pertinent data, including a record of actions taken. Contracting offices shall not retire or destroy these records until it is certain that they are no longer needed for enforcement purposes. If the original record is maintained in a central file, a copy must be retained in the contract file."
+      }
+    }
+  }
+}

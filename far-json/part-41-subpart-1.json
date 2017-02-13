@@ -1,0 +1,93 @@
+{
+  "parentPart": 41,
+  "number": 1,
+  "name": "General",
+  "sub": {
+    "100": {
+      "number": 100,
+      "name": "Scope of part.",
+      "sub": {},
+      "text": {
+        "text": "This part prescribes policies, procedures, and contract format for the acquisition of utility services. (See 41.102(b) for services that are excluded from this part.)"
+      }
+    },
+    "101": {
+      "number": 101,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this part,\n\n“Areawide contract” means a contract entered into between the General Services Administration (GSA) and a utility service supplier to cover utility service needs of Federal agencies within the franchise territory of the supplier. Each areawide contract includes an “Authorization” form for requesting service, connection, disconnection, or change in service.\n\n“Authorization” means the document executed by the ordering agency and the utility supplier to order service under an areawide contract.\n\n“Connection charge” means all nonrecurring costs, whether refundable or nonrefundable, to be paid by the Government to the utility supplier for the required connecting facilities, which are installed, owned, operated, and maintained by the utility supplier (see Termination liability).\n\n“Delegated agency” means an agency that has received a written delegation of authority from GSA to contract for utility services for periods not exceeding ten years (see 41.103(b)).\n\n“Federal Power and Water Marketing Agency” means a Government entity that produces, manages, transports, controls, and sells electrical and water supply service to customers.\n\n“Franchise territory” means a geographical area that a utility supplier has a right to serve based upon a franchise, a certificate of public convenience and necessity, or other legal means.\n\n“Intervention” means action by GSA or a delegated agency to formally participate in a utility regulatory proceeding on behalf of all Federal executive agencies.\n\n“Multiple service locations” means the various locations or delivery points in the utility supplier’s service area to which it provides service under a single contract.\n\n“Rates” may include rate schedules, riders, rules, terms and conditions of service, and other tariff and service charges, e.g., facilities use charges.\n\n“Separate contract” means a utility services contract (other than a GSA areawide contract, an Authorization under an areawide contract, or an interagency agreement), to cover the acquisition of utility services.\n\n“Termination liability” means a contingent Government obligation to pay a utility supplier the unamortized portion of a connection charge and any other applicable nonrefundable service charge as defined in the contract in the event the Government terminates the contract before the cost of connection facilities has been recovered by the utility supplier (see “Connection charge”).\n\n“Utility service” means a service such as furnishing electricity, natural or manufactured gas, water, sewerage, thermal energy, chilled water, steam, hot water, or high temperature hot water. The application of Part 41 to other services (e.g., rubbish removal, snow removal) may be appropriate when the acquisition is not subject to the 41 U.S.C. chapter 67, Service Contract Labor Standards (see 37.107)."
+      }
+    },
+    "102": {
+      "number": 102,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Utility services produced, distributed, or sold by another Federal agency. In those cases, agencies shall use interagency agreements (see 41.206);"
+        },
+        "2": {
+          "text": "Utility services obtained by purchase, exchange, or otherwise by a Federal power or water marketing agency incident to that agency’s marketing or distribution program;"
+        },
+        "3": {
+          "text": "Cable television (CATV) and telecommunications services;"
+        },
+        "4": {
+          "text": "Acquisition of natural or manufactured gas when purchased as a commodity;"
+        },
+        "5": {
+          "text": "Acquisition of utilities services in foreign countries;"
+        },
+        "6": {
+          "text": "Acquisition of rights in real property, acquisition of public utility facilities, and on-site equipment needed for the facility’s own distribution system, or construction/maintenance of Government-owned equipment and real property; or"
+        },
+        "7": {
+          "text": "Third party financed shared-savings projects authorized by 42 U.S.C. 8287. However, agencies may utilize Part 41 for any energy savings or purchased utility service directly resulting from implementation of a third party financed shared-savings project under 42 U.S.C. 8287 for periods not to exceed 25 years."
+        },
+        "a": {
+          "text": "Except as provided in paragraph (b) of this section, this part applies to the acquisition of utility services for the Government, including connection charges and termination liabilities."
+        },
+        "b": {
+          "text": "This part does not apply to—"
+        }
+      }
+    },
+    "103": {
+      "number": 103,
+      "name": "Statutory and delegated authority.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "An established acquisition program;"
+        },
+        "2": {
+          "text": "Personnel technically qualified to deal with specialized utilities problems; and"
+        },
+        "3": {
+          "text": "The ability to accomplish its own pre-award contract review."
+        },
+        "a": {
+          "text": "Statutory authority.",
+          "sub": {
+            "1": {
+              "text": "The General Services Administration (GSA) is authorized by 40 U.S.C. 501 to prescribe policies and methods governing the acquisition and supply of utility services for Federal agencies. This authority includes related functions such as managing public utility services and representing Federal agencies in proceedings before Federal and state regulatory bodies. GSA is authorized by 40 U.S.C. 501 to contract for utility services for periods not exceeding ten years."
+            },
+            "2": {
+              "text": "The Department of Defense (DoD) is authorized by 10 U.S.C. 2304 and 40 U.S.C. 113(e)(3) to acquire utility services for military facilities."
+            },
+            "3": {
+              "text": "The Department of Energy (DOE) is authorized by the Department of Energy Organization Act (42 U.S.C. 7251, et seq.) to acquire utility services. DOE is authorized by the Atomic Energy Act of 1954, as amended (42 U.S.C. 2204), to enter into new contracts or modify existing contracts for electric services for periods not exceeding 25 years for uranium enrichment installations."
+            }
+          }
+        },
+        "b": {
+          "text": "Delegated authority. GSA has delegated its authority to enter into utility service contracts for periods not exceeding ten years to DoD and DOE, and for connection charges only to the Department of Veteran Affairs. Contracting pursuant to this delegated authority shall be consistent with the requirements of this part. Other agencies requiring utility service contracts for periods over one year, but not exceeding ten years, may request a delegation of authority from GSA at the address specified in 41.301(a). In keeping with its statutory authority, GSA will, as necessary, conduct reviews of delegated agencies’ acquisitions of utility services to ensure compliance with the terms of the delegation and applicable laws and regulations."
+        },
+        "c": {
+          "text": "Requests for delegations of contracting authority from GSA shall include a certification from the acquiring agency’s Senior Procurement Executive that the agency has—"
+        }
+      }
+    }
+  }
+}

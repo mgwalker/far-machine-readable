@@ -1,0 +1,84 @@
+{
+  "parentPart": 4,
+  "number": 13,
+  "name": "Personal Identity Verification",
+  "sub": {
+    "1300": {
+      "number": 1300,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart provides policy and procedures associated with Personal Identity Verification as required by—\n\n(a) Federal Information Processing Standards Publication (FIPS PUB) Number 201, “Personal Identity Verification of Federal Employees and Contractors”; and\n\n(b) Office of Management and Budget (OMB) Guidance M-05-24, dated August 5, 2005, “Implementation of Homeland Security Presidential Directive (HSPD) 12-Policy for a Common Identification Standard for Federal Employees and Contractors.”\n\n"
+      }
+    },
+    "1301": {
+      "number": 1301,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "2": {
+          "text": "The contracting officer may delay final payment under a contract if the contractor fails to comply with these requirements."
+        },
+        "a": {
+          "text": "Agencies must follow FIPS PUB Number 201 and the associated OMB implementation guidance for personal identity verification for all affected contractor and subcontractor personnel when contract performance requires contractors to have routine physical access to a Federally-controlled facility and/or routine access to a Federally-controlled information system."
+        },
+        "b": {
+          "text": "Agencies must include their implementation of FIPS PUB 201 and OMB Guidance M-05-24 in solicitations and contracts that require the contractor to have routine physical access to a Federally-controlled facility and/or routine access to a Federally-controlled information system."
+        },
+        "c": {
+          "text": "Agencies must designate an official responsible for verifying contractor employee personal identity."
+        },
+        "d": {
+          "text": "(1) Agency procedures for the return of Personal Identity Verification (PIV) products shall ensure that Government contractors account for all forms of Government-provided identification issued to Government contractor employees under a contract, i.e., the PIV cards or other similar badges, and shall ensure that contractors return such identification to the issuing agency as soon as any of the following occurs, unless otherwise determined by the agency:"
+        },
+        "i": {
+          "text": "When no longer needed for contract performance."
+        },
+        "ii": {
+          "text": "Upon completion of a contractor employee’s employment."
+        },
+        "iii": {
+          "text": "Upon contract completion or termination."
+        }
+      }
+    },
+    "1302": {
+      "number": 1302,
+      "name": "Acquisition of approved products and services for personal identity verification.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "In order to comply with FIPS PUB 201, agencies must purchase only approved personal identity verification products and services."
+        },
+        "b": {
+          "text": "Agencies may acquire the approved products and services from the GSA, Federal Supply Schedule 70, Special Item Number (SIN) 132-62, HSPD-12 Product and Service Components, in accordance with ordering procedures outlined in FAR Subpart 8.4."
+        },
+        "c": {
+          "text": "When acquiring personal identity verification products and services not using the process in paragraph (b) of this section, agencies must ensure that the applicable products and services are approved as compliant with FIPS PUB 201 including—",
+          "sub": {
+            "1": {
+              "text": "Certifying the products and services procured meet all applicable Federal standards and requirements;"
+            },
+            "2": {
+              "text": "Ensuring interoperability and conformance to applicable Federal standards for the lifecycle of the components; and"
+            },
+            "3": {
+              "text": "Maintaining a written plan for ensuring ongoing conformance to applicable Federal standards for the lifecycle of the components."
+            }
+          }
+        },
+        "d": {
+          "text": "For more information on personal identity verification products and services see http://www.idmanagement.gov."
+        }
+      }
+    },
+    "1303": {
+      "number": 1303,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.204-9, Personal Identity Verification of Contractor Personnel, in solicitations and contracts when contract performance requires contractors to have routine physical access to a Federally-controlled facility and/or routine access to a Federally-controlled information system. The clause shall not be used when contractors require only intermittent access to Federally-controlled facilities."
+      }
+    }
+  }
+}

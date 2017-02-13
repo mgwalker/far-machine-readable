@@ -1,0 +1,355 @@
+{
+  "parentPart": 36,
+  "number": 6,
+  "name": "Architect-Engineer Services",
+  "sub": {
+    "600": {
+      "number": 600,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures applicable to the acquisition of architect-engineer services, including orders for architect-engineer services under multi-agency contracts (see 16.505(a)(9))."
+      }
+    },
+    "601": {
+      "number": 601,
+      "name": "Policy.",
+      "sub": {
+        "1": {
+          "name": "Public announcement.",
+          "text": {
+            "text": "The Government shall publicly announce all requirements for architect-engineer services and negotiate contracts for these services based on the demonstrated competence and qualifications of prospective contractors to perform the services at fair and reasonable prices. (See 40 U.S.C. 1101 et seq.)"
+          }
+        },
+        "2": {
+          "name": "Competition.",
+          "text": {
+            "text": "Acquisition of architect-engineer services in accordance with the procedures in this subpart will constitute a competitive procedure. (See 6.102(d)(1).)"
+          }
+        },
+        "3": {
+          "name": "Applicable contracting procedures.",
+          "text": {
+            "a": {
+              "text": "(1) For facility design contracts, the statement of work shall require that the architect-engineer specify, in the construction design specifications, use of the maximum practicable amount of recovered materials consistent with the performance requirements, availability, price reasonableness, and cost-effectiveness. Where appropriate, the statement of work also shall require the architect-engineer to consider energy conservation, pollution prevention, and waste reduction to the maximum extent practicable in developing the construction design specifications.",
+              "sub": {
+                "2": {
+                  "text": "Facility design solicitations and contracts that include the specification of energy-consuming products must comply with the requirements at Subpart 23.2."
+                }
+              }
+            },
+            "b": {
+              "text": "Sources for contracts for architect-engineer services shall be selected in accordance with the procedures in this subpart rather than the solicitation or source selection procedures prescribed in Parts 13, 14, and 15 of this regulation."
+            },
+            "c": {
+              "text": "When the contract statement of work includes both architect-engineer services and other services, the contracting officer shall follow the procedures in this subpart if the statement of work, substantially or to a dominant extent, specifies performance or approval by a registered or licensed architect or engineer. If the statement of work does not specify such performance or approval, the contracting officer shall follow the procedures in Parts 13, 14, or 15."
+            },
+            "d": {
+              "text": "Other than “incidental services” as specified in the definition of architect-engineer services in 2.101 and in 36.601-4(a)(3), services that do not require performance by a registered or licensed architect or engineer, notwithstanding the fact that architect-engineers also may perform those services, should be acquired pursuant to Parts 13, 14, and 15."
+            }
+          }
+        },
+        "4": {
+          "name": "Implementation.",
+          "text": {
+            "a": {
+              "text": "Contracting officers should consider the following services to be “architect-engineer services” subject to the procedures of this subpart:",
+              "sub": {
+                "1": {
+                  "text": "Professional services of an architectural or engineering nature, as defined by applicable State law, which the State law requires to be performed or approved by a registered architect or engineer."
+                },
+                "2": {
+                  "text": "Professional services of an architectural or engineering nature associated with design or construction of real property."
+                },
+                "3": {
+                  "text": "Other professional services of an architectural or engineering nature or services incidental thereto (including studies, investigations, surveying and mapping, tests, evaluations, consultations, comprehensive planning, program management, conceptual designs, plans and specifications, value engineering, construction phase services, soils engineering, drawing reviews, preparation of operating and maintenance manuals and other related services) that logically or justifiably require performance by registered architects or engineers or their employees."
+                },
+                "4": {
+                  "text": "Professional surveying and mapping services of an architectural or engineering nature. Surveying is considered to be an architectural and engineering service and shall be procured pursuant to section 36.601 from registered surveyors or architects and engineers. Mapping associated with the research, planning, development, design, construction, or alteration of real property is considered to be an architectural and engineering service and is to be procured pursuant to section 36.601. However, mapping services that are not connected to traditionally understood or accepted architectural and engineering activities, are not incidental to such architectural and engineering activities or have not in themselves traditionally been considered architectural and engineering services shall be procured pursuant to provisions in Parts 13, 14, and 15."
+                }
+              }
+            },
+            "b": {
+              "text": "Contracting officers may award contracts for architect-engineer services to any firm permitted by law to practice the professions of architecture or engineering."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "602": {
+      "number": 602,
+      "name": "Selection of firms for architect-engineer contracts.",
+      "sub": {
+        "1": {
+          "name": "Selection criteria.",
+          "text": {
+            "a": {
+              "text": "Agencies shall evaluate each potential contractor in terms of its—",
+              "sub": {
+                "1": {
+                  "text": "Professional qualifications necessary for satisfactory performance of required services;"
+                },
+                "2": {
+                  "text": "Specialized experience and technical competence in the type of work required, including, where appropriate, experience in energy conservation, pollution prevention, waste reduction, and the use of recovered materials;"
+                },
+                "3": {
+                  "text": "Capacity to accomplish the work in the required time;"
+                },
+                "4": {
+                  "text": "Past performance on contracts with Government agencies and private industry in terms of cost control, quality of work, and compliance with performance schedules;"
+                },
+                "5": {
+                  "text": "Location in the general geographical area of the project and knowledge of the locality of the project; provided, that application of this criterion leaves an appropriate number of qualified firms, given the nature and size of the project; and"
+                },
+                "6": {
+                  "text": "Acceptability under other appropriate evaluation criteria."
+                }
+              }
+            },
+            "b": {
+              "text": "When the use of design competition is approved by the agency head or a designee, agencies may evaluate firms on the basis of their conceptual design of the project. Design competition may be used when—",
+              "sub": {
+                "1": {
+                  "text": "Unique situations exist involving prestige projects, such as the design of memorials and structures of unusual national significance;"
+                },
+                "2": {
+                  "text": "Sufficient time is available for the production and evaluation of conceptual designs; and"
+                },
+                "3": {
+                  "text": "The design competition, with its costs, will substantially benefit the project."
+                }
+              }
+            },
+            "c": {
+              "text": "Hold discussions with at least three of the most highly qualified firms regarding concepts, the relative utility of alternative methods and feasible ways to prescribe the use of recovered materials and achieve waste reduction and energy-efficiency in facility design (see Part 23)."
+            }
+          }
+        },
+        "2": {
+          "name": "Evaluation boards.",
+          "text": {
+            "a": {
+              "text": "When acquiring architect-engineer services, an agency shall provide for one or more permanent or ad hoc architect-engineer evaluation boards (which may include preselection boards when authorized by agency regulations) to be composed of members who, collectively, have experience in architecture, engineering, construction, and Government and related acquisition matters. Members shall be appointed from among highly qualified professional employees of the agency or other agencies, and if authorized by agency procedure, private practitioners of architecture, engineering, or related professions. One Government member of each board shall be designated as the chairperson."
+            },
+            "b": {
+              "text": "No firm shall be eligible for award of an architect-engineer contract during the period in which any of its principals or associates are participating as members of the awarding agency’s evaluation board."
+            }
+          }
+        },
+        "3": {
+          "name": "Evaluation board functions.",
+          "text": {
+            "text": "Under the general direction of the head of the contracting activity, an evaluation board shall perform the following functions:\n\n(a) Review the current data files on eligible firms and responses to a public notice concerning the particular project (see 36.603).\n\n(b) Evaluate the firms in accordance with the criteria in 36.602-1.\n\n(c) Hold discussions with at least three of the most highly qualified firms regarding concepts and the relative utility of alternative methods of furnishing the required services.\n\n(d) Prepare a selection report for the agency head or other designated selection authority recommending, in order of preference, at least three firms that are considered to be the most highly qualified to perform the required services. The report shall include a description of the discussions and evaluation conducted by the board to allow the selection authority to review the considerations upon which the recommendations are based."
+          }
+        },
+        "4": {
+          "name": "Selection authority.",
+          "text": {
+            "a": {
+              "text": "The final selection decision shall be made by the agency head or a designated selection authority."
+            },
+            "b": {
+              "text": "The selection authority shall review the recommendations of the evaluation board and shall, with the advice of appropriate technical and staff representatives, make the final selection. This final selection shall be a listing, in order of preference, of the firms considered most highly qualified to perform the work. If the firm listed as the most preferred is not the firm recommended as the most highly qualified by the evaluation board, the selection authority shall provide for the contract file a written explanation of the reason for the preference. All firms on the final selection list are considered “selected firms” with which the contracting officer may negotiate in accordance with 36.606."
+            },
+            "c": {
+              "text": "The selection authority shall not add firms to the selection report. If the firms recommended in the report are not deemed to be qualified or the report is considered inadequate for any reason, the selection authority shall record the reasons and return the report through channels to the evaluation board for appropriate revision."
+            },
+            "d": {
+              "text": "The board shall be promptly informed of the final selection."
+            }
+          }
+        },
+        "5": {
+          "name": "Short selection process for contracts not to exceed the simplified acquisition threshold.",
+          "text": {
+            "text": "When authorized by the agency, either or both of the short processes described in this subsection may be used to select firms for contracts not expected to exceed the simplified acquisition threshold. Otherwise, the procedures prescribed in 36.602-3 and 36.602-4 shall be followed.\n\n(a) Selection by the board. The board shall review and evaluate architect-engineer firms in accordance with 36.602-3, except that the selection report shall serve as the final selection list and shall be provided directly to the contracting officer. The report shall serve as an authorization for the contracting officer to commence negotiations in accordance with 36.606.\n\n(b) Selection by the chairperson of the board. When the board decides that formal action by the board is not necessary in connection with a particular selection, the following procedures shall be followed:\n\n(1) The chairperson of the board shall perform the functions required in 36.602-3.\n\n(2) The agency head or designated selection authority shall review the report and approve it or return it to the chairperson for appropriate revision.\n\n(3) Upon receipt of an approved report, the chairperson of the board shall furnish the contracting officer a copy of the report which will serve as an authorization for the contracting officer to commence negotiations in accordance with 36.606."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "603": {
+      "number": 603,
+      "name": "Collecting data on and appraising firms qualifications.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Establishing offices. Agencies shall maintain offices or permanent evaluation boards, or arrange to use the offices or boards of other agencies, to receive and maintain data on firms wishing to be considered for Government contracts. Each office or board shall be assigned a jurisdiction by its parent agency, making it responsible for a geographical region or area, or a specialized type of construction."
+        },
+        "b": {
+          "text": "Qualifications data. To be considered for architect-engineer contracts, a firm must file with the appropriate office or board the Standard Form 330, “Architect-Engineer Qualifications,” Part II, and when applicable, SF 330, Part I."
+        },
+        "c": {
+          "text": "Data files and the classification of firms. Under the direction of the parent agency, offices or permanent evaluation boards shall maintain an architect-engineer qualifications data file. These offices or boards shall review the SF 330 filed, and shall classify each firm with respect to—",
+          "sub": {
+            "1": {
+              "text": "Location;"
+            },
+            "2": {
+              "text": "Specialized experience;"
+            },
+            "3": {
+              "text": "Professional capabilities; and"
+            },
+            "4": {
+              "text": "Capacity, with respect to the scope of work that can be undertaken. A firm’s ability and experience in computer-assisted design should be considered, when appropriate."
+            }
+          }
+        },
+        "d": {
+          "text": "Currency of files. Any office or board maintaining qualifications data files shall review and update each file at least once a year. This process should include:",
+          "sub": {
+            "1": {
+              "text": "Encouraging firms to submit annually an updated statement of qualifications and performance data on a SF 330, Part II."
+            },
+            "2": {
+              "text": "Reviewing the SF 330, Part II, and, if necessary, updating the firm’s classification (see 36.603(c))."
+            },
+            "3": {
+              "text": "Recording any contract awards made to the firm in the past year."
+            },
+            "4": {
+              "text": "Assuring that the file contains a copy of each pertinent performance evaluation (see 42.1502(f))."
+            },
+            "5": {
+              "text": "Discarding any material that has not been updated within the past three years, if it is no longer pertinent, see 42.1502(f)."
+            },
+            "6": {
+              "text": "Posting the date of the review in the file."
+            }
+          }
+        },
+        "e": {
+          "text": "Use of data files. Evaluation boards and other appropriate Government employees, including contracting officers, shall use data files on firms."
+        }
+      }
+    },
+    "604": {
+      "number": 604,
+      "name": "Performance evaluation.",
+      "sub": {},
+      "text": {
+        "text": "See 42.1502(f) for the requirements for preparing past performance evaluations for architect-engineer contracts."
+      }
+    },
+    "605": {
+      "number": 605,
+      "name": "Government cost estimate for architect-engineer work.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "An independent Government estimate of the cost of architect-engineer services shall be prepared and furnished to the contracting officer before commencing negotiations for each proposed contract or contract modification expected to exceed the simplified acquisition threshold. The estimate shall be prepared on the basis of a detailed analysis of the required work as though the Government were submitting a proposal."
+        },
+        "b": {
+          "text": "Access to information concerning the Government estimate shall be limited to Government personnel whose official duties require knowledge of the estimate. An exception to this rule may be made during contract negotiations to allow the contracting officer to identify a specialized task and disclose the associated cost breakdown figures in the Government estimate, but only to the extent deemed necessary to arrive at a fair and reasonable price. The overall amount of the Government’s estimate shall not be disclosed except as permitted by agency regulations."
+        }
+      }
+    },
+    "606": {
+      "number": 606,
+      "name": "Negotiations.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Unless otherwise specified by the selection authority, the final selection authorizes the contracting officer to begin negotiations. Negotiations shall be conducted in accordance with Part 15 of this chapter, beginning with the most preferred firm in the final selection (see 15.404-4(c)(4)(i) on fee limitation)."
+        },
+        "b": {
+          "text": "The contracting officer should ordinarily request a proposal from the firm, ensuring that the solicitation does not inadvertently preclude the firm from proposing the use of modern design methods."
+        },
+        "c": {
+          "text": "The contracting officer shall inform the firm that no construction contract may be awarded to the firm that designed the project, except as provided in 36.209."
+        },
+        "d": {
+          "text": "During negotiations, the contracting officer should seek advance agreement (see 31.109) on any charges for computer-assisted design. When the firm’s proposal does not cover appropriate modern and cost-effective design methods (e.g., computer-assisted design), the contracting officer should discuss this topic with the firm."
+        },
+        "e": {
+          "text": "Because selection of firms is based upon qualifications, the extent of any subcontracting is an important negotiation topic. The clause prescribed at 44.204(b), Subcontractors and Outside Associates and Consultants (Architect-Engineer Services) (see 52.244-4), limits a firm’s subcontracting to firms agreed upon during negotiations."
+        },
+        "f": {
+          "text": "If a mutually satisfactory contract cannot be negotiated, the contracting officer shall obtain a written final proposal revision from the firm, and notify the firm that negotiations have been terminated. The contracting officer shall then initiate negotiations with the next firm on the final selection list. This procedure shall be continued until a mutually satisfactory contract has been negotiated. If negotiations fail with all selected firms, the contracting officer shall refer the matter to the selection authority who, after consulting with the contracting officer as to why a contract cannot be negotiated, may direct the evaluation board to recommend additional firms in accordance with 36.602."
+        }
+      }
+    },
+    "607": {
+      "number": 607,
+      "name": "Release of information on firm selection.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "After final selection has taken place, the contracting officer may release information identifying only the architect-engineer firm with which a contract will be negotiated for certain work. The work should be described in any release only in general terms, unless information relating to the work is classified. If negotiations are terminated without awarding a contract to the highest rated firm, the contracting officer may release that information and state that negotiations will be undertaken with another (named) architect-engineer firm. When an award has been made, the contracting officer may release award information (see 5.401)."
+        },
+        "b": {
+          "text": "Debriefings of successful and unsuccessful firms will be held after final selection has taken place and will be conducted, to the extent practicable, in accordance with 15.503, 15.506(b) through (f), and 15.507(c). Note that 15.506(d)(2) through (d)(5) do not apply to architect-engineer contracts."
+        }
+      }
+    },
+    "608": {
+      "number": 608,
+      "name": "Liability for Government costs resulting from design errors or deficiencies.",
+      "sub": {},
+      "text": {
+        "text": "Architect-engineer contractors shall be responsible for the professional quality, technical accuracy, and coordination of all services required under their contracts. A firm may be liable for Government costs resulting from errors or deficiencies in designs furnished under its contract. Therefore, when a modification to a construction contract is required because of an error or deficiency in the services provided under an architect-engineer contract, the contracting officer (with the advice of technical personnel and legal counsel) shall consider the extent to which the architect-engineer contractor may be reasonably liable. The contracting officer shall enforce the liability and issue a demand for payment of the amount due, if the recoverable cost will exceed the administrative cost involved or is otherwise in the Government’s interest. The contracting officer shall include in the contract file a written statement of the reasons for the decision to recover or not to recover the costs from the firm."
+      }
+    },
+    "609": {
+      "number": 609,
+      "name": "Contract clauses.",
+      "sub": {
+        "1": {
+          "name": "Design within funding limitations.",
+          "text": {
+            "1": {
+              "text": "The head of the contracting activity or a designee determines in writing that cost limitations are secondary to performance considerations and additional project funding can be expected, if necessary;"
+            },
+            "2": {
+              "text": "The design is for a standard structure and is not intended for a specific location; or"
+            },
+            "3": {
+              "text": "There is little or no design effort involved."
+            },
+            "a": {
+              "text": "The Government may require the architect-engineer contractor to design the project so that construction costs will not exceed a contractually specified dollar limit (funding limitation). If the price of construction proposed in response to a Government solicitation exceeds the construction funding limitation in the architect-engineer contract, the firm shall be solely responsible for redesigning the project within the funding limitation. These additional services shall be performed at no increase in the price of this contract. However, if the cost of proposed construction is affected by events beyond the firm’s reasonable control (e.g., if there is an increase in material costs which could not have been anticipated, or an undue delay by the Government in issuing a construction solicitation), the firm shall not be obligated to redesign at no cost to the Government. If a firm’s design fails to meet the contractual limitation on construction cost and the Government determines that the firm should not redesign the project, a written statement of the reasons for that determination shall be placed in the contract file."
+            },
+            "b": {
+              "text": "The amount of the construction funding limitation (to be inserted in paragraph (c) of the clause at 52.236-22) is to be established during negotiations between the contractor and the Government. This estimated construction contract price shall take into account any statutory or other limitations and exclude any allowances for Government supervision and overhead and any amounts set aside by the Government for contingencies. In negotiating the amount, the contracting officer should make available to the contractor the information upon which the Government has based its initial construction estimate and any subsequently acquired information that may affect the construction costs."
+            },
+            "c": {
+              "text": "The contracting officer shall insert the clause at 52.236-22, Design Within Funding Limitations, in fixed-price architect-engineer contracts except when—"
+            }
+          }
+        },
+        "2": {
+          "name": "Redesign responsibility for design errors or deficiencies.",
+          "text": {
+            "a": {
+              "text": "Under architect-engineer contracts, contractors shall be required to make necessary corrections at no cost to the Government when the designs, drawings, specifications, or other items or services furnished contain any errors, deficiencies, or inadequacies. If, in a given situation, the Government does not require a firm to correct such errors, the contracting officer shall include a written statement of the reasons for that decision in the contract file."
+            },
+            "b": {
+              "text": "The contracting officer shall insert the clause at 52.236-23, Responsibility of the Architect-Engineer Contractor, in fixed-price architect-engineer contracts."
+            }
+          }
+        },
+        "3": {
+          "name": "Work oversight in architect-engineer contracts.",
+          "text": {
+            "text": "The contracting officer shall insert the clause at 52.236-24, Work Oversight in Architect-Engineer Contracts, in all architect-engineer contracts."
+          }
+        },
+        "4": {
+          "name": "Requirements for registration of designers.",
+          "text": {
+            "text": "Insert the clause at 52.236-25, Requirements for Registration of Designers, in architect-engineer contracts, except that it may be omitted when the design will be performed—\n\n(a) Outside the United States and its outlying areas; or\n\n(b) In a State or outlying area of the United States that does not have registration requirements for the particular field involved."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    }
+  }
+}

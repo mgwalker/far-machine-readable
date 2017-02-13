@@ -1,0 +1,31 @@
+{
+  "parentPart": 22,
+  "number": 11,
+  "name": "Professional Employee Compensation",
+  "sub": {
+    "1101": {
+      "number": 1101,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "text": "The Service Contract Act of 1965, now codified at 41 U.S.C. chapter 67, Service Contract Labor Standards, was enacted to ensure that Government contractors compensate their blue-collar service workers and some white-collar service workers fairly, but it does not cover bona fide executive, administrative, or professional employees."
+      }
+    },
+    "1102": {
+      "number": 1102,
+      "name": "Definition.",
+      "sub": {},
+      "text": {
+        "text": "“Professional employee,” as used in this subpart, means any person meeting the definition of “employee employed in a bona fide . . . professional capacity” given in 29 CFR 541. The term embraces members of those professions having a recognized status based upon acquiring professional knowledge through prolonged study. Examples of these professions include accountancy, actuarial computation, architecture, dentistry, engineering, law, medicine, nursing, pharmacy, the sciences (such as biology, chemistry, and physics, and teaching). To be a professional employee, a person must not only be a professional but must be involved essentially in discharging professional duties."
+      }
+    },
+    "1103": {
+      "number": 1103,
+      "name": "Policy, procedures, and solicitation provision.",
+      "sub": {},
+      "text": {
+        "text": "All professional employees shall be compensated fairly and properly. Accordingly, the contracting officer shall insert the provision at 52.222-46, Evaluation of Compensation for Professional Employees, in solicitations for negotiated contracts when the contract amount is expected to exceed $700,000 and services are to be provided which will require meaningful numbers of professional employees.  This provision requires that offerors submit for evaluation a total compensation plan setting forth proposed salaries and fringe benefits for professional employees working on the contract.  Supporting information will include data, such as recognized national and regional compensation surveys and studies of professional, public and private organizations, used in establishing the total compensation structure.  Plans indicating unrealistically low professional employee compensation may be assessed adversely as one of the factors considered in making an award."
+      }
+    }
+  }
+}

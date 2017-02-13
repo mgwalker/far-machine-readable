@@ -1,0 +1,353 @@
+{
+  "parentPart": 8,
+  "number": 7,
+  "name": "Acquisition from Nonprofit Agencies Employing People Who Are Blind or Severely Disabled",
+  "sub": {
+    "700": {
+      "number": 700,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes the policies and procedures for implementing–\n\n(a) 41 U.S.C. chapter 85, Committee for Purchase from People Who Are Blind or Severely Disabled; and\n\n(b) The rules of the Committee for Purchase from People Who Are Blind or Severely Disabled (41 CFR Chapter 51), which implements the AbilityOne program."
+      }
+    },
+    "701": {
+      "number": 701,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Allocation” means an action taken by a central nonprofit agency to designate the AbilityOne participating nonprofit agencies that will furnish definite quantities of supplies or perform specific services upon receipt of orders from ordering offices.\n\n“Central nonprofit agency” means National Industries for the Blind (NIB), which has been designated to represent people who are blind; or NISH, which has been designated to represent AbilityOne participating nonprofit agencies serving people with severe disabilities other than blindness.\n\n“Committee” means the Committee for Purchase from People Who Are Blind or Severely Disabled.\n\n“Government” or “entity of the Government” means any entity of the legislative or judicial branch, any executive agency, military department, Government corporation, or independent establishment, the U.S. Postal Service, or any nonappropriated-fund instrumentality of the Armed Forces.\n\n“Ordering office” means any activity in an entity of the Government that places orders for the purchase of supplies or services under the AbilityOne Program.\n\n“Procurement List” means a list of supplies (including military resale commodities) and services that the Committee has determined are suitable for purchase by the Government under the 41 U.S.C. chapter 85.\n\n“Nonprofit agency serving people who are blind” or “nonprofit agency serving people with other severe disabilities” (referred to jointly as AbilityOne participating nonprofit agencies) means a qualified nonprofit agency employing people who are blind or have other severe disabilities approved by the Committee to furnish a commodity or a service to the Government under 41 U.S.C. chapter 85."
+      }
+    },
+    "702": {
+      "number": 702,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "text": "The Committee is an independent Government activity with members appointed by the President of the United States. It is responsible for—\n\n(a) Determining those supplies and services to be purchased by all entities of the Government from AbilityOne participating nonprofit agencies;\n\n(b) Establishing prices for the supplies and services; and\n\n(c) Establishing rules and regulations to implement the 41 U.S.C. chapter 85."
+      }
+    },
+    "703": {
+      "number": 703,
+      "name": "Procurement List.",
+      "sub": {},
+      "text": {
+        "text": "The Committee maintains a Procurement List of all supplies and services required to be purchased from AbilityOne participating nonprofit agencies. The Procurement List may be accessed at: http://www.abilityone.gov. Questions concerning whether a supply item or service is on the Procurement List may be submitted at Internet e-mail address info@abilityone.gov or referred to the Committee offices at the following address and telephone number:\n\nCommittee for Purchase From People\n\nWho Are Blind or Severely Disabled,\n\n1401 S. Clark Street, Suite 10800,\n\nArlington, VA 22202-3259,\n\n(703) 603-7740.\n\nMany items on the Procurement List are identified in the General Services Administration (GSA) Supply Catalog and GSA’s Customer Service Center Catalogs with a black square and the words “NIB/NISH Mandatory Source,” and in similar catalogs issued by the Defense Logistics Agency (DLA) and the Department of Veterans Affairs (VA). GSA, DLA, and VA are central supply agencies from which other Federal agencies are required to purchase certain supply items on the Procurement List."
+      }
+    },
+    "704": {
+      "number": 704,
+      "name": "Purchase priorities.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The 41 U.S.C. chapter 85 requires the Government to purchase supplies or services on the Procurement List, at prices established by the Committee, from AbilityOne participating nonprofit agencies if they are available within the period required. When identical supplies or services are on the Procurement List and the Schedule of Products issued by Federal Prison Industries, Inc., ordering offices shall purchase supplies and services in the following priorities:",
+          "sub": {
+            "1": {
+              "text": "Supplies:",
+              "sub": {
+                "i": {
+                  "text": "Federal Prison Industries, Inc. (41 U.S.C. chapter 8504)."
+                },
+                "ii": {
+                  "text": "AbilityOne participating nonprofit agencies."
+                },
+                "iii": {
+                  "text": "Commercial sources."
+                }
+              }
+            },
+            "2": {
+              "text": "Services:"
+            },
+            "i": {
+              "text": "AbilityOne participating nonprofit agencies."
+            },
+            "ii": {
+              "text": "Federal Prison Industries, Inc., or commercial sources."
+            }
+          }
+        },
+        "b": {
+          "text": "No other provision of the FAR shall be construed as permitting an exception to the mandatory purchase of items on the Procurement List."
+        },
+        "c": {
+          "text": "The Procurement List identifies those supplies for which the ordering office must obtain a formal waiver (8.604) from Federal Prison Industries, Inc., before making any purchases from AbilityOne participating nonprofit agencies."
+        }
+      }
+    },
+    "705": {
+      "number": 705,
+      "name": "Procedures.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "a": {
+              "text": "Ordering offices shall obtain supplies and services on the Procurement List from the central nonprofit agency or its designated AbilityOne participating nonprofit agencies, except that supplies identified on the Procurement List as available from DLA, GSA, or VA supply distribution facilities shall be obtained through DLA, GSA, or VA procedures. If a distribution facility cannot provide the supplies, it shall inform the ordering office, which shall then order from the AbilityOne participating nonprofit agency designated by the Committee."
+            },
+            "b": {
+              "text": "Supply distribution facilities in DLA and GSA shall obtain supplies on the Procurement List from the central nonprofit agency identified or its designated AbilityOne participating nonprofit agency."
+            }
+          }
+        },
+        "2": {
+          "name": "Direct-order process.",
+          "text": {
+            "text": "Central nonprofit agencies may authorize ordering offices to transmit orders for specific supplies or services directly to an AbilityOne participating nonprofit agency. The written authorization remains valid until it is revoked by the central nonprofit agency or the Committee. The central nonprofit agency shall specify the normal delivery or performance lead time required by the nonprofit agency. The ordering office shall reflect this lead time in its orders."
+          }
+        },
+        "3": {
+          "name": "Allocation process.",
+          "text": {
+            "a": {
+              "text": "When the direct order process has not been authorized, the ordering office shall submit a letter request for allocation (requesting the designation of the AbilityOne participating nonprofit agency to produce the supplies or perform the service) to the central nonprofit agency designated in the Procurement List. Ordering offices shall request allocations in sufficient time for a reply, for orders to be placed, and for the nonprofit agency to produce the supplies or provide the service within the required delivery or performance schedule."
+            },
+            "b": {
+              "text": "The ordering office’s request to the central nonprofit agency for allocation shall include the following information:",
+              "sub": {
+                "1": {
+                  "text": "For supplies—Item name, stock number, latest specification, quantity, unit price, date delivery is required, and destination to which delivery is to be made."
+                },
+                "2": {
+                  "text": "For services—Type and location of service required, latest specification, work to be performed, estimated volume, and required date or dates for completion."
+                },
+                "3": {
+                  "text": "Other requirements; e.g., packing, marking, as necessary."
+                }
+              }
+            },
+            "c": {
+              "text": "When an allocation is received, the ordering office shall promptly issue an order to the specified AbilityOne participating nonprofit agency or to the central nonprofit agency, as instructed by the allocation. If the issuance of an order is to be delayed for more than 15 days beyond receipt of the allocation, or canceled, the ordering office shall advise the central nonprofit agency immediately."
+            },
+            "d": {
+              "text": "Ordering offices may issue orders without limitation as to dollar amount and shall record them upon issuance as obligations. Each order shall include, as a minimum, the information contained in the request for allocation. Ordering offices shall also include additional instructions necessary for performance under the order; e.g., on the handling of Government-furnished property, reports required, and notification of shipment."
+            }
+          }
+        },
+        "4": {
+          "name": "Compliance with orders.",
+          "text": {
+            "a": {
+              "text": "The central nonprofit agency shall inform the ordering office of changes in lead time experienced by its AbilityOne participating nonprofit agencies to minimize requests for extension once the ordering office places an order."
+            },
+            "b": {
+              "text": "The ordering office shall grant a request by a central nonprofit agency or AbilityOne participating nonprofit agency for revision in the delivery or completion schedule, if feasible. If extension of the delivery or completion date is not feasible, the ordering office shall notify the appropriate central nonprofit agency and request that it reallocate the order, or grant a purchase exception authorizing acquisition from commercial sources."
+            },
+            "c": {
+              "text": "When an AbilityOne participating nonprofit agency fails to perform under the terms of an order, the ordering office shall make every effort to resolve the noncompliance with the nonprofit agency involved and to negotiate an adjustment before taking action to cancel the order. If the problem cannot be resolved with the nonprofit agency, the ordering office shall refer the matter for resolution first to the central nonprofit agency and then, if necessary, to the Committee."
+            },
+            "d": {
+              "text": "When, after complying with 8.705-4(c), the ordering office determines that it must cancel an order, it shall notify the central nonprofit agency and, if practical, request a reallocation of the order. When the central nonprofit agency cannot reallocate the order, it shall grant a purchase exception permitting use of commercial sources, subject to approval by the Committee when the value of the purchase exception is $25,000 or more."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "706": {
+      "number": 706,
+      "name": "Purchase exceptions.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Ordering offices may acquire supplies or services on the Procurement List from commercial sources only if the acquisition is specifically authorized in a purchase exception granted by the designated central nonprofit agency."
+        },
+        "b": {
+          "text": "The central nonprofit agency shall promptly grant purchase exceptions when—",
+          "sub": {
+            "1": {
+              "text": "The AbilityOne participating nonprofit agencies cannot provide the supplies or services within the time required, and commercial sources can provide them significantly sooner in the quantities required; or"
+            },
+            "2": {
+              "text": "The quantity required cannot be produced or provided economically by the AbilityOne participating nonprofit agencies."
+            }
+          }
+        },
+        "c": {
+          "text": "The central nonprofit agency granting the exception shall specify the quantity and delivery or performance period covered by the exception."
+        },
+        "d": {
+          "text": "When a purchase exception is granted, the contracting officer shall—",
+          "sub": {
+            "1": {
+              "text": "Initiate purchase action within 15 days following the date of the exception or any extension granted by the central nonprofit agency; and"
+            },
+            "2": {
+              "text": "Provide a copy of the solicitation to the central nonprofit agency when it is issued."
+            }
+          }
+        },
+        "e": {
+          "text": "The Committee may also grant a purchase exception, under any circumstances it considers appropriate."
+        }
+      }
+    },
+    "707": {
+      "number": 707,
+      "name": "Prices.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The prices of items on the Procurement List are fair market prices established by the Committee. All prices for supplies ordered under this subpart are f.o.b. origin."
+        },
+        "b": {
+          "text": "Prices for supplies are normally adjusted semiannually. Prices for services are normally adjusted annually."
+        },
+        "c": {
+          "text": "The Committee may request the agency responsible for acquiring the supplies or service to assist it in establishing or revising the fair market price. The Committee has the authority to establish prices without prior coordination with the responsible contracting office."
+        },
+        "d": {
+          "text": "Price changes shall normally apply to all orders received by the AbilityOne participating nonprofit agency on or after the effective date of the change. In special cases, after considering the views of the ordering office, the Committee may make price changes applicable to orders received by the AbilityOne participating nonprofit agency prior to the effective date of the change."
+        },
+        "e": {
+          "text": "If an ordering office desires packing, packaging, or marking of supplies other than the standard pack as provided on the Procurement List, any difference in costs shall be included as a separate item on the nonprofit agency’s invoice. The ordering office shall reimburse the nonprofit agency for these costs."
+        },
+        "f": {
+          "text": "Ordering offices may make recommendations to the Committee at any time for price revisions for supplies and services on the Procurement List."
+        }
+      }
+    },
+    "708": {
+      "number": 708,
+      "name": "Shipping.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Delivery is accomplished when a shipment is placed aboard the vehicle of the initial carrier. The time of delivery is the date shipment is released to and accepted by the initial carrier."
+        },
+        "b": {
+          "text": "Shipment is normally under Government bills of lading. However, for small orders, ordering offices may specify other shipment methods."
+        },
+        "c": {
+          "text": "When shipments are under Government bills of lading, the bills of lading may accompany orders or be otherwise furnished promptly. Failure of an ordering office to furnish bills of lading or to designate a method of transportation may result in an excusable delay in delivery."
+        },
+        "d": {
+          "text": "AbilityOne participating nonprofit agencies shall include transportation costs for small shipments paid by the nonprofit agencies as an item on the invoice. The ordering office shall reimburse the nonprofit agencies for these costs."
+        }
+      }
+    },
+    "709": {
+      "number": 709,
+      "name": "Payments.",
+      "sub": {},
+      "text": {
+        "text": "The ordering office shall make payments for supplies or services on the Procurement List within 30 days after shipment or after receipt of a proper invoice or voucher."
+      }
+    },
+    "710": {
+      "number": 710,
+      "name": "Quality of merchandise.",
+      "sub": {},
+      "text": {
+        "text": "Supplies and services provided by AbilityOne participating nonprofit agencies shall comply with the applicable Government specifications and standards cited in the order. When no specifications or standards exist—\n\n(a) Supplies shall be of the highest quality and equal to similar items available on the commercial market; and\n\n(b) Services shall conform to good commercial practices."
+      }
+    },
+    "711": {
+      "number": 711,
+      "name": "Quality complaints.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "When the quality of supplies or services received is unsatisfactory, the using activity shall take the following actions:",
+          "sub": {
+            "1": {
+              "text": "For supplies received from DLA supply centers, GSA supply distribution facilities, or Department of Veterans Affairs distribution division, notify the supplying agency."
+            },
+            "2": {
+              "text": "For supplies or services received from AbilityOne participating nonprofit agencies, address complaints to the individual nonprofit agency involved, with a copy to the appropriate central nonprofit agency."
+            }
+          }
+        },
+        "b": {
+          "text": "When quality problems cannot be resolved by the AbilityOne participating nonprofit agency and the ordering office, the ordering office shall first contact the central nonprofit agency and then, if necessary, the Committee for resolution."
+        }
+      }
+    },
+    "712": {
+      "number": 712,
+      "name": "Specification changes.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting activity shall notify the AbilityOne participating nonprofit agency and appropriate central nonprofit agency of any change in specifications or descriptions. In the absence of such written notification, the AbilityOne participating nonprofit agency shall furnish the supplies or services under the specification or description cited in the order."
+        },
+        "b": {
+          "text": "The contracting activity shall provide 90-days advance notification to the Committee and the central nonprofit agency on actions that affect supplies on the Procurement List and shall permit them to comment before action is taken, particularly when it involves—",
+          "sub": {
+            "1": {
+              "text": "Changes that require new national stock numbers or item designations;"
+            },
+            "2": {
+              "text": "Deleting items from the supply system;"
+            },
+            "3": {
+              "text": "Standardization; or"
+            },
+            "4": {
+              "text": "Developing new items to replace items on the Procurement List."
+            }
+          }
+        },
+        "c": {
+          "text": "For services, the contracting activity shall notify the AbilityOne participating nonprofit agency and central nonprofit agency concerned at least 90 days prior to the date that any changes in the scope of work or other conditions will be required."
+        },
+        "d": {
+          "text": "When, in order to meet its emergency needs, a contracting activity is unable to give the 90-day notification required in paragraphs (b) and (c) of this section, the contracting activity shall, at the time it places the order or change notice, inform the AbilityOne participating nonprofit agency and the central nonprofit agency in writing of the reasons that it cannot meet the 90-day notification requirement."
+        }
+      }
+    },
+    "713": {
+      "number": 713,
+      "name": "Optional acquisition of supplies and services.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Ordering offices may acquire supplies and services not included on the Procurement List from an AbilityOne participating nonprofit agency that is the low responsive, responsible offeror under a solicitation issued by other authorized acquisition methods."
+        },
+        "b": {
+          "text": "Ordering offices should forward solicitations to AbilityOne participating nonprofit agencies that may be qualified to provide the supplies or services required."
+        }
+      }
+    },
+    "714": {
+      "number": 714,
+      "name": "Communications with the central nonprofit agencies and the Committee.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The addresses of the central nonprofit agencies are:",
+          "sub": {
+            "1": {
+              "text": "National Industries for the Blind"
+            },
+            "2": {
+              "text": "NISH"
+            }
+          }
+        },
+        "b": {
+          "text": "Any matter requiring referral to the Committee shall be addressed to:\n\nExecutive Director of the Committee,\n\n1401 S. Clark Street, Suite 10800,\n\nArlington, VA 22202-3259.\n\nExecutive Director of the Committee,\n\n1401 S. Clark Street, Suite 10800,\n\nArlington, VA 22202-3259."
+        }
+      }
+    },
+    "715": {
+      "number": 715,
+      "name": "Replacement commodities.",
+      "sub": {},
+      "text": {
+        "text": "When a commodity on the Procurement List is replaced by another commodity which has not been previously acquired, and a qualified AbilityOne participating nonprofit agency can furnish the replacement commodity in accordance with the Government’s quality standards and delivery schedules and at a fair market price, the replacement commodity is automatically on the Procurement List and shall be acquired from the AbilityOne participating nonprofit agency designated by the Committee. The commodity being replaced shall continue to be included on the Procurement List until there is no longer a requirement for that commodity."
+      }
+    },
+    "716": {
+      "number": 716,
+      "name": "Change-of-name and successor in interest procedures.",
+      "sub": {},
+      "text": {
+        "text": "When the Committee recognizes a name change or a successor in interest for an AbilityOne participating nonprofit agency providing supplies or services on the Procurement List—\n\n(a) The Committee will provide a notice of a change to the Procurement List to the cognizant contracting officers; and\n\n(b) Upon receipt of a notice of a change to the Procurement List from the Committee, the contracting officer must—\n\n(1) Prepare a Standard Form (SF) 30, Amendment of Solicitation/Modification of Contract, incorporating a summary of the notice and attaching a list of contracts affected; and\n\n(2) Distribute the SF 30, including a copy to the Committee."
+      }
+    }
+  }
+}

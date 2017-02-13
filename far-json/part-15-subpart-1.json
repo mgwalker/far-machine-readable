@@ -1,0 +1,160 @@
+{
+  "parentPart": 15,
+  "number": 1,
+  "name": "Source Selection Processes and Techniques",
+  "sub": {
+    "100": {
+      "number": 100,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart describes some of the acquisition processes and techniques that may be used to design competitive acquisition strategies suitable for the specific circumstances of the acquisition."
+      }
+    },
+    "101": {
+      "number": 101,
+      "name": "Best value continuum.",
+      "sub": {
+        "1": {
+          "name": "Tradeoff process.",
+          "text": {
+            "a": {
+              "text": "A tradeoff process is appropriate when it may be in the best interest of the Government to consider award to other than the lowest priced offeror or other than the highest technically rated offeror."
+            },
+            "b": {
+              "text": "When using a tradeoff process, the following apply:",
+              "sub": {
+                "1": {
+                  "text": "All evaluation factors and significant subfactors that will affect contract award and their relative importance shall be clearly stated in the solicitation; and"
+                },
+                "2": {
+                  "text": "The solicitation shall state whether all evaluation factors other than cost or price, when combined, are significantly more important than, approximately equal to, or significantly less important than cost or price."
+                }
+              }
+            },
+            "c": {
+              "text": "This process permits tradeoffs among cost or price and non-cost factors and allows the Government to accept other than the lowest priced proposal. The perceived benefits of the higher priced proposal shall merit the additional cost, and the rationale for tradeoffs must be documented in the file in accordance with 15.406."
+            }
+          }
+        },
+        "2": {
+          "name": "Lowest price technically acceptable source selection process.",
+          "text": {
+            "1": {
+              "text": "The evaluation factors and significant subfactors that establish the requirements of acceptability shall be set forth in the solicitation. Solicitations shall specify that award will be made on the basis of the lowest evaluated price of proposals meeting or exceeding the acceptability standards for non-cost factors. If the contracting officer documents the file pursuant to 15.304(c)(3)(iii), past performance need not be an evaluation factor in lowest price technically acceptable source selections. If the contracting officer elects to consider past performance as an evaluation factor, it shall be evaluated in accordance with 15.305. However, the comparative assessment in 15.305(a)(2)(i) does not apply. If the contracting officer determines that a small business’ past performance is not acceptable, the matter shall be referred to the Small Business Administration for a Certificate of Competency determination, in accordance with the procedures contained in Subpart 19.6 and 15 U.S.C. 637(b)(7))."
+            },
+            "2": {
+              "text": "Tradeoffs are not permitted."
+            },
+            "3": {
+              "text": "Proposals are evaluated for acceptability but not ranked using the non-cost/price factors."
+            },
+            "4": {
+              "text": "Exchanges may occur (see 15.306)."
+            },
+            "a": {
+              "text": "The lowest price technically acceptable source selection process is appropriate when best value is expected to result from selection of the technically acceptable proposal with the lowest evaluated price."
+            },
+            "b": {
+              "text": "When using the lowest price technically acceptable process, the following apply:"
+            }
+          }
+        }
+      },
+      "text": {
+        "text": "An agency can obtain best value in negotiated acquisitions by using any one or a combination of source selection approaches. In different types of acquisitions, the relative importance of cost or price may vary. For example, in acquisitions where the requirement is clearly definable and the risk of unsuccessful contract performance is minimal, cost or price may play a dominant role in source selection. The less definitive the requirement, the more development work required, or the greater the performance risk, the more technical or past performance considerations may play a dominant role in source selection."
+      }
+    },
+    "102": {
+      "number": 102,
+      "name": "Oral presentations.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Oral presentations by offerors as requested by the Government may substitute for, or augment, written information. Use of oral presentations as a substitute for portions of a proposal can be effective in streamlining the source selection process. Oral presentations may occur at any time in the acquisition process, and are subject to the same restrictions as written information, regarding timing (see 15.208) and content (see 15.306). Oral presentations provide an opportunity for dialogue among the parties. Pre-recorded videotaped presentations that lack real-time interactive dialogue are not considered oral presentations for the purposes of this section, although they may be included in offeror submissions, when appropriate."
+        },
+        "b": {
+          "text": "The solicitation may require each offeror to submit part of its proposal through oral presentations. However, representations and certifications shall be submitted as required in the FAR provisions at 52.204-8(d) or 52.212-3(b), and a signed offer sheet (including any exceptions to the Government’s terms and conditions) shall be submitted in writing."
+        },
+        "c": {
+          "text": "Information pertaining to areas such as an offeror’s capability, past performance, work plans or approaches, staffing resources, transition plans, or sample tasks (or other types of tests) may be suitable for oral presentations. In deciding what information to obtain through an oral presentation, consider the following:",
+          "sub": {
+            "1": {
+              "text": "The Government’s ability to adequately evaluate the information;"
+            },
+            "2": {
+              "text": "The need to incorporate any information into the resultant contract;"
+            },
+            "3": {
+              "text": "The impact on the efficiency of the acquisition; and"
+            },
+            "4": {
+              "text": "The impact (including cost) on small businesses. In considering the costs of oral presentations, contracting officers should also consider alternatives to on-site oral presentations (e.g., teleconferencing, video teleconferencing)."
+            }
+          }
+        },
+        "d": {
+          "text": "When oral presentations are required, the solicitation shall provide offerors with sufficient information to prepare them. Accordingly, the solicitation may describe—",
+          "sub": {
+            "1": {
+              "text": "The types of information to be presented orally and the associated evaluation factors that will be used;"
+            },
+            "2": {
+              "text": "The qualifications for personnel that will be required to provide the oral presentation(s);"
+            },
+            "3": {
+              "text": "The requirements for, and any limitations and/or prohibitions on, the use of written material or other media to supplement the oral presentations;"
+            },
+            "4": {
+              "text": "The location, date, and time for the oral presentations;"
+            },
+            "5": {
+              "text": "The restrictions governing the time permitted for each oral presentation; and"
+            },
+            "6": {
+              "text": "The scope and content of exchanges that may occur between the Government’s participants and the offeror’s representatives as part of the oral presentations, including whether or not discussions (see 15.306(d)) will be permitted during oral presentations."
+            }
+          }
+        },
+        "e": {
+          "text": "The contracting officer shall maintain a record of oral presentations to document what the Government relied upon in making the source selection decision. The method and level of detail of the record (e.g., videotaping, audio tape recording, written record, Government notes, copies of offeror briefing slides or presentation notes) shall be at the discretion of the source selection authority. A copy of the record placed in the file may be provided to the offeror."
+        },
+        "f": {
+          "text": "When an oral presentation includes information that the parties intend to include in the contract as material terms or conditions, the information shall be put in writing. Incorporation by reference of oral statements is not permitted."
+        },
+        "g": {
+          "text": "If, during an oral presentation, the Government conducts discussions (see 15.306(d)), the Government must comply with 15.306 and 15.307."
+        }
+      }
+    },
+    "000": {
+      "number": 0,
+      "name": "Scope of part.",
+      "sub": {},
+      "text": {
+        "text": "This part prescribes policies and procedures governing competitive and noncompetitive negotiated acquisitions. A contract awarded using other than sealed bidding procedures is a negotiated contract (see 14.101)."
+      }
+    },
+    "001": {
+      "number": 1,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this part—\n\n“Deficiency” is a material failure of a proposal to meet a Government requirement or a combination of significant weaknesses in a proposal that increases the risk of unsuccessful contract performance to an unacceptable level.\n\n“Proposal modification” is a change made to a proposal before the solicitation closing date and time, or made in response to an amendment, or made to correct a mistake at any time before award.\n\n“Proposal revision” is a change to a proposal made after the solicitation closing date, at the request of or as allowed by a contracting officer, as the result of negotiations.\n\n“Weakness” means a flaw in the proposal that increases the risk of unsuccessful contract performance. A “significant weakness” in the proposal is a flaw that appreciably increases the risk of unsuccessful contract performance."
+      }
+    },
+    "002": {
+      "number": 2,
+      "name": "Types of negotiated acquisition.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Sole source acquisitions. When contracting in a sole source environment, the request for proposals (RFP) should be tailored to remove unnecessary information and requirements; e.g., evaluation criteria and voluminous proposal preparation instructions."
+        },
+        "b": {
+          "text": "Competitive acquisitions. When contracting in a competitive environment, the procedures of this part are intended to minimize the complexity of the solicitation, the evaluation, and the source selection decision, while maintaining a process designed to foster an impartial and comprehensive evaluation of offerors’ proposals, leading to selection of the proposal representing the best value to the Government (see 2.101)."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "parentPart": 23,
+  "number": 1,
+  "name": "Sustainable Acquisition Policy",
+  "sub": {
+    "101": {
+      "number": 101,
+      "name": "Definition.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Contract action” means any oral or written action that results in the purchase, rent, or lease of supplies or equipment, services, or construction using appropriated dollars, including purchases below the micro-purchase threshold. Contract action does not include grants, cooperative agreements, other transactions, real property leases, requisitions from Federal stock, training authorizations, or other non-FAR based transactions."
+      }
+    },
+    "102": {
+      "number": 102,
+      "name": "Authorities.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Executive Order 13423 of January 24, 2007, Strengthening Federal Environmental, Energy, and Transportation Management."
+        },
+        "b": {
+          "text": "Executive Order 13514 of October 5, 2009, Federal Leadership in Environmental, Energy, and Economic Performance."
+        },
+        "c": {
+          "text": "All of the authorities specified in subparts 23.2, 23.4, 23.7, 23.8, 23.9, and 23.10."
+        }
+      }
+    },
+    "103": {
+      "number": 103,
+      "name": "Sustainable acquisitions.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Federal agencies shall advance sustainable acquisition by ensuring that 95 percent of new contract actions for the supply of products and for the acquisition of services (including construction) require that the products are—",
+          "sub": {
+            "1": {
+              "text": "Energy-efficient (ENERGY STAR® or Federal Energy Management Program (FEMP)-designated);"
+            },
+            "2": {
+              "text": "Water-efficient;"
+            },
+            "3": {
+              "text": "Biobased;"
+            },
+            "4": {
+              "text": "Environmentally preferable (e.g., EPEAT®-registered, or non-toxic or less toxic alternatives);"
+            },
+            "5": {
+              "text": "Non-ozone depleting; or"
+            },
+            "6": {
+              "text": "Made with recovered materials."
+            }
+          }
+        },
+        "b": {
+          "text": "The required products in the contract actions for services include products that are—",
+          "sub": {
+            "1": {
+              "text": "Delivered to the Government during performance;"
+            },
+            "2": {
+              "text": "Acquired by the contractor for use in performing services at a Federally-controlled facility; or"
+            },
+            "3": {
+              "text": "Furnished by the contractor for use by the Government."
+            }
+          }
+        },
+        "c": {
+          "text": "The required products in the contract actions must meet agency performance requirements."
+        },
+        "d": {
+          "text": "For purposes of meeting the 95 percent sustainable acquisition requirement, the term “contract actions” includes new contracts (and task and delivery orders placed against them) and new task and delivery orders on existing contracts."
+        }
+      }
+    },
+    "104": {
+      "number": 104,
+      "name": "Exceptions.",
+      "sub": {},
+      "text": {
+        "text": "This subpart does not apply to the following acquisitions:\n\n(a) Contracts performed outside of the United States, unless the agency head determines that such application is in the interest of the United States.\n\n(b) Weapon systems."
+      }
+    },
+    "105": {
+      "number": 105,
+      "name": "Exemption authority.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The head of an agency may exempt—",
+          "sub": {
+            "1": {
+              "text": "Intelligence activities of the United States, and related personnel, resources, and facilities, to the extent the Director of National Intelligence or agency head determines it necessary to protect intelligence sources and methods from unauthorized disclosure;"
+            },
+            "2": {
+              "text": "Law enforcement activities of that agency and related personnel, resources, and facilities, to the extent the head of an agency determines it necessary to protect undercover operations from unauthorized disclosure;"
+            },
+            "3": {
+              "text": "Law enforcement, protective, emergency response, or military tactical vehicle fleets of that agency; and"
+            },
+            "4": {
+              "text": "Agency activities and facilities in the interest of national security."
+            }
+          }
+        },
+        "b": {
+          "text": "If the head of the agency issues an exemption under paragraph (a) of this section, the agency must notify the Chair of the Council on Environmental Quality in writing within 30 days of the issuance of the exemption."
+        },
+        "c": {
+          "text": "The agency head may submit through the Chair of the Council on Environmental Quality a request for exemption of an agency activity other than those activities listed in paragraph (a) of this section and related personnel, resources, and facilities."
+        }
+      }
+    },
+    "000": {
+      "number": 0,
+      "name": "Scope.",
+      "sub": {},
+      "text": {
+        "text": "This part prescribes acquisition policies and procedures supporting the Government’s program for ensuring a drug-free workplace, for protecting and improving the quality of the environment, and to foster markets for sustainable technologies, materials, products, and services, and for encouraging the safe operation of vehicles.\n\n"
+      }
+    },
+    "001": {
+      "number": 1,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this part—\n\n“Environmental” means environmental aspects of internal agency operations and activities, including those aspects related to energy and transportation functions.\n\n“Greenhouse gases” means carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, nitrogen triflouride, and sulfur hexafluoride.\n\n“Toxic chemical” means a chemical or chemical category listed in 40 CFR 372.65.\n\n“United States”, except as used in subpart 23.10, means—\n\n(1) The fifty States;\n\n(2) The District of Columbia;\n\n(3) The commonwealths of Puerto Rico and the Northern Mariana Islands;\n\n(4) The territories of Guam, American Samoa, and the United States Virgin Islands; and\n\n(5) Associated territorial waters and airspace."
+      }
+    },
+    "002": {
+      "number": 2,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "text": "Executive Order 13423 sections 3(e) and (f) require that contracts for contractor operation of a Government-owned or -leased facility and contracts for support services at a Government-owned or -operated facility include provisions that obligate the contractor to comply with the requirements of the order to the same extent as the agency would be required to comply if the agency operated or supported the facility. Compliance includes developing programs to promote and implement cost-effective waste reduction."
+      }
+    }
+  }
+}

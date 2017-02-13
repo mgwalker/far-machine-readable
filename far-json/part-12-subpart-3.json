@@ -1,0 +1,172 @@
+{
+  "parentPart": 12,
+  "number": 3,
+  "name": "Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items",
+  "sub": {
+    "300": {
+      "number": 300,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart establishes provisions and clauses to be used when acquiring commercial items."
+      }
+    },
+    "301": {
+      "number": 301,
+      "name": "Solicitation provisions and contract clauses for the acquisition of commercial items.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "In accordance with 41 U.S.C. 3307, contracts for the acquisition of commercial items shall, to the maximum extent practicable, include only those clauses—",
+          "sub": {
+            "1": {
+              "text": "Required to implement provisions of law or executive orders applicable to the acquisition of commercial items; or"
+            },
+            "2": {
+              "text": "Determined to be consistent with customary commercial practice."
+            }
+          }
+        },
+        "b": {
+          "text": "Insert the following provisions in solicitations for the acquisition of commercial items, and clauses in solicitations and contracts for the acquisition of commercial items:\n\n(B)",
+          "sub": {
+            "1": {
+              "text": "In the case of a bilateral contract modification that will use funds appropriated or otherwise made available by the American Recovery and Reinvestment Act of 2009, the contracting officer shall specify applicability of Alternate II to that modification."
+            },
+            "2": {
+              "text": "In the case of a task- or delivery-order contract in which not all orders will use funds appropriated or otherwise made available by the American Recovery and Reinvestment Act of 2009, the contracting officer shall specify the task or delivery orders to which Alternate II applies."
+            },
+            "3": {
+              "text": "The clause at 52.212-4, Contract Terms and Conditions—Commercial Items. This clause includes terms and conditions which are, to the maximum extent practicable, consistent with customary commercial practices and is incorporated in the solicitation and contract by reference (see Block 27, SF 1449). Use this clause with its Alternate I when a time-and-materials or labor-hour contract will be awarded. The contracting officer may tailor this clause in accordance with 12.302."
+            },
+            "4": {
+              "text": "The clause at 52.212-5, Contract Terms and Conditions Required to Implement Statutes or Executive Orders—Commercial Items. This clause incorporates by reference only those clauses required to implement provisions of law or Executive orders applicable to the acquisition of commercial items.The contracting officer shall attach this clause to the solicitation and contract and, using the appropriate clause prescriptions, indicate which, if any, of the additional clauses cited in 52.212-5(b) or (c) are applicable to the specific acquisition. Some of the clauses require fill-in; the fill-in language should be inserted as directed by 52.104(d). When cost information is obtained pursuant to Part 15 to establish the reasonableness of prices for commercial items, the contracting officer shall insert the clauses prescribed for this purpose in an addendum to the solicitation and contract. This clause may not be tailored.\n\n(B)"
+            },
+            "i": {
+              "text": "Use the clause with its Alternate I when the head of the agency has waived the examination of records by the Comptroller General in accordance with 25.1001.\n\n(B)"
+            },
+            "ii": {
+              "text": "(A) If the acquisition will use funds appropriated or otherwise made available by the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5), the contracting officer shall use the clause with its Alternate II.\n\n(B)\n\n(B)"
+            },
+            "C": {
+              "text": "The contracting officer may not use Alternate I when Alternate II applies."
+            }
+          }
+        },
+        "c": {
+          "text": "When the use of evaluation factors is appropriate, the contracting officer may—",
+          "sub": {
+            "1": {
+              "text": "Insert the provision at 52.212-2, Evaluation—Commercial Items, in solicitations for commercial items (see 12.602); or"
+            },
+            "2": {
+              "text": "Include a similar provision containing all evaluation factors required by 13.106, subpart 14.2 or subpart 15.3, as an addendum (see 12.302(d))."
+            }
+          }
+        },
+        "d": {
+          "text": "Other required provisions and clauses. Notwithstanding prescriptions contained elsewhere in the FAR, when acquiring commercial items, contracting officers shall be required to use only those provisions and clauses prescribed in this part. The provisions and clauses prescribed in this part shall be revised, as necessary, to reflect the applicability of statutes and executive orders to the acquisition of commercial items.",
+          "sub": {
+            "1": {
+              "text": "Insert the provision at 52.204-16, Commercial and Government Entity Code Reporting, when there is a requirement to be registered in SAM or a requirement to have a unique entity identifier in the solicitation."
+            },
+            "2": {
+              "text": "Insert the clause at 52.204-18, Commercial and Government Entity Code Maintenance, when there is a requirement to be registered in SAM or a requirement to have a unique entity identifier in the solicitation."
+            },
+            "3": {
+              "text": "Insert the clause at 52.204-21, Basic Safeguarding of Covered Contractor Information Systems, in solicitations and contracts (except for acquisitions of COTS items), as prescribed in 4.1903."
+            },
+            "4": {
+              "text": "Insert the provision at 52.207-6, Solicitation of Offers from Small Business Concerns and Small Business Teaming Arrangements or Joint Ventures (Multiple-Award Contracts), as prescribed at 7.107-6."
+            },
+            "5": {
+              "text": "Insert the provision at 52.209-7, Information Regarding Responsibility Matters, as prescribed in 9.104-7(b)."
+            },
+            "6": {
+              "text": "Insert the provision at 52.209-12, Certification Regarding Tax Matters, as prescribed at 9.104-7(e)."
+            },
+            "7": {
+              "text": "Insert the provision at 52.222-56, Certification Regarding Trafficking in Persons Compliance Plan, in solicitations as prescribed at 22.1705(b)."
+            },
+            "8": {
+              "text": "Insert the clause at 52.225-19, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States, as prescribed in 25.301-4."
+            },
+            "9": {
+              "text": "Insert the clause at 52.232-40, Providing Accelerated Payments to Small Business Subcontractors, as prescribed in 32.009-2."
+            }
+          }
+        },
+        "e": {
+          "text": "Discretionary use of FAR provisions and clauses. The contracting officer may include in solicitations and contracts by addendum other FAR provisions and clauses when their use is consistent with the limitations contained in 12.302. For example:",
+          "sub": {
+            "1": {
+              "text": "The contracting officer may include appropriate clauses when an indefinite-delivery type of contract will be used. The clauses prescribed at 16.506 may be used for this purpose."
+            },
+            "2": {
+              "text": "The contracting officer may include appropriate provisions and clauses when the use of options is in the Government’s interest. The provisions and clauses prescribed in 17.208 may be used for this purpose. If the provision at 52.212-2 is used, paragraph (b) provides for the evaluation of options."
+            },
+            "3": {
+              "text": "The contracting officer may use the provisions and clauses contained in Part 23 regarding the use of products containing recovered materials and biobased products when appropriate for the item being acquired."
+            },
+            "4": {
+              "text": "When setting aside under the Stafford Act (subpart 26.2), include the provision at 52.226-3, Disaster or Emergency Area Representation, in the solicitation. The representation in this provision is not in the System for Award Management database."
+            }
+          }
+        },
+        "f": {
+          "text": "Agencies may supplement the provisions and clauses prescribed in this part (to require use of additional provisions and clauses) only as necessary to reflect agency unique statutes applicable to the acquisition of commercial items or as may be approved by the agency senior procurement executive, or the individual responsible for representing the agency on the FAR Council, without power of delegation."
+        }
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "Tailoring of provisions and clauses for the acquisition of commercial items.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "General. The provisions and clauses established in this subpart are intended to address, to the maximum extent practicable, commercial market practices for a wide range of potential Government acquisitions of commercial items. However, because of the broad range of commercial items acquired by the Government, variations in commercial practices, and the relative volume of the Government’s acquisitions in the specific market, contracting officers may, within the limitations of this subpart, and after conducting appropriate market research, tailor the provision at 52.212-1, Instructions to Offerors—Commercial Items, and the clause at 52.212-4, Contract Terms and Conditions—Commercial Items, to adapt to the market conditions for each acquisition."
+        },
+        "b": {
+          "text": "Tailoring 52.212-4, Contract Terms and Conditions—Commercial Items. The following paragraphs of the clause at 52.212-4, Contract Terms and Conditions—Commercial Items, implement statutory requirements and shall not be tailored—",
+          "sub": {
+            "1": {
+              "text": "Assignments;"
+            },
+            "2": {
+              "text": "Disputes;"
+            },
+            "3": {
+              "text": "Payment (except as provided in subpart 32.11);"
+            },
+            "4": {
+              "text": "Invoice;"
+            },
+            "5": {
+              "text": "Other compliances;"
+            },
+            "6": {
+              "text": "Compliance with laws unique to Government contracts; and"
+            },
+            "7": {
+              "text": "Unauthorized obligations."
+            }
+          }
+        },
+        "c": {
+          "text": "Tailoring inconsistent with customary commercial practice. The contracting officer shall not tailor any clause or otherwise include any additional terms or conditions in a solicitation or contract for commercial items in a manner that is inconsistent with customary commercial practice for the item being acquired unless a waiver is approved in accordance with agency procedures. The request for waiver must describe the customary commercial practice found in the marketplace, support the need to include a term or condition that is inconsistent with that practice and include a determination that use of the customary commercial practice is inconsistent with the needs of the Government. A waiver may be requested for an individual or class of contracts for that specific item."
+        },
+        "d": {
+          "text": "Tailoring shall be by addenda to the solicitation and contract. The contracting officer shall indicate in Block 27a of the SF 1449 if addenda are attached. These addenda may include, for example, a continuation of the schedule of supplies/services to be acquired from blocks 18 through 21 of the SF 1449; a continuation of the description of the supplies/services being acquired; further elaboration of any other item(s) on the SF 1449; any other terms or conditions necessary for the performance of the proposed contract (such as options, ordering procedures for indefinite-delivery type contracts, warranties, contract financing arrangements, etc.)."
+        }
+      }
+    },
+    "303": {
+      "number": 303,
+      "name": "Contract format.",
+      "sub": {},
+      "text": {
+        "text": "Solicitations and contracts for the acquisition of commercial items prepared using this Part 12 shall be assembled, to the maximum extent practicable, using the following format:\n\n(a) Standard Form (SF) 1449;\n\n(b) Continuation of any block from SF 1449, such as—\n\n(1) Block 10 if an incentive subcontracting clause is used (the contracting officer shall indicate the applicable percentage);\n\n(2) Block 18B for remittance address;\n\n(3) Block 19 for line item numbers;\n\n(4) Block 20 for schedule of supplies/services; or\n\n(5) Block 25 for accounting data;\n\n(c) Contract clauses—\n\n(1) 52.212-4, Contract Terms and Conditions—Commercial Items, by reference (see SF 1449 block 27a);\n\n(2) Any addendum to 52.212-4; and\n\n(3) 52.212-5, Contract Terms and Conditions Required to Implement Statutes and Executive orders;\n\n(d) Any contract documents, exhibits or attachments; and\n\n(e) Solicitation provisions—\n\n(1) 52.212-1, Instructions to Offerors—Commercial Items, by reference (see SF 1449, Block 27a);\n\n(2) Any addendum to 52.212-1;\n\n(3) 52.212-2, Evaluation—Commercial Items, or other description of evaluation factors for award, if used; and\n\n(4) 52.212-3, Offeror Representations and Certifications—Commercial Items."
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "parentPart": 34,
+  "number": 2,
+  "name": "Earned Value Management System",
+  "sub": {
+    "201": {
+      "number": 201,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "An Earned Value Management System (EVMS) is required for major acquisitions for development, in accordance with OMB Circular A-11. The Government may also require an EVMS for other acquisitions, in accordance with agency procedures."
+        },
+        "b": {
+          "text": "If the offeror proposes to use a system that has not been determined to be in compliance with the Electronic Industries Alliance Standard 748 (EIA-748), Earned Value Management Systems, the offeror shall submit a comprehensive plan for compliance with these EVMS standards. Offerors shall not be eliminated from consideration for contract award because they do not have an EVMS that complies with these standards."
+        },
+        "c": {
+          "text": "As a minimum, contracting officers shall require contractors to submit EVMS monthly reports for those contracts for which an EVMS applies."
+        },
+        "d": {
+          "text": "EVMS requirements will be applied to subcontractors using the same rules as applied to the prime contractor."
+        },
+        "e": {
+          "text": "When an offeror is required to provide an EVMS plan as part of its proposal, the contracting officer will determine the adequacy of the proposed EVMS plan prior to contract award."
+        }
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Integrated Baseline Reviews.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "When an EVMS is required, the Government will conduct an Integrated Baseline Review (IBR)."
+        },
+        "b": {
+          "text": "The purpose of the IBR is to verify the technical content and the realism of the related performance budgets, resources, and schedules. It should provide a mutual understanding of the inherent risks in offerors’/ contractors’ performance plans and the underlying management control systems, and it should formulate a plan to handle these risks."
+        },
+        "c": {
+          "text": "The IBR is a joint assessment by the offeror or contractor, and the Government, of the—",
+          "sub": {
+            "1": {
+              "text": "Ability of the project’s technical plan to achieve the objectives of the scope of work;"
+            },
+            "2": {
+              "text": "Adequacy of the time allocated for performing the defined tasks to successfully achieve the project schedule objectives;"
+            },
+            "3": {
+              "text": "Ability of the Performance Measurement Baseline (PMB) to successfully execute the project and attain cost objectives, recognizing the relationship between budget resources, funding, schedule, and scope of work;"
+            },
+            "4": {
+              "text": "Availability of personnel, facilities, and equipment when required, to perform the defined tasks needed to execute the program successfully; and"
+            },
+            "5": {
+              "text": "The degree to which the management process provides effective and integrated technical/schedule/cost planning and baseline control."
+            }
+          }
+        },
+        "d": {
+          "text": "The timing and conduct of the IBR shall be in accordance with agency procedures. If a pre-award IBR will be conducted, the solicitation must include the procedures for conducting the IBR and address whether offerors will be reimbursed for the associated costs. If permitted, reimbursement of offerors’ pre-award IBR costs is governed by the provisions of FAR Part 31."
+        }
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Solicitation provisions and contract clause.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer shall insert a provision that is substantially the same as the provision at FAR 52.234-2, Notice of Earned Value Management System-Preaward Integrated Baseline Review, in solicitations for contracts that require the contractor to use an Earned Value Management System (EVMS) and for which the Government requires an Integrated Baseline Review (IBR) prior to award."
+        },
+        "b": {
+          "text": "The contracting officer shall insert a provision that is substantially the same as the provision at 52.234-3, Notice of Earned Value Management System-Postaward Integrated Baseline Review, in solicitations for contracts that require the contractor to use an Earned Value Management System (EVMS) and for which the Government requires an Integrated Baseline Review (IBR) after contract award."
+        },
+        "c": {
+          "text": "The contracting officer shall insert a clause that is substantially the same as the clause at FAR 52.234-4, Earned Value Management System, in solicitations and contracts that require a contractor to use an EVMS."
+        }
+      }
+    }
+  }
+}

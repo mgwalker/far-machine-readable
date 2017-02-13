@@ -1,0 +1,100 @@
+{
+  "parentPart": 3,
+  "number": 5,
+  "name": "Other Improper Business Practices",
+  "sub": {
+    "501": {
+      "number": 501,
+      "name": "Buying-in.",
+      "sub": {
+        "1": {
+          "name": "Definition.",
+          "text": {
+            "text": "“Buying-in,” as used in this section, means submitting an offer below anticipated costs, expecting to—\n\n(1) Increase the contract amount after award (e.g., through unnecessary or excessively priced change orders); or\n\n(2) Receive follow-on contracts at artificially high prices to recover losses incurred on the buy-in contract."
+          }
+        },
+        "2": {
+          "name": "General.",
+          "text": {
+            "a": {
+              "text": "Buying-in may decrease competition or result in poor contract performance. The contracting officer must take appropriate action to ensure buying-in losses are not recovered by the contractor through the pricing of—",
+              "sub": {
+                "1": {
+                  "text": "Change orders; or"
+                },
+                "2": {
+                  "text": "Follow-on contracts subject to cost analysis."
+                }
+              }
+            },
+            "b": {
+              "text": "The Government should minimize the opportunity for buying-in by seeking a price commitment covering as much of the entire program concerned as is practical by using—",
+              "sub": {
+                "1": {
+                  "text": "Multiyear contracting, with a requirement in the solicitation that a price be submitted only for the total multiyear quantity; or"
+                },
+                "2": {
+                  "text": "Priced options for additional quantities that, together with the firm contract quantity, equal the program requirements (see Subpart 17.2)."
+                }
+              }
+            },
+            "c": {
+              "text": "Other safeguards are available to the contracting officer to preclude recovery of buying-in losses (e.g., amortization of nonrecurring costs (see 15.408, Table 15-2, paragraph A, column (2) under “Formats for Submission of Line Item Summaries”) and treatment of unreasonable price quotations (see 15.405)."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "502": {
+      "number": 502,
+      "name": "Subcontractor kickbacks.",
+      "sub": {
+        "1": {
+          "name": "Definitions.",
+          "text": {
+            "text": "As used in this section—\n\n“Kickback” means any money, fee, commission, credit, gift, gratuity, thing of value, or compensation of any kind which is provided to any prime contractor, prime contractor employee, subcontractor, or subcontractor employee for the purpose of improperly obtaining or rewarding favorable treatment in connection with a prime contract or in connection with a subcontract relating to a prime contract.\n\n“Person” means a corporation, partnership, business association of any kind, trust, joint-stock company, or individual.\n\n“Prime contract” means a contract or contractual action entered into by the United States for the purpose of obtaining supplies, materials, equipment, or services of any kind.\n\n“Prime Contractor” means a person who has entered into a prime contractor with the United States.\n\n“Prime Contractor employee”, as used in this section, means any officer, partner, employee, or agent of a prime contractor.\n\n“Subcontract” means a contract or contractual action entered into by a prime contractor or subcontractor for the purpose of obtaining supplies, materials, equipment, or services of any kind under a prime contract.\n\n“Subcontractor” (1) means any person, other than the prime contractor, who offers to furnish or furnishes any supplies, materials, equipment, or services of any kind under a prime contract or a subcontract entered into in connection with such prime contract; and (2) includes any person who offers to furnish or furnishes general supplies to the prime contractor or a higher tier subcontractor."
+          }
+        },
+        "2": {
+          "name": "Subcontractor kickbacks.",
+          "text": {
+            "text": "The Anti-Kickback Act of 1986 (now codified at 41 U.S.C. chapter 87, Kickbacks,) was passed to deter subcontractors from making payments and contractors from accepting payments for the purpose of improperly obtaining or rewarding favorable treatment in connection with a prime contract or a subcontract relating to a prime contract. The Kickbacks statute—\n\n(a) Prohibits any person from—\n\n(1) Providing, attempting to provide, or offering to provide any kickback;\n\n(2) Soliciting, accepting, or attempting to accept any kickback; or\n\n(3) Including, directly or indirectly, the amount of any kickback in the contract price charged by a subcontractor to a prime contractor or a higher tier subcontractor or in the contract price charged by a prime contractor to the United States.\n\n(b) Imposes criminal penalties on any person who knowingly and willfully engages in the prohibited conduct addressed in paragraph (a) of this subsection.\n\n(c) Provides for the recovery of civil penalties by the United States from any person who knowingly engages in such prohibited conduct and from any person whose employee, subcontractor, or subcontractor employee provides, accepts, or charges a kickback.\n\n(d) Provides that—\n\n(1) The contracting officer may offset the amount of a kickback against monies owed by the United States to the prime contractor under the prime contract to which such kickback relates;\n\n(2) The contracting officer may direct a prime contractor to withhold from any sums owed to a subcontractor under a subcontract of the prime contract the amount of any kickback which was or may be offset against the prime contractor under paragraph (d)(1) of this subsection; and\n\n(3) An offset under paragraph (d)(1) or a direction under paragraph (d)(2) of this subsection is a claim by the Government for the purposes of 41 U.S.C. chapter 71, Contract Disputes.\n\n(e) Authorizes contracting officers to order that sums withheld under paragraph (d)(2) of this subsection be paid to the contracting agency, or if the sum has already been offset against the prime contractor, that it be retained by the prime contractor.\n\n(f) Requires the prime contractor to notify the contracting officer when the withholding under paragraph (d)(2) of this subsection has been accomplished unless the amount withheld has been paid to the Government.\n\n(g) Requires a prime contractor or subcontractor to report in writing to the inspector general of the contracting agency, the head of the contracting agency if the agency does not have an inspector general, or the Attorney General any possible violation of the Kickbacks statute when the prime contractor or subcontractor has reasonable grounds to believe such violation may have occurred.\n\n(h) Provides that, for the purpose of ascertaining whether there has been a violation of the Kickbacks statute with respect to any prime contract, the Government Accountability Office and the inspector general of the contracting agency, or a representative of such contracting agency designated by the head of the agency if the agency does not have an inspector general, shall have access to and may inspect the facilities and audit the books and records, including any electronic data or records, of any prime contractor or subcontractor under a prime contract awarded by such agency.\n\n(i) Requires each contracting agency to include in each prime contract exceeding $150,000 for other than commercial items (see Part 12), a requirement that the prime contractor shall—\n\n(1) Have in place and follow reasonable procedures designed to prevent and detect violations of the Kickbacks statute in its own operations and direct business relationships (e.g., company ethics rules prohibiting kickbacks by employees, agents, or subcontractors; education programs for new employees and subcontractors, explaining policies about kickbacks, related company procedures and the consequences of detection; procurement procedures to minimize the opportunity for kickbacks; audit procedures designed to detect kickbacks; periodic surveys of subcontractors to elicit information about kickbacks; procedures to report kickbacks to law enforcement officials; annual declarations by employees of gifts or gratuities received from subcontractors; annual employee declarations that they have violated no company ethics rules; personnel practices that document unethical or illegal behavior and make such information available to prospective employers); and\n\n(2) Cooperate fully with any Federal agency investigating a possible violation of the Kickbacks statute.\n\n(j) Notwithstanding paragraph (i) of this section, a prime contractor shall cooperate fully with any Federal Government agency investigating a violation of 41 U.S.C.  8702 (see 41 U.S.C. 8703(b))."
+          }
+        },
+        "3": {
+          "name": "Contract clause.",
+          "text": {
+            "text": "The contracting officer shall insert the clause at 52.203-7, Anti-Kickback Procedures, in solicitations and contracts exceeding the simplified acquisition threshold, other than those for commercial items (see Part 12)."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "503": {
+      "number": 503,
+      "name": "Unreasonable restrictions on subcontractor sales.",
+      "sub": {
+        "1": {
+          "name": "Policy.",
+          "text": {
+            "text": "10 U.S.C. 2402 and 41 U.S.C. 4704require that subcontractors not be unreasonably precluded from making direct sales to the Government of any supplies or services made or furnished under a contract. However, this does not preclude contractors from asserting rights that are otherwise authorized by law or regulation."
+          }
+        },
+        "2": {
+          "name": "Contract clause.",
+          "text": {
+            "text": "The contracting officer shall insert the clause at 52.203-6, Restrictions on Subcontractor Sales to the Government, in solicitations and contracts exceeding the simplified acquisition threshold.  For the acquisition of commercial items, the contracting officer shall use the clause with its Alternate I."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    }
+  }
+}

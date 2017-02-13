@@ -1,0 +1,118 @@
+{
+  "parentPart": 29,
+  "number": 4,
+  "name": "Contract Clauses",
+  "sub": {
+    "401": {
+      "number": 401,
+      "name": "Domestic contracts.",
+      "sub": {
+        "1": {
+          "name": "Indefinite-delivery contracts for leased equipment.",
+          "text": {
+            "text": "Insert the clause at 52.229-1, State and Local Taxes, in solicitations and contracts for leased equipment when—\n\n(a) A fixed-price indefinite-delivery contract is contemplated;\n\n(b) The contract will be performed wholly or partly in the United States or its outlying areas; and\n\n(c) The place or places of delivery are not known at the time of contracting."
+          }
+        },
+        "2": {
+          "name": "Construction contracts performed in North Carolina.",
+          "text": {
+            "text": "The contracting officer shall insert the clause at 52.229-2, North Carolina State and Local Sales and Use Tax, in solicitations and contracts for construction to be performed in North Carolina. If the requirement is for vessel repair to be performed in North Carolina, the clause shall be used with its Alternate I."
+          }
+        },
+        "3": {
+          "name": "Federal, State, and local taxes.",
+          "text": {
+            "a": {
+              "text": "Except as provided in paragraph (b) of this section, insert the clause at 52.229-3, Federal, State, and Local Taxes, in solicitations and contracts if—",
+              "sub": {
+                "1": {
+                  "text": "The contract is to be performed wholly or partly in the United States or its outlying areas;"
+                },
+                "2": {
+                  "text": "A fixed-price contract is contemplated; and"
+                },
+                "3": {
+                  "text": "The contract is expected to exceed the simplified acquisition threshold."
+                }
+              }
+            },
+            "b": {
+              "text": "In a noncompetitive contract that meets all the conditions in paragraph (a) of this section, the contracting officer may insert the clause at 52.229-4, Federal, State, and Local Taxes (State and Local Adjustments), instead of the clause at 52.229-3, if the price would otherwise include an inappropriate contingency for potential postaward change(s) in State or local taxes."
+            }
+          }
+        },
+        "4": {
+          "name": "New Mexico gross receipts and compensating tax.",
+          "text": {
+            "1": {
+              "text": "The agencies listed below have entered into an agreement with the State of New Mexico to eliminate the double taxation of Government cost-reimbursement contracts when contractors and their subcontractors purchase tangible personal property to be used in performing services in whole or in part in the State of New Mexico and for which title to such property will pass to the United States upon delivery of the property to the contractor and its subcontractors by the vendor. Therefore, the clause applies only to solicitations and contracts issued by the—\n\nUnited States Defense Advanced Research Projects Agency; United States Defense Threat Reduction Agency;\n\nUnited States Department of Agriculture;\n\nUnited States Department of the Air Force;\n\nUnited States Department of the Army;\n\nUnited States Department of Energy;\n\nUnited States Department of Health and Human Services;\n\nUnited States Department of the Interior;\n\nUnited States Department of Labor;\n\nUnited States Department of the Navy;\n\nUnited States Department of Transportation;\n\nUnited States General Services Administration;\n\nUnited States Missile Defense Agency; and\n\nUnited States National Aeronautics and Space\n\n   Administration.",
+              "sub": {
+                "text": "United States Defense Advanced Research Projects Agency; United States Defense Threat Reduction Agency;\n\nUnited States Department of Agriculture;\n\nUnited States Department of the Air Force;\n\nUnited States Department of the Army;\n\nUnited States Department of Energy;\n\nUnited States Department of Health and Human Services;\n\nUnited States Department of the Interior;\n\nUnited States Department of Labor;\n\nUnited States Department of the Navy;\n\nUnited States Department of Transportation;\n\nUnited States General Services Administration;\n\nUnited States Missile Defense Agency; and\n\nUnited States National Aeronautics and Space\n\n   Administration."
+              }
+            },
+            "2": {
+              "text": "Any other Federal agency which expects to award cost-reimbursement contracts to be performed in New Mexico should contact the New Mexico Taxation and Revenue Department to execute a similar agreement."
+            },
+            "a": {
+              "text": "Definition.\n\n“Services,” as used in this subsection, is as defined in the Gross Receipts and Compensating Tax Act of the State of New Mexico, Sec 7-9-3(k) NM SA 1978, and means all activities engaged in for other persons for a consideration, which activities involve predominately the performance of a service as distinguished from selling or leasing property. “Services” includes activities performed by a person for its members or shareholders. In determining what is a service, the intended use, principal objective or ultimate objective of the contracting parties shall not be controlling. “Services” also includes construction activities and all tangible personal property that will become an ingredient or component part of a construction project. Such tangible personal property retains its character as tangible personal property until it is installed as an ingredient or component part of a construction project in New Mexico. However, sales of tangible personal property that will become an ingredient or component part of a construction project to persons engaged in the construction business are sales of tangible personal property.",
+              "sub": {
+                "text": "“Services,” as used in this subsection, is as defined in the Gross Receipts and Compensating Tax Act of the State of New Mexico, Sec 7-9-3(k) NM SA 1978, and means all activities engaged in for other persons for a consideration, which activities involve predominately the performance of a service as distinguished from selling or leasing property. “Services” includes activities performed by a person for its members or shareholders. In determining what is a service, the intended use, principal objective or ultimate objective of the contracting parties shall not be controlling. “Services” also includes construction activities and all tangible personal property that will become an ingredient or component part of a construction project. Such tangible personal property retains its character as tangible personal property until it is installed as an ingredient or component part of a construction project in New Mexico. However, sales of tangible personal property that will become an ingredient or component part of a construction project to persons engaged in the construction business are sales of tangible personal property."
+              }
+            },
+            "b": {
+              "text": "Contract clause. The contracting officer shall insert the clause at 52.229-10, State of New Mexico Gross Receipts and Compensating Tax, in solicitations and contracts issued by the agencies identified in paragraph (c) of this subsection when all three of the following conditions exist:",
+              "sub": {
+                "1": {
+                  "text": "The contractor will be performing a cost-reimbursement contract."
+                },
+                "2": {
+                  "text": "The contract directs or authorizes the contractor to acquire tangible personal property as a direct cost under a contract and title to such property passes directly to and vests in the United States upon delivery of the property by the vendor."
+                },
+                "3": {
+                  "text": "The contract will be for services to be performed in whole or in part within the State of New Mexico."
+                }
+              }
+            },
+            "c": {
+              "text": "Participating agencies.\n\nUnited States Defense Advanced Research Projects Agency; United States Defense Threat Reduction Agency;\n\nUnited States Department of Agriculture;\n\nUnited States Department of the Air Force;\n\nUnited States Department of the Army;\n\nUnited States Department of Energy;\n\nUnited States Department of Health and Human Services;\n\nUnited States Department of the Interior;\n\nUnited States Department of Labor;\n\nUnited States Department of the Navy;\n\nUnited States Department of Transportation;\n\nUnited States General Services Administration;\n\nUnited States Missile Defense Agency; and\n\nUnited States National Aeronautics and Space\n\n   Administration."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "402": {
+      "number": 402,
+      "name": "Foreign contracts.",
+      "sub": {
+        "1": {
+          "name": "Foreign fixed-price contracts.",
+          "text": {
+            "a": {
+              "text": "The contracting officer shall insert the clause at 52.229-6, Taxes—Foreign Fixed-Price Contracts, in solicitations and contracts expected to exceed the simplified acquisition threshold when a fixed-price contract is contemplated and the contract is to be performed wholly or partly in a foreign country, unless it is contemplated that the contract will be with a foreign government."
+            },
+            "b": {
+              "text": "The contracting officer shall insert the clause at 52.229-7, Taxes—Fixed-Price Contracts with Foreign Governments, in solicitations and contracts that exceed the simplified acquisition threshold when a fixed-price contract with a foreign government is contemplated."
+            }
+          }
+        },
+        "2": {
+          "name": "Foreign cost-reimbursement contracts.",
+          "text": {
+            "a": {
+              "text": "The contracting officer shall insert the clause at 52.229-8, Taxes—Foreign Cost-Reimbursement Contracts, in solicitations and contracts when a cost-reimbursement contract is contemplated and the contract is to be performed wholly or partly in a foreign country, unless it is contemplated that the contract will be with a foreign government."
+            },
+            "b": {
+              "text": "The contracting officer shall insert the clause at 52.229-9, Taxes—Cost-Reimbursement Contracts with Foreign Governments, in solicitations and contracts when a cost-reimbursement contract with a foreign government is contemplated."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    }
+  }
+}

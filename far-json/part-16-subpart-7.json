@@ -1,0 +1,166 @@
+{
+  "parentPart": 16,
+  "number": 7,
+  "name": "Agreements",
+  "sub": {
+    "701": {
+      "number": 701,
+      "name": "Scope.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures for establishing and using basic agreements and basic ordering agreements. (See 13.303 for blanket purchase agreements (BPA’s) and see 35.015(b) for additional coverage of basic agreements with educational institutions and nonprofit organizations.)"
+      }
+    },
+    "702": {
+      "number": 702,
+      "name": "Basic agreements.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Each contract incorporating a basic agreement shall include a scope of work and price, delivery, and other appropriate terms that apply to the particular contract. The basic agreement shall be incorporated into the contract by specific reference (including reference to each amendment) or by attachment."
+        },
+        "2": {
+          "text": "The contracting officer shall include clauses pertaining to subjects not covered by the basic agreement, but applicable to the contract being negotiated, in the same manner as if there were no basic agreement."
+        },
+        "3": {
+          "text": "If an existing contract is modified to effect new acquisition, the modification shall incorporate the most recent basic agreement, which shall apply only to work added by the modification, except that this action is not mandatory if the contract or modification includes all clauses required by statute, executive order, and this regulation as of the date of the modification. However, if it is in the Government’s interest and the contractor agrees, the modification may incorporate the most recent basic agreement for application to the entire contract as of the date of the modification."
+        },
+        "a": {
+          "text": "Description. A basic agreement is a written instrument of understanding, negotiated between an agency or contracting activity and a contractor, that (1) contains contract clauses applying to future contracts between the parties during its term and (2) contemplates separate future contracts that will incorporate by reference or attachment the required and applicable clauses agreed upon in the basic agreement. A basic agreement is not a contract."
+        },
+        "b": {
+          "text": "Application. A basic agreement should be used when a substantial number of separate contracts may be awarded to a contractor during a particular period and significant recurring negotiating problems have been experienced with the contractor. Basic agreements may be used with negotiated fixed-price or cost-reimbursement contracts.",
+          "sub": {
+            "1": {
+              "text": "Basic agreements shall contain—",
+              "sub": {
+                "i": {
+                  "text": "Clauses required for negotiated contracts by statute, executive order, and this regulation; and"
+                },
+                "ii": {
+                  "text": "Other clauses prescribed in this regulation or agency acquisition regulations that the parties agree to include in each contract as applicable."
+                }
+              }
+            },
+            "2": {
+              "text": "Each basic agreement shall provide for discontinuing its future applicability upon 30 days’ written notice by either party."
+            },
+            "3": {
+              "text": "Each basic agreement shall be reviewed annually before the anniversary of its effective date and revised as necessary to conform to the requirements of this regulation. Basic agreements may need to be revised before the annual review due to mandatory statutory requirements. A basic agreement may be changed only by modifying the agree-ment itself and not by a contract incorporating the agreement."
+            },
+            "4": {
+              "text": "Discontinuing or modifying a basic agreement shall not affect any prior contract incorporating the basic agreement."
+            },
+            "5": {
+              "text": "Contracting officers of one agency should obtain and use existing basic agreements of another agency to the maximum practical extent."
+            }
+          }
+        },
+        "c": {
+          "text": "Limitations. A basic agreement shall not—",
+          "sub": {
+            "1": {
+              "text": "Cite appropriations or obligate funds;"
+            },
+            "2": {
+              "text": "State or imply any agreement by the Government to place future contracts or orders with the contractor; or"
+            },
+            "3": {
+              "text": "Be used in any manner to restrict competition."
+            }
+          }
+        },
+        "d": {
+          "text": "Contracts incorporating basic agreements."
+        }
+      }
+    },
+    "703": {
+      "number": 703,
+      "name": "Basic ordering agreements.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Before issuing an order under a basic ordering agreement, the contracting officer shall—",
+          "sub": {
+            "i": {
+              "text": "Obtain competition in accordance with Part 6;"
+            },
+            "ii": {
+              "text": "If the order is being placed after competition, ensure that use of the basic ordering agreement is not prejudicial to other offerors; and"
+            },
+            "iii": {
+              "text": "Sign or obtain any applicable justifications and approvals, and any determination and findings, and comply with other requirements in accordance with 1.602-1(b), as if the order were a contract awarded independently of a basic ordering agreement."
+            }
+          }
+        },
+        "2": {
+          "text": "Contracting officers shall—",
+          "sub": {
+            "i": {
+              "text": "Issue orders under basic ordering agreements on Optional Form (OF) 347, Order for Supplies or Services, or on any other appropriate contractual instrument;"
+            },
+            "ii": {
+              "text": "Incorporate by reference the provisions of the basic ordering agreement;"
+            },
+            "iii": {
+              "text": "If applicable, cite the authority under 6.302 in each order; and"
+            },
+            "iv": {
+              "text": "Comply with 5.203 when synopsis is required by 5.201."
+            }
+          }
+        },
+        "3": {
+          "text": "The contracting officer shall neither make any final commitment nor authorize the contractor to begin work on an order under a basic ordering agreement until prices have been established, unless the order establishes a ceiling price limiting the Government’s obligation and either—"
+        },
+        "a": {
+          "text": "Description. A basic ordering agreement is a written instrument of understanding, negotiated between an agency, contracting activity, or contracting office and a contractor, that contains (1) terms and clauses applying to future contracts (orders) between the parties during its term, (2) a description, as specific as practicable, of supplies or services to be provided, and (3) methods for pricing, issuing, and delivering future orders under the basic ordering agreement. A basic ordering agreement is not a contract."
+        },
+        "b": {
+          "text": "Application. A basic ordering agreement may be used to expedite contracting for uncertain requirements for supplies or services when specific items, quantities, and prices are not known at the time the agreement is executed, but a substantial number of requirements for the type of supplies or services covered by the agreement are anticipated to be purchased from the contractor. Under proper circumstances, the use of these procedures can result in economies in ordering parts for equipment support by reducing administrative lead-time, inventory investment, and inventory obsolescence due to design changes."
+        },
+        "c": {
+          "text": "Limitations. A basic ordering agreement shall not state or imply any agreement by the Government to place future contracts or orders with the contractor or be used in any manner to restrict competition.",
+          "sub": {
+            "1": {
+              "text": "Each basic ordering agreement shall—",
+              "sub": {
+                "i": {
+                  "text": "Describe the method for determining prices to be paid to the contractor for the supplies or services;"
+                },
+                "ii": {
+                  "text": "Include delivery terms and conditions or specify how they will be determined;"
+                },
+                "iii": {
+                  "text": "List one or more Government activities authorized to issue orders under the agreement;"
+                },
+                "iv": {
+                  "text": "Specify the point at which each order becomes a binding contract (e.g., issuance of the order, acceptance of the order in a specified manner, or failure to reject the order within a specified number of days);"
+                },
+                "v": {
+                  "text": "Provide that failure to reach agreement on price for any order issued before its price is established (see paragraph (d)(3) of this section) is a dispute under the Disputes clause included in the basic ordering agreement; and"
+                },
+                "vi": {
+                  "text": "If fast payment procedures will apply to orders, include the special data required by 13.403."
+                }
+              }
+            },
+            "2": {
+              "text": "Each basic ordering agreement shall be reviewed annually before the anniversary of its effective date and revised as necessary to conform to the requirements of this regulation. Basic ordering agreements may need to be revised before the annual review due to mandatory statutory requirements. A basic ordering agreement shall be changed only by modifying the agreement itself and not by individual orders issued under it. Modifying a basic ordering agreement shall not retroactively affect orders previously issued under it."
+            }
+          }
+        },
+        "d": {
+          "text": "Orders. A contracting officer representing any Government activity listed in a basic ordering agreement may issue orders for required supplies or services covered by that agreement."
+        },
+        "i": {
+          "text": "The basic ordering agreement provides adequate procedures for timely pricing of the order early in its performance period; or"
+        },
+        "ii": {
+          "text": "The need for the supplies or services is compelling and unusually urgent (i.e., when the Government would be seriously injured, financially or otherwise, if the requirement is not met sooner than would be possible if prices were established before the work began). The contracting officer shall proceed with pricing as soon as practical. In no event shall an entire order be priced retroactively."
+        }
+      }
+    }
+  }
+}

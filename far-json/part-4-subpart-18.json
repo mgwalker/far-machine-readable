@@ -1,0 +1,100 @@
+{
+  "parentPart": 4,
+  "number": 18,
+  "name": "Commercial and Government Entity Code",
+  "sub": {
+    "1800": {
+      "number": 1800,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "This subpart prescribes policies and procedures for identification of commercial and government entities. The Commercial and Government Entity (CAGE) code system may be used, among other things, to–",
+          "sub": {
+            "1": {
+              "text": "Exchange data with another contracting activity, including contract administration activities and contract payment activities."
+            },
+            "2": {
+              "text": "Exchange data with another system that requires the unique identification of a contractor entity; or"
+            },
+            "3": {
+              "text": "Identify when offerors are owned or controlled by another entity."
+            }
+          }
+        },
+        "b": {
+          "text": "For information on the unique entity identifier, which is a different identifier, see 4.605 and the provisions at 52.204-6, Unique Entity Identifier, and 52.204-7, System for Award Management."
+        }
+      }
+    },
+    "1801": {
+      "number": 1801,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this part–\n\n“Commercial and Government Entity (CAGE) code” means–\n\n(1) An identifier assigned to entities located in the United States or its outlying areas by the Defense Logistics Agency (DLA) Commercial and Government Entity (CAGE) Branch to identify a commercial or government entity; or\n\n(2) An identifier assigned by a member of the North Atlantic Treaty Organization (NATO) or by the NATO Support and Procurement Agency (NSPA) to entities located outside the United States and its outlying areas that the DLA Commercial and Government Entity (CAGE) Branch records and maintains in the CAGE master file. This type of code is known as a NATO CAGE (NCAGE) code.\n\n“Highest-level owner” means the entity that owns or controls an immediate owner of the offeror, or that owns or controls one or more entities that control an immediate owner of the offeror. No entity owns or exercises control of the highest level owner.\n\n“Immediate owner” means an entity, other than the offeror, that has direct control of the offeror. Indicators of control include, but are not limited to, one or more of the following:  ownership or interlocking management, identity of interests among family members, shared facilities and equipment, and the common use of employees."
+      }
+    },
+    "1802": {
+      "number": 1802,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Commercial and Government Entity code.",
+          "sub": {
+            "1": {
+              "text": "Offerors shall provide the contracting officer the CAGE code assigned to that offeror’s location prior to the award of a contract action above the micro-purchase threshold, when there is a requirement to be registered in the System for Award Management (SAM) or a requirement to have a unique entity identifier in the solicitation."
+            },
+            "2": {
+              "text": "The contracting officer shall include the contractor’s CAGE code in the contract and in any electronic transmissions of the contract data to other systems when it is provided in accordance with paragraph (a)(1) of this section."
+            }
+          }
+        },
+        "b": {
+          "text": "Ownership or control of offeror. Offerors, if owned or controlled by another entity, shall provide the contracting officer with the CAGE code and legal name of that entity prior to the award of a contract action above the micro-purchase threshold, when there is a requirement to be registered in SAM or a requirement to have a unique entity identifier in the solicitation."
+        }
+      }
+    },
+    "1803": {
+      "number": 1803,
+      "name": "Verifying CAGE codes prior to award.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Contracting officers shall verify the offeror’s CAGE code by reviewing the entity’s registration in the System for Award Management (SAM). Active registrations in SAM have had the associated CAGE codes verified."
+        },
+        "b": {
+          "text": "For entities not required to be registered in SAM, the contracting officer shall validate the CAGE code using the CAGE code search feature at https://cage.dla.mil."
+        }
+      }
+    },
+    "1804": {
+      "number": 1804,
+      "name": "Solicitation provisions and contract clause.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Insert the provision at 52.204-16, Commercial and Government Entity Code Reporting, in all solicitations that include–",
+          "sub": {
+            "1": {
+              "text": "52.204-6, Unique Entity Identifier; or"
+            },
+            "2": {
+              "text": "52.204-7, System for Award Management."
+            }
+          }
+        },
+        "b": {
+          "text": "Insert the provision at 52.204-17, Ownership or Control of Offeror, in all solicitations that include the provision at 52.204-16, Commercial and Government Entity Code Reporting."
+        },
+        "c": {
+          "text": "Insert the clause at 52.204-18, Commercial and Government Entity Code Maintenance, in all solicitations and contracts when the solicitation contains the provision at 52.204-16, Commercial and Government Entity Code Reporting."
+        },
+        "d": {
+          "text": "Insert the provision at 52.204-20, Predecessor of Offeror, in all solicitations that include the provision at 52.204-16, Commercial and Government Entity Code Reporting."
+        }
+      }
+    }
+  }
+}

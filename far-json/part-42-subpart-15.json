@@ -1,0 +1,254 @@
+{
+  "parentPart": 42,
+  "number": 15,
+  "name": "Contractor Performance Information",
+  "sub": {
+    "1500": {
+      "number": 1500,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart provides policies and establishes responsibilities for recording and maintaining contractor performance information. This subpart does not apply to procedures used by agencies in determining fees under award or incentive fee contracts. See subpart 16.4. However, the fee amount paid to contractors should be reflective of the contractor’s performance and the past performance evaluation should closely parallel and be consistent with the fee determinations."
+      }
+    },
+    "1501": {
+      "number": 1501,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Past performance information (including the ratings and supporting narratives) is relevant information, for future source selection purposes, regarding a contractor’s actions under previously awarded contracts or orders. It includes, for example, the contractor’s record of—",
+          "sub": {
+            "1": {
+              "text": "Conforming to requirements and to standards of good workmanship;"
+            },
+            "2": {
+              "text": "Forecasting and controlling costs;"
+            },
+            "3": {
+              "text": "Adherence to schedules, including the administrative aspects of performance;"
+            },
+            "4": {
+              "text": "Reasonable and cooperative behavior and commitment to customer satisfaction;"
+            },
+            "5": {
+              "text": "Reporting into databases (see subpart 4.14, and reporting requirements in the solicitation provisions and clauses referenced in 9.104-7);"
+            },
+            "6": {
+              "text": "Integrity and business ethics; and"
+            },
+            "7": {
+              "text": "Business-like concern for the interest of the customer."
+            }
+          }
+        },
+        "b": {
+          "text": "Agencies shall monitor their compliance with the past performance evaluation requirements (see 42.1502), and use the Contractor Performance Assessment Reporting System (CPARS) and Past Performance Information Retrieval System (PPIRS) metric tools to measure the quality and timely reporting of past performance information."
+        }
+      }
+    },
+    "1502": {
+      "number": 1502,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "A contractor’s relevant labor law violation information, e.g., timely implementation of remedial measures and compliance with those remedial measures (including related labor compliance agreement(s)); and"
+        },
+        "2": {
+          "text": "The extent to which the prime contractor addressed labor law violations by its subcontractors.\n\nNote to paragraph (j):  By a court order issued on October 24, 2016, this paragraph (j) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+        },
+        "a": {
+          "text": "General. Past performance evaluations shall be prepared at least annually and at the time the work under a contract or order is completed. Past performance evaluations are required for contracts and orders as specified in paragraphs (b) through (f) of this section, including contracts and orders performed outside the United States. These evaluations are generally for the entity, division, or unit that performed the contract or order. Past performance information shall be entered into CPARS, the Governmentwide evaluation reporting tool for all past performance reports on contracts and orders. Instructions for submitting evaluations into CPARS are available at http://www.cpars.gov/."
+        },
+        "b": {
+          "text": "Contracts. Except as provided in paragraphs (e), (f), and (h) of this section, agencies shall prepare evaluations of contractor performance for each contract (as defined in FAR part 2) that exceeds the simplified acquisition threshold and for each order that exceeds the simplified acquisition threshold. Agencies are required to prepare an evaluation if a modification to the contract causes the dollar amount to exceed the simplified acquisition threshold."
+        },
+        "c": {
+          "text": "Orders under multiple-agency contracts. Agencies shall prepare an evaluation of contractor performance for each order that exceeds the simplified acquisition threshold that is placed under a Federal Supply Schedule contract or placed under a task-order contract or a delivery-order contract awarded by another agency (i.e., Governmentwide acquisition contract or multi-agency contract). Agencies placing orders under their own multiple-agency contract shall also prepare evaluations for their own orders. This evaluation shall not consider the requirements under paragraph (g) of this section. Agencies are required to prepare an evaluation if a modification to the order causes the dollar amount to exceed the simplified acquisition threshold."
+        },
+        "d": {
+          "text": "Orders under single-agency contracts. For single-agency task-order and delivery-order contracts, the contracting officer may require performance evaluations for each order in excess of the simplified acquisition threshold when such evaluations would produce more useful past performance information for source selection officials than that contained in the overall contract evaluation (e.g., when the scope of the basic contract is very broad and the nature of individual orders could be significantly different). This evaluation need not consider the requirements under paragraph (g) of this section unless the contracting officer deems it appropriate."
+        },
+        "e": {
+          "text": "Past performance evaluations shall be prepared for each construction contract of $700,000 or more, and for each construction contract terminated for default regardless of contract value. Past performance evaluations may also be prepared for construction contracts below $700,000."
+        },
+        "f": {
+          "text": "Past performance evaluations shall be prepared for each architect-engineer services contract of $35,000 or more, and for each architect-engineer services contract that is terminated for default regardless of contract value. Past performance evaluations may also be prepared for architect-engineer services contracts below $35,000."
+        },
+        "g": {
+          "text": "Past performance evaluations shall include an assessment of the contractor’s–",
+          "sub": {
+            "1": {
+              "text": "Performance against, and efforts to achieve, the goals identified in the small business subcontracting plan when the contract includes the clause at 52.219-9, Small Business Subcontracting Plan; and"
+            },
+            "2": {
+              "text": "Reduced or untimely payments (as defined in 19.701), made to small business subcontractors, determined by the contracting officer to be unjustified. The contracting officer shall–"
+            },
+            "i": {
+              "text": "Consider and evaluate a contractor’s written explanation for a reduced or an untimely payment when determining whether the reduced or untimely payment is justified; and"
+            },
+            "ii": {
+              "text": "Determine that a history of unjustified reduced or untimely payments has occurred when the contractor has reported three or more occasions of unjustified reduced or untimely payments under a single contract within a 12-month period (see 42.1503(h)(1)(vi) and the evaluation ratings in Table 42-2). The following payment or nonpayment situations are not considered to be unjustified:"
+            },
+            "A": {
+              "text": "There is a contract dispute on performance."
+            },
+            "B": {
+              "text": "A partial payment is made for amounts not in dispute."
+            },
+            "C": {
+              "text": "A payment is reduced due to past overpayments."
+            },
+            "D": {
+              "text": "There is an administrative mistake."
+            },
+            "E": {
+              "text": "Late performance by the subcontractor leads to later payment by the prime contractor."
+            }
+          }
+        },
+        "h": {
+          "text": "Agencies shall not evaluate performance for contracts awarded under subpart 8.7."
+        },
+        "i": {
+          "text": "Agencies shall promptly report other contractor information in accordance with 42.1503(h)."
+        },
+        "j": {
+          "text": ":  By a court order issued on October 24, 2016, this paragraph (j) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+        }
+      }
+    },
+    "1503": {
+      "number": 1503,
+      "name": "Procedures.",
+      "sub": {},
+      "text": {
+        "2": {
+          "text": "The information to be posted in accordance with this paragraph (h) is information relating to contractor performance, but does not constitute a “past performance review,” which would be exempted from public availability in accordance with section 3010 of the Supplemental Appropriations Act, 2010 (Pub. L. 111-212). Therefore, all such information posted in FAPIIS will be publicly available, unless covered by a disclosure exemption under the Freedom of Information Act (see 9.105-2(b)(2))."
+        },
+        "3": {
+          "text": "Agencies shall establish CPARS focal points who will register users to report data into the FAPIIS module of CPARS (available at http://www.cpars.gov/, then select FAPIIS)."
+        },
+        "4": {
+          "text": "With regard to information that may be covered by a disclosure exemption under the Freedom of Information Act, the contracting officer shall follow the procedures at 9.105-2(b)(2)(iv)."
+        },
+        "5": {
+          "text": "References to entries by the Government into FAPIIS that are not performance information. For other entries into FAPIIS by the contracting officer see 9.105-2(b)(2) for documentation of a nonresponsibility determination. See 22.2004-1(c)(6) for documentation by the ALCA of a labor compliance agreement. See 9.406-3(f)(1) and 9.407-3(e) for entry by a suspending or debarring official of information regarding an administrative agreement.\n\nNote to paragraph (h)(5):  By a court order issued on October 24, 2016, this paragraph (h)(5) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change the evaluation status.\n\nNOTE 2: N/A (not applicable) should be used if the ratings are not going to be applied to a particular area for evaluation.\n\n\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change evaluation status.\n\nNOTE 2: Generally, zero percent is not a goal unless the contracting officer determined when negotiating the subcontracting plan that no subcontracting opportunities exist in a particular socio-economic category. In such cases, the contractor shall be considered to have met the goal for any socio-economic category where the goal negotiated in the plan was zero."
+        },
+        "a": {
+          "text": "(1) Agencies shall assign responsibility and management accountability for the completeness of past performance submissions. Agency procedures for the past performance evaluation system shall—\n\nNote to paragraph (a)(1)(i): By a court order issued on October 24, 2016, the words “agency labor compliance advisor (ALCA) office (see subpart 22.20)” in this paragraph (a)(1)(i) are enjoined indefinitely as of the date of the order. The enjoined words will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\nNote to paragraph (a)(1)(ii): By a court order issued on October 24, 2016, the word “ALCA” in this paragraph (a)(1)(ii) are enjoined indefinitely as of the date of the order. The enjoined words will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.",
+          "sub": {
+            "2": {
+              "text": "If agency procedures do not specify the individuals responsible for past performance evaluation duties, the contracting officer is responsible for this function."
+            },
+            "3": {
+              "text": "Interim evaluations may be prepared as required, in accordance with agency procedures."
+            },
+            "i": {
+              "text": "Generally provide for input to the evaluations from the technical office, contracting office, program management office, agency labor compliance advisor (ALCA) office (see subpart 22.20), and, where appropriate, quality assurance and end users of the product or service;\n\nNote to paragraph (a)(1)(i): By a court order issued on October 24, 2016, the words “agency labor compliance advisor (ALCA) office (see subpart 22.20)” in this paragraph (a)(1)(i) are enjoined indefinitely as of the date of the order. The enjoined words will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\nNote to paragraph (a)(1)(ii): By a court order issued on October 24, 2016, the word “ALCA” in this paragraph (a)(1)(ii) are enjoined indefinitely as of the date of the order. The enjoined words will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+            },
+            "a": {
+              "text": "(1)(ii): By a court order issued on October 24, 2016, the word “ALCA” in this paragraph (a)(1)(ii) are enjoined indefinitely as of the date of the order. The enjoined words will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+            },
+            "ii": {
+              "text": "Identify and assign past performance evaluation roles and responsibilities to those individuals responsible for preparing and reviewing interim evaluations, if prepared, and final evaluations (e.g., contracting officers, contracting officer representatives, project managers, and program managers). Those individuals identified may obtain information for the evaluation of performance from the program office, administrative contracting office, audit office, end users of the product or service, ALCA, and any other technical or business advisor, as appropriate; and\n\nNote to paragraph (a)(1)(ii): By a court order issued on October 24, 2016, the word “ALCA” in this paragraph (a)(1)(ii) are enjoined indefinitely as of the date of the order. The enjoined words will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+            },
+            "iii": {
+              "text": "Address management controls and appropriate management reviews of past performance evaluations, to include accountability for documenting past performance on PPIRS."
+            }
+          }
+        },
+        "b": {
+          "text": "(1) The evaluation should include a clear, non-technical description of the principal purpose of the contract or order.  The evaluation should reflect how the contractor performed.  The evaluation should include clear relevant information that accurately depicts the contractor’s performance, and be based on objective facts supported by program and contract or order performance data. The evaluations should be tailored to the contract type, size, content, and complexity of the contractual requirements.",
+          "sub": {
+            "2": {
+              "text": "Evaluation factors for each assessment shall include, at a minimum, the following:",
+              "sub": {
+                "i": {
+                  "text": "Technical (quality of product or service)."
+                },
+                "ii": {
+                  "text": "Cost control (not applicable for firm-fixed-price or fixed-price with economic price adjustment arrangements)."
+                },
+                "iii": {
+                  "text": "Schedule/timeliness."
+                },
+                "iv": {
+                  "text": "Management or business relations."
+                },
+                "v": {
+                  "text": "Small business subcontracting, including reduced or untimely payments to small business subcontractors when 19.702(a) requires a subcontracting plan (as applicable, see Table 42-2)."
+                },
+                "vi": {
+                  "text": "Other (as applicable) (e.g., trafficking violations, tax delinquency, failure to report in accordance with contract terms and conditions, defective cost or pricing data, terminations, suspension and debarments)."
+                }
+              }
+            },
+            "3": {
+              "text": "Evaluation factors may include subfactors."
+            },
+            "4": {
+              "text": "Each factor and subfactor used shall be evaluated and a supporting narrative provided. Each evaluation factor, as listed in paragraph (b)(2) of this section, shall be rated in accordance with a five scale rating system (i.e., exceptional, very good, satisfactory, marginal, and unsatisfactory). The ratings and narratives must reflect the definitions in the tables 42-1 or 42-2 of this section."
+            }
+          }
+        },
+        "c": {
+          "text": "(1) When the contract provides for incentive fees, the incentive-fee contract performance evaluation shall be entered into CPARS.",
+          "sub": {
+            "2": {
+              "text": "When the contract provides for award fee, the award fee-contract performance adjectival rating as described in 16.401(e)(3) shall be entered into CPARS."
+            }
+          }
+        },
+        "d": {
+          "text": "Agency evaluations of contractor performance, including both negative and positive evaluations, prepared under this subpart shall be provided to the contractor as soon as practicable after completion of the evaluation. The contractor will receive a CPARS-system generated notification when an evaluation is ready for comment. Contractors shall be afforded up to 14 calendar days from the date of notification of availability of the past performance evaluation to submit comments, rebutting statements, or additional information. Agencies shall provide for review at a level above the contracting officer to consider disagreements between the parties regarding the evaluation. The ultimate conclusion on the performance evaluation is a decision of the contracting agency. Copies of the evaluation, contractor response, and review comments, if any, shall be retained as part of the evaluation. These evaluations may be used to support future award decisions, and should therefore be marked “Source Selection Information”.  Evaluation of Federal Prison Industries (FPI) performance may be used to support a waiver request (see 8.604) when FPI is a mandatory source in accordance with subpart 8.6. The completed evaluation shall not be released to other than Government personnel and the contractor whose performance is being evaluated during the period the information may be used to provide source selection information. Disclosure of such information could cause harm both to the commercial interest of the Government and to the competitive position of the contractor being evaluated as well as impede the efficiency of Government operations. Evaluations used in determining award or incentive fee payments may also be used to satisfy the requirements of this subpart. A copy of the annual or final past performance evaluation shall be provided to the contractor as soon as it is finalized."
+        },
+        "e": {
+          "text": "Agencies shall require frequent evaluation (e.g., monthly, quarterly) of agency compliance with the reporting requirements in 42.1502, so agencies can readily identify delinquent past performance reports and monitor their reports for quality control."
+        },
+        "f": {
+          "text": "Agencies shall prepare and submit all past performance evaluations electronically in the CPARS at http://www.cpars.gov/. These evaluations, including any contractor-submitted information (with indication whether agency review is pending), are automatically transmitted to PPIRS at http://www.ppirs.gov. not later than 14 days after the date on which the contractor is notified of the evaluation’s availability for comment. The Government shall update PPIRS with any contractor comments provided after 14 days, as well as any subsequent agency review of comments received. Past performance evaluations for classified contracts and special access programs shall not be reported in CPARS, but will be reported as stated in this subpart and in accordance with agency procedures. Agencies shall ensure that appropriate management and technical controls are in place to ensure that only authorized personnel have access to the data and the information safeguarded in accordance with 42.1503(d)."
+        },
+        "g": {
+          "text": "Agencies shall use the past performance information in PPIRS that is within three years (six for construction and architect-engineer contracts) of the completion of performance of the evaluated contract or order, and information contained in the Federal Awardee Performance and Integrity Information System (FAPIIS), e.g., terminations for default or cause."
+        },
+        "h": {
+          "text": "(5):  By a court order issued on October 24, 2016, this paragraph (h)(5) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change the evaluation status.\n\nNOTE 2: N/A (not applicable) should be used if the ratings are not going to be applied to a particular area for evaluation.\n\n\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change evaluation status.\n\nNOTE 2: Generally, zero percent is not a goal unless the contracting officer determined when negotiating the subcontracting plan that no subcontracting opportunities exist in a particular socio-economic category. In such cases, the contractor shall be considered to have met the goal for any socio-economic category where the goal negotiated in the plan was zero."
+        },
+        "i": {
+          "text": "Issues a final determination that a contractor has submitted defective cost or pricing data;\n\nNote to paragraph (h)(5):  By a court order issued on October 24, 2016, this paragraph (h)(5) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change the evaluation status.\n\nNOTE 2: N/A (not applicable) should be used if the ratings are not going to be applied to a particular area for evaluation.\n\n\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change evaluation status.\n\nNOTE 2: Generally, zero percent is not a goal unless the contracting officer determined when negotiating the subcontracting plan that no subcontracting opportunities exist in a particular socio-economic category. In such cases, the contractor shall be considered to have met the goal for any socio-economic category where the goal negotiated in the plan was zero."
+        },
+        "ii": {
+          "text": "Makes a subsequent change to the final determination concerning defective cost or pricing data pursuant to 15.407-1(d);\n\nNote to paragraph (h)(5):  By a court order issued on October 24, 2016, this paragraph (h)(5) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change the evaluation status.\n\nNOTE 2: N/A (not applicable) should be used if the ratings are not going to be applied to a particular area for evaluation.\n\n\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change evaluation status.\n\nNOTE 2: Generally, zero percent is not a goal unless the contracting officer determined when negotiating the subcontracting plan that no subcontracting opportunities exist in a particular socio-economic category. In such cases, the contractor shall be considered to have met the goal for any socio-economic category where the goal negotiated in the plan was zero."
+        },
+        "iii": {
+          "text": "Issues a final termination for cause or default notice;\n\nNote to paragraph (h)(5):  By a court order issued on October 24, 2016, this paragraph (h)(5) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change the evaluation status.\n\nNOTE 2: N/A (not applicable) should be used if the ratings are not going to be applied to a particular area for evaluation.\n\n\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change evaluation status.\n\nNOTE 2: Generally, zero percent is not a goal unless the contracting officer determined when negotiating the subcontracting plan that no subcontracting opportunities exist in a particular socio-economic category. In such cases, the contractor shall be considered to have met the goal for any socio-economic category where the goal negotiated in the plan was zero."
+        },
+        "iv": {
+          "text": "Makes a subsequent withdrawal or a conversion of a termination for default to a termination for convenience;\n\nNote to paragraph (h)(5):  By a court order issued on October 24, 2016, this paragraph (h)(5) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change the evaluation status.\n\nNOTE 2: N/A (not applicable) should be used if the ratings are not going to be applied to a particular area for evaluation.\n\n\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change evaluation status.\n\nNOTE 2: Generally, zero percent is not a goal unless the contracting officer determined when negotiating the subcontracting plan that no subcontracting opportunities exist in a particular socio-economic category. In such cases, the contractor shall be considered to have met the goal for any socio-economic category where the goal negotiated in the plan was zero."
+        },
+        "v": {
+          "text": "Receives a final determination after an administrative proceeding, in accordance with 22.1704(d)(1), that substantiates an allegation of a violation of the trafficking in persons prohibitions in 22.1703(a) and 52.222-50(b); or\n\nNote to paragraph (h)(5):  By a court order issued on October 24, 2016, this paragraph (h)(5) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change the evaluation status.\n\nNOTE 2: N/A (not applicable) should be used if the ratings are not going to be applied to a particular area for evaluation.\n\n\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change evaluation status.\n\nNOTE 2: Generally, zero percent is not a goal unless the contracting officer determined when negotiating the subcontracting plan that no subcontracting opportunities exist in a particular socio-economic category. In such cases, the contractor shall be considered to have met the goal for any socio-economic category where the goal negotiated in the plan was zero."
+        },
+        "vi": {
+          "text": "Determines that a contractor has a history of three or more unjustified reduced or untimely payments to small business subcontractors under a single contract within a 12-month period (see 42.1502(g)(2)).\n\nNote to paragraph (h)(5):  By a court order issued on October 24, 2016, this paragraph (h)(5) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change the evaluation status.\n\nNOTE 2: N/A (not applicable) should be used if the ratings are not going to be applied to a particular area for evaluation.\n\n\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change evaluation status.\n\nNOTE 2: Generally, zero percent is not a goal unless the contracting officer determined when negotiating the subcontracting plan that no subcontracting opportunities exist in a particular socio-economic category. In such cases, the contractor shall be considered to have met the goal for any socio-economic category where the goal negotiated in the plan was zero."
+        },
+        "+": {
+          "text": "or worsening (-) trend insufficient to change evaluation status.\n\nNOTE 2: Generally, zero percent is not a goal unless the contracting officer determined when negotiating the subcontracting plan that no subcontracting opportunities exist in a particular socio-economic category. In such cases, the contractor shall be considered to have met the goal for any socio-economic category where the goal negotiated in the plan was zero.\n\nNOTE 2: Generally, zero percent is not a goal unless the contracting officer determined when negotiating the subcontracting plan that no subcontracting opportunities exist in a particular socio-economic category. In such cases, the contractor shall be considered to have met the goal for any socio-economic category where the goal negotiated in the plan was zero."
+        },
+        "not applicable": {
+          "text": "should be used if the ratings are not going to be applied to a particular area for evaluation.\n\n\n\nNOTE 1: Plus or minus signs may be used to indicate an improving (+) or worsening (-) trend insufficient to change evaluation status.\n\nNOTE 2: Generally, zero percent is not a goal unless the contracting officer determined when negotiating the subcontracting plan that no subcontracting opportunities exist in a particular socio-economic category. In such cases, the contractor shall be considered to have met the goal for any socio-economic category where the goal negotiated in the plan was zero.\n\n"
+        }
+      }
+    },
+    "1504": {
+      "number": 1504,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "Insert the clause at 52.242-5, Payments to Small Business Subcontractors, in all solicitations and contracts containing the clause at 52.219-9, Small Business Subcontracting Plan."
+      }
+    }
+  }
+}

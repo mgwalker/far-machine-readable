@@ -1,0 +1,554 @@
+{
+  "parentPart": 27,
+  "number": 3,
+  "name": "Patent Rights under Government Contracts",
+  "sub": {
+    "300": {
+      "number": 300,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies, procedures, solicitation provisions, and contract clauses pertaining to inventions made in the performance of work under a Government contract or subcontract for experimental, developmental, or research work. Agency policies, procedures, solicitation provisions, and contract clauses may be specified in agency supplemental regulations as permitted by law, including 37 CFR 401.1."
+      }
+    },
+    "301": {
+      "number": 301,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Invention” means any invention or discovery that is or may be patentable or otherwise protectable under title 35 of the U.S. Code, or any variety of plant that is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321, et seq.)\n\n“Made” means—\n\n(1) When used in relation to any invention other than a plant variety, means the conception or first actual reduction to practice of the invention; or\n\n(2) When used in relation to a plant variety, means that the contractor has at least tentatively determined that the variety has been reproduced with recognized characteristics.\n\n“Nonprofit organization” means a university or other institution of higher education or an organization of the type described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)) and exempt from taxation under section 501(a) of the Internal Revenue Code (26 U.S.C. 501(a)), or any nonprofit scientific or educational organization qualified under a State nonprofit organization statute.\n\n“Practical application” means to manufacture, in the case of a composition or product; to practice, in the case of a process or method; or to operate, in the case of a machine or system; and, in each case, under such conditions as to establish that the invention is being utilized and that its benefits are, to the extent permitted by law or Government regulations, available to the public on reasonable terms.\n\n“Subject invention” means any invention of the contractor made in the performance of work under a Government contract."
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Introduction. In accordance with chapter 18 of title 35, U.S.C. (as implemented by 37 CFR part 401), Presidential Memorandum on Government Patent Policy to the Heads of Executive Departments and Agencies dated February 18, 1983, and Executive Order 12591, Facilitating Access to Science and Technology dated April 10, 1987, it is the policy and objective of the Government to—",
+          "sub": {
+            "1": {
+              "text": "Use the patent system to promote the use of inventions arising from federally supported research or development;"
+            },
+            "2": {
+              "text": "Encourage maximum participation of industry in federally supported research and development efforts;"
+            },
+            "3": {
+              "text": "Ensure that these inventions are used in a manner to promote free competition and enterprise without unduly encumbering future research and discovery;"
+            },
+            "4": {
+              "text": "Promote the commercialization and public availability of the inventions made in the United States by United States industry and labor;"
+            },
+            "5": {
+              "text": "Ensure that the Government obtains sufficient rights in federally supported inventions to meet the needs of the Government and protect the public against nonuse or unreasonable use of inventions; and"
+            },
+            "6": {
+              "text": "Minimize the costs of administering patent policies."
+            }
+          }
+        },
+        "b": {
+          "text": "Contractor right to elect title.",
+          "sub": {
+            "1": {
+              "text": "Generally, pursuant to 35 U.S.C. 202 and the Presidential Memorandum and Executive order cited in paragraph (a) of this section, each contractor may, after required disclosure to the Government, elect to retain title to any subject invention."
+            },
+            "2": {
+              "text": "A contract may require the contractor to assign to the Government title to any subject invention—",
+              "sub": {
+                "i": {
+                  "text": "When the contractor is not located in the United States or does not have a place of business located in the United States or is subject to the control of a foreign government (see 27.303(e)(1)(i));"
+                },
+                "ii": {
+                  "text": "In exceptional circumstances, when an agency determines that restriction or elimination of the right to retain title in any subject invention will better promote the policy and objectives of chapter 18 of title 35, U.S.C. and the Presidential Memorandum;"
+                },
+                "iii": {
+                  "text": "When a Government authority, that is authorized by statute or executive order to conduct foreign intelligence or counterintelligence activities, determines that the restriction or elimination of the right to retain title to any subject invention is necessary to protect the security of such activities;"
+                },
+                "iv": {
+                  "text": "When the contract includes the operation of a Government-owned, contractor-operated facility of the Department of Energy (DOE) primarily dedicated to the Department’s naval nuclear propulsion or weapons related programs and all funding agreement limitations under 35 U.S.C. 202(a)(iv) for agreements with small business concerns and nonprofit organizations are limited to inventions occurring under the above two programs; or"
+                },
+                "v": {
+                  "text": "Pursuant to statute or in accordance with agency regulations."
+                }
+              }
+            },
+            "3": {
+              "text": "When the Government has the right to acquire title to a subject invention, the contractor may, nevertheless, request greater rights to a subject invention (see 27.304-1(c))."
+            },
+            "4": {
+              "text": "Consistent with 37 CFR part 401, when a contract with a small business concern or nonprofit organization requires assignment of title to the Government based on the exceptional circumstances enumerated in paragraph (b)(2)(ii) or (iii) of this section for reasons of national security, the contract shall still provide the contractor with the right to elect ownership to any subject invention that—",
+              "sub": {
+                "i": {
+                  "text": "Is not classified by the agency; or"
+                },
+                "ii": {
+                  "text": "Is not limited from dissemination by the DOE within 6 months from the date it is reported to the agency."
+                }
+              }
+            },
+            "5": {
+              "text": "Contracts in support of DOE’s naval nuclear propulsion program are exempted from this paragraph (b)."
+            },
+            "6": {
+              "text": "When a contract involves a series of separate task orders, an agency may structure the contract to apply the exceptions at paragraph (b)(2)(ii) or (iii) of this section to individual task orders."
+            }
+          }
+        },
+        "c": {
+          "text": "Government license. The Government shall have at least a nonexclusive, nontransferable, irrevocable, paid-up license to practice, or have practiced for or on behalf of the United States, any subject invention throughout the world. The Government may require additional rights in order to comply with treaties or other international agreements. In such case, these rights shall be made a part of the contract (see 27.303)."
+        },
+        "d": {
+          "text": "Government right to receive title.",
+          "sub": {
+            "1": {
+              "text": "In addition to the right to obtain title to subject inventions pursuant to paragraph (b)(2)(i) through (v) of this section, the Government has the right to receive title to an invention—",
+              "sub": {
+                "i": {
+                  "text": "If the contractor has not disclosed the invention within the time specified in the clause; or"
+                },
+                "ii": {
+                  "text": "In any country where the contractor—"
+                },
+                "A": {
+                  "text": "Does not elect to retain rights or fails to elect to retain rights to the invention within the time specified in the clause;"
+                },
+                "B": {
+                  "text": "Has not filed a patent or plant variety protection application within the time specified in the clause;"
+                },
+                "C": {
+                  "text": "Decides not to continue prosecution of a patent or plant variety protection application, pay maintenance fees, or defend in a reexamination or opposition proceeding on the patent; or"
+                },
+                "D": {
+                  "text": "No longer desires to retain title."
+                }
+              }
+            },
+            "2": {
+              "text": "For the purposes of this paragraph, filing in a European Patent Office Region or under the Patent Cooperation Treaty constitutes election in the countries selected in the application(s)."
+            }
+          }
+        },
+        "e": {
+          "text": "Utilization reports. The Government has the right to require periodic reporting on how any subject invention is being used by the contractor or its licensees or assignees. In accordance with 35 U.S.C. 202(c)(5) and 37 CFR part 401, agencies shall not disclose such utilization reports to persons outside the Government without permission of the contractor. Contractors should mark as confidential/proprietary any utilization report to help prevent inadvertent release outside the Government."
+        },
+        "f": {
+          "text": "March-in rights.",
+          "sub": {
+            "1": {
+              "text": "Pursuant to 35 U.S.C. 203, agencies have certain march-in rights that require the contractor, an assignee, or exclusive licensee of a subject invention to grant a nonexclusive, partially exclusive, or exclusive license in any field of use to responsible applicants, upon terms that are reasonable under the circumstances. If the contractor, assignee or exclusive licensee of a subject invention refuses to grant such a license, the agency can grant the license itself. March-in rights may be exercised only if the agency determines that this action is necessary—",
+              "sub": {
+                "i": {
+                  "text": "Because the contractor or assignee has not taken, or is not expected to take within a reasonable time, effective steps to achieve practical application of the subject invention in the field(s) of use;"
+                },
+                "ii": {
+                  "text": "To alleviate health or safety needs that are not reasonably satisfied by the contractor, assignee, or their licensees;"
+                },
+                "iii": {
+                  "text": "To meet requirements for public use specified by Federal regulations and these requirements are not reasonably satisfied by the contractor, assignee, or licensees; or"
+                },
+                "iv": {
+                  "text": "Because the agreement required by paragraph (g) of this section has neither been obtained nor waived, or because a licensee of the exclusive right to use or sell any subject invention in the United States is in breach of its agreement obtained pursuant to paragraph (g) of this section."
+                }
+              }
+            },
+            "2": {
+              "text": "The agency shall not exercise its march-in rights unless the contractor has been provided a reasonable time to present facts and show cause why the proposed agency action should not be taken. The agency shall provide the contractor an opportunity to dispute or appeal the proposed action, in accordance with 27.304-1(g)."
+            }
+          }
+        },
+        "g": {
+          "text": "Preference for United States industry. In accordance with 35 U.S.C. 204, no contractor that receives title to any subject invention and no assignee of the contractor shall grant to any person the exclusive right to use or sell any subject invention in the United States unless that person agrees that any products embodying the subject invention or produced through the use of the subject invention will be manufactured substantially in the United States. However, in individual cases, the requirement for this agreement may be waived by the agency upon a showing by the contractor or assignee that reasonable but unsuccessful efforts have been made to grant licenses on similar terms to potential licensees that would be likely to manufacture substantially in the United States or that under the circumstances domestic manufacture is not commercially feasible."
+        },
+        "h": {
+          "text": "Special conditions for nonprofit organizations’ preference for small business concerns.",
+          "sub": {
+            "1": {
+              "text": "Nonprofit organization contractors are expected to use reasonable efforts to attract small business licensees (see paragraph (i)(4) of the clause at 52.227-11, Patent Rights—Ownership by the Contractor). What constitutes reasonable efforts to attract small business licensees will vary with the circumstances and the nature, duration, and expense of efforts needed to bring the invention to the market."
+            },
+            "2": {
+              "text": "Small business concerns that believe a nonprofit organization is not meeting its obligations under the clause may report the matter to the Secretary of Commerce. To the extent deemed appropriate, the Secretary of Commerce will undertake informal investigation of the matter, and may discuss or negotiate with the nonprofit organization ways to improve its efforts to meet its obligations under the clause. However, in no event will the Secretary of Commerce intervene in ongoing negotiations or contractor decisions concerning the licensing of a specific subject invention. These investigations, discussions, and negotiations involving the Secretary of Commerce will be in coordination with other interested agencies, including the Small Business Administration. In the case of a contract for the operation of a Government-owned, contractor-operated research or production facility, the Secretary of Commerce will coordinate with the agency responsible for the facility prior to any discussions or negotiations with the contractor."
+            }
+          }
+        },
+        "i": {
+          "text": "Minimum rights to contractor.",
+          "sub": {
+            "1": {
+              "text": "When the Government acquires title to a subject invention, the contractor is normally granted a revocable, nonexclusive, paid-up license to that subject invention throughout the world. The contractor’s license extends to any of its domestic subsidiaries and affiliates within the corporate structure of which the contractor is a part and includes the right to grant sublicenses to the extent the contractor was legally obligated to do so at the time of contract award. The contracting officer shall approve or disapprove, in writing, any contractor request to transfer its licenses. No approval is necessary when the transfer is to the successor of that part of the contractor’s business to which the subject invention pertains."
+            },
+            "2": {
+              "text": "In response to a third party’s proper application for an exclusive license, the contractor’s domestic license may be revoked or modified to the extent necessary to achieve expeditious practical application of the subject invention. The application shall be submitted in accordance with the applicable provisions in 37 CFR part 404 and agency licensing regulations. The contractor’s license will not be revoked in that field of use or the geographical areas in which the contractor has achieved practical application and continues to make the benefits of the subject invention reasonably accessible to the public. The license in any foreign country may be revoked or modified to the extent the contractor, its licensees, or its domestic subsidiaries or affiliates have failed to achieve practical application in that country. (See the procedures at 27.304-1(f).)"
+            }
+          }
+        },
+        "j": {
+          "text": "Confidentiality of inventions. Publishing information concerning an invention before a patent application is filed on a subject invention may create a bar to a valid patent. To avoid this bar, agencies may withhold information from the public that discloses any invention in which the Government owns or may own a right, title, or interest (including a nonexclusive license) (see 35 U.S.C. 205 and 37 CFR part 401). Agencies may only withhold information concerning inventions for a reasonable time in order for a patent application to be filed. Once filed in any patent office, agencies are not required to release copies of any document that is a part of a patent application for those subject inventions. (See also 27.305-4.)"
+        }
+      }
+    },
+    "303": {
+      "number": 303,
+      "name": "Contract clauses.",
+      "sub": {},
+      "text": {
+        "2": {
+          "text": "If an agency exercises the exceptions at paragraph (e)(1)(ii) or (iii) of this section in a contract with a small business concern or a nonprofit organization, the contracting officer shall use the clause at 52.227-11 with only those modifications necessary to address the exceptional circumstances and shall include in the modified clause greater rights determinations procedures equivalent to those at 52.227-13(b)(2)."
+        },
+        "3": {
+          "text": "When using the clause at 52.227-13, Patent Rights—Ownership by the Government, the contracting officer may supplement the clause to require the contractor to—",
+          "sub": {
+            "i": {
+              "text": "Furnish a copy of each subcontract containing a patent rights clause (but if a copy of a subcontract is furnished under another clause, a duplicate shall not be requested under the patent rights clause);"
+            },
+            "ii": {
+              "text": "Submit interim and final invention reports listing subject inventions and notifying the contracting officer of all subcontracts awarded for experimental, developmental, or research work;"
+            },
+            "iii": {
+              "text": "Provide the filing date, serial number, title, patent number, and issue date for any patent application filed on any subject invention in any country or, upon specific request, copies of any patent application so identified; and"
+            },
+            "iv": {
+              "text": "Submit periodic reports on the utilization of a subject invention."
+            }
+          }
+        },
+        "4": {
+          "text": "Use the clause at 52.227-13 with its Alternate I if—",
+          "sub": {
+            "i": {
+              "text": "The Government must grant a foreign government a sublicense in subject inventions pursuant to a treaty or executive agreement; or"
+            },
+            "ii": {
+              "text": "The agency head determines, at contract award, that it would be in the national interest to sublicense foreign governments or international organizations pursuant to any existing or future treaty or agreement. If other rights are necessary to effectuate any treaty or agreement, Alternate I may be appropriately modified."
+            }
+          }
+        },
+        "5": {
+          "text": "Use the clause at 52.227-13 with its Alternate II in the contract when necessary to effectuate an existing or future treaty or agreement."
+        },
+        "a": {
+          "text": "(1) Insert a patent rights clause in all solicitations and contracts for experimental, developmental, or research work as prescribed in this section.",
+          "sub": {
+            "2": {
+              "text": "This section also applies to solicitations or contracts for construction work or architect-engineer services that include—",
+              "sub": {
+                "i": {
+                  "text": "Experimental, developmental, or research work;"
+                },
+                "ii": {
+                  "text": "Test and evaluation studies; or"
+                },
+                "iii": {
+                  "text": "The design of a Government facility that may involve novel structures, machines, products, materials, processes, or equipment (including construction equipment)."
+                }
+              }
+            },
+            "3": {
+              "text": "The contracting officer shall not include a patent rights clause in solicitations or contracts for construction work or architect-engineer services that call for or can be expected to involve only “standard types of construction” “Standard types of construction” are those involving previously developed equipment, methods, and processes and in which the distinctive features include only—"
+            },
+            "i": {
+              "text": "Variations in size, shape, or capacity of conventional structures; or"
+            },
+            "ii": {
+              "text": "Purely artistic or aesthetic (as distinguished from functionally significant) architectural configurations and designs of both structural and nonstructural members or groupings, whether or not they qualify for design patent protection."
+            }
+          }
+        },
+        "b": {
+          "text": "(1) Unless an alternative patent rights clause is used in accordance with paragraph (c), (d), or (e) of this section, insert the clause at 52.227-11, Patent Rights—Ownership by the Contractor.",
+          "sub": {
+            "2": {
+              "text": "To the extent the information is not required elsewhere in the contract, and unless otherwise specified by agency supplemental regulations, the contracting officer may modify 52.227-11(e) or otherwise supplement the clause to require the contractor to do one or more of the following:",
+              "sub": {
+                "i": {
+                  "text": "Provide periodic (but not more frequently than annually) listings of all subject inventions required to be disclosed during the period covered by the report."
+                },
+                "ii": {
+                  "text": "Provide a report prior to the closeout of the contract listing all subject inventions or stating that there were none."
+                },
+                "iii": {
+                  "text": "Provide the filing date, serial number, title, patent number and issue date for any patent application filed on any subject invention in any country or, upon request, copies of any patent application so identified."
+                },
+                "iv": {
+                  "text": "Furnish the Government an irrevocable power to inspect and make copies of the patent application file when a Government employee is a co-inventor."
+                }
+              }
+            },
+            "3": {
+              "text": "Use the clause with its Alternate I if the Government must grant a foreign government a sublicense in subject inventions pursuant to a specified treaty or executive agreement. The contracting officer may modify Alternate I, if the agency head determines, at contract award, that it would be in the national interest to sublicense foreign governments or international organizations pursuant to any existing or future treaty or agreement. When necessary to effectuate a treaty or agreement, Alternate I may be appropriately modified."
+            },
+            "4": {
+              "text": "Use the clause with its Alternate II in contracts that may be affected by existing or future treaties or agreements."
+            },
+            "5": {
+              "text": "Use the clause with its Alternate III in contracts with nonprofit organizations for the operation of a Government-owned facility."
+            },
+            "6": {
+              "text": "If the contract is for the operation of a Government-owned facility, the contracting officer may use the clause with its Alternate IV."
+            },
+            "7": {
+              "text": "If the contract is for the performance of services at a Government owned and operated laboratory or at a Government owned and contractor operated laboratory directed by the Government to fulfill the Government’s obligations under a Cooperative Research and Development Agreement (CRADA) authorized by 15 U.S.C. 3710a, the contracting officer may use the clause with its Alternate V. Since this provision is considered an exercise of an agency’s “exceptional circumstances” authority, the contracting officer must comply with 37 CFR 401.3(e) and 401.4."
+            }
+          }
+        },
+        "c": {
+          "text": "Insert a patent rights clause in accordance with the procedures at 27.304-2 if the solicitation or contract is being placed on behalf of another Government agency."
+        },
+        "d": {
+          "text": "Insert a patent rights clause in accordance with agency procedures if the solicitation or contract is for DoD, DOE, or NASA, and the contractor is other than a small business concern or nonprofit organization."
+        },
+        "e": {
+          "text": "(1) Except as provided in paragraph (e)(2) of this section, and after compliance with the applicable procedures in 27.304-1(b), the contracting officer may insert the clause at 52.227-13, Patent Rights—Ownership by the Government, or a clause prescribed by agency supplemental regulations, if—"
+        },
+        "i": {
+          "text": "The contractor is not located in the United States or does not have a place of business located in the United States or is subject to the control of a foreign government;"
+        },
+        "ii": {
+          "text": "There are exceptional circumstances and the agency head determines that restriction or elimination of the right to retain title to any subject invention will better promote the policy and objectives of chapter 18 of title 35 of the United States Code;"
+        },
+        "iii": {
+          "text": "A Government authority that is authorized by statute or executive order to conduct foreign intelligence or counterintelligence activities, determines that restriction or elimination of the right to retain any subject invention is necessary to protect the security of such activities; or"
+        },
+        "iv": {
+          "text": "The contract includes the operation of a Government-owned, contractor-operated facility of DOE primarily dedicated to that Department’s naval nuclear propulsion or weapons related programs."
+        }
+      }
+    },
+    "304": {
+      "number": 304,
+      "name": "Procedures.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "a": {
+              "text": "Status as small business concern or nonprofit organization. If an agency has reason to question the size or nonprofit status of the prospective contractor, the agency may require the prospective contractor to furnish evidence of its nonprofit status or may file a size protest in accordance with FAR 19.302."
+            },
+            "b": {
+              "text": "Exceptions.",
+              "sub": {
+                "1": {
+                  "text": "Before using any of the exceptions under 27.303(e)(1) in a contract with a small business concern or a nonprofit organization and before using the exception of 27.303(e)(1)(ii) for any contractor, the agency shall follow the applicable procedures at 37 CFR 401."
+                },
+                "2": {
+                  "text": "A small business concern or nonprofit organization is entitled to an administrative review of the use of the exceptions at 27.303(e)(1)(i) through (e)(1)(iv) in accordance with agency procedures and 37 CFR part 401."
+                }
+              }
+            },
+            "c": {
+              "text": "Greater rights determinations. Whenever the contract contains the clause at 52.227-13, Patent Rights—Ownership by the Government, or a patent rights clause modified pursuant to 27.303(e)(2), the contractor (or an employee-inventor of the contractor after consultation with the contractor) may request greater rights to an identified invention within the period specified in the clause. The contracting officer may grant requests for greater rights if the contracting officer determines that the interests of the United States and the general public will be better served. In making these determinations, the contracting officer shall consider at least the following objectives (see 37 CFR 401.3(b) and 401.15):",
+              "sub": {
+                "1": {
+                  "text": "Promoting the utilization of inventions arising from federally supported research and development."
+                },
+                "2": {
+                  "text": "Ensuring that inventions are used in a manner to promote full and open competition and free enterprise without unduly encumbering future research and discovery."
+                },
+                "3": {
+                  "text": "Promoting public availability of inventions made in the United States by United States industry and labor."
+                },
+                "4": {
+                  "text": "Ensuring that the Government obtains sufficient rights in federally supported inventions to meet the needs of the Government and protect the public against nonuse or unreasonable use of inventions."
+                }
+              }
+            },
+            "d": {
+              "text": "Retention of rights by inventor. If the contractor elects not to retain title to a subject invention, the agency may consider and, after consultation with the contractor, grant requests for retention of rights by the inventor. Retention of rights by the inventor will be subject to the conditions in paragraphs (d) (except paragraph (d)(1)(i)), (e)(4), (f), (g), and (h) of the clause at 52.227-11, Patent Rights—Ownership by the Contractor."
+            },
+            "e": {
+              "text": "Government assignment to contractor of rights in Government employees’ inventions. When a Government employee is a co-inventor of an invention made under a contract with a small business concern or nonprofit organization, the agency employing the co-inventor may license or assign whatever rights it may acquire in the subject invention from its employee to the contractor, subject at least to the conditions of 35 U.S.C. 202-204."
+            },
+            "f": {
+              "text": "Revocation or modification of contractor’s minimum rights. Before revoking or modifying the contractor’s license in accordance with27.302(i)(2), the contracting officer shall furnish the contractor a written notice of intention to revoke or modify the license. The agency shall allow the contractor at least 30 days (or another time as may be authorized for good cause by the contracting officer) after the notice to show cause why the license should not be revoked or modified. The contractor has the right to appeal, in accordance with applicable regulations in 37 CFR part 404 and agency licensing regulations, any decisions concerning the revocation or modification."
+            },
+            "g": {
+              "text": "Exercise of march-in rights. When exercising march-in rights, agencies shall follow the procedures set forth in 37 CFR 401.6."
+            },
+            "h": {
+              "text": "Licenses and assignments under contracts with nonprofit organizations. If the contractor is a nonprofit organization, paragraph (i) of the clause at 52.227-11 provides that certain contractor actions require agency approval."
+            }
+          }
+        },
+        "2": {
+          "name": "Contracts placed by or for other Government agencies.",
+          "text": {
+            "text": "The following procedures apply unless an interagency agreement provides otherwise:\n\n(a) When a Government agency requests another Government agency to award a contract on its behalf, the request should explain any special circumstances surrounding the contract and specify the patent rights clause to be used. The clause should be selected and modified, if necessary, in accordance with the policies and procedures of this subpart. If, however, the request states that a clause of the requesting agency is required (e.g., because of statutory requirements, a deviation, or exceptional circumstances), the awarding agency shall use that clause rather than those of this subpart.\n\n(1) If the request states that an agency clause is required and the work to be performed under the contract is not severable and is funded wholly or in part by the requesting agency, then include the requesting agency clause and no other patent rights clause in the contract.\n\n(2) If the request states that an agency clause is required, and the work to be performed under the contract is severable, then the contracting officer shall assure that the requesting agency clause applies only to that severable portion of the work and that the work for the awarding agency is subject to the appropriate patent rights clause.\n\n(3) If the request states that a requesting agency clause is not required in any resulting contract, the awarding agency shall use the appropriate patent rights clause, if any.\n\n(b) Any action requiring an agency determination, report, or deviation involved in the use of the requesting agency’s clause is the responsibility of the requesting agency unless the agencies agree otherwise. However, the awarding agency may not alter the requesting agency’s clause without prior approval of the requesting agency.\n\n(c) The requesting agency may require, and provide instructions regarding, the forwarding or handling of any invention disclosures or other reporting requirements of the specified clauses. Normally, the requesting agency is responsible for the administration of any subject inventions. This responsibility shall be established in advance of awarding any contracts."
+          }
+        },
+        "3": {
+          "name": "Subcontracts.",
+          "text": {
+            "a": {
+              "text": "The policies and procedures in this subpart apply to all subcontracts at any tier."
+            },
+            "b": {
+              "text": "Whenever a prime contractor or a subcontractor considers including a particular clause in a subcontract to be inappropriate or a subcontractor refuses to accept the clause, the contracting officer, in consultation with counsel, shall resolve the matter."
+            },
+            "c": {
+              "text": "It is Government policy that contractors shall not use their ability to award subcontracts as economic leverage to acquire rights for themselves in inventions resulting from subcontracts."
+            }
+          }
+        },
+        "4": {
+          "name": "Appeals.",
+          "text": {
+            "a": {
+              "text": "The designated agency official shall provide the contractor with a written statement of the basis, including any relevant facts, for taking any of the following actions:",
+              "sub": {
+                "1": {
+                  "text": "A refusal to grant an extension to the invention disclosure period under paragraph (c)(4) of the clause at 52.227-11;"
+                },
+                "2": {
+                  "text": "A demand for a conveyance of title to the Government under 27.302(d)(1)(i) and (ii);"
+                },
+                "3": {
+                  "text": "A refusal to grant a waiver under 27.302(g), Preference for United States industry; or"
+                },
+                "4": {
+                  "text": "A refusal to approve an assignment under 27.304-1(h)."
+                }
+              }
+            },
+            "b": {
+              "text": "Each agency may establish and publish procedures under which any of these actions may be appealed. These appeal procedures should include administrative due process procedures and standards for fact-finding. The resolution of any appeal shall consider both the factual and legal basis for the action and its consistency with the policy and objectives of 35 U.S.C. 200-206 and 210."
+            },
+            "c": {
+              "text": "To the extent that any of the actions described in paragraph (a) of this section are subject to appeal under the Contract Disputes statute, the procedures under that statute will satisfy the requirements of paragraph (b)."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "305": {
+      "number": 305,
+      "name": "Administration of patent rights clauses.",
+      "sub": {
+        "1": {
+          "name": "Goals.",
+          "text": {
+            "a": {
+              "text": "Contracts having a patent rights clause should be so administered that—",
+              "sub": {
+                "1": {
+                  "text": "Inventions are identified, disclosed, and reported as required by the contract, and elections are made;"
+                },
+                "2": {
+                  "text": "The rights of the Government in subject inventions are established;"
+                },
+                "3": {
+                  "text": "When patent protection is appropriate, patent applications are timely filed and prosecuted by contractors or by the Government;"
+                },
+                "4": {
+                  "text": "The rights of the Government in filed patent applications are documented by formal instruments such as licenses or assignments; and"
+                },
+                "5": {
+                  "text": "Expeditious commercial utilization of subject inventions is achieved."
+                }
+              }
+            },
+            "b": {
+              "text": "If a subject invention is made under a contract funded by more than one agency, at the request of the contractor or on their own initiative, the agencies shall designate one agency as responsible for administration of the rights of the Government in the invention."
+            }
+          }
+        },
+        "2": {
+          "name": "Administration by the Government.",
+          "text": {
+            "a": {
+              "text": "Agencies should establish and maintain appropriate follow-up procedures to protect the Government’s interest and to check that subject inventions are identified and disclosed, and when appropriate, patent applications are filed, and that the Government’s rights therein are established and protected. Follow-up activities for contracts that include a clause referenced in 27.304-2 should be coordinated with the appropriate agency."
+            },
+            "b": {
+              "text": "(1) The contracting officer administering the contract (or other representative specifically designated in the contract for this purpose) is responsible for receiving invention disclosures, reports, confirmatory instruments, notices, requests, and other documents and information submitted by the contractor pursuant to a patent rights clause.",
+              "sub": {
+                "2": {
+                  "text": "The contracting officer shall promptly furnish all invention disclosures, reports, confirmatory instruments, notices, requests, and other documents and information relating to patent rights clauses to legal counsel."
+                },
+                "i": {
+                  "text": "For other than confirmatory instruments, if the contractor fails to furnish documents or information as called for by the clause within the time required, the contracting officer shall promptly request the contractor to supply the required documents or information. If the failure persists, the contracting officer shall take appropriate action to secure compliance."
+                },
+                "ii": {
+                  "text": "If the contractor does not furnish confirmatory instruments within 6 months after filing each patent application, or within 6 months after submitting the invention disclosure if the application has been previously filed, the contracting officer shall request the contractor to supply the required documents."
+                }
+              }
+            },
+            "c": {
+              "text": "Contracting activities should establish appropriate procedures to detect and correct failures by the contractor to comply with its obligations under the patent rights clauses, such as failures to disclose and report subject inventions, both during and after contract performance. Government effort to review and correct contractor compliance with its patent rights obligations should be directed primarily toward contracts that are more likely to result in subject inventions significant in number or quality. These contracts include contracts of a research, developmental, or experimental nature; contracts of a large dollar amount; and any other contracts when there is reason to believe the contractor may not be complying with its contractual obligations. Other contracts may be reviewed using a spot-check method, as feasible. Appropriate follow-up procedures and activities may include the investigation or review of selected contracts or contractors by those qualified in patent and technical matters to detect failures to comply with contract obligations."
+            },
+            "d": {
+              "text": "Follow-up activities should include, where appropriate, use of Government patent personnel—",
+              "sub": {
+                "1": {
+                  "text": "To interview agency technical personnel to identify novel developments made in contracts;"
+                },
+                "2": {
+                  "text": "To review technical reports submitted by contractors with cognizant agency technical personnel;"
+                },
+                "3": {
+                  "text": "To check the Official Gazette of the United States Patent and Trademark Office and other sources for patents issued to the contractor in fields related to its Government contracts; and"
+                },
+                "4": {
+                  "text": "To have cognizant Government personnel interview contractor personnel regarding work under the contract involved, observe the work on site, and inspect laboratory notebooks and other records of the contractor related to work under the contract."
+                }
+              }
+            },
+            "e": {
+              "text": "If a contractor or subcontractor does not have a clear understanding of its obligations under the clause, or its procedures for complying with the clause are deficient, the contracting officer should explain to the contractor its obligations. The withholding of payments provision (if any) of the patent rights clause may be invoked if the contractor fails to meet the obligations required by the patents rights clause. Significant or repeated failures by a contractor to comply with the patent rights obligation in its contracts shall be documented and made a part of the general file (see 4.801(c)(3))."
+            }
+          }
+        },
+        "3": {
+          "name": "Securing invention rights acquired by the Government.",
+          "text": {
+            "a": {
+              "text": "Agencies are responsible for implementing procedures necessary to protect the Government’s interest in subject inventions. When the Government acquires the entire right, title, and interest in an invention by contract, the chain of title from the inventor to the Government shall be clearly established. This is normally accomplished by an assignment either from each inventor to the contractor and from the contractor to the Government, or from the inventor to the Government with the consent of the contractor. When the Government’s rights are limited to a license, there should be a confirmatory instrument to that effect."
+            },
+            "b": {
+              "text": "Agencies may, by supplemental instructions, develop suitable assignments, licenses, and other papers evidencing any rights of the Government in patents or patents applications. These instruments should be recorded in the U.S. Patent and Trademark Office (see Executive Order 9424, Establishing in the United States Patent Office a Register of Government Interests in Patents and Applications for Patents, (February 18, 1944)."
+            }
+          }
+        },
+        "4": {
+          "name": "Protection of invention disclosures.",
+          "text": {
+            "a": {
+              "text": "The Government will, to the extent authorized by 35 U.S.C. 205, withhold from disclosure to the public any invention disclosures reported under the patent rights clauses of 52.227-11 or 52.227-13 for a reasonable time in order for patent applications to be filed. The Government will follow the policy in 27.302(j) regarding protection of confidentiality."
+            },
+            "b": {
+              "text": "The Government should also use reasonable efforts to withhold from disclosure to the public for a reasonable time other information disclosing a subject invention. This information includes any data delivered pursuant to contract requirements provided that the contractor notifies the agency as to the identity of the data and the subject invention to which it relates at the time of delivery of the data. This notification shall be provided to both the contracting officer and to any patent representative to which the invention is reported, if other than the contracting officer."
+            },
+            "c": {
+              "text": "For more information on protection of invention disclosures, also see 37 CFR 401.13."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "306": {
+      "number": 306,
+      "name": "Licensing background patent rights to third parties.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "A contract with a small business concern or nonprofit organization shall not contain a provision allowing the Government to require the licensing to third parties of inventions owned by the contractor that are not subject inventions unless the agency head has approved and signed a written justification in accordance with paragraph (b) of this section. The agency head may not delegate this authority and may exercise the authority only if it is determined that the—",
+          "sub": {
+            "1": {
+              "text": "Use of the invention by others is necessary for the practice of a subject invention or for the use of a work object of the contract; and"
+            },
+            "2": {
+              "text": "Action is necessary to achieve the practical application of the subject invention or work object."
+            }
+          }
+        },
+        "b": {
+          "text": "Any determination will be on the record after an opportunity for a hearing, and the agency shall notify the contractor of the determination by certified or registered mail. The notification shall include a statement that the contractor must bring any action for judicial review of the determination within 60 days after the notification."
+        }
+      }
+    }
+  }
+}

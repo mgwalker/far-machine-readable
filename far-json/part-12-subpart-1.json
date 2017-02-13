@@ -1,0 +1,119 @@
+{
+  "parentPart": 12,
+  "number": 1,
+  "name": "Acquisition of Commercial Items—General",
+  "sub": {
+    "101": {
+      "number": 101,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "text": "Agencies shall—\n\n(a) Conduct market research to determine whether commercial items or nondevelopmental items are available that could meet the agency’s requirements;\n\n(b) Acquire commercial items or nondevelopmental items when they are available to meet the needs of the agency; and\n\n(c) Require prime contractors and subcontractors at all tiers to incorporate, to the maximum extent practicable, commercial items or nondevelopmental items as components of items supplied to the agency."
+      }
+    },
+    "102": {
+      "number": 102,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "2": {
+          "text": "In exercising the authority specified in paragraph (g)(1) of this section, the contracting officer may tailor paragraph (a) of the clause at FAR 52.212-4 as may be necessary to ensure the contract’s remedies adequately protect the Government’s interests."
+        },
+        "a": {
+          "text": "This part shall be used for the acquisition of supplies or services that meet the definition of commercial items at 2.101."
+        },
+        "b": {
+          "text": "Contracting officers shall use the policies in this part in conjunction with the policies and procedures for solicitation, evaluation and award prescribed in Part 13, Simplified Acquisition Procedures; Part 14, Sealed Bidding; or Part 15, Contracting by Negotiation, as appropriate for the particular acquisition."
+        },
+        "c": {
+          "text": "Contracts for the acquisition of commercial items are subject to the policies in other parts of the FAR. When a policy in another part of the FAR is inconsistent with a policy in this part, this part 12 shall take precedence for the acquisition of commercial items."
+        },
+        "d": {
+          "text": "The definition of commercial item in section 2.101 uses the phrase “purposes other than governmental purposes.” These purposes are those that are not unique to a government."
+        },
+        "e": {
+          "text": "This part shall not apply to the acquisition of commercial items—",
+          "sub": {
+            "1": {
+              "text": "At or below the micro-purchase threshold;"
+            },
+            "2": {
+              "text": "Using the Standard Form 44 (see 13.306);"
+            },
+            "3": {
+              "text": "Using the imprest fund (see 13.305);"
+            },
+            "4": {
+              "text": "Using the Governmentwide commercial purchase card as a method of purchase rather than only as a method of payment; or"
+            },
+            "5": {
+              "text": "Directly from another Federal agency."
+            }
+          }
+        },
+        "f": {
+          "text": "(1) Contracting officers may treat any acquisition of supplies or services that, as determined by the head of the agency, are to be used to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack, as an acquisition of commercial items.",
+          "sub": {
+            "2": {
+              "text": "A contract in an amount greater than $19 million that is awarded on a sole source basis for an item or service treated as a commercial item under paragraph (f)(1) of this section but does not meet the definition of a commercial item as defined at FAR 2.101 shall not be exempt from—"
+            },
+            "i": {
+              "text": "Cost accounting standards (see subpart 30.2); or"
+            },
+            "ii": {
+              "text": "Certified cost or pricing data requirements (see 15.403)."
+            }
+          }
+        },
+        "g": {
+          "text": "(1) In accordance with 41 U.S.C. 2310, the contracting officer also may use Part 12 for any acquisition for services that does not meet the definition of commercial item in FAR 2.101, if the contract or task order—"
+        },
+        "i": {
+          "text": "Is entered into on or before November 24, 2013;"
+        },
+        "ii": {
+          "text": "Has a value of $29.5 million or less;"
+        },
+        "iii": {
+          "text": "Meets the definition of performance-based acquisition at FAR 2.101;"
+        },
+        "iv": {
+          "text": "Uses a quality assurance surveillance plan;"
+        },
+        "v": {
+          "text": "Includes performance incentives where appropriate;"
+        },
+        "vi": {
+          "text": "Specifies a firm-fixed price for specific tasks to be performed or outcomes to be achieved; and"
+        },
+        "vii": {
+          "text": "Is awarded to an entity that provides similar services to the general public under terms and conditions similar to those in the contract or task order."
+        }
+      }
+    },
+    "103": {
+      "number": 103,
+      "name": "Commercially available off-the-shelf (COTS) items.",
+      "sub": {},
+      "text": {
+        "text": "Commercially available off-the-shelf (COTS) items are defined in 2.101. Unless indicated otherwise, all of the policies that apply to commercial items also apply to COTS items. Section 12.505 lists the laws that are not applicable to COTS (in addition to 12.503 and 12.504)."
+      }
+    },
+    "000": {
+      "number": 0,
+      "name": "Scope of part.",
+      "sub": {},
+      "text": {
+        "text": "This part prescribes policies and procedures unique to the acquisition of commercial items. It implements the Federal Government’s preference for the acquisition of commercial items contained in 41 U.S.C. 1906, 1907, and 3307 and 10 U.S.C. 2375-2377 by establishing acquisition policies more closely resembling those of the commercial marketplace and encouraging the acquisition of commercial items and components."
+      }
+    },
+    "001": {
+      "number": 1,
+      "name": "Definition.",
+      "sub": {},
+      "text": {
+        "text": "“Subcontract,” as used in this part, includes, but is not limited to, a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor."
+      }
+    }
+  }
+}

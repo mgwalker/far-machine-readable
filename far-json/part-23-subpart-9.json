@@ -1,0 +1,55 @@
+{
+  "parentPart": 23,
+  "number": 9,
+  "name": "Contractor Compliance with Environmental Management Systems",
+  "sub": {
+    "900": {
+      "number": 900,
+      "name": "Scope.",
+      "sub": {},
+      "text": {
+        "text": "This subpart implements the environmental management systems requirements for contractors."
+      }
+    },
+    "901": {
+      "number": 901,
+      "name": "Authority. ",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Executive Order 13423 of January 24, 2007, Strengthening Federal Environmental, Energy, and Transportation Management."
+        },
+        "b": {
+          "text": "Executive Order 13514 of October 5, 2009, Federal Leadership in Environmental, Energy, and Economic Performance."
+        }
+      }
+    },
+    "902": {
+      "number": 902,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Specify the EMS directives with which the contractor must comply; and"
+        },
+        "2": {
+          "text": "Ensure contractor compliance to the same extent as the agency would be required to comply, if the agency operated the facilities or vehicles."
+        },
+        "a": {
+          "text": "Agencies shall implement environmental management systems (EMS) at all appropriate organizational levels.  Where contractor activities affect an agency’s environmental management aspects, EMS requirements shall be included in contracts to ensure proper implementation and execution of EMS roles and responsibilities."
+        },
+        "b": {
+          "text": "The contracting officer shall—"
+        }
+      }
+    },
+    "903": {
+      "number": 903,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.223-19, Compliance With Environmental Management Systems, in all solicitations and contracts for contractor operation of Government-owned or -leased facilities or vehicles, located in the United States.  For facilities located outside the United States, the agency head may determine that use of the clause is in the best interest of the Government."
+      }
+    }
+  }
+}

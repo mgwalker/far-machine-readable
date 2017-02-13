@@ -1,0 +1,142 @@
+{
+  "parentPart": 7,
+  "number": 4,
+  "name": "Equipment Lease or Purchase",
+  "sub": {
+    "400": {
+      "number": 400,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart provides guidance pertaining to the decision to acquire equipment by lease or purchase. It applies to both the initial acquisition of equipment and the renewal or extension of existing equipment leases."
+      }
+    },
+    "401": {
+      "number": 401,
+      "name": "Acquisition considerations.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Availability of purchase options."
+        },
+        "2": {
+          "text": "Potential for use of the equipment by other agencies after its use by the acquiring agency is ended."
+        },
+        "3": {
+          "text": "Trade-in or salvage value."
+        },
+        "4": {
+          "text": "Imputed interest."
+        },
+        "5": {
+          "text": "Availability of a servicing capability, especially for highly complex equipment; e.g., can the equipment be serviced by the Government or other sources if it is purchased?"
+        },
+        "a": {
+          "text": "Agencies should consider whether to lease or purchase equipment based on a case-by-case evaluation of comparative costs and other factors. The following factors are the minimum that should be considered:",
+          "sub": {
+            "1": {
+              "text": "Estimated length of the period the equipment is to be used and the extent of use within that period."
+            },
+            "2": {
+              "text": "Financial and operating advantages of alternative types and makes of equipment."
+            },
+            "3": {
+              "text": "Cumulative rental payments for the estimated period of use."
+            },
+            "4": {
+              "text": "Net purchase price."
+            },
+            "5": {
+              "text": "Transportation and installation costs."
+            },
+            "6": {
+              "text": "Maintenance and other service costs."
+            },
+            "7": {
+              "text": "Potential obsolescence of the equipment because of imminent technological improvements."
+            }
+          }
+        },
+        "b": {
+          "text": "The following additional factors should be considered, as appropriate, depending on the type, cost, complexity, and estimated period of use of the equipment:"
+        }
+      }
+    },
+    "402": {
+      "number": 402,
+      "name": "Acquisition methods.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The lease method is appropriate if it is to the Government’s advantage under the circumstances. The lease method may also serve as an interim measure when the circumstances—",
+          "sub": {
+            "i": {
+              "text": "Require immediate use of equipment to meet program or system goals; but"
+            },
+            "ii": {
+              "text": "Do not currently support acquisition by purchase."
+            }
+          }
+        },
+        "2": {
+          "text": "If a lease is justified, a lease with option to purchase is preferable."
+        },
+        "3": {
+          "text": "Generally, a long term lease should be avoided, but may be appropriate if an option to purchase or other favorable terms are included."
+        },
+        "4": {
+          "text": "If a lease with option to purchase is used, the contract shall state the purchase price or provide a formula which shows how the purchase price will be established at the time of purchase."
+        },
+        "a": {
+          "text": "Purchase method.",
+          "sub": {
+            "1": {
+              "text": "Generally, the purchase method is appropriate if the equipment will be used beyond the point in time when cumulative leasing costs exceed the purchase costs."
+            },
+            "2": {
+              "text": "Agencies should not rule out the purchase method of equipment acquisition in favor of leasing merely because of the possibility that future technological advances might make the selected equipment less desirable."
+            }
+          }
+        },
+        "b": {
+          "text": "Lease method."
+        }
+      }
+    },
+    "403": {
+      "number": 403,
+      "name": "General Services Administration assistance.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "When requested by an agency, the General Services Administration (GSA) will assist in lease or purchase decisions by providing information such as—",
+          "sub": {
+            "1": {
+              "text": "Pending price adjustments to Federal Supply Schedule contracts;"
+            },
+            "2": {
+              "text": "Recent or imminent technological developments;"
+            },
+            "3": {
+              "text": "New techniques; and"
+            },
+            "4": {
+              "text": "Industry or market trends."
+            }
+          }
+        },
+        "b": {
+          "text": "Agencies may request information from the following GSA office:  U.S. General Services Administration, Federal Acquisition Service, Office of Acquisition Management, 2200 Crystal Drive, Room 806, Arlington, VA. 22202.  Email: fasam@gsa.gov."
+        }
+      }
+    },
+    "404": {
+      "number": 404,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert a clause substantially the same as the clause in 52.207-5, Option to Purchase Equipment, in solicitations and contracts involving a lease with option to purchase."
+      }
+    }
+  }
+}

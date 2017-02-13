@@ -1,0 +1,44 @@
+{
+  "parentPart": 4,
+  "number": 3,
+  "name": "Paper Documents",
+  "sub": {
+    "300": {
+      "number": 300,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart provides policies and procedures on contractor-submitted paper documents."
+      }
+    },
+    "301": {
+      "number": 301,
+      "name": "Definition.",
+      "sub": {},
+      "text": {
+        "text": "“Printed or copied double-sided,” as used in this subpart, means printing or reproducing a document so that information is on both sides of a sheet of paper."
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "Policy. ",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Section 3(a) of E.O. 13423, Strengthening Federal Environmental, Energy, and Transportation Management, directs agencies to implement waste prevention. In addition, section 2(e) of E.O. 13514, Federal Leadership in Environmental, Energy, and Economic Performance, directs agencies to eliminate waste. Electronic commerce methods (see 4.502) and double-sided printing and copying are best practices for waste prevention."
+        },
+        "b": {
+          "text": "When electronic commerce methods (see 4.502) are not used, agencies shall require contractors to submit paper documents to the Government relating to an acquisition printed or copied double-sided on at least 30 percent postconsumer fiber paper whenever practicable. If the contractor cannot print or copy double-sided, it shall print or copy single-sided on at least 30 percent postconsumer fiber paper."
+        }
+      }
+    },
+    "303": {
+      "number": 303,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "Insert the clause at 52.204-4, Printed or Copied Double-Sided on Recycled Paper, in solicitations and contracts that exceed the simplified acquisition threshold."
+      }
+    }
+  }
+}

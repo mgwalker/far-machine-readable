@@ -1,0 +1,451 @@
+{
+  "parentPart": 28,
+  "number": 2,
+  "name": "Sureties and Other Security for Bonds",
+  "sub": {
+    "200": {
+      "number": 200,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes procedures for the use of sureties and other security to protect the Government from financial losses."
+      }
+    },
+    "201": {
+      "number": 201,
+      "name": "Requirements for security.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Agencies shall obtain adequate security for bonds (including coinsurance and reinsurance agreements) required or used with a contract for supplies or services (including construction). Acceptable forms of security include—",
+          "sub": {
+            "1": {
+              "text": "Corporate or individual sureties; or"
+            },
+            "2": {
+              "text": "Any of the types of security authorized in lieu of sureties by 28.204."
+            }
+          }
+        },
+        "b": {
+          "text": "Solicitations shall not preclude offerors from using the types of surety or other security permitted by this subpart, unless prohibited by law or regulation."
+        }
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Acceptability of corporate sureties.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "(1) Corporate sureties offered for bonds furnished with contracts performed in the United States or its outlying areas must appear on the list contained in the Department of Treasury Circular 570, “Companies Holding Certificates of Authority as Acceptable Sureties on Federal Bonds and Acceptable Reinsuring Companies.”",
+          "sub": {
+            "2": {
+              "text": "The penal amount of the bond should not exceed the surety’s underwriting limit stated in the Department of the Treasury circular. If the penal amount exceeds the underwriting limit, the bond will be acceptable only if—",
+              "sub": {
+                "i": {
+                  "text": "The amount which exceeds the specified limit is coinsured or reinsured; and"
+                },
+                "ii": {
+                  "text": "The amount of coinsurance or reinsurance does not exceed the underwriting limit of each coinsurer or reinsurer."
+                }
+              }
+            },
+            "3": {
+              "text": "Coinsurance or reinsurance agreements shall conform to the Department of the Treasury regulations in 31 CFR 223.10 and 223.11. When reinsurance is contemplated, the contracting office generally shall require reinsurance agreements to be executed and submitted with the bonds before making a final determination on the bonds."
+            },
+            "4": {
+              "text": "When specified in the solicitation, the contracting officer may accept a bond from the direct writing company in satisfaction of the total bond requirement of the contract.  This is permissible until necessary reinsurance agreements are executed, even though the total bond requirement may exceed the insurer's underwriting limitation.  The contractor shall execute and submit necessary reinsurance agreements to the contracting officer within the time specified on the bid form, which may not exceed 45 calendar days after the execution of the bond. The contractor shall use Standard Form 273, Reinsurance Agreement for a Bonds Statute Performance Bond, and Standard Form 274, Reinsurance Agreement for a Bonds Statute Payment Bond, when reinsurance is furnished with the required performance or payment bonds. Standard Form 275, Reinsurance Agreement in Favor of the United States, is used when reinsurance is furnished with bonds for other purposes."
+            }
+          }
+        },
+        "b": {
+          "text": "For contracts performed in a foreign country, sureties not appearing on Treasury Department Circular 570 are acceptable if the contracting officer determines that it is impracticable for the contractor to use Treasury listed sureties."
+        },
+        "c": {
+          "text": "The Department of the Treasury issues supplements to Circular 570, notifying all Federal agencies of (1) new approved corporate surety companies and (2) the termination of the authority of any specific corporate surety to qualify as a surety on Federal bonds. Upon receipt of notification of termination of a company’s authority to qualify as a surety on Federal bonds, the contracting officer shall review the outstanding contracts and take action necessary to protect the Government, including, where appropriate, securing new bonds with acceptable sureties in lieu of outstanding bonds with the named company."
+        },
+        "d": {
+          "text": "The Department of the Treasury Circular 570 may be obtained from the—\n\nU.S. Department of the Treasury\n\nFinancial Management Service\n\nSurety Bond Branch\n\n3700 East West Highway, Room 6F01\n\nHyattsville, MD 20782.\n\nOr via the internet at http://www.fms.treas.gov/c570/.\n\nU.S. Department of the Treasury\n\nFinancial Management Service\n\nSurety Bond Branch\n\n3700 East West Highway, Room 6F01\n\nHyattsville, MD 20782.\n\nOr via the internet at http://www.fms.treas.gov/c570/."
+        }
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Acceptability of individual sureties.",
+      "sub": {
+        "1": {
+          "name": "Security interests by an individual surety.",
+          "text": {
+            "1": {
+              "text": "An escrow account with a federally insured financial institution in the name of the contracting agency. (See 28.203-2(b)(2) with respect to Government securities in book entry form.) Acceptable securities for deposit in escrow are discussed in 28.203-2. While the offeror is responsible for establishing the escrow account, the terms and conditions must be acceptable to the contracting officer. At a minimum, the escrow account shall provide for the following:",
+              "sub": {
+                "i": {
+                  "text": "The account must provide the contracting officer the sole and unrestricted right to draw upon all or any part of the funds deposited in the account. A written demand for withdrawal shall be sent to the financial institution, after obtaining the concurrence of legal counsel, by the contracting officer with a copy to the offeror/contractor and to the surety. Within the time period specified in the demand, the financial institution would pay the Government the amount demanded up to the amount on deposit. If any dispute should arise between the Government and the offeror/contractor, the surety, or the subcontractors or suppliers with respect to the offer or contract, the financial institution would be required, unless precluded by order of a court of competent jurisdiction, to disburse monies to the Government as directed by the contracting officer."
+                },
+                "ii": {
+                  "text": "The financial institution would be authorized to release to the individual surety all or part of the balance of the escrow account, including any accrued interest, upon receipt of written authorization from the contracting officer."
+                },
+                "iii": {
+                  "text": "The Government would not be responsible for any costs attributable to the establishment, maintenance, administration, or any other aspect of the account."
+                },
+                "iv": {
+                  "text": "The financial institution would not be liable or responsible for the interpretation of any provisions or terms and conditions of the solicitation or contract."
+                },
+                "v": {
+                  "text": "The financial institution would provide periodic account statements to the contracting officer."
+                },
+                "vi": {
+                  "text": "The terms of the escrow account could not be amended without the consent of the contracting officer."
+                }
+              }
+            },
+            "2": {
+              "text": "A lien on real property, subject to the restrictions in 28.203-2 and 28.203-3."
+            },
+            "a": {
+              "text": "An individual surety may be accepted only if a security interest in assets acceptable under 28.203-2 is provided to the Government by the individual surety. The security interest shall be furnished with the bond."
+            },
+            "b": {
+              "text": "The value at which the contracting officer accepts the assets pledged must be equal to or greater than the aggregate penal amounts of the bonds required by the solicitation and may be provided by one or a combination of the following methods:"
+            }
+          }
+        },
+        "2": {
+          "name": "Acceptability of assets.",
+          "text": {
+            "1": {
+              "text": "Notes or accounts receivable;"
+            },
+            "2": {
+              "text": "Foreign securities;"
+            },
+            "3": {
+              "text": "Real property as follows:",
+              "sub": {
+                "i": {
+                  "text": "Real property located outside the United States and its outlying areas."
+                },
+                "ii": {
+                  "text": "Real property which is a principal residence of the surety."
+                },
+                "iii": {
+                  "text": "Real property owned concurrently regardless of the form of co-tenancy (including joint tenancy, tenancy by the entirety, and tenancy in common) except where all co-tenants agree to act jointly."
+                },
+                "iv": {
+                  "text": "Life estates, leasehold estates, or future interests in real property."
+                }
+              }
+            },
+            "4": {
+              "text": "Personal property other than that listed in paragraph (b) of this subsection (e.g., jewelry, furs, antiques);"
+            },
+            "5": {
+              "text": "Stocks and bonds of the individual surety in a controlled, affiliated, or closely held concern of the offeror/contractor;"
+            },
+            "6": {
+              "text": "Corporate assets (e.g., plant and equipment);"
+            },
+            "7": {
+              "text": "Speculative assets (e.g., mineral rights);"
+            },
+            "8": {
+              "text": "Letters of credit, except as provided in 28.203-2(b)(5)."
+            },
+            "a": {
+              "text": "The Government will accept only cash, readily marketable assets, or irrevocable letters of credit from a federally insured financial institution from individual sureties to satisfy the underlying bond obligations."
+            },
+            "b": {
+              "text": "Acceptable assets include—\n\nSecurities and Exchange Commission\n\nDivision of Enforcement\n\n450 Fifth Street NW\n\nWashington, DC 20549.",
+              "sub": {
+                "1": {
+                  "text": "Cash, or certificates of deposit, or other cash equivalents with a federally insured financial institution;"
+                },
+                "2": {
+                  "text": "United States Government securities at market value. (An escrow account is not required if an individual surety offers Government securities held in book entry form at a depository institution. In lieu thereof, the individual shall provide evidence that the depository institution has—",
+                  "sub": {
+                    "i": {
+                      "text": "Placed a notation against the individual’s book entry account indicating that the security has been pledged in favor of the respective agency;"
+                    },
+                    "ii": {
+                      "text": "Agreed to notify the agency prior to maturity of the security; and"
+                    },
+                    "iii": {
+                      "text": "Agreed to hold the proceeds of the security subject to the pledge in favor of the agency until a substitution of securities is made or the security interest is formally released by the agency.);"
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Stocks and bonds actively traded on a national U.S. security exchange with certificates issued in the name of the individual surety. National security exchanges are—(i) the New York Stock Exchange; (ii) the American Stock Exchange; (iii) the Boston Stock Exchange; (iv) the Cincinnati Stock Exchange; (v) the Midwest Stock Exchange; (vi) the Philadelphia Stock Exchange; (vii) the Pacific Stock Exchange; and (viii) the Spokane Stock Exchange. These assets will be accepted at 90 percent of their 52-week low, as reflected at the time of submission of the bond. Stock options and stocks on the over-the-counter (OTC) market or NASDQ Exchanges will not be accepted. Assistance in evaluating the acceptability of securities may be obtained from the—\n\nSecurities and Exchange Commission\n\nDivision of Enforcement\n\n450 Fifth Street NW\n\nWashington, DC 20549.",
+                  "sub": {
+                    "text": "Securities and Exchange Commission\n\nDivision of Enforcement\n\n450 Fifth Street NW\n\nWashington, DC 20549."
+                  }
+                },
+                "4": {
+                  "text": "Real property owned in fee simple by the surety without any form of concurrent ownership, except as provided in paragraph (c)(3)(iii) of this subsection, and located in the United States or its outlying areas. These assets will be accepted at 100 percent of the most current tax assessment value (exclusive of encumbrances) or 75 percent of the properties’ unencumbered market value provided a current appraisal is furnished (see 28.203-3)."
+                },
+                "5": {
+                  "text": "Irrevocable letters of credit (ILC) issued by a federally insured financial institution in the name of the contracting agency and which identify the agency and solicitation or contract number for which the ILC is provided."
+                }
+              }
+            },
+            "c": {
+              "text": "Unacceptable assets include but are not limited to—"
+            }
+          }
+        },
+        "3": {
+          "name": "Acceptance of real property.",
+          "text": {
+            "a": {
+              "text": "Whenever a bond with a security interest in real property is submitted, the individual surety shall provide—\n\nAppraisal Foundation\n\n1029 Vermont Avenue, NW\n\nWashington, DC 20005.",
+              "sub": {
+                "1": {
+                  "text": "A mortgagee title insurance policy, in an insurance amount equal to the amount of the lien, or other evidence of title that is consistent with the requirements of Section 2 of the United States Department of Justice Title Standards at http://www.justice.gov/enrd/ENRD_Assets/Title_Standards_2001.pdf. This title evidence must show fee simple title vested in the surety along with any concurrent owners; whether any real estate taxes are due and payable; and any recorded encumbrances against the property, including the lien filed in favor of the Government under paragraph (d) of this subsection. Agency contracting officers should request the assistance of their designated agency legal counsel in determining if the title evidence is consistent with the Department of Justice standards;"
+                },
+                "2": {
+                  "text": "Evidence of the amount due under any encumbrance shown in the evidence of title;"
+                },
+                "3": {
+                  "text": "A copy of the current real estate tax assessment of the property or a current appraisal dated no earlier than 6 months prior to the date of the bond, prepared by a professional appraiser who certifies that the appraisal has been conducted in accordance with the generally accepted appraisal standards as reflected in the Uniform Standards of Professional Appraisal Practice as promulgated by the—\n\nAppraisal Foundation\n\n1029 Vermont Avenue, NW\n\nWashington, DC 20005.\n\nAppraisal Foundation\n\n1029 Vermont Avenue, NW\n\nWashington, DC 20005."
+                }
+              }
+            },
+            "b": {
+              "text": "Failure to provide evidence that the lien has been properly recorded will render the offeror nonresponsible."
+            },
+            "c": {
+              "text": "The individual surety is liable for the payment of all administrative costs of the Government, including legal fees, associated with the liquidation of pledged real estate."
+            },
+            "d": {
+              "text": "The following format, or any document substantially the same, shall be signed by all owners of the property and used by the surety and recorded in the local recorder’s office when a surety pledges real estate on Standard Form 28, Affidavit of Individual Surety.\n\nLien on Real Estate\n\nI/we agree that this instrument constitutes a lien in the amount of $_________ on the property described in this lien. The rights of the United States Government shall take precedence over any subsequent lien or encumbrance until the lien is formally released by a duly authorized representative of the United States. I/we hereby grant the United States the power of sale of subject property, including the right to satisfy its reasonable administrative costs, including legal fees associated with any sale of subject property, in the event of contractor default if I/we otherwise fail to satisfy the underlying ( ) bid guarantee, ( ) performance bond, ( ) or payment bond obligations as an individual surety on solicitation/contract number ________________. The lien is upon the real estate now owned by me/us described as follows:\n\n(legal description, street address and other identifying description)\n\nIn witness hereof, I/we have hereunto affixed my/our hand(s) and seal(s) this ___ Day of _____20 __.\n\nWitness:\n\n______________________                       ___________ (Seal)\n\n______________________                       ___________ (Seal)\n\nI, __________________, a Notary Public in and for the (City) _____________, (State) _______, do hereby certify that _______________, a party or parties to a certain Agreement bearing the date ____ day of ________ 20 __, and hereunto annexed, personally appeared before me, the said ______________ being personally well known to me as the person(s) who executed said lien, and acknowledged the same to be his/her heir act and deed.\n\nGiven under my hand and seal this ___ day of ___20 __.\n\n_________________________\n\nNotary Public,                   State\n\nMy commission expires:\n\nLien on Real Estate"
+            },
+            "": {
+              "text": "bid guarantee, ( ) performance bond, ( ) or payment bond obligations as an individual surety on solicitation/contract number ________________. The lien is upon the real estate now owned by me/us described as follows:\n\n(legal description, street address and other identifying description)\n\nIn witness hereof, I/we have hereunto affixed my/our hand(s) and seal(s) this ___ Day of _____20 __.\n\nWitness:\n\n______________________                       ___________ (Seal)\n\n______________________                       ___________ (Seal)\n\nI, __________________, a Notary Public in and for the (City) _____________, (State) _______, do hereby certify that _______________, a party or parties to a certain Agreement bearing the date ____ day of ________ 20 __, and hereunto annexed, personally appeared before me, the said ______________ being personally well known to me as the person(s) who executed said lien, and acknowledged the same to be his/her heir act and deed.\n\nGiven under my hand and seal this ___ day of ___20 __.\n\n_________________________\n\nNotary Public,                   State\n\nMy commission expires:\n\n(legal description, street address and other identifying description)"
+            },
+            "s": {
+              "text": "and seal(s) this ___ Day of _____20 __.\n\nWitness:\n\n______________________                       ___________ (Seal)\n\n______________________                       ___________ (Seal)\n\nI, __________________, a Notary Public in and for the (City) _____________, (State) _______, do hereby certify that _______________, a party or parties to a certain Agreement bearing the date ____ day of ________ 20 __, and hereunto annexed, personally appeared before me, the said ______________ being personally well known to me as the person(s) who executed said lien, and acknowledged the same to be his/her heir act and deed.\n\nGiven under my hand and seal this ___ day of ___20 __.\n\n_________________________\n\nNotary Public,                   State\n\nMy commission expires:\n\nWitness:\n\n______________________                       ___________ (Seal)\n\n______________________                       ___________ (Seal)"
+            },
+            "City": {
+              "text": "_____________, (State) _______, do hereby certify that _______________, a party or parties to a certain Agreement bearing the date ____ day of ________ 20 __, and hereunto annexed, personally appeared before me, the said ______________ being personally well known to me as the person(s) who executed said lien, and acknowledged the same to be his/her heir act and deed.\n\nGiven under my hand and seal this ___ day of ___20 __.\n\n_________________________\n\nNotary Public,                   State\n\nMy commission expires:\n\nGiven under my hand and seal this ___ day of ___20 __.\n\n_________________________\n\nNotary Public,                   State\n\nMy commission expires:"
+            }
+          }
+        },
+        "4": {
+          "name": "Substitution of assets.",
+          "text": {
+            "text": "An individual surety may request the Government to accept a substitute asset for that currently pledged by submitting a written request to the responsible contracting officer. The contracting officer may agree to the substitution of assets upon determining, after consultation with legal counsel, that the substitute assets to be pledged are adequate to protect the outstanding bond or guarantee obligations. If acceptable, the substitute assets shall be pledged as provided for in Subpart 28.2."
+          }
+        },
+        "5": {
+          "name": "Release of lien.",
+          "text": {
+            "a": {
+              "text": "After consultation with legal counsel, the contracting officer shall release the security interest on the individual surety’s assets using the Optional Form 90, Release of Lien on Real Property, or Optional Form 91, Release of Personal Property from Escrow, or a similar release as soon as possible consistent with the conditions in paragraphs (a)(1) and (2) of this subsection. A surety’s assets pledged in support of a payment bond may be released to a subcontractor or supplier upon Government receipt of a Federal district court judgment, or a sworn statement by the subcontractor or supplier that the claim is correct along with a notarized authorization of the release by the surety stating that it approves of such release.",
+              "sub": {
+                "1": {
+                  "text": "Contracts subject to the Bonds statute. The security interest shall be maintained for the later of—",
+                  "sub": {
+                    "i": {
+                      "text": "1 year following final payment;"
+                    },
+                    "ii": {
+                      "text": "Until completion of any warranty period (applicable only to performance bonds); or"
+                    },
+                    "iii": {
+                      "text": "Pending resolution of all claims filed against the payment bond during the 1-year period following final payment."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "Contracts subject to alternative payment protection (28.102-1(b)(1)). The security interest shall be maintained for the full contract performance period plus one year."
+                },
+                "3": {
+                  "text": "Other contracts not subject to the Bonds statute. The security interest shall be maintained for 90 days following final payment or until completion of any warranty period (applicable only to performance bonds), whichever is later."
+                }
+              }
+            },
+            "b": {
+              "text": "Upon written request, the contracting officer may release the security interest on the individual surety’s assets in support of a bid guarantee based upon evidence that the offer supported by the individual surety will not result in contract award."
+            },
+            "c": {
+              "text": "Upon written request by the individual surety, the contracting officer may release a portion of the security interest on the individual surety’s assets based upon substantial performance of the contractor’s obligations under its performance bond. Release of the security interest in support of a payment bond must comply with the paragraphs (a)(1) through (3) of this subsection. In making this determination, the contracting officer will give consideration as to whether the unreleased portion of the lien is sufficient to cover the remaining contract obligations, including payments to subcontractors and other potential liabilities. The individual surety shall, as a condition of the partial release, furnish an affidavit agreeing that the release of such assets does not relieve the individual surety of its obligations under the bond(s)."
+            }
+          }
+        },
+        "6": {
+          "name": "Contract clause.",
+          "text": {
+            "text": "Insert the clause at 52.228-11 in solicitations and contracts which require the submission of bid guarantees, performance, or payment bonds."
+          }
+        },
+        "7": {
+          "name": "Exclusion of individual sureties.",
+          "text": {
+            "a": {
+              "text": "An individual may be excluded from acting as a surety on bonds submitted by offerors on procurement by the executive branch of the Federal Government, by the acquiring agency’s head or designee utilizing the procedures in Subpart 9.4. The exclusion shall be for the purpose of protecting the Government."
+            },
+            "b": {
+              "text": "An individual may be excluded for any of the following causes:",
+              "sub": {
+                "1": {
+                  "text": "Failure to fulfill the obligations under any bond."
+                },
+                "2": {
+                  "text": "Failure to disclose all bond obligations."
+                },
+                "3": {
+                  "text": "Misrepresentation of the value of available assets or outstanding liabilities."
+                },
+                "4": {
+                  "text": "Any false or misleading statement, signature or representation on a bond or affidavit of individual suretyship."
+                },
+                "5": {
+                  "text": "Any other cause affecting responsibility as a surety of such serious and compelling nature as may be determined to warrant exclusion."
+                }
+              }
+            },
+            "c": {
+              "text": "An individual surety excluded pursuant to this subsection shall be included in the System for Award Management Exclusions. (See 9.404.)"
+            },
+            "d": {
+              "text": "Contracting officers shall not accept the bonds of individual sureties whose names appear in the System for Award Management Exclusions (see 9.404) unless the acquiring agency’s head or a designee states in writing the compelling reasons justifying acceptance."
+            },
+            "e": {
+              "text": "An exclusion of an individual surety under this subsection will also preclude such party from acting as a contractor in accordance with Subpart 9.4."
+            }
+          }
+        }
+      },
+      "text": {
+        "a": {
+          "text": "An individual surety is acceptable for all types of bonds except position schedule bonds. The contracting officer shall determine the acceptability of individuals proposed as sureties, and shall ensure that the surety’s pledged assets are sufficient to cover the bond obligation. (See 28.203-7 for information on excluded individual sureties.)"
+        },
+        "b": {
+          "text": "An individual surety must execute the bond, and the unencumbered value of the assets (exclusive of all outstanding pledges for other bond obligations) pledged by the individual surety, must equal or exceed the penal amount of each bond. The individual surety shall execute the Standard Form 28 and provide a security interest in accordance with 28.203-1. One individual surety is adequate support for a bond, provided the unencumbered value of the assets pledged by that individual surety equal or exceed the amount of the bond. An offeror may submit up to three individual sureties for each bond, in which case the pledged assets, when combined, must equal or exceed the penal amount of the bond. Each individual surety must accept both joint and several liability to the extent of the penal amount of the bond."
+        },
+        "c": {
+          "text": "If the contracting officer determines that no individual surety in support of a bid guarantee is acceptable, the offeror utilizing the individual surety shall be rejected as nonresponsible, except as provided in 28.101-4. A finding of nonresponsibility based on unacceptability of an individual surety, need not be referred to the Small Business Administration for a competency review. (See 19.602-1(a)(2)(i) and 61 Comp. Gen. 456 (1982).)"
+        },
+        "d": {
+          "text": "A contractor submitting an unacceptable individual surety in satisfaction of a performance or payment bond requirement may be permitted a reasonable time, as deter-mined by the contracting officer, to substitute an acceptable surety for a surety previously determined to be unacceptable."
+        },
+        "e": {
+          "text": "When evaluating individual sureties, contracting officers may obtain assistance from the office identified in 28.202(d)."
+        },
+        "f": {
+          "text": "Contracting officers shall obtain the opinion of legal counsel as to the adequacy of the documents pledging the assets prior to accepting the bid guarantee and payment and performance bonds."
+        },
+        "g": {
+          "text": "Evidence of possible criminal or fraudulent activities by an individual surety shall be referred to the appropriate agency official in accordance with agency procedures."
+        }
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Alternatives in lieu of corporate or individual sureties.",
+      "sub": {
+        "1": {
+          "name": "United States bonds or notes.",
+          "text": {
+            "text": "Any person required to furnish a bond to the Government has the option, instead of furnishing a surety or sureties on the bond, of depositing certain United States bonds or notes in an amount equal at their par value to the penal sum of the bond (the Act of February 24, 1919 (31 U.S.C. 9303) and Treasury Department Circular No. 154 dated July 1, 1978 (31 CFR Part 225)). In addition, a duly executed power of attorney and agreement authorizing the collection or sale of such United States bonds or notes in the event of default of the principal on the bond shall accompany the deposited bonds or notes. The contracting officer may—\n\n(a) Turn securities over to the finance or other authorized agency official; or\n\n(b) Deposit them with the Treasurer of the United States, a Federal Reserve Bank (or branch with requisite facilities), or other depository designated for that purpose by the Secretary of the Treasury, under procedures prescribed by the agency concerned and Treasury Department Circular No. 154 (exception: The contracting officer shall deposit all bonds and notes received in the District of Columbia with the Treasurer of the United States)."
+          }
+        },
+        "2": {
+          "name": "Certified or cashier’s checks, bank drafts, money orders, or currency.",
+          "text": {
+            "text": "Any person required to furnish a bond has an option to furnish a certified or cashier’s check, bank draft, Post Office money order, or currency, in an amount equal to the penal sum of the bond, instead of furnishing surety or sureties on the bonds. Those furnishing checks, drafts, or money orders shall draw them to the order of the appropriate Federal agency."
+          }
+        },
+        "3": {
+          "name": "Irrevocable letter of credit.",
+          "text": {
+            "a": {
+              "text": "Any person required to furnish a bond has the option to furnish a bond secured by an irrevocable letter of credit (ILC) in an amount equal to the penal sum required to be secured (see 28.204). A separate ILC is required for each bond."
+            },
+            "b": {
+              "text": "The ILC shall be irrevocable, require presentation of no document other than a written demand and the ILC (and letter of confirmation, if any), expire only as provided in paragraph (f) of this subsection, and be issued/confirmed by an acceptable federally insured financial institution as provided in paragraph (g) of this subsection."
+            },
+            "c": {
+              "text": "To draw on the ILC, the contracting officer shall use the sight draft set forth in the clause at 52.228-14, and present it with the ILC (including letter of confirmation, if any) to the issuing financial institution or the confirming financial institution (if any)."
+            },
+            "d": {
+              "text": "If the contractor does not furnish an acceptable replacement ILC, or other acceptable substitute, at least 30 days before an ILC’s scheduled expiration, the contracting officer shall immediately draw on the ILC."
+            },
+            "e": {
+              "text": "If, after the period of performance of a contract where ILCs are used to support payment bonds, there are outstanding claims against the payment bond, the contracting officer shall draw on the ILC prior to the expiration date of the ILC to cover these claims."
+            },
+            "f": {
+              "text": "The period for which financial security is required shall be as follows:",
+              "sub": {
+                "1": {
+                  "text": "If used as a bid guarantee, the ILC should expire no earlier than 60 days after the close of the bid acceptance period."
+                },
+                "2": {
+                  "text": "If used as an alternative to corporate or individual sureties as security for a performance or payment bond, the offeror/contractor may submit an ILC with an initial expiration date estimated to cover the entire period for which financial security is required or an ILC with an initial expiration date that is a minimum period of one year from the date of issuance. The ILC shall provide that, unless the issuer provides the beneficiary written notice of non-renewal at least 60 days in advance of the current expiration date, the ILC is automatically extended without amendment for one year from the expiration date, or any future expiration date, until the period of required coverage is completed and the contracting officer provides the financial institution with a written statement waiving the right to payment. The period of required coverage shall be:"
+                },
+                "i": {
+                  "text": "For contracts subject to the Bonds statute, the later of—"
+                },
+                "A": {
+                  "text": "90 days following final payment; or"
+                },
+                "B": {
+                  "text": "For performance bonds only, until completion of any warranty period."
+                },
+                "C": {
+                  "text": "For payment bonds only, until resolution of all claims filed against the payment bond during the one-year period following final payment."
+                },
+                "ii": {
+                  "text": "For contracts not subject to the Bonds statute, the later of—"
+                }
+              }
+            },
+            "g": {
+              "text": "Only federally insured financial institutions rated investment grade shall issue or confirm the ILC. Unless the financial institution issuing the ILC had letter of credit business of at least $25 million in the past year, ILCs over $5 million must be confirmed by another acceptable financial institution that had letter of credit business of at least $25 million in the past year.",
+              "sub": {
+                "1": {
+                  "text": "The offeror/contractor is required by paragraph (d) of the clause at 52.228-14. Irrevocable Letter of Credit, to provide the contracting officer a credit rating from a recognized commercial rating service that indicates the financial institution has the required rating(s) as of the date of issuance of the ILC."
+                },
+                "2": {
+                  "text": "To support the credit rating of the financial institution(s) issuing or confirming the ILC, the contracting officer shall verify the following information:",
+                  "sub": {
+                    "i": {
+                      "text": "Federal insurance:  Each financial institution is federally insured.  Verification of federal insurance is available through the Federal Deposit Insurance Corporation (FDIC) institution directory at the website http://www2.fdic.gov/idasp/index.asp."
+                    },
+                    "ii": {
+                      "text": "Current credit rating.  The current credit rating for each financial institution is investment grade and that the credit rating is from a Nationally Recognized Statistical Rating Organization (NRSRO).  NRSROs can be located at the website http://www.sec.gov/answers/nrsro.htm maintained by the SEC."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "The rating services listed in the website http://www.sec.gov/answers/nrsro.htm use different rating scales (e.g., AAA, AA, A, BBB, BB, B, CCC, CC, C, and D; or Aaa, Aa, A, Baa, Ba, B, Caa, Ca, and C) to provide evaluations of institutional credit risk; however, all such systems specify the range of investment grade ratings (e.g., BBB-AAA or Baa-Aaa in the examples in this section) and permit evaluation of the relative risk associated with a specific institution.  If the contracting officer learns that a financial institution's rating has dropped below investment grade level, the contracting officer shall give the contractor 30 days to substitute an acceptable ILC or shall draw on the ILC using the sight draft in paragraph (g) of the clause at 52.228-14."
+                }
+              }
+            },
+            "h": {
+              "text": "A copy of the Uniform Customs and Practice (UCP) for Documentary Credits, 2006 Edition, International Chamber of Commerce Publication No. 600, is available from:\n\nICC Books USA,\n\n1212 Avenue of the Americas, 21st Floor\n\nNew York NY 10036;\n\nPhone: 212-703-5066;\n\nFax: 212-391-6568;\n\nE-mail: iccbooks@uscib.org;\n\nVia the Internet at: http://store.iccbooksusa.net.\n\nICC Books USA,\n\n1212 Avenue of the Americas, 21st Floor\n\nNew York NY 10036;\n\nPhone: 212-703-5066;\n\nFax: 212-391-6568;\n\nE-mail: iccbooks@uscib.org;\n\nVia the Internet at: http://store.iccbooksusa.net."
+            }
+          }
+        },
+        "4": {
+          "name": "Contract clause.",
+          "text": {
+            "text": "Insert the clause at 52.228-14, Irrevocable Letter of Credit, in solicitations and contracts for services, supplies, or construction, when a bid guarantee, or performance bonds, or performance and payment bonds are required."
+          }
+        }
+      },
+      "text": {
+        "a": {
+          "text": "Any person required to furnish a bond to the Government may furnish any of the types of security listed in 28.204-1 through 28.204-3 instead of a corporate or individual surety for the bond. When any of those types of security are deposited, a statement shall be incorporated in the bond form pledging the security in lieu of execution of the bond form by corporate or individual sureties. The contractor shall execute the bond forms as the principal. Agencies shall establish safeguards to protect against loss of the security and shall return the security or its equivalent to the contractor when the bond obligation has ceased."
+        },
+        "b": {
+          "text": "Upon written request by any contractor securing a performance or payment bond by any of the types of security listed in 28.204-1 through 28.204-3, the contracting officer may release a portion of the security only when the conditions allowing the partial release of lien in 28.203-5(c) are met. The contractor shall, as a condition of the partial release, furnish an affidavit agreeing that the release of such security does not relieve the contractor of its obligations under the bond(s)."
+        },
+        "c": {
+          "text": "The contractor may satisfy a requirement for bond security by furnishing a combination of the types of security listed in 28.204-1 through 28.204-3 or a combination of bonds supported by these types of security and additional surety bonds under 28.202 or 28.203. During the period for which a bond supported by security is required, the contractor may substitute one type of security listed in 28.204-1 through 28.204-3 for another, or may substitute, in whole or combination, additional surety bonds under 28.202 or 28.203."
+        }
+      }
+    }
+  }
+}

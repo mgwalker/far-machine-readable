@@ -1,0 +1,918 @@
+{
+  "parentPart": 19,
+  "number": 3,
+  "name": "Determination of Small Business Status for Small Business Programs",
+  "sub": {
+    "301": {
+      "number": 301,
+      "name": "Representations and rerepresentations.",
+      "sub": {
+        "1": {
+          "name": "Representation by the offeror.",
+          "text": {
+            "a": {
+              "text": "To be eligible for award as a small business, an offeror must represent in good faith that it is a small business at the time of its written representation. An offeror may represent that it is a small business concern in connection with a specific solicitation if it meets the definition of a small business concern applicable to the solicitation and has not been determined by the Small Business Administration (SBA) to be other than a small business."
+            },
+            "b": {
+              "text": "The contracting officer shall accept an offeror’s representation in a specific bid or proposal that it is a small business unless (1) another offeror or interested party challenges the concern’s small business representation or (2) the contracting officer has a reason to question the representation. Challenges of and questions concerning a specific representation shall be referred to the SBA in accordance with 19.302."
+            },
+            "c": {
+              "text": "An offeror’s representation that it is a small business is not binding on the SBA. If an offeror’s small business status is challenged, the SBA will evaluate the status of the concern and make a determination, which will be binding on the contracting officer, as to whether the offeror is a small business. A concern cannot become eligible for a specific award by taking action to meet the definition of a small business concern after the SBA has determined that it is not a small business."
+            },
+            "d": {
+              "text": "If the SBA determines that the status of a concern as a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business has been misrepresented in order to obtain a set-aside contract, an 8(a) subcontract, a subcontract that is to be included as part or all of a goal contained in a subcontracting plan, or a prime or subcontract to be awarded as a result, or in furtherance of any other provision of Federal law that specifically references Section 8(d) of the Small Business Act for a definition of program eligibility, the SBA may take action as specified in Sections 16(a) or 16(d) of the Act. If the SBA declines to take action, the agency may initiate the process. The SBA’s regulations on penalties for misrepresentations and false statements are contained in 13 CFR 121.108 for small business, 13 CFR 124.501 for 8(a) small business, 13 CFR 124.1004 for small disadvantaged business, 13 CFR 125.29 for veteran or service-disabled veteran-owned small business, 13 CFR 126.900 for HUBZone small business, and 13 CFR 127.700 for economically disadvantaged women-owned small business concerns and women-owned small business (WOSB) concerns eligible under the WOSB Program."
+            }
+          }
+        },
+        "2": {
+          "name": "Rerepresentation by a contractor that represented itself as a small business concern.",
+          "text": {
+            "a": {
+              "text": "Definition. As used in this subsection—\n\nLong-term contract means a contract of more than five years in duration, including options. However, the term does not include contracts that exceed five years in duration because the period of performance has been extended for a cumulative period not to exceed six months under the clause at 52.217-8, Option to Extend Services, or other appropriate authority.",
+              "sub": {
+                "text": "Long-term contract means a contract of more than five years in duration, including options. However, the term does not include contracts that exceed five years in duration because the period of performance has been extended for a cumulative period not to exceed six months under the clause at 52.217-8, Option to Extend Services, or other appropriate authority."
+              }
+            },
+            "b": {
+              "text": "A contractor that represented itself as a small business concern before contract award must rerepresent its size status for the North American Industry Classification System (NAICS) code in the contract upon the occurrence of any of the following:",
+              "sub": {
+                "1": {
+                  "text": "Within 30 days after execution of a novation agreement or within 30 days after modification of the contract to include the clause at 52.219-28, Post-Award Small Business Program Rerepresentation, if the novation agreement was executed prior to inclusion of this clause in the contract."
+                },
+                "2": {
+                  "text": "Within 30 days after a merger or acquisition of the contractor that does not require novation or within 30 days after modification of the contract to include the clause at 52.219-28, Post-Award Small Business Program Rerepresentation, if the merger or acquisition occurred prior to inclusion of this clause in the contract."
+                },
+                "3": {
+                  "text": "For long-term contracts—"
+                },
+                "i": {
+                  "text": "Within 60 to 120 days prior to the end of the fifth year of the contract; and"
+                },
+                "ii": {
+                  "text": "Within 60 to 120 days prior to the date specified in the contract for exercising any option thereafter."
+                }
+              }
+            },
+            "c": {
+              "text": "A contractor must rerepresent its size status in accordance with the size standard in effect at the time of its rerepresentation that corresponds to the NAICS code that was initially assigned to the contract."
+            },
+            "d": {
+              "text": "After a contractor rerepresents it is other than small in accordance with 52.219-28, the agency may no longer include the value of options exercised, modifications issued, orders issued, or purchases made under blanket purchase agreements on that contract in its small business prime contracting goal achievements. Agencies should issue a modification to the contract capturing the rerepresentation and report it to FPDS within 30 days after notification of the rerepresentation."
+            },
+            "e": {
+              "text": "A change in size status does not change the terms and conditions of the contract. However, the contracting officer may require a subcontracting plan for a contract containing 52.219-9, Small Business Subcontracting Plan, if a prime contractor's size status changes from small to other than small as a result of a size rerepresentation (see 19.705-2(b)(3))."
+            }
+          }
+        },
+        "3": {
+          "name": "Rerepresentation by a contractor that represented itself as other than a small business concern.",
+          "text": {
+            "text": "A contractor that represented itself as other than small before contract award may, but is not required to, rerepresent its size status when—\n\n(a) The conditions in 19.301-2(b) apply; and\n\n(b) The contractor qualifies as a small business concern under the applicable size standard in effect at the time of its rerepresentation."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "Protesting a small business representation or rerepresentation.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "(1) The Small Business Administration (SBA) regulations on small business size and size protests are found at 13 CFR part 121.",
+          "sub": {
+            "2": {
+              "text": "An offeror, the SBA, or another interested party may protest the small business representation of an offeror in a specific offer.  However, for competitive 8(a) contracts, the filing of a protest is limited to an offeror, the contracting officer, or the SBA."
+            }
+          }
+        },
+        "b": {
+          "text": "Any time after offers are opened, the contracting officer may question the small business representation of any offeror in a specific offer by filing a contracting officer’s protest (see paragraph (c) of this section)."
+        },
+        "c": {
+          "text": "(1) Any contracting officer who receives a protest, whether timely or not, or who, as the contracting officer, wishes to protest the small business representation of an offeror, or rerepresentation of a contractor, shall promptly forward the protest to the SBA Government Contracting Area Director at the Government Contracting Area Office serving the area in which the headquarters of the offeror is located.",
+          "sub": {
+            "2": {
+              "text": "The protest, or confirmation if the protest was initiated orally, shall be in writing and shall contain the basis for the protest with specific, detailed evidence to support the allegation that the offeror is not small. The SBA will dismiss any protest that does not contain specific grounds for the protest."
+            },
+            "3": {
+              "text": "The protest shall include a referral letter written by the contracting officer with information pertaining to the solicitation.  The referral letter must include the following information to allow SBA to determine timeliness and standing:"
+            },
+            "i": {
+              "text": "The protest and any accompanying materials."
+            },
+            "ii": {
+              "text": "A copy of the size self-certification."
+            },
+            "iii": {
+              "text": "Identification of the applicable size standard."
+            },
+            "iv": {
+              "text": "A copy or an electronic link to the solicitation and any amendments."
+            },
+            "v": {
+              "text": "The name, address, telephone number, email address, and fax number of the contracting officer."
+            },
+            "vi": {
+              "text": "Identification of the bid opening date or the date of notification provided to unsuccessful offerors."
+            },
+            "vii": {
+              "text": "The date the contracting officer received the protest."
+            },
+            "viii": {
+              "text": "A complete address and point of contact for the protested concern."
+            }
+          }
+        },
+        "d": {
+          "text": "In order to affect a specific solicitation, a protest must be timely. SBA’s regulations on timeliness are contained in 13 CFR 121.1004. SBA’s regulations on timeliness related to protests of disadvantaged status are contained in 13 CFR 124, Subpart B.",
+          "sub": {
+            "1": {
+              "text": "To be timely, a protest by any concern or other interested party must be received by the contracting officer (see paragraphs (d)(1)(i) and (ii) of this section) by the close of business of the fifth business day after bid opening (in sealed bid acquisitions) or receipt of the special notification from the contracting officer that identifies the apparently successful offeror (in negotiated acquisitions) (see 15.503(a)(2)).",
+              "sub": {
+                "i": {
+                  "text": "A protest may be made orally if it is confirmed in writing and received by the contracting officer within the 5-day period or by letter postmarked no later than 1 business day after the oral protest."
+                },
+                "ii": {
+                  "text": "A protest may be made in writing if it is delivered to the contracting officer by hand, mail, facsimile, e-mail, express or overnight delivery service."
+                }
+              }
+            },
+            "2": {
+              "text": "Except as provided in paragraph (d)(4) of this section, a protest filed by the contracting officer or SBA is always considered timely whether filed before or after award."
+            },
+            "3": {
+              "text": "A protest under a Multiple Award Schedule will be timely if received by SBA at any time prior to the expiration of the contract period, including renewals."
+            },
+            "4": {
+              "text": "A protest filed before bid opening, or notification to offerors of the selection of the apparent successful offeror, will be dismissed as premature by SBA."
+            }
+          }
+        },
+        "e": {
+          "text": "Upon receipt of a protest from or forwarded by the Contracting Office, the SBA will—",
+          "sub": {
+            "1": {
+              "text": "Notify the contracting officer and the protester of the date it was received, and that the size of the concern being challenged is under consideration by the SBA; and"
+            },
+            "2": {
+              "text": "Furnish to the concern whose representation is being protested a copy of the protest and a blank SBA Form 355, Application for Small Business Determination, by certified mail, return receipt requested."
+            }
+          }
+        },
+        "f": {
+          "text": "(1) Within 15 business days after receipt of a protest or request for a formal size determination or within any extension of time granted by the contracting officer the SBA Area Office will determine the size status of the challenged concern.  The SBA Area Office will notify the contracting officer, the protester, and the challenged concern of its decision by a verifiable means, which may include facsimile, electronic mail, or overnight delivery service.",
+          "sub": {
+            "2": {
+              "text": "Award may be made to a protested concern after the SBA Area Office has determined that either the protested concern is an eligible small business or has dismissed all protests against it."
+            },
+            "3": {
+              "text": "If SBA’s Office of Hearings and Appeals (OHA) subsequently overturns the Area Office's determination of eligibility or dismissal, and contract award has not been made, the contracting officer may apply the OHA decision to the procurement in question."
+            }
+          }
+        },
+        "g": {
+          "text": "(1) After receiving a protest involving an offeror being considered for award, the contracting officer shall not award the contract until the SBA has made a size determination or 15 business days have expired since SBA’s receipt of a protest, whichever occurs first; however, award shall not be withheld when the contracting officer determines in writing that an award must be made to protect the public interest.",
+          "sub": {
+            "2": {
+              "text": "If SBA has not made a determination within 15 business days, or within any extension of time granted by the contracting officer, the contracting officer may award the contract after determining in writing that there is an immediate need to award the contract and that waiting until SBA makes its determination will be disadvantageous to the Government."
+            },
+            "3": {
+              "text": "SBA may, at its sole discretion, reopen a formal size determination to correct an error or mistake, if it is within the appeal period and no appeal has been filed with OHA or, a final decision has not been rendered by the SBA Area Office or OHA."
+            },
+            "4": {
+              "text": "If a protest is received that challenges the small business status of an offeror not being considered for award, the contracting officer is not required to suspend contract action.  The contracting officer shall forward the protest to the SBA (see paragraph (c)(1) of this section) with a notation that the concern is not being considered for award, and shall notify the protester of this action."
+            }
+          }
+        },
+        "h": {
+          "text": "An appeal from an SBA size determination may be filed by any concern or other interested party whose protest of the small business representation of another concern has been denied by an SBA Government Contracting Area Director, any concern or other interested party that has been adversely affected by an SBA Government Contracting Area Director’s decision, or the SBA Associate Administrator for the SBA program involved.  The appeal must be filed with the Office of Hearings and Appeals, Small Business Administration, Suite 5900, 409 3rd Street, SW., Washington, DC 20416, within the time limits and in strict accordance with the procedures contained in Subpart C of 13 CFR 134.  It is within the discretion of the SBA Judge whether to accept an appeal from a size determination.  If a post-award appeal is submitted to OHA within the time limits specified in Subpart C of 13 CFR 134, the contracting officer shall consider suspending contract performance until an SBA Judge decides the appeal.  SBA will inform the contracting officer of its ruling on the appeal.  SBA’s decision, if received before award, will apply to the pending acquisition.  If the contracting officer has made a written determination in accordance with (g)(1) or (2) of this section, the contract has been awarded, the SBA rulings is received after award, and OHA finds the protested concern to be ineligible for award, the contracting officer shall terminate the contract unless termination is not in the best interests of the Government, in keeping with the circumstances described in the written determination.  However, the contracting officer shall not exercise any options or award further task or delivery orders."
+        },
+        "i": {
+          "text": "SBA will dismiss untimely protests.  A protest that is not timely, even though received before award, shall be forwarded to the SBA Government Contracting Area Office (see paragraph (c)(1) of this section), with a notation on it that the protest is not timely.  A protest received by a contracting officer after award of a contract shall be forwarded to the SBA Government Contracting Area Office with a notation that award has been made."
+        },
+        "j": {
+          "text": "When a concern is found to be other than small under a protest concerning a size status rerepresentation made in accordance with the clause at 52.219-28, Post-Award Small Business Program Rerepresentation, a contracting officer may permit contract performance to continue, issue orders, or exercise option(s), because the contract remains a valid contract."
+        }
+      }
+    },
+    "303": {
+      "number": 303,
+      "name": "Determining North American Industry Classification System codes and size standards.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "(1) The contracting officer shall determine the appropriate North American Industry Classification System (NAICS) code and related small business size standard and include them in solicitations above the micro-purchase threshold.  For information on size standards matched to industry NAICS codes, including the use of new NAICS codes, see also 19.102(a).",
+          "sub": {
+            "2": {
+              "text": "The contracting officer shall select the NAICS code which best describes the principal purpose of the product or service being acquired.  Primary consideration is given to the industry descriptions in the U.S. NAICS Manual, the product or service description in the solicitation and any attachments to it, the relative value and importance of the components of the procurement making up the end item being procured, and the function of the goods or services being purchased.  A procurement is usually classified according to the component which accounts for the greatest percentage of contract value.  A concern that submits an offer or quote for a contract where the NAICS code assigned to the contract is one for supplies, and furnishes a product it did not itself manufacture or produce, is categorized as a nonmanufacturer and deemed small if it meets the requirements of 19.102(f)."
+            }
+          }
+        },
+        "b": {
+          "text": "If different products or services are required in the same solicitation, the solicitation shall identify the appropriate small business size standard for each product or service."
+        },
+        "c": {
+          "text": "The contracting officer’s determination is final unless appealed as follows:",
+          "sub": {
+            "1": {
+              "text": "An appeal from a contracting officer's NAICS code designation and the applicable size standard must be served and filed within 10 calendar days after the issuance of the initial solicitation or any amendment affecting the NAICS code or size standard.  However, SBA may file a NAICS code appeal at any time before offers are due."
+            },
+            "2": {
+              "text": "Appeals from a contracting officer’s NAICS code designation or applicable size standard may be filed with SBA’s Office of Hearings and Appeals by—",
+              "sub": {
+                "i": {
+                  "text": "Any person adversely affected by a NAICS code designation or applicable size standard.  However, with respect to a particular sole source 8(a) contract, only the SBA Associate Administrator for Business Development may appeal a NAICS code designation; or"
+                },
+                "ii": {
+                  "text": "The Associate or Assistant Director for the SBA program involved, through SBA’s Office of General Counsel."
+                }
+              }
+            },
+            "3": {
+              "text": "Contracting officers shall advise the public, by amendment to the solicitation, of the existence of a NAICS code appeal (see 5.102(a)(1)).  Such notices shall include the procedures and the deadline for interested parties to file and serve arguments concerning the appeal."
+            },
+            "4": {
+              "text": "SBA’s Office of Hearings and Appeals (OHA) will dismiss summarily an untimely NAICS code appeal."
+            },
+            "5": {
+              "text": "(i) The appeal petition must be in writing and must be addressed to the Office of Hearings and Appeals, Small Business Administration, Suite 5900, 409 3rd Street, SW., Washington, DC 20416.",
+              "sub": {
+                "ii": {
+                  "text": "There is no required format for the appeal; however, the appeal must include—"
+                },
+                "A": {
+                  "text": "The solicitation or contract number and the name, address, email address, and telephone number of the contracting officer;"
+                },
+                "B": {
+                  "text": "A full and specific statement as to why the NAICS code designation is allegedly erroneous and argument supporting the allegation; and"
+                },
+                "C": {
+                  "text": "The name, address, telephone number, and signature of the appellant or its attorney."
+                }
+              }
+            },
+            "6": {
+              "text": "The appellant must serve the appeal petition upon—",
+              "sub": {
+                "i": {
+                  "text": "The contracting officer who assigned the NAICS code to the acquisition; and"
+                },
+                "ii": {
+                  "text": "SBA’s Office of General Counsel, Associate General Counsel for Procurement Law, 409 Third Street, SW., Washington, DC 20416, facsimile 202-205-6873, or email at OPLService@sba.gov."
+                }
+              }
+            },
+            "7": {
+              "text": "Upon receipt of a NAICS code appeal, OHA will notify the contracting officer by a notice and order of the date OHA received the appeal, the docket number, and Judge assigned to the case.  The contracting officer’s response to the appeal, if any, must include argument and evidence (see 13 CFR Part 134), and must be received by OHA within 15 calendar days from the date of the docketing notice and order, unless otherwise specified by the Administrative Judge.  Upon receipt of OHA’s docketing notice and order, the contracting officer must withhold award, unless withholding award is not in the best interests of the Government, and immediately send to OHA an electronic link to or a paper copy of both the original solicitation and all amendments relating to the NAICS code appeal.  The contracting officer will inform OHA of any amendments, actions, or developments concerning the procurement in question."
+            },
+            "8": {
+              "text": "After close of record, OHA will issue a decision and inform the contracting officer.  If OHA’s decision is received by the contracting officer before the date the offers are due, the decision shall be final and the solicitation must be amended to reflect the decision, if appropriate.  OHA’s decision received after the due date of the initial offers shall not apply to the pending solicitation but shall apply to future solicitations of the same products or services."
+            }
+          }
+        },
+        "d": {
+          "text": "SBA’s regulations concerning appeals of NAICS code designations are found at 13 CFR 121.1101 to 121.1103 and 13 CFR part 134."
+        }
+      }
+    },
+    "304": {
+      "number": 304,
+      "name": "Small disadvantaged business status.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer may accept an offeror’s representation that it is a small disadvantaged business concern (SDB) concern."
+        },
+        "b": {
+          "text": "The provision at 52.219-1, Small Business Program Representations, or 52.212-3(c)(4), Offeror Representations and Certifications-Commercial Items, is used to collect SDB data."
+        },
+        "c": {
+          "text": "A representation of SDB status on a Federal prime contract will be deemed a misrepresentation of SDB status if the firm does not meet the requirements of 13 CFR 124.1001(b)."
+        },
+        "d": {
+          "text": "Any person or entity that misrepresents a firm's status as an SDB concern in order to obtain a contracting opportunity in accordance with section 8(d) of the Small Business Act, (15 U.S.C. 637(d)) will be subject to the penalties imposed by section 16(d) of the Small Business Act, (15 U.S.C. 645(d)), as well as any other penalty authorized by law."
+        }
+      }
+    },
+    "305": {
+      "number": 305,
+      "name": "Reviews and protests of SDB status.",
+      "sub": {},
+      "text": {
+        "text": "This section applies to reviews and protests of a small business concern’s SDB status as a prime contractor or subcontractor.\n\n(a) SBA may initiate the review of SDB status on any firm that has represented itself to be an SDB on a prime contract or subcontract to a Federal prime contract whenever it receives credible information calling into question the SDB status of the firm.\n\n(b) Requests for an SBA review of SDB status may be forwarded to the Small Business Administration, Assistant Administrator for SDBCE, 409 Third Street, SW, Washington, DC 20416.\n\n(c) An SBA review of a subcontractor’s SDB status differs from a formal protest. Protests of a small business concern’s SDB status as a subcontractor are processed under 19.703(e). Protests of a concern’s size as a prime contractor are processed under 19.302. Protests of a concern’s size as a subcontractor are processed under 19.703(b)."
+      }
+    },
+    "306": {
+      "number": 306,
+      "name": "Protesting a firm’s status as a HUBZone small business concern.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Definition. As used in this section—\n\n“Interested party” has the meaning given in 13 CFR 126.103.",
+          "sub": {
+            "text": "“Interested party” has the meaning given in 13 CFR 126.103."
+          }
+        },
+        "b": {
+          "text": "(1) An offeror that is an interested party, the contracting officer, or the SBA may protest the apparently successful offeror’s status as a qualified historically underutilized business zone (HUBZone) small business concern (see 13 CFR 126.800).",
+          "sub": {
+            "2": {
+              "text": "SBA’s protest regulations are found in subpart H “Protests” at 13 CFR 126.800 through 126.805."
+            }
+          }
+        },
+        "c": {
+          "text": "Protests relating to small business size status are subject to the procedures of 19.302.  An interested party seeking to protest both the small business size and HUBZone status of an apparent successful offeror shall file two separate protests.  Protests relating to small business size status for the acquisition and the HUBZone qualifying requirements will be processed concurrently by SBA."
+        },
+        "d": {
+          "text": "All protests must be in writing and must state all specific grounds for the protest.",
+          "sub": {
+            "1": {
+              "text": "SBA will consider protests challenging the status of a concern if the protest presents evidence that—",
+              "sub": {
+                "i": {
+                  "text": "The concern is not a qualified HUBZone small business concern as described at 13 CFR 126.103 and 13 CFR 126.200;"
+                },
+                "ii": {
+                  "text": "The principal office is not located in a HUBZone; or"
+                },
+                "iii": {
+                  "text": "At least 35 percent of the employees do not reside in a HUBZone."
+                }
+              }
+            },
+            "2": {
+              "text": "Assertions that a protested concern is not a qualified HUBZone small business concern, without setting forth specific facts or allegations, will not be considered by SBA (see 13 CFR 126.801(b))."
+            }
+          }
+        },
+        "e": {
+          "text": "Protest by an interested party.",
+          "sub": {
+            "1": {
+              "text": "An interested party shall submit its protest to the contracting officer—",
+              "sub": {
+                "i": {
+                  "text": "For sealed bids—"
+                },
+                "A": {
+                  "text": "By the close of business on the fifth business day after bid opening; or"
+                },
+                "B": {
+                  "text": "By the close of business on the fifth business day from the date of identification of the apparent successful offeror, if the price evaluation preference was not applied at the time of bid opening; or"
+                },
+                "ii": {
+                  "text": "For negotiated acquisitions, by the close of business on the fifth business day after notification by the contracting officer of the apparently successful offeror."
+                }
+              }
+            },
+            "2": {
+              "text": "Any protest received after the designated time limits is untimely, unless it is from the contracting officer or SBA."
+            }
+          }
+        },
+        "f": {
+          "text": "(1) The contracting officer shall forward all protests to SBA.  The protests are to be submitted to the Director, HUBZone Program, U.S. Small Business Administration, 409 Third Street, SW, Washington, DC 20416 or by fax to 202-205-7167, Attn:  HUBZone Small Business Status Protest.",
+          "sub": {
+            "2": {
+              "text": "The protest shall include a referral letter written by the contracting officer with information pertaining to the solicitation.  The referral letter must include the following information to allow SBA to determine timeliness and standing:"
+            },
+            "i": {
+              "text": "The solicitation number (or an electronic link to or a paper copy of the solicitation)."
+            },
+            "ii": {
+              "text": "The name, address, telephone number, fax number, and email address, of the contracting officer."
+            },
+            "iii": {
+              "text": "The type of HUBZone contract."
+            },
+            "iv": {
+              "text": "Whether the procurement was conducted using full and open competition with a HUBZone price evaluation preference, and whether the protester’s opportunity for award was affected by the preference."
+            },
+            "v": {
+              "text": "If a HUBZone set-aside, whether the protester submitted an offer."
+            },
+            "vi": {
+              "text": "Whether the protested concern was the apparent successful offeror."
+            },
+            "vii": {
+              "text": "Whether the procurement was conducted using sealed bid or negotiated procedures."
+            },
+            "viii": {
+              "text": "The bid opening date, if applicable.  If a price evaluation preference was applied after the bid opening date, also provide the date of identification of the apparent successful offeror."
+            },
+            "ix": {
+              "text": "The date the contracting officer received the protest."
+            },
+            "x": {
+              "text": "Whether a contract has been awarded."
+            }
+          }
+        },
+        "g": {
+          "text": "SBA will notify the protester and the contracting officer of the date SBA received the protest."
+        },
+        "h": {
+          "text": "Before SBA decision.",
+          "sub": {
+            "1": {
+              "text": "After receiving a protest involving the apparent successful offeror’s status as a HUBZone small business concern, the contracting officer shall either—"
+            }
+          }
+        },
+        "i": {
+          "text": "Withhold award of the contract until SBA determines the status of the protested concern; or",
+          "sub": {
+            "2": {
+              "text": "SBA will determine the merits of the status protest within 15 business days after receipt of a protest, or within any extension of time granted by the contracting officer."
+            },
+            "3": {
+              "text": "If SBA does not issue its determination within 15 business days, or within any extension of time granted, the contracting officer may award the contract after determining in writing that there is an immediate need to award the contract and that waiting until SBA makes its determination will be disadvantageous to the Government.  This determination shall be provided to the SBA’s HUBZone Program Director.",
+              "sub": {
+                "1": {
+                  "text": "If the contracting officer has withheld contract award and SBA has determined that the protested concern is an eligible HUBZone or dismissed all protests against the protested concern, the contracting officer may award the contract to the protested concern.  If AA/GCBD subsequently overturns the decision of the HUBZone Program Director, the contracting officer may apply the AA/GCBD decision to the procurement in question."
+                },
+                "2": {
+                  "text": "If the contracting officer has withheld award and the HUBZone Program Director has determined that the protested concern is ineligible, and a timely AA/GCBD appeal has not been filed, then the contracting officer shall not award the contract to the protested concern."
+                },
+                "3": {
+                  "text": "If the contracting officer has made a written determination in accordance with (h)(1)(ii) or (h)(3) of this section, awarded the contract, and the HUBZone Program Director’s ruling sustaining the protest is received after award—"
+                },
+                "i": {
+                  "text": "The contracting officer shall terminate the contract, unless the contracting officer has made a written determination that termination is not in the best interests of the Government.  However, the contracting officer shall not exercise any options or award further task or delivery orders under the contract;"
+                },
+                "ii": {
+                  "text": "The contracting officer shall update the Federal Procurement Data System to reflect the final decision of the HUBZone Program Director if no appeal is filed; and"
+                },
+                "iii": {
+                  "text": "The concern’s designation as a certified HUBZone small business concern will be removed by SBA from the Dynamic Small Business Database.  The concern shall not submit an offer as a HUBZone small business concern, until SBA issues a decision that the ineligibility is resolved."
+                }
+              }
+            },
+            "4": {
+              "text": "If the contracting officer has made a written determination in accordance with (h)(1)(ii) or (h)(3) of this section, awarded the contract, SBA has sustained the protest and determined that the concern is not a HUBZone small business, and a timely AA/GCBD appeal has been filed, then the contracting officer shall consider whether performance can be suspended until an AA/GCBD decision is rendered."
+            },
+            "5": {
+              "text": "If AA/GCBD affirms the decision of the HUBZone Program Director, finding the protested concern is ineligible, and contract award has occurred—",
+              "sub": {
+                "i": {
+                  "text": "The contracting officer shall terminate the contract, unless the contracting officer has made a written determination that termination is not in the best interest of the Government.  However, the contracting officer shall not exercise any options or award further task or delivery orders."
+                },
+                "ii": {
+                  "text": "The contracting officer shall update the FPDS to reflect the AA/GCBD decision; and"
+                },
+                "iii": {
+                  "text": "The SBA will remove the concern’s designation as a certified HUBZone small business concern.  The concern shall not submit an offer as a HUBZone small business concern until SBA issues a decision that the ineligibility is resolved or AA/GCBD finds the concern is eligible on appeal."
+                }
+              }
+            },
+            "6": {
+              "text": "A concern found to be ineligible during a HUBZone status protest is precluded from applying for HUBZone certification for 90 calendar days from the date of the SBA final decision."
+            },
+            "ii": {
+              "text": "Award the contract after receipt of the protest but before SBA issues its decision if the contracting officer determines in writing that an award must be made to protect the public interest."
+            }
+          }
+        },
+        "j": {
+          "text": "Appeals of HUBZone status determinations.  The protested HUBZone small business concern, the protester, or the contracting officer may file appeals of protest determinations with SBA’s AA/GC&BD.  The AA/GC&BD must receive the appeal no later than 5 business days after the date of receipt of the protest determination.  SBA will dismiss any untimely appeal."
+        },
+        "k": {
+          "text": "The appeal must be in writing.  The appeal must identify the protest determination being appealed and must set forth a full and specific statement as to why the decision is erroneous or what significant fact the HUBZone Program Director failed to consider."
+        },
+        "l": {
+          "text": "(1) The party appealing the decision must provide notice of the appeal to—",
+          "sub": {
+            "2": {
+              "text": "SBA will not consider additional information or changed circumstances that were not disclosed at the time of the Director/HUB’s decision or that are based on disagreement with the findings and conclusions contained in the determination."
+            },
+            "i": {
+              "text": "The contracting officer;"
+            },
+            "ii": {
+              "text": "HUBZone Program Director, U.S. Small Business Administration, 409 Third Street, SW., Washington, DC 20416 or by fax to 202-205-7167; and"
+            },
+            "iii": {
+              "text": "The protested HUBZone small business concern or the original protester, as appropriate."
+            }
+          }
+        },
+        "m": {
+          "text": "The AA/GCBD will make its decision within 5 business days of the receipt of the appeal, if practicable, and will base its decision only on the information and documentation in the protest record as supplemented by the appeal.  SBA will provide a copy of the decision to the contracting officer, the protester, and the protested HUBZone small business concern.  The SBA decision, if received before award, will apply to the pending acquisition.  The AA/GCBD’s decision is the final decision."
+        },
+        "n": {
+          "text": "The AA/GC&BD will make its decision within 5 business days of the receipt of the appeal, if practicable, and will base its decision only on the information and documentation in the protest record as supplemented by the appeal. SBA will provide a copy of the decision to the contracting officer, the protester, and the protested HUBZone small business concern. The SBA decision, if received before award, will apply to the pending acquisition. SBA rulings received after award will not apply to that acquisition. The AA/GC&BD’s decision is the final decision."
+        }
+      }
+    },
+    "307": {
+      "number": 307,
+      "name": "Protesting a firm’s status as a service-disabled veteran-owned small business concern.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Definition. Interested party, as used in this section, has the meaning given in 13 CFR 125.8(b)."
+        },
+        "b": {
+          "text": "(1) An offeror that is an interested party, the contracting officer, or the SBA may protest the apparently successful offeror's status as a service-disabled veteran-owned small business (SDVOSB) concern (see 13 CFR 125.24).",
+          "sub": {
+            "2": {
+              "text": "SBA’s protest regulations are found in subpart D “Protests” at 13 CFR 125.24 through 125.28."
+            }
+          }
+        },
+        "c": {
+          "text": "Protests relating to small business size status are subject to the procedures of 19.302.  An interested party seeking to protest both the small business size and service-disabled veteran-owned small business status of an apparent successful offeror shall file two separate protests."
+        },
+        "d": {
+          "text": "All protests must be in writing and must state all specific grounds for the protest.",
+          "sub": {
+            "1": {
+              "text": "SBA will consider protests challenging the service disabled veteran-owned status or the ownership and control of a concern if—",
+              "sub": {
+                "i": {
+                  "text": "For status protests, the protester presents evidence supporting the contention that the owner(s) cannot provide documentation from the Department of Veterans Affairs, Department of Defense determinations, or the U.S. National Archives and Records Administration to show that they meet the definition of “service-disabled veteran” or “service disabled veteran with a permanent and severe disability” as set forth in 13 CFR 125.8; or"
+                },
+                "ii": {
+                  "text": "For ownership and control protests, the protester presents evidence that the concern is not 51 percent owned and controlled by one or more service-disabled veterans.  In the case of a veteran with a permanent and severe disability, the protester presents evidence that the concern is not controlled by the veteran, spouse, or permanent caregiver of such veteran."
+                }
+              }
+            },
+            "2": {
+              "text": "Assertions that a protested concern is not a service-disabled veteran-owned small business concern, without setting forth specific facts or allegations, will not be considered by SBA (see 13 CFR 125.25(b))."
+            }
+          }
+        },
+        "e": {
+          "text": "Protest by an interested party.",
+          "sub": {
+            "1": {
+              "text": "An offeror shall submit its protest to the contracting officer",
+              "sub": {
+                "i": {
+                  "text": "To be received by close of business on the fifth business day after bid opening (in sealed bid acquisitions); or"
+                },
+                "ii": {
+                  "text": "To be received by close of business on the fifth business day after notification by the contracting officer of the apparently successful offeror for negotiated acquisitions)."
+                }
+              }
+            },
+            "2": {
+              "text": "Any protest received after the designated time limits is untimely, unless it is from the contracting officer or SBA."
+            }
+          }
+        },
+        "f": {
+          "text": "(1) The contracting officer shall forward all protests to SBA. The protests are to be submitted to SBA’s Director, Office of Government Contracting, U.S. Small Business Administration, 409 Third Street, SW, Washington, DC 20416 or by fax to 202-205-6390, Attn: Service-Disabled Veteran Status Protest.",
+          "sub": {
+            "2": {
+              "text": "The protest shall include a referral letter written by the contracting officer with information pertaining to the solicitation. The referral letter must include the following information to allow SBA to determine timeliness and standing:"
+            },
+            "i": {
+              "text": "The solicitation number (or an electronic link to or a paper copy of the solicitation)."
+            },
+            "ii": {
+              "text": "The name, address, telephone number, fax number, and email address of the contracting officer."
+            },
+            "iii": {
+              "text": "Whether the contract was sole-source or set-aside."
+            },
+            "iv": {
+              "text": "Whether the protestor submitted an offer."
+            },
+            "v": {
+              "text": "Whether the protested concern was the apparent successful offeror."
+            },
+            "vi": {
+              "text": "When the protested concern submitted its offer."
+            },
+            "vii": {
+              "text": "Whether the acquisition was conducted using sealed bid or negotiated procedures."
+            },
+            "viii": {
+              "text": "The bid opening date, if applicable."
+            },
+            "ix": {
+              "text": "The date the contracting officer received the protest."
+            },
+            "x": {
+              "text": "The date the protestor received notification about the apparent successful offeror, if applicable."
+            },
+            "xi": {
+              "text": "Whether a contract has been awarded."
+            }
+          }
+        },
+        "g": {
+          "text": "SBA will notify the protester and the contracting officer of the date SBA received the protest."
+        },
+        "h": {
+          "text": "Before SBA decision.",
+          "sub": {
+            "1": {
+              "text": "After receiving a protest involving the apparent successful offeror's status as a service-disabled veteran-owned small business concern, the contracting officer shall either—"
+            }
+          }
+        },
+        "i": {
+          "text": "Withhold award of the contract until SBA determines the status of the protested concern; or",
+          "sub": {
+            "2": {
+              "text": "SBA will determine the merits of the status protest within 15 business days after receipt of a protest, or within any extension of time granted by the contracting officer."
+            },
+            "3": {
+              "text": "If SBA does not issue its determination within 15 business days, or within any extension of time that is granted, the contracting officer may award the contract after determining in writing that there is an immediate need to award the contract and that waiting until SBA makes its determination will be disadvantageous to the government. This determination shall be provided to the SBA's Director, Office of Government Contracting and a copy shall be included in the contract file.",
+              "sub": {
+                "1": {
+                  "text": "If the contracting officer has withheld contract award and SBA has determined that the protested concern is an eligible SDVOSB or dismissed all protests against the protested concern, the contracting officer may award the contract to the protested concern. If OHA subsequently overturns the SBA Director for Government Contracting’s determination or dismissal, the contracting officer may apply the OHA decision to the procurement in question."
+                },
+                "2": {
+                  "text": "If the contracting officer has withheld contract award, SBA has sustained the protest and determined that the concern is not an SDVOSB, and no OHA appeal has been filed, then the contracting officer shall not award the contract to the protested concern."
+                },
+                "3": {
+                  "text": "If the contracting officer has made a written determination in accordance with (h)(1)(ii) or (h)(3) of this section, the contract has been awarded, and SBA’s ruling sustaining the protest is received after award—"
+                },
+                "i": {
+                  "text": "The contracting officer shall terminate the contract, unless the contracting officer has made a written determination that termination is not in the best interests of the Government.  However, the contracting officer shall not exercise any options or award further task or delivery orders;"
+                },
+                "ii": {
+                  "text": "The contracting officer shall update the FPDS to reflect the final SBA decision; and"
+                },
+                "iii": {
+                  "text": "The concern must remove its designation in the System for Award Management (SAM) as a SDVOSB concern, and shall not submit an offer as a SDVOSB concern, until SBA issues a decision that the ineligibility is resolved."
+                }
+              }
+            },
+            "4": {
+              "text": "If the contracting officer has made a written determination in accordance with (h)(1)(ii) or (h)(3) of this section and awarded the contract to the protested firm, SBA has sustained the protest and determined that the concern is not a SDVOSB, and a timely OHA appeal has been filed, then the contracting officer shall consider whether performance can be suspended until an OHA decision is rendered."
+            },
+            "5": {
+              "text": "If OHA affirms the SBA Director for Government Contracting’s determination finding the protested concern is ineligible—",
+              "sub": {
+                "i": {
+                  "text": "The contracting officer shall terminate the contract unless the contracting officer has made a written determination that it is not in the best interest of the Government.  However, the contracting officer shall not exercise any options or award further task or delivery orders;"
+                },
+                "ii": {
+                  "text": "The contracting officer shall update the FPDS to reflect OHA’s decision; and"
+                },
+                "iii": {
+                  "text": "The concern shall remove its designation in SAM as a SDVOSB concern, until SBA issues a decision that the ineligibility is resolved or OHA finds the concern is eligible on appeal."
+                }
+              }
+            },
+            "6": {
+              "text": "A concern found to be ineligible may not submit future offers as an SDVOSB concern until the concern demonstrates to SBA’s satisfaction that it has overcome the reason for the protest and SBA issues a decision to this effect."
+            },
+            "ii": {
+              "text": "Award the contract after receipt of the protest but before SBA issues its decision if the contracting officer determines in writing that an award must be made to protect the public interest."
+            }
+          }
+        },
+        "j": {
+          "text": "Appeals of SDVOSB status determinations. The protested SDVOSB small business concern, the protester, or the contracting officer may file appeals of protest determinations to OHA.  OHA must receive the appeal no later than 10 business days after the date of receipt of the protest determination. SBA will dismiss an untimely appeal.  See Subpart E “Rules of Practice for Appeals From Service-Disabled Veteran Owned Small Business Concerns Protests” at 13 CFR 134.501 through 134.515 for SBA’s appeals regulations."
+        },
+        "k": {
+          "text": "The appeal must be in writing.  The appeal must identify the protest determination being appealed and must set forth a full and specific statement as to why the SDVOSB protest determination is alleged to be based on a clear error of fact or law, together with an argument supporting such allegation."
+        },
+        "l": {
+          "text": "The party appealing the decision must provide notice of the appeal to—",
+          "sub": {
+            "1": {
+              "text": "The contracting officer;"
+            },
+            "2": {
+              "text": "Director, Office of Government Contracting, U.S. Small Business Administration, 409 Third Street, SW., Washington, DC 20416, facsimile 202-205-6390;"
+            },
+            "3": {
+              "text": "The protested SDVOSB concern or the original protester, as appropriate; and"
+            },
+            "4": {
+              "text": "Associate General Counsel for Procurement Law, U.S. Small Business Administration, 409 Third Street, SW., Washington, DC 20416, facsimile 202-205-6873, or e-mail at OPLService@sba.gov."
+            }
+          }
+        },
+        "m": {
+          "text": "OHA will make its decision within 15 business days of the receipt of the appeal, if practicable. SBA will provide a copy of the decision to the contracting officer, the protester, and the protested SDVOSB small business concern. The OHA decision regarding the status of the concern is final and is binding on the parties."
+        }
+      }
+    },
+    "308": {
+      "number": 308,
+      "name": "Protesting a firm’s status as an economically disadvantaged women-owned small business concern or women-owned small business concern eligible under the Women-Owned Small Business Program.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Definition. Interested party, as used in this section, has the meaning given in 13 CFR 127.102."
+        },
+        "b": {
+          "text": "(1) For sole source acquisitions, the contracting officer or SBA may protest the offeror’s status as an economically disadvantaged women-owned small business (EDWOSB) concern or as a WOSB concern eligible under the WOSB Program. For all other acquisitions, an interested party (see 13 CFR 127.102) may protest the apparent successful offeror’s EDWOSB or WOSB status.",
+          "sub": {
+            "2": {
+              "text": "SBA’s protest regulations are found in subpart F “Protests” at 13 CFR 127.600 through 127.605."
+            }
+          }
+        },
+        "c": {
+          "text": "Protests relating to small business size status are subject to the procedures of 19.302. An interested party seeking to protest both the small business size and WOSB or EDWOSB status of an apparent successful offeror shall file two separate protests."
+        },
+        "d": {
+          "text": "All protests shall be in writing and must state all specific grounds for the protest.",
+          "sub": {
+            "1": {
+              "text": "SBA will consider protests challenging the status of a concern if—",
+              "sub": {
+                "i": {
+                  "text": "The protest presents evidence that the concern is not at least 51 percent owned and controlled by one or more women who are United States citizens; or"
+                },
+                "ii": {
+                  "text": "The protest presents evidence that the concern is not at least 51 percent owned and controlled by one or more economically disadvantaged women, when it is in connection with an EDWOSB contract."
+                }
+              }
+            },
+            "2": {
+              "text": "SBA shall consider protests by a contracting officer when the apparent successful offeror has failed to provide all of the required documents, as set forth in 19.1503(c)."
+            },
+            "3": {
+              "text": "Assertions that a protested concern is not a EDWOSB or WOSB concern eligible under the WOSB Program, without setting forth specific facts or allegations, will not be considered by SBA (see 13 CFR 127.603(a))."
+            }
+          }
+        },
+        "e": {
+          "text": "Protest by an interested party.",
+          "sub": {
+            "1": {
+              "text": "An offeror shall submit its protest to the contracting officer—",
+              "sub": {
+                "i": {
+                  "text": "To be received by the close of business by the fifth business day after bid opening (in sealed bid acquisitions); or"
+                },
+                "ii": {
+                  "text": "To be received by the close of business by the fifth business day after notification by the contracting officer of the apparent successful offeror (in negotiated acquisitions)."
+                }
+              }
+            },
+            "2": {
+              "text": "Any protest received after the designated time limit is untimely, unless it is from the contracting officer or SBA."
+            }
+          }
+        },
+        "f": {
+          "text": "(1) The contracting officer shall forward all protests to SBA.  The protests are to be submitted to SBA’s Director for Government Contracting, U.S. Small Business Administration, 409 Third Street, SW., Washington, DC 20416 or by fax to 202-205-6390, Attn:  Women-owned Small Business Status Protest.",
+          "sub": {
+            "2": {
+              "text": "The protest shall include a referral letter written by the contracting officer with information pertaining to the solicitation.  The referral letter must include the following information to allow SBA to determine timeliness and standing:"
+            },
+            "i": {
+              "text": "The solicitation number or electronic link to or a paper copy of the solicitation."
+            },
+            "ii": {
+              "text": "The name, address, telephone number, email address, and facsimile number of the contracting officer."
+            },
+            "iii": {
+              "text": "Whether the protestor submitted an offer."
+            },
+            "iv": {
+              "text": "Whether the protested concern was the apparent successful offeror."
+            },
+            "v": {
+              "text": "When the protested concern submitted its offer."
+            },
+            "vi": {
+              "text": "Whether the acquisition was conducted using sealed bid or negotiated procedures."
+            },
+            "vii": {
+              "text": "The bid opening date, if applicable."
+            },
+            "viii": {
+              "text": "The date the contracting officer received the protest."
+            },
+            "ix": {
+              "text": "The date the protestor received notification about the apparent successful offeror, if applicable."
+            },
+            "x": {
+              "text": "Whether a contract has been awarded."
+            }
+          }
+        },
+        "g": {
+          "text": "SBA will notify the protester and the contracting officer of the date SBA received the protest."
+        },
+        "h": {
+          "text": "Before SBA decision.",
+          "sub": {
+            "1": {
+              "text": "After receiving a protest involving the apparent successful offeror’s status as an EDWOSB or WOSB concern eligible under the WOSB Program, the contracting officer shall either—"
+            }
+          }
+        },
+        "i": {
+          "text": "Withhold award of the contract until SBA determines the status of the protested concern; or",
+          "sub": {
+            "2": {
+              "text": "SBA will determine the merits of the status protest within 15 business days after receipt of a protest, or within any extension of that time granted by the contracting officer."
+            },
+            "3": {
+              "text": "If SBA does not issue its determination within 15 business days, or within any extension of time granted, the contracting officer may award the contract after determining in writing that there is an immediate need to award the contract and that waiting until SBA makes its determination will be disadvantageous to the Government. This determination shall be provided to the SBA Director for Government Contracting and a copy shall be included in the contract file.",
+              "sub": {
+                "1": {
+                  "text": "If the contracting officer has withheld contract award and SBA has denied or dismissed the protest, the contracting officer may award the contract to the protested concern.  If OHA subsequently overturns the SBA Director for Government Contracting’s determination or dismissal, the contracting officer may apply the OHA decision to the procurement in question."
+                },
+                "2": {
+                  "text": "If the contracting officer has withheld contract award, SBA has sustained the protest and determined that the concern is not eligible under the WOSB Program, and no OHA appeal has been filed, then the contracting officer shall not award the contract to the protested concern."
+                },
+                "3": {
+                  "text": "If the contracting officer has made a written determination in accordance with (h)(1)(ii) or (h)(3) of this section, awarded the contract, and SBA’s ruling is received after award, and no OHA appeal has been filed, then—"
+                },
+                "i": {
+                  "text": "The contracting officer shall terminate the contract, unless the contracting officer has made a written determination that termination is not in the best interests of the Government.  However, the contracting officer shall not exercise any options or award further task or delivery orders;"
+                },
+                "ii": {
+                  "text": "The contracting officer shall update the FPDS to reflect the final SBA decision; and"
+                },
+                "iii": {
+                  "text": "The concern must remove its designation in the System for Award Management (SAM) as an EDWOSB or WOSB concern eligible under the WOSB Program, and shall not submit an offer as an EDWOSB concern or WOSB concern eligible under the WOSB Program, until SBA issues a decision that the ineligibility is resolved."
+                }
+              }
+            },
+            "4": {
+              "text": "If the contracting officer has made a written determination in accordance with (h)(1)(ii) or (h)(3) of this section, contract award has occurred, SBA has sustained the protest and determined that the concern is not eligible under the WOSB Program, and a timely OHA appeal has been filed, then the contracting officer shall consider whether performance can be suspended until an OHA decision is rendered."
+            },
+            "5": {
+              "text": "If OHA affirms the SBA Director for Government Contracting’s determination finding the protested concern is ineligible, then—"
+            },
+            "ii": {
+              "text": "The contracting officer shall update the FPDS to reflect OHA’s decision; and"
+            },
+            "i": {
+              "text": "The contracting officer shall terminate the contract, unless the contracting officer has made a written determination that termination is not in the best interests of the Government.   However, the contracting officer shall not exercise any options or award further task or delivery orders;"
+            },
+            "iii": {
+              "text": "The concern must remove its designation in SAM as an EDWOSB or WOSB concern eligible under the WOSB Program, and shall not submit an offer as an EDWOSB concern or WOSB concern eligible under the WOSB Program, until SBA issues a decision that the ineligibility is resolved or OHA finds the concern is eligible on appeal."
+            }
+          }
+        },
+        "j": {
+          "text": "Appeals of EDWOSB or WOSB concerns eligible under the WOSB Program status determinations.",
+          "sub": {
+            "1": {
+              "text": "The protested EDWOSB concern or WOSB concern eligible under the WOSB program, the protester, or the contracting officer may file an appeal of a WOSB or EDWOSB status protest determination with OHA."
+            },
+            "2": {
+              "text": "OHA must receive the appeal no later than 10 business days after the date of receipt of the protest determination.  SBA will dismiss an untimely appeal."
+            },
+            "3": {
+              "text": "See subpart G “Rules of Practice for Appeals From Women-Owned Small Business Concerns (WOSB) and Economically Disadvantaged WOSB Concern (EDWOSB) Protests” at 13 CFR 134.701 through 134.715 for SBA’s appeals regulations."
+            }
+          }
+        },
+        "k": {
+          "text": "The appeal must be in writing.  The appeal must identify the protest determination being appealed and must set forth a full and specific statement as to why the EDWOSB concern or WOSB concern eligible under the WOSB program protest determination is alleged to be based on a clear error of fact or law, together with an argument supporting such allegation."
+        },
+        "l": {
+          "text": "The party appealing the decision must provide notice of the appeal to—",
+          "sub": {
+            "1": {
+              "text": "The contracting officer;"
+            },
+            "2": {
+              "text": "Director, Office of Government Contracting, U.S. Small Business Administration, 409 Third Street, SW., Washington, DC 20416, facsimile 202-205-6390;"
+            },
+            "3": {
+              "text": "The protested EDWOSB concern or WOSB concern eligible under the WOSB program, or the original protester, as appropriate; and"
+            },
+            "4": {
+              "text": "SBA’s Office of General Counsel, Associate General Counsel for Procurement Law, U.S. Small Business Administration, 409 Third Street, SW., Washington, DC 20416, facsimile 202-205-6873, or e-mail at"
+            }
+          }
+        },
+        "m": {
+          "text": "OHA will make its decision within 15 business days of the receipt of the appeal, if practicable.  SBA will provide a copy of the decision to the contracting officer, the protester, and the protested EDWOSB concern or WOSB concern eligible under the WOSB program.  The OHA decision is the final agency decision and is binding on the parties."
+        }
+      }
+    },
+    "309": {
+      "number": 309,
+      "name": "Solicitation provisions and contract clauses.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "(1) Insert the provision at 52.219-1, Small Business Program Representations, in solicitations exceeding the micro-purchase threshold when the contract will be performed in the United States or its outlying areas.",
+          "sub": {
+            "2": {
+              "text": "Use the provision with its Alternate I in solicitations issued by DoD, NASA, or the Coast Guard."
+            }
+          }
+        },
+        "b": {
+          "text": "When contracting by sealed bidding, insert the provision at 52.219-2, Equal Low Bids, in solicitations when the contract will be performed in the United States or its outlying areas."
+        },
+        "c": {
+          "text": "Insert the clause at 52.219-28, Post-Award Small Business Program Rerepresentation, in solicitations and contracts exceeding the micro-purchase threshold when the contract will be performed in the United States or its outlying areas."
+        }
+      }
+    }
+  }
+}

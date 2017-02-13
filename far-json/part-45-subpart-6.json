@@ -1,0 +1,213 @@
+{
+  "parentPart": 45,
+  "number": 6,
+  "name": "Reporting, Reutilization, and Disposal",
+  "sub": {
+    "600": {
+      "number": 600,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart establishes policies and procedures for the reporting, reutilization, and disposal of contractor inventory excess to contracts and of property that forms the basis of a claim against the Government (e.g., termination inventory under fixed-price contracts). This subpart does not apply to the disposal of real property or to property for which the Government has a lien or title solely as a result of advance, progress, or performance-based payments that have been liquidated."
+      }
+    },
+    "601": {
+      "number": 601,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "602": {
+      "number": 602,
+      "name": "Reutilization of Government property.",
+      "sub": {
+        "1": {
+          "name": "Inventory disposal schedules.",
+          "text": {
+            "1": {
+              "text": "Plant clearance officers should approve removal of Government property from an inventory schedule when—",
+              "sub": {
+                "i": {
+                  "text": "The contractor wishes to purchase a contractor-acquired or contractor-produced item at unit acquisition cost and credit the contract;"
+                },
+                "ii": {
+                  "text": "The contractor is able to return unused property to the supplier at fair market value and credit the contract (less, if applicable, a reasonable restocking fee that is consistent with the supplier’s customary practices);"
+                },
+                "iii": {
+                  "text": "The Government has authorized the contractor to use the property on another Government contract; or"
+                },
+                "iv": {
+                  "text": "The contractor has requested continued use of the Government property, and the contracting officer has authorized its retention and further use."
+                }
+              }
+            },
+            "2": {
+              "text": "If the screening process (see 45.602-3) has not begun, the plant clearance officer shall adjust the schedule or return the schedule to the contractor for correction. If screening has begun, the plant clearance officer shall promptly notify the activity performing the screening that the items should be removed from the screening process."
+            },
+            "a": {
+              "text": "Plant clearance officers should review and accept, or return for correction, inventory disposal schedules within 10 days following receipt from a contractor. Schedules that are completed in accordance with the instructions for Standard Form 1428 should be accepted."
+            },
+            "b": {
+              "text": "Plant clearance officers shall—",
+              "sub": {
+                "1": {
+                  "text": "Use Standard Form 1423 to verify, in accordance with agency procedures, accepted schedules within 20 days following acceptance;"
+                },
+                "2": {
+                  "text": "Require the contractor to correct any discrepancies found during verification;"
+                },
+                "3": {
+                  "text": "Require the contractor to correct any failure to complete predisposal requirements of the contract; and"
+                },
+                "4": {
+                  "text": "Provide the contractor disposition instructions for property identified on an acceptable inventory disposal schedule within 120 days. A failure to provide timely disposition instructions may entitle the contractor to an equitable adjustment."
+                }
+              }
+            },
+            "c": {
+              "text": "The contractor may request the plant clearance officer’s approval to remove the Government property from an inventory schedule."
+            }
+          }
+        },
+        "2": {
+          "name": "Reutilization priorities.",
+          "text": {
+            "text": "Plant clearance officers shall initiate reutilization actions for all property not meeting the abandonment or destruction criteria of 45.603(b). Authorized methods, listed in descending order from highest to lowest priority, are—\n\n(a) Reuse within the owning agency;\n\n(b) Transfer of educationally useful equipment to schools and nonprofit organizations (see Executive Order 12999, Educational Technology: Ensuring Opportunity For All Children In The Next Century, April 17, 1996, and 15 U.S.C. 3710(i));\n\n(c) Report to GSA for reuse within the Federal Government or donation as surplus property;\n\n(d) Dispose of the following property in accordance with agency procedures without reporting to GSA:\n\n(1) Property determined appropriate for abandonment or destruction (see Federal Management Regulation (FMR) 102-36.305, 41 CFR 102-36.305).\n\n(2) Property furnished to nonappropriated fund activities (see FMR 102-36.165, 41 CFR 102-36.165).\n\n(3) Foreign excess personal property (see FMR 102-36.380, 41 CFR 102-36.380).\n\n(4) Scrap, except aircraft in scrap condition.\n\n(5) Perishables, defined for the purposes of this section as any personal property subject to spoilage or decay.\n\n(6) Trading stamps and bonus goods.\n\n(7) Hazardous waste or toxic and hazardous materials.\n\n(8) Controlled substances.\n\n(9) Property dangerous to public health and safety.\n\n(10) Classified items or property determined to be sensitive for reasons of national security; and\n\n(e) Dispose of nuclear materials (see 45.603-3(b)(5)) in accordance with the Nuclear Regulatory Commission, applicable state licenses, applicable Federal regulations, and agency regulations."
+          }
+        },
+        "3": {
+          "name": "Screening.",
+          "text": {
+            "text": "The screening period begins upon the plant clearance officer’s acceptance of an inventory disposal schedule. The plant clearance officer shall determine whether standard or special screening is appropriate and initiate screening actions.\n\n(a) Standard screening. The standard screening period is 46 days.\n\n(1) First through twentieth day—Screening by the contracting agency. The contracting agency has 20 days to screen property reported on the inventory disposal schedule for: other use within the agency; transfer of educationally useful equipment to other Federal agencies that have expressed a need for the property; and transfer of educationally useful equipment to schools and nonprofit organizations if a Federal agency has not expressed a need for the property. Excess personal property, meeting the conditions of 45.603, may be abandoned, destroyed, or donated to public bodies. No later than the 21st day, the plant clearance officer shall submit four copies of the revised schedules and Standard Form (SF) 120, Report of Excess Personal Property, or an electronic equivalent to GSA (see 41 CFR 102-36.215).\n\n(2) Twenty-first through forty-sixth day (21 days concurrent screening plus 5 days donation processing).—\n\n(i) Screening by other Federal agencies. GSA will normally honor requests for transfers of property on a first-come-first-served basis through the 41st day. When a request is honored, the GSA regional office shall promptly transmit to the plant clearance officer an approved transfer order that includes shipping instructions.\n\n(ii) Screening for possible donation. Screening for donation is also completed during days 21 through 41. Property is not available for allocation to donees until after the completion of screening. Days 42 through 46 are reserved for GSA to make such allocation.\n\n(3) Screening period transfer request. If an agency receives an intra-agency transfer request during the screening periods described in paragraph (a)(2) of this subsection, the plant clearance officer shall request GSA approval to withdraw the item from the inventory disposal schedule.\n\n(b) Special screening requirements.—\n\n(1) Special tooling and special test equipment without commercial components. Agencies shall follow the procedures in paragraph (a) of this subsection. This property owned by the Department of Defense (DoD) or the National Aeronautics and Space Administration (NASA) may be screened for reutilization only within these agencies.\n\n(2) Special test equipment with commercial components.—\n\n(i) Agencies shall complete the screening required by paragraph (a) of this subsection. If an agency has no further need for the property and the contractor has not expressed an interest in using or acquiring the property by annotating the inventory disposal schedule, the plant clearance officer shall forward the inventory disposal schedule to the GSA regional office that serves the region in which the property is located.\n\n(ii) If the contractor has expressed an interest in using the property on another Government contract, the plant clearance officer shall contact the contracting officer for that contract. If the contracting officer concurs with the proposed use, the contracting officer for the contract under which the property is accountable shall transfer the property’s accountability to that contract. If the contracting officer does not concur with the proposed use, the plant clearance officer shall deny the contractor’s request and shall continue the screening process.\n\n(iii) If the property is contractor-acquired or produced, and the contractor or subcontractor has expressed an interest in acquiring the property, and no other party expresses an interest during agency or GSA screening, the property may be sold to the contractor or subcontractor at acquisition cost.\n\n(3) Printing equipment. Agencies shall report all excess printing equipment to the Public Printer, Government Printing Office, 732 North Capitol Street, NW, Washington, DC 20401, after screening within the agency (see 44 U.S.C. 312). If the Public Printer does not express a need for the equipment within 21 days, the agency shall submit the report to GSA for further use and donation screening as described in paragraph (a) of this subsection.\n\n(4) Non-nuclear hazardous materials, hazardous wastes, and classified items. These items shall be screened in accordance with agency procedures. Report non-nuclear hazardous materials to GSA if the agency has no requirement for them.\n\n(5) Nuclear materials. The possession, use, and transfer of certain nuclear materials are subject to the regulatory controls of the Nuclear Regulatory Commission (NRC). Contracting activities shall screen excess nuclear materials in the following categories:\n\n(i) By-product material. Any radioactive material (except special nuclear material) yielded in or made radioactive by exposure to the radiation incident to producing or using special nuclear material.\n\n(ii) Source material. Uranium or thorium, or any combination thereof, in any physical or chemical form; or ores that contain by weight one-twentieth of 1 percent (0.05 percent) or more of uranium, thorium, or any combination thereof. Source material does not include special nuclear material.\n\n(iii) Special nuclear material. Plutonium, Uranium 233, Uranium enriched in the isotope 233 or in the isotope 235, any other material that the NRC determines to be special nuclear material (but not including source material); or any material artificially enriched by any nuclear material."
+          }
+        },
+        "4": {
+          "name": "Interagency property transfer costs.",
+          "text": {
+            "text": "Agencies whose property is transferred to other agencies shall not be reimbursed for the property in any manner unless the circumstances of FMR 102-36.285 (41 CFR 102-36.285) apply. The agency receiving the property shall pay any transportation costs that are not the contractor’s responsibility and any costs to pack, crate, or otherwise prepare the property for shipment. The contract administration office shall process appropriate contract modifications. To accelerate plant clearance, the receiving agency shall promptly furnish funding data, and transfer or shipping documents to the contract administration office."
+          }
+        }
+      },
+      "text": {
+        "text": "This section is applicable to the reutilization, including transfer and donation, of Government property that is not required for continued performance of a Government contract. Except for 45.602-1, this section does not apply to scrap other than scrap aircraft parts."
+      }
+    },
+    "603": {
+      "number": 603,
+      "name": "Abandonment or destruction of personal property.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "When contractor inventory is processed through the reutilization screening process prescribed in 45.602-2 without success, and provided the property has no commercial value, does not require demilitarization, and does not constitute a danger to public health or welfare, plant clearance officers or other authorized officials may without further approval—",
+          "sub": {
+            "1": {
+              "text": "Direct the contractor to destroy the property;"
+            },
+            "2": {
+              "text": "Abandon non-sensitive property at the contractor’s or subcontractor’s premises; or"
+            },
+            "3": {
+              "text": "Abandon sensitive property at the contractor’s or subcontractor’s premises, with contractor consent."
+            }
+          }
+        },
+        "b": {
+          "text": "Provided a Government reviewing official at least one level higher than the plant clearance officer or other agency authorized official approves, plant clearance officers or other agency authorized officials may authorize the abandonment, or order the destruction of other contractor inventory at the contractor’s or subcontractor’s premises, in accordance with FMR 102-36.305 through 325 (41 CFR 102-36.305-325) and consistent with the following:",
+          "sub": {
+            "1": {
+              "text": "The property is not considered sensitive, does not require demilitarization, has no commercial value or reutilization, transfer or donation potential, and does not constitute a danger to public health or welfare."
+            },
+            "2": {
+              "text": "The estimated cost of continued care and handling of the property (including advertising, storage and other costs associated with making the sale), exceed the estimated proceeds from its sale."
+            }
+          }
+        },
+        "c": {
+          "text": "In lieu of abandonment or its authorized destruction, the plant clearance officer or authorized official may authorize the donation of property including unsold surplus property to public bodies, provided that the property is not sensitive property, does not require demilitarization, and it does not constitute a danger to public health or welfare. The Government will not bear any of the costs incident to such donations."
+        },
+        "d": {
+          "text": "Unless the property qualifies for one of the exceptions under FMR 102-36.330 (41 CFR 102-36.330), the plant clearance officer or requesting official will ensure prior public notice of such actions of abandonment or destruction consistent with FMR 102-36.325 (41 CFR 102-36.325)."
+        }
+      }
+    },
+    "604": {
+      "number": 604,
+      "name": "Sale of surplus personal property.",
+      "sub": {
+        "1": {
+          "name": "Sales procedures.",
+          "text": {
+            "text": "Surplus personal property that has completed screening in accordance with 45.602-3(a) shall be sold in accordance with the policy for the sale of surplus personal property contained in the Federal Management Regulation, at part 102-38 (41 CFR part 102-38). Agencies may specify implementing procedures."
+          }
+        },
+        "2": {
+          "name": "Use of GSA sponsored sales centers.",
+          "text": {
+            "text": "Agencies may use sales center services. Use of such centers for sale of surplus property is authorized when in the best interest of the Government, consistent with contract terms and conditions."
+          }
+        },
+        "3": {
+          "name": "Proceeds from sales of surplus property.",
+          "text": {
+            "text": "Proceeds of any sale are to be credited to the Treasury of the United States as miscellaneous receipts, unless otherwise authorized by statute or the contract or any subcontract thereunder authorizes the proceeds to be credited to the price or cost of the work (40 U.S.C. 571 and 574)."
+          }
+        },
+        "4": {
+          "name": "Sale of property pursuant to the exchange/sale authority.",
+          "text": {
+            "text": "Agencies should consider the sale of property pursuant to the exchange/sale authority in FMR 102-39 (41 CFR part 102-39) when agencies are acquiring or plan to acquire similar products and other requirements of the authority are satisfied."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "605": {
+      "number": 605,
+      "name": "Inventory disposal reports.",
+      "sub": {},
+      "text": {
+        "text": "The plant clearance officer shall promptly prepare an SF 1424, Inventory Disposal Report, following disposition of the property identified on an inventory disposal schedule and the crediting of any related proceeds. The report shall identify any lost or otherwise unaccounted for property and any changes in quantity or value of the property made by the contractor after submission of the initial inventory disposal schedule. The report shall be provided to the administrative contracting officer or, for termination inventory, to the termination contracting officer, with a copy to the property administrator."
+      }
+    },
+    "606": {
+      "number": 606,
+      "name": "Contractor scrap procedures.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The property administrator should, in coordination with the plant clearance officer, ensure that contractor scrap disposal processes, methods, and practices allow for effective, efficient, and proper disposition and are properly documented in the contractor’s property management procedures."
+        },
+        "b": {
+          "text": "The property administrator should determine the extent to which separate disposal processing or physical segregation for different scrap types is or may be required. Such scrap may require physical segregation, unique disposal processing, or separate plant clearance reporting. For example, the scope of work may create scrap—",
+          "sub": {
+            "1": {
+              "text": "Consisting of sensitive items;"
+            },
+            "2": {
+              "text": "Containing hazardous materials or wastes;"
+            },
+            "3": {
+              "text": "Contaminated with hazardous materials or wastes;"
+            },
+            "4": {
+              "text": "That is classified or otherwise controlled;"
+            },
+            "5": {
+              "text": "Containing precious or strategic metals; or"
+            },
+            "6": {
+              "text": "That is dangerous to public health or safety."
+            }
+          }
+        },
+        "c": {
+          "text": "Absent contract terms and conditions to the contrary, the Government may abandon parts removed and replaced from property as a result of normal maintenance actions or removed from property as a result of the repair, maintenance, overhaul, or modification process.\n\n\n\n"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "parentPart": 26,
+  "number": 4,
+  "name": "Food Donations to Nonprofit Organizations",
+  "sub": {
+    "400": {
+      "number": 400,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This section implements the Federal Food Donation Act of 2008 (42 U.S.C 1792)."
+      }
+    },
+    "401": {
+      "number": 401,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Apparently wholesome food” means food that meets all quality and labeling standards imposed by Federal, State, and local laws and regulations even though the food may not be readily marketable due to appearance, age, freshness, grade, size, surplus, or other conditions, in accordance with (b)(2) of the Bill Emerson Good Samaritan Food Donation Act (42 U.S.C. 1791(b)).\n\n“Excess food” means food that—\n\n(1) Is not required to meet the needs of the executive agencies; and\n\n(2) Would otherwise be discarded.\n\n“Food-insecure” means inconsistent access to sufficient, safe, and nutritious food.\n\n“Nonprofit organization” means any organization that is—\n\n(1) Described in section 501(c) of the Internal Revenue Code of 1986; and\n\n(2) Exempt from tax under section 501(a) of that Code."
+      }
+    },
+    "402": {
+      "number": 402,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "text": "The Government encourages executive agencies and their contractors, to the maximum extent practicable and safe, to donate excess apparently wholesome food to nonprofit organizations that provide assistance to food-insecure people in the United States."
+      }
+    },
+    "403": {
+      "number": 403,
+      "name": "Procedures.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Encourage donations.  In the applicable contracts stated at section 26.404, encourage contractors, to the maximum extent practicable and safe, to donate apparently wholesome excess food to nonprofit organizations that provide assistance to food-insecure people in the United States."
+        },
+        "2": {
+          "text": "Costs.",
+          "sub": {
+            "i": {
+              "text": "In any case in which a contractor enters into a contract with an executive agency under which apparently wholesome food is donated to food-insecure people in the United States, the head of the executive agency shall not assume responsibility for the costs and logistics of collecting, transporting, maintaining the safety of, or distributing excess, apparently wholesome food to food-insecure people in the United States under this Act."
+            },
+            "ii": {
+              "text": "The Government will not reimburse any costs incurred by the contractor against this contract or any other contract for the donation of Federal excess foods.  Any costs incurred for Federal excess food donations are not considered allowable public relations costs in accordance with 31.205-1(f)(8)."
+            }
+          }
+        },
+        "3": {
+          "text": "Liability.  An executive agency (including an executive agency that enters into a contract with a contractor) and any contractor making donations pursuant to this Act shall be exempt from civil and criminal liability to the extent provided under the Bill Emerson Good Samaritan Food Donation Act (42 U.S.C. 1791)."
+        },
+        "a": {
+          "text": "In accordance with the Federal Food Donation Act of 2008 an executive agency shall comply with the following:"
+        }
+      }
+    },
+    "404": {
+      "number": 404,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "Insert the clause at 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations, in solicitations and contracts greater than $25,000 for the provision, service, or sale of food in the United States."
+      }
+    }
+  }
+}

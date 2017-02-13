@@ -1,0 +1,15 @@
+{
+  "parentPart": 27,
+  "number": 5,
+  "name": "Foreign License and Technical Assistance Agreements",
+  "sub": {
+    "501": {
+      "number": 501,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "text": "Agencies shall provide necessary policy and procedures regarding foreign technical assistance agreements and license agreements involving intellectual property, including avoiding unnecessary royalty charges."
+      }
+    }
+  }
+}

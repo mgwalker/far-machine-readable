@@ -1,0 +1,267 @@
+{
+  "parentPart": 50,
+  "number": 2,
+  "name": "Support Anti-terrorism by Fostering Effective Technologies Act of 2002",
+  "sub": {
+    "200": {
+      "number": 200,
+      "name": "Scope of subpart. ",
+      "sub": {},
+      "text": {
+        "text": "This subpart implements the Support Anti-terrorism by Fostering Effective Technologies Act of 2002 (SAFETY Act) liability protections to promote development and use of anti-terrorism technologies."
+      }
+    },
+    "201": {
+      "number": 201,
+      "name": "Definitions. ",
+      "sub": {},
+      "text": {
+        "text": "“Act of terrorism” means any act determined to have met the following requirements or such other requirements as defined and specified by the Secretary of Homeland Security:\n\n(1) Is unlawful.\n\n(2) Causes harm, including financial harm, to a person, property, or entity, in the United States, or in the case of a domestic United States air carrier or a United States-flag vessel (or a vessel based principally in the United States on which United States income tax is paid and whose insurance coverage is subject to regulation in the United States), in or outside the United States.\n\n(3) Uses or attempts to use instrumentalities, weapons or other methods designed or intended to cause mass destruction, injury or other loss to citizens or institutions of the United States.\n\n“Block certification” means SAFETY Act certification of a technology class that the Department of Homeland Security (DHS) has determined to be an approved class of approved products for homeland security.\n\n“Block designation” means SAFETY Act designation of a technology class that the DHS has determined to be a Qualified Anti-Terrorism Technology (QATT).\n\n“Pre-qualification designation notice” means a notice in a procurement solicitation or other publication by the Government stating that the technology to be procured either affirmatively or presumptively satisfies the technical criteria necessary to be deemed a qualified anti-terrorism technology. A pre-qualification designation notice authorizes offeror(s) to submit streamlined SAFETY Act applications for SAFETY Act designation and receive expedited processing of those applications.\n\n“Qualified Anti-Terrorism Technology (QATT)” means any technology designed, developed, modified, procured, or sold for the purpose of preventing, detecting, identifying, or deterring acts of terrorism or limiting the harm such acts might otherwise cause, for which a SAFETY Act designation has been issued. For purposes of defining a QATT, technology means any product, equipment, service (including support services), device, or technology (including information technology) or any combination of the foregoing. Design services, consulting services, engineering services, software development services, software integration services, threat assessments, vulnerability studies, and other analyses relevant to homeland security may be deemed a technology.\n\n“SAFETY Act certification” means a determination by DHS pursuant to 6 U.S.C. 442(d), as further delineated in 6 CFR 25.8 and 25.9, that a QATT for which a SAFETY Act designation has been issued is an approved product for homeland security, i.e., it will perform as intended, conforms to the seller’s specifications, and is safe for use as intended.\n\n“SAFETY Act designation” means a determination by DHS pursuant to 6 U.S.C. 441 (b) and 6 U.S.C. 443(a), as further delineated in 6 CFR 25.4, that a particular Anti-Terrorism Technology constitutes a QATT under the SAFETY Act."
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Authorities.",
+      "sub": {},
+      "text": {
+        "text": "The following authorities apply:\n\n(a) Support Anti-terrorism by Fostering Effective Technologies Act of 2002 (SAFETY Act), 6 U.S.C. 441-444.\n\n(b) Executive Order 13286 of February 28, 2003, Amendment of Executive Orders, and Other Actions, in Connection With the Transfer of Certain Functions to the Secretary of Homeland Security.\n\n(c) Executive Order 10789 of November 14, 1958, Contracting Authority of Government Agencies in Connection with National Defense Functions.\n\n(d) 6 CFR Part 25."
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "As part of the Homeland Security Act of 2002, Pub. L. 107-296, Congress enacted the SAFETY Act to—",
+          "sub": {
+            "1": {
+              "text": "Encourage the development and use of anti-terrorism technologies that will enhance the protection of the nation; and"
+            },
+            "2": {
+              "text": "Provide risk management and litigation management protections for sellers of QATTs and others in the supply and distribution chain."
+            }
+          }
+        },
+        "b": {
+          "text": "The SAFETY Act’s liability protections are complementary to the Terrorism Risk Insurance Act of 2002."
+        },
+        "c": {
+          "text": "Questions concerning the SAFETY Act may be directed to DHS Office of SAFETY Act Implementation (OSAI). Additional information about the SAFETY Act may be found at http://www.SAFETYAct.gov. Included on this website are block designations and block certifications granted by DHS."
+        }
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Agencies should—",
+          "sub": {
+            "1": {
+              "text": "Determine whether the technology to be procured is appropriate for SAFETY Act protections and, if appropriate, formally relay this determination to DHS for purposes of supporting contractor application(s) for SAFETY Act protections in relation to criteria (b)(viii) of 6 CFR 25.4, Designation of Qualified Anti-Terrorism Technologies;"
+            },
+            "2": {
+              "text": "Encourage offerors to seek SAFETY Act protections for their offered technologies, even in advance of the issuance of a solicitation; and"
+            },
+            "3": {
+              "text": "Not mandate SAFETY Act protections for acquisitions because applying for SAFETY Act protections for a particular technology is the choice of the offeror."
+            }
+          }
+        },
+        "b": {
+          "text": "Agencies shall not solicit offers contingent upon SAFETY Act designation or certification occurring before contract award unless authorized in accordance with 50.205-3."
+        },
+        "c": {
+          "text": "Agencies shall not solicit offers or award contracts presuming DHS will issue a SAFETY Act designation or certification after contract award unless authorized in accordance with 50.205-4."
+        },
+        "d": {
+          "text": "The DHS determination to extend SAFETY Act protections for a particular technology is not a determination that the technology meets, or fails to meet, the requirements of a solicitation."
+        }
+      }
+    },
+    "205": {
+      "number": 205,
+      "name": "Procedures.",
+      "sub": {
+        "1": {
+          "name": "SAFETY Act Considerations.",
+          "text": {
+            "a": {
+              "text": "SAFETY Act applicability. Requiring activities should review requirements to identify potential technologies that prevent, detect, identify, or deter acts of terrorism or limit the harm such acts might cause, and may be appropriate for SAFETY Act protections.  In questionable cases, the agency shall consult with DHS.  For acquisitions involving such technologies, the requiring activity should ascertain through discussions with DHS whether a block designation or block certification exists for the technology being acquired.",
+              "sub": {
+                "1": {
+                  "text": "If one does exist, the requiring activity should request that the contracting officer notify offerors."
+                },
+                "2": {
+                  "text": "If one does not exist, see 50.205-2, Pre-qualification designation notice."
+                }
+              }
+            },
+            "b": {
+              "text": "Early consideration of the SAFETY Act. Acquisition officials shall consider SAFETY Act issues as early in the acquisition cycle as possible (see 7.105(b)(20)(v)). Normally, this would be at the point where the required capabilities or performance characteristics are addressed. This is important because the processing times for issuing determinations on all types of SAFETY Act applications vary depending on many factors, including the influx of applications to DHS and the technical complexity of individual applications."
+            },
+            "c": {
+              "text": "Industry outreach. When applicable, acquisition officials should include SAFETY Act considerations in all industry outreach efforts including, but not limited to, requests for information, draft requests for proposal, and industry conferences."
+            },
+            "d": {
+              "text": "Reciprocal waiver of claims. For purposes of 6 CFR 25.5(e), the Government is not a customer from which a contractor must request a reciprocal waiver of claims."
+            }
+          }
+        },
+        "2": {
+          "name": "Pre-qualification designation notice. ",
+          "text": {
+            "1": {
+              "text": "Include in any pre-solicitation notice (Subpart 5.2) that a pre-qualification designation notice has been—",
+              "sub": {
+                "i": {
+                  "text": "Requested and is under review by DHS;"
+                },
+                "ii": {
+                  "text": "Denied by DHS; or"
+                },
+                "iii": {
+                  "text": "Issued and a copy will be included with the solicitation; and"
+                }
+              }
+            },
+            "2": {
+              "text": "Incorporate the pre-qualification designation notice into the solicitation."
+            },
+            "a": {
+              "text": "Requiring activity responsibilities.",
+              "sub": {
+                "1": {
+                  "text": "If the requiring activity determines that the technology to be acquired may qualify for SAFETY Act protection, the requiring activity is responsible for requesting a pre-qualification designation notice from DHS. Such a request for a pre-qualification designation notice should be made once the requiring activity has determined that the technology specifications or statement of work are established and are unlikely to undergo substantive modification. DHS will then determine whether the technology identified in the request either affirmatively or presumptively satisfies the technical criteria for SAFETY Act designation. An affirmative determination means the technology described in the pre-qualification designation notice satisfies the technical criteria for SAFETY Act designation as a QATT. A presumptive determination means that the technology is a good candidate for SAFETY Act designation as a QATT. In either case, the notice will authorize offerors to—",
+                  "sub": {
+                    "i": {
+                      "text": "Submit a streamlined application for SAFETY Act designation; and"
+                    },
+                    "ii": {
+                      "text": "Receive expedited review of their application for SAFETY Act designation."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "The requiring activity shall make requests using the procurement pre-qualification request form available at http://www.SAFETYAct.gov. The website includes instructions for completing and submitting the form."
+                },
+                "3": {
+                  "text": "The requiring activity shall provide a copy of the request, as well as a copy of the resulting pre-qualification designation notice or DHS denial, to the contracting officer."
+                }
+              }
+            },
+            "b": {
+              "text": "Contracting officer responsibilities. Upon receipt of the documentation specified in paragraph (a)(3) of this subsection, the contracting officer shall—"
+            }
+          }
+        },
+        "3": {
+          "name": "Authorization of offers contingent upon SAFETY Act designation or certification before contract award.",
+          "text": {
+            "a": {
+              "text": "Contracting officers may authorize such contingent offers, only if—",
+              "sub": {
+                "1": {
+                  "text": "DHS has issued—",
+                  "sub": {
+                    "i": {
+                      "text": "For offers contingent upon SAFETY Act designation, a pre-qualification designation notice or a block designation; or"
+                    },
+                    "ii": {
+                      "text": "For offers contingent upon SAFETY Act certification, a block certification;"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "To the contracting officer’s knowledge, the Government has not provided advance notice so that potential offerors could have obtained SAFETY Act designations/ certifications for their offered technologies before release of any solicitation; and"
+                },
+                "3": {
+                  "text": "Market research shows that there will be insufficient competition without SAFETY Act protections or the subject technology would be sold to the Government only with SAFETY Act protections."
+                }
+              }
+            },
+            "b": {
+              "text": "Contracting officers shall not authorize offers contingent upon obtaining a SAFETY Act certification (as opposed to a SAFETY Act designation), unless a block certification applies to the class of technology to be acquired under the solicitation."
+            }
+          }
+        },
+        "4": {
+          "name": "Authorization of awards made presuming SAFETY Act designation or certification after contract award.",
+          "text": {
+            "a": {
+              "text": "When necessary to award a contract prior to DHS issuing SAFETY Act protections, contracting officers may award contracts presuming that DHS will issue a SAFETY Act designation/certification to the contractor after contract award only if—",
+              "sub": {
+                "1": {
+                  "text": "The criteria of 50.205-3(a) are met;"
+                },
+                "2": {
+                  "text": "The chief of the contracting office (or other official designated in agency procedures) approves the action; and"
+                },
+                "3": {
+                  "text": "The contracting officer advises DHS of the timelines for potential award and consults DHS as to when DHS could reasonably complete evaluations of offerors’ applications for SAFETY Act designations or certifications."
+                }
+              }
+            },
+            "b": {
+              "text": "Contracting officers shall not authorize offers presuming that SAFETY Act certification will be obtained (as opposed to a SAFETY Act designation), unless a block certification applies to the class of technology to be acquired under the solicitation."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "206": {
+      "number": 206,
+      "name": "Solicitation provisions and contract clause.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "In the solicitation, if the provision at 52.250-3 or 52.250-4 is used with its Alternate II; and"
+        },
+        "2": {
+          "text": "In any resultant contract, if DHS has not issued SAFETY Act designation or certification to the successful offeror before contract award."
+        },
+        "a": {
+          "text": "Insert the provision at 52.250-2, SAFETY Act Coverage Not Applicable, in solicitations if—",
+          "sub": {
+            "1": {
+              "text": "The agency consulted with DHS on a questionable case of SAFETY Act applicability to an acquisition in accordance with 50.205-1(a), and after the consultation, the agency has determined that SAFETY Act protection is not applicable for the acquisition; or"
+            },
+            "2": {
+              "text": "DHS has denied approval of a pre-qualification designation notice."
+            }
+          }
+        },
+        "b": {
+          "text": "(1) Insert the provision at 52.250-3, SAFETY Act Block Designation/Certification, in a solicitation when DHS has issued a block designation/certification for the solicited technologies.",
+          "sub": {
+            "2": {
+              "text": "Use the provision at 52.250-3 with its Alternate I when contingent offers are authorized in accordance with 50.205-3."
+            },
+            "3": {
+              "text": "Use the provision at 52.250-3 with its Alternate II when offers presuming SAFETY Act designation or certification are authorized in accordance with 50.205-4. If this alternate is used, the contracting officer may increase the number of days within which offerors must submit their SAFETY Act designation or certification application."
+            }
+          }
+        },
+        "c": {
+          "text": "(1) Insert the provision at 52.250-4, SAFETY Act Pre-qualification Designation Notice, in a solicitation for which DHS has issued a pre-qualification designation notice.",
+          "sub": {
+            "2": {
+              "text": "Use the provision at 52.250-4 with its Alternate I when contingent offers are authorized in accordance with 50.205-3."
+            },
+            "3": {
+              "text": "Use the provision at 52.250-4 with its Alternate II when offers presuming SAFETY Act designation or certification are authorized in accordance with 50.205-4. If this alternate is used, the contracting officer may increase the number of days within which offerors must submit their SAFETY Act designation or certification application."
+            }
+          }
+        },
+        "d": {
+          "text": "Insert the clause at 52.250-5, SAFETY Act—Equitable Adjustment—"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "parentPart": 46,
+  "number": 2,
+  "name": "Contract Quality Requirements",
+  "sub": {
+    "201": {
+      "number": 201,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer shall include in the solicitation and contract the appropriate quality requirements. The type and extent of contract quality requirements needed depends on the particular acquisition and may range from inspection at time of acceptance to a requirement for the contractor’s implementation of a comprehensive program for controlling quality."
+        },
+        "b": {
+          "text": "As feasible, solicitations and contracts may provide for alternative, but substantially equivalent, inspection methods to obtain wide competition and low cost. The contracting officer may also authorize contractor-recommended alternatives when in the Government’s interest and approved by the activity responsible for technical requirements."
+        },
+        "c": {
+          "text": "Although contracts generally make contractors responsible for performing inspection before tendering supplies to the Government, there are situations in which contracts will provide for specialized inspections to be performed solely by the Government. Among situations of this kind are—",
+          "sub": {
+            "1": {
+              "text": "Tests that require use of specialized test equipment or facilities not ordinarily available in suppliers’ plants or commercial laboratories (e.g., ballistic testing of ammunition, unusual environmental tests, and simulated service tests); and"
+            },
+            "2": {
+              "text": "Contracts that require Government testing for first article approval (see Subpart 9.3)."
+            }
+          }
+        },
+        "d": {
+          "text": "Except as otherwise specified by the contract, required contractor testing may be performed in the contractor’s or subcontractor’s laboratory or testing facility, or in any other laboratory or testing facility acceptable to the Government."
+        }
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Types of contract quality requirements.",
+      "sub": {
+        "1": {
+          "name": "Contracts for commercial items.",
+          "text": {
+            "text": "When acquiring commercial items (see Part 12), the Government shall rely on contractors’ existing quality assurance systems as a substitute for Government inspection and testing before tender for acceptance unless customary market practices for the commercial item being acquired include in-process inspection. Any in-process inspection by the Government shall be conducted in a manner consistent with commercial practice."
+          }
+        },
+        "2": {
+          "name": "Government reliance on inspection by contractor.",
+          "text": {
+            "1": {
+              "text": "The nature of the supplies and services being purchased and their intended use;"
+            },
+            "2": {
+              "text": "The potential losses in the event of defects;"
+            },
+            "3": {
+              "text": "The likelihood of uncontested replacement or correction of defective work; and"
+            },
+            "4": {
+              "text": "The cost of detailed Government inspection."
+            },
+            "a": {
+              "text": "Except as specified in (b) of this section, the Government shall rely on the contractor to accomplish all inspection and testing needed to ensure that supplies or services acquired at or below the simplified acquisition threshold conform to contract quality requirements before they are tendered to the Government (see 46.301)."
+            },
+            "b": {
+              "text": "The Government shall not rely on inspection by the contractor if the contracting officer determines that the Government has a need to test the supplies or services in advance of their tender for acceptance, or to pass judgment upon the adequacy of the contractor’s internal work processes. In making the determination, the contracting officer shall consider—"
+            }
+          }
+        },
+        "3": {
+          "name": "Standard inspection requirements.",
+          "text": {
+            "1": {
+              "text": "Require the contractor to provide and maintain an inspection system that is acceptable to the Government;"
+            },
+            "2": {
+              "text": "Give the Government the right to make inspections and tests while work is in process; and"
+            },
+            "3": {
+              "text": "Require the contractor to keep complete, and make available to the Government, records of its inspection work."
+            },
+            "a": {
+              "text": "Standard inspection requirements are contained in the clauses prescribed in 46.302 through 46.308, and in the product and service specifications that are included in solicitations and contracts."
+            },
+            "b": {
+              "text": "The clauses referred to in (a) of this section—"
+            }
+          }
+        },
+        "4": {
+          "name": "Higher-level contract quality requirements.",
+          "text": {
+            "a": {
+              "text": "Agencies shall establish procedures for determining when higher-level contract quality requirements are necessary, for determining the risk (both the likelihood and the impact) of nonconformance, and for advising the contracting officer about which higher-level standards should be applied and included in the solicitation and contract. Requiring compliance with higher-level quality standards is necessary in solicitations and contracts for complex or critical items (see 46.203)or when the technical requirements of the contract require—",
+              "sub": {
+                "1": {
+                  "text": "Control of such things as design, work operations, in-process controls, testing, and inspection; or"
+                },
+                "2": {
+                  "text": "Attention to such factors as organization, planning, work instructions, documentation control, and advanced metrology."
+                }
+              }
+            },
+            "b": {
+              "text": "Examples of higher-level quality standards include overarching quality management system standards such as ISO 9001, ASQ/ANSI E4, ASME NQA-1, SAE AS9100, SAE AS9003, and ISO/TS 16949, and product or process specific quality standards such as SAE AS5553."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": "Contract quality requirements fall into four general categories, depending on the extent of quality assurance needed by the Government for the acquisition involved."
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Criteria for use of contract quality requirements.",
+      "sub": {},
+      "text": {
+        "text": "The extent of contract quality requirements, including contractor inspection, required under a contract shall usually be based upon the classification of the contract item (supply or service) as determined by its technical description, its complexity, and the criticality of its application.\n\n(a) Technical description. Contract items may be technically classified as—\n\n(1) Commercial (described in commercial catalogs, drawings, or industrial standards; see Part 2); or\n\n(2) Military-Federal (described in Government drawings and specifications).\n\n(b) Complexity.\n\n(1) Complex items have quality characteristics, not wholly visible in the end item, for which contractual conformance must be established progressively through precise measurements, tests, and controls applied during purchasing, manufacturing, performance, assembly, and functional operation either as an individual item or in conjunction with other items.\n\n(2) Noncomplex items have quality characteristics for which simple measurement and test of the end item are sufficient to determine conformance to contract requirements.\n\n(c) Criticality.\n\n(1) A critical application of an item is one in which the failure of the item could injure personnel or jeopardize a vital agency mission. A critical item may be either peculiar, meaning it has only one application, or common, meaning it has multiple applications.\n\n(2) A noncritical application is any other application. Noncritical items may also be either peculiar or common."
+      }
+    }
+  }
+}

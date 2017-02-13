@@ -1,0 +1,242 @@
+{
+  "parentPart": 41,
+  "number": 2,
+  "name": "Acquiring Utility Services",
+  "sub": {
+    "201": {
+      "number": 201,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Subject to paragraph (d) of this section, it is the policy of the Federal Government that agencies obtain required utility services from sources of supply which are most advantageous to the Government in terms of economy, efficiency, reliability, or service."
+        },
+        "b": {
+          "text": "Except for acquisitions at or below the simplified acquisition threshold, agencies shall acquire utility services by a bilateral written contract, which must include the clauses required by 41.501, regardless of whether rates or terms and conditions of service are fixed or adjusted by a regulatory body. Agencies may not use the utility supplier’s forms and clauses to avoid the inclusion of provisions and clauses required by 41.501 or by statute. (See 41.202(c) for procedures to be used when the supplier refuses to execute a written contract.)"
+        },
+        "c": {
+          "text": "Specific operating and management details, such as procedures for internal agency contract assistance and review, delegations of authority, and approval thresholds, may be prescribed by an individual agency subject to compliance with applicable statutes and regulations."
+        },
+        "d": {
+          "text": "(1) Section 8093 of the Department of Defense Appropriations Act of 1988, Pub. L. 100-202, provides that none of the funds appropriated by that Act or any other Act with respect to any fiscal year by any department, agency, or instrumentality of the United States, may be used for the purchase of electricity by the Government in any manner that is inconsistent with state law governing the providing of electric utility service, including state utility commission rulings and electric utility franchises or service territories established pursuant to state statute, state regulation, or state-approved territorial agreements.",
+          "sub": {
+            "2": {
+              "text": "The Act does not preclude—",
+              "sub": {
+                "i": {
+                  "text": "The head of a Federal agency from entering into a contract pursuant to 42 U.S.C. 8287 (which pertains to the subject of shared energy savings including cogeneration);"
+                },
+                "ii": {
+                  "text": "The Secretary of a military department from entering into a contract pursuant to 10 U.S.C. 2394 (which pertains to contracts for energy or fuel for military installations including the provision and operation of energy production facilities); or"
+                },
+                "iii": {
+                  "text": "The Secretary of a military department from purchasing electricity from any provider when the utility or utilities having applicable state-approved franchise or other service authorizations are found by the Secretary to be unwilling or unable to meet unusual standards for service reliability that are necessary for purposes of national defense."
+                }
+              }
+            },
+            "3": {
+              "text": "Additionally, the head of a Federal agency may—"
+            },
+            "i": {
+              "text": "Consistent with applicable state law, enter into contracts for the purchase or transfer of electricity to the agency by a non-utility, including a qualifying facility under the Public Utility Regulatory Policies Act of 1978;"
+            },
+            "ii": {
+              "text": "Enter into an interagency agreement, pursuant to 41.206 and 17.5, with a Federal power marketing agency or the Tennessee Valley Authority for the transfer of electric power to the agency; and"
+            },
+            "iii": {
+              "text": "Enter into a contract with an electric utility under the authority or tariffs of the Federal Energy Regulatory Commission."
+            }
+          }
+        },
+        "e": {
+          "text": "Prior to acquiring electric utility services on a competitive basis, the contracting officer shall determine, with the advice of legal counsel, by a market survey or any other appropriate means, e.g., consultation with the state agency responsible for regulating public utilities, that such competition would not be inconsistent with state law governing the provision of electric utility service, including state utility commission rulings and electric utility franchises or service territories established pursuant to state statute, state regulation, or state-approved territorial agreements. Proposals from alternative electric suppliers shall provide a representation that service can be provided in a manner consistent with section 8093 of Public Law 100-202 (see 41.201(d))."
+        }
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Procedures.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Prior to executing a utility service contract, the contracting officer shall comply with Parts 6 and 7 and subsections 41.201(d) and (e) of this part. In accordance with Parts 6 and 7, agencies shall conduct market surveys and perform acquisition planning in order to promote and provide for full and open competition provided that the contracting officer determines that any resultant contract would not be inconsistent with applicable state law governing the provision of electric utility services. If competition for an entire utility service is not available, the market survey may be used to determine the availability of competitive sources for certain portions of the requirement. The scope of the term “entire utility service” includes the provision of the utility service capacity, energy, water, sewage, transportation, standby or back-up service, transmission and/or distribution service, quality assurance, system reliability, system operation and maintenance, metering, and billing."
+        },
+        "b": {
+          "text": "In performing a market survey (see 7.101), the contracting officer shall consider, in addition to alternative competitive sources, use of the following:",
+          "sub": {
+            "1": {
+              "text": "GSA areawide contracts (see 41.204)."
+            },
+            "2": {
+              "text": "Separate contracts (see 41.205)."
+            },
+            "3": {
+              "text": "Interagency agreements (see 41.206)."
+            }
+          }
+        },
+        "c": {
+          "text": "When a utility supplier refuses to execute a tendered contract as outlined in 41.201(b), the agency shall obtain a written definite and final refusal signed by a corporate officer or other responsible official of the supplier (or if unobtainable, document any unwritten refusal) and transmit this document, along with statements of the reasons for the refusal and the record of negotiations, to GSA at the address specified at 41.301(a). Unless urgent and compelling circumstances exist, the contracting officer shall notify GSA prior to acquiring utility services without executing a tendered contract. After such notification, the agency may proceed with the acquisition and pay for the utility service under the provisions of 31 U.S.C. 1501(a)(8)—",
+          "sub": {
+            "1": {
+              "text": "By issuing a purchase order in accordance with 13.302; or"
+            },
+            "2": {
+              "text": "By ordering the necessary utility service and paying for it upon the presentation of an invoice, provided that a determination is approved by the head of the contracting activity that a written contract cannot be obtained and that the issuance of a purchase order is not feasible."
+            }
+          }
+        },
+        "d": {
+          "text": "When obtaining service without a bilateral written contract, the contracting officer shall establish a utility history file on each acquisition of utility service provided by a contractor. This utility history file shall contain, in addition to applicable documents in 4.803, the following information:",
+          "sub": {
+            "1": {
+              "text": "The unsigned, tendered contract and any related letter of transmittal."
+            },
+            "2": {
+              "text": "The reasons stated by the utility supplier for not executing the tendered contract, the record of negotiations, and a written definite and final refusal by a corporate officer or other responsible official of the supplier (or if unobtainable, documentation of unwritten refusal)."
+            },
+            "3": {
+              "text": "Services to be furnished and the estimated annual cost."
+            },
+            "4": {
+              "text": "Historical record of any applicable connection charges."
+            },
+            "5": {
+              "text": "Historical record of any applicable ongoing capital credits."
+            },
+            "6": {
+              "text": "A copy of the applicable rate schedule."
+            }
+          }
+        },
+        "e": {
+          "text": "If the Government obtains utility service pursuant to paragraph (c) of this section, the contracting officer shall, on an annual basis beginning from the date of final refusal, take action to execute a bilateral written contract. The contracting officer shall document the utility history file with the efforts made and the agency shall notify GSA, in writing, if the utility continues to refuse to execute a bilateral contract."
+        }
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "GSA assistance.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "GSA will, upon request, provide technical and acquisition assistance, or will delegate its contracting authority for the furnishing of the services described in this part for any Federal agency, mixed-ownership Government corporation, the District of Columbia, the Senate, the House of Representatives, or the Architect of the Capitol and any activity under the Architect’s direction."
+        },
+        "b": {
+          "text": "Agencies, seeking assistance shall provide upon request by GSA the information listed in 41.301."
+        }
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "GSA areawide contracts.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Purpose. GSA enters into areawide contracts (see 41.101) for use by Federal agencies. Areawide contracts provide a pre-established contractual vehicle for ordering utility services under the conditions in paragraph (c)(1) of this section."
+        },
+        "b": {
+          "text": "Features.",
+          "sub": {
+            "1": {
+              "text": "Areawide contracts generally provide for ordering utility service at rates approved and/or established by a regulatory body and published in a tariff or rate schedule. However, agencies are permitted to negotiate other rates and terms and conditions of service with the supplier (see paragraph (c) of this section). Rates other than those published may require the approval of the regulatory body."
+            },
+            "2": {
+              "text": "Areawide contracts are negotiated with utility service suppliers for the provision of service within the supplier’s franchise territory or service area."
+            },
+            "3": {
+              "text": "Due to the regulated nature of the utility industry, as well as statutory restrictions associated with the procurement of electricity (see 41.201(d)), competition is typically not available within the entire geographical area covered by an areawide contract, although it may be available at specific locations within the utility’s service area. When competing suppliers are available, the provisions of paragraph (c)(1) of this section apply."
+            }
+          }
+        },
+        "c": {
+          "text": "Procedures for obtaining service.",
+          "sub": {
+            "1": {
+              "text": "Any Federal agency having a requirement for utility services within an area covered by an areawide contract shall acquire services under that areawide contract unless—",
+              "sub": {
+                "i": {
+                  "text": "Service is available from more than one supplier, or"
+                },
+                "ii": {
+                  "text": "The head of the contracting activity or designee otherwise determines that use of the areawide contract is not advantageous to the Government. If service is available from more than one supplier, service shall be acquired using competitive acquisition procedures (see 41.202(a)). The determination required by paragraph (c)(1)(ii) of this section shall be documented in the contract file with an information copy furnished to GSA at the address in 41.301(a)."
+                }
+              }
+            },
+            "2": {
+              "text": "Each areawide contract includes an authorization form for ordering service, connection, disconnection, or change in service. Upon execution of an authorization by the contracting officer and utility supplier, the utility supplier is required to furnish services, without further negotiation, at the current, applicable published or unpublished rates, unless other rates, and/or terms and conditions are separately negotiated by the Federal agency with the supplier."
+            },
+            "3": {
+              "text": "The contracting officer shall execute the Authorization, and attach it to a Standard Form (SF) 26, Award/Contract, along with any modifications such as connection charges, special facilities, or service arrangements. The contracting officer shall also attach any specific fiscal, operational, and administrative requirements of the agency, applicable rate schedules, technical information and detailed maps or drawings of delivery points, details on Government ownership, maintenance, or repair of facilities, and other information deemed necessary to fully define the service conditions in the Authorization/contract."
+            }
+          }
+        },
+        "d": {
+          "text": "List of areawide contracts. A list of current GSA areawide contracts is available from the GSA office specified at 41.301(a). The list identifies the types of services and the geographic area served. A copy of the contract may also be obtained from this office."
+        },
+        "e": {
+          "text": "Notification. Agencies shall provide GSA at the address specified at 41.301(a) a copy of each SF 26 and executed Authorization issued under an areawide contract within 30 days after execution."
+        }
+      }
+    },
+    "205": {
+      "number": 205,
+      "name": "Separate contracts.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The Government will obtain lower rates, larger discounts, or more favorable terms and conditions of service."
+        },
+        "2": {
+          "text": "A proposed connection charge, termination liability, or any other facilities charge to be paid by the Federal Government will be reduced or eliminated;"
+        },
+        "3": {
+          "text": "The utility service supplier refuses to render the desired service except under a contract exceeding a 1-year period."
+        },
+        "a": {
+          "text": "In the absence of an areawide contract or interagency agreement (see 41.206), agencies shall acquire utility services by separate contract subject to this part, and subject to agency contracting authority."
+        },
+        "b": {
+          "text": "If an agency enters into a separate contract, the contracting officer shall document the contract file with the following information:",
+          "sub": {
+            "1": {
+              "text": "The number of available suppliers."
+            },
+            "2": {
+              "text": "Any special equipment, service reliability, or facility requirements and related costs."
+            },
+            "3": {
+              "text": "The utility supplier’s rates, connection charges, and termination liability."
+            },
+            "4": {
+              "text": "Total estimated contract value (including costs in paragraphs (b)(2) and (3) of this subsection)."
+            },
+            "5": {
+              "text": "Any technical or special contract terms required."
+            },
+            "6": {
+              "text": "Any unusual characteristics of services required."
+            },
+            "7": {
+              "text": "The utility’s wheeling or transportation policy for utility service."
+            }
+          }
+        },
+        "c": {
+          "text": "If requesting GSA assistance with a separate contract, the requesting agency shall furnish the technical and acquisition data specified in 41.205(b), 41.301, and such other data as GSA may deem necessary."
+        },
+        "d": {
+          "text": "A contract exceeding a 1-year period, but not exceeding ten years (except pursuant to 41.103), may be justified, and is usually required, where any of the following circumstances exist:"
+        }
+      }
+    },
+    "206": {
+      "number": 206,
+      "name": "Interagency agreements.",
+      "sub": {},
+      "text": {
+        "text": "Agencies shall use interagency agreements (e.g., consolidated purchase, joint use, or cross-service agreements) when acquiring utility service or facilities from other Government agencies and shall comply with the policies and procedures at 17.502-2, The Economy Act."
+      }
+    }
+  }
+}

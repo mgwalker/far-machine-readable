@@ -1,0 +1,519 @@
+{
+  "parentPart": 53,
+  "number": 2,
+  "name": "Prescription of Forms",
+  "sub": {
+    "200": {
+      "number": 200,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes standard forms and references optional forms and agency-prescribed forms for use in acquisition. Consistent with the approach used in Subpart 52.2, this subpart is arranged by subject matter, in the same order as, and keyed to, the parts of the FAR in which the form usage requirements are addressed. For example, forms addressed in FAR Part 14, Sealed Bidding, are treated in this subpart in section 53.214, Sealed Bidding; forms addressed in FAR Part 43, Contract Modifications, are treated in this subpart in section 53.243, Contract modifications. The following example illustrates how the subjects are keyed to the parts in which they are addressed:"
+      }
+    },
+    "201": {
+      "number": 201,
+      "name": "Federal acquisition system.",
+      "sub": {
+        "1": {
+          "name": "Contracting authority and responsibilities (SF 1402).",
+          "text": {
+            "text": "SF 1402 (10/83), Certificate of Appointment. SF 1402 is prescribed for use in appointing contracting officers, as specified in 1.603-3."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Administrative matters.",
+      "sub": {
+        "1": {
+          "name": "Safeguarding classified information within industry (DD Form 254, DD Form 441).",
+          "text": {
+            "text": "The following forms, which are prescribed by the Department of Defense, shall be used by agencies covered by the Defense Industrial Security Program if contractor access to classified information is required, as specified in  and the clause at 52.204-2:\n\n(a) DD Form 254 (Department of Defense (DoD)), Contract Security Classification Specification. (See 4.403(c)(1).)\n\n(b) DD Form 441 (DoD), Security Agreement. (See paragraph (b) of the clause at 52.204-2.)"
+          }
+        },
+        "2": {
+          "name": "[Reserved]",
+          "text": {
+            "text": ""
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "205": {
+      "number": 205,
+      "name": "Publicizing contract actions.",
+      "sub": {
+        "1": {
+          "name": "Paid advertisements.",
+          "text": {
+            "text": "SF 1449, prescribed in 53.212, shall be used to place orders for paid advertisements as specified in 5.503."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "206": {
+      "number": 206,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "207": {
+      "number": 207,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "208": {
+      "number": 208,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "209": {
+      "number": 209,
+      "name": "Contractor qualifications.",
+      "sub": {
+        "1": {
+          "name": "Responsible prospective contractors.",
+          "text": {
+            "text": "The following forms are prescribed for use in conducting preaward surveys of prospective contractors, as specified in 9.106-1, 9.106-2, and 9.106-4:\n\n(a) SF 1403 (Rev. 9/88), Preaward Survey of Prospective Contractor (General). SF 1403 is authorized for local reproduction.\n\n(b) SF 1404 (Rev. 9/88), Preaward Survey of Prospective Contractor—Technical. SF 1404 is authorized for local reproduction.\n\n(c) SF 1405 (Rev. 9/88), Preaward Survey of Prospective Contractor—Production. SF 1405 is authorized for local reproduction.\n\n(d) SF 1406 (Rev. 11/97), Preaward Survey of Prospective Contractor—Quality Assurance. SF 1406 is authorized for local reproduction.\n\n(e) SF 1407 (Rev. 9/88), Preaward Survey of Prospective Contractor—Financial Capability. SF 1407 is authorized for local reproduction.\n\n(f) SF 1408 (Rev. 9/88), Preaward Survey of Prospective Contractor—Accounting System. SF 1408 is authorized for local reproduction."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "210": {
+      "number": 210,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "211": {
+      "number": 211,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "212": {
+      "number": 212,
+      "name": "Acquisition of commercial items.",
+      "sub": {},
+      "text": {
+        "text": "SF 1449 (Rev. 2/2012), Solicitation/Contract/Order for Commercial Items. SF 1449 is prescribed for use in solicitations and contracts for commercial items. Agencies may prescribe additional detailed instructions for use of the form."
+      }
+    },
+    "213": {
+      "number": 213,
+      "name": "Simplified acquisition procedures (SF’s 18, 30, 44, 1165, 1449, and OF’s 336, 347, and 348).",
+      "sub": {},
+      "text": {
+        "text": "The following forms are prescribed as stated in this section for use in simplified acquisition procedures, orders under existing contracts or agreements, and orders from required sources of supplies and services:\n\n(a) SF 18 (Rev. 6/95), Request for Quotations, or SF 1449 (Rev. 2/2012), Solicitation/Contract/Order for Commercial Items. SF 18 is prescribed for use in obtaining price, cost, delivery, and related information from suppliers as specified in 13.307(b). SF 1449, as prescribed in 53.212, or other agency forms/automated formats, may also be used to obtain price, cost, delivery, and related information from suppliers as specified in 13.307(b).\n\n(b) SF 30 (Rev. 11/2016), Amendment of Solicitation/ Modification of Contract. SF 30, prescribed in 53.243, may be used for modifying purchase orders, as specified in 13.307(c)(3).\n\n(c) SF 44 (Rev. 10/83), Purchase Order Invoice Voucher. SF 44 is prescribed for use in simplified acquisition procedures, as specified in 13.306.\n\n(d) SF 1165 (6/83 Ed.), Receipt for Cash-Subvoucher. SF 1165 (GAO) may be used for imprest fund purchases, as specified in 13.307(e).\n\n(e) OF 336 (4/86 Ed.), Continuation Sheet. OF 336, prescribed in 53.214(h), may be used as a continuation sheet in solicitations, as specified in 13.307(c)(1).\n\n(f) SF 1449 (Rev. 2/2012) Solicitation/Contract/Order for Commercial Items prescribed in 53.212, OF 347 (Rev. 2/2012), Order for Supplies or Services, and OF 348 (Rev. 4/06), Order for Supplies or Services—Schedule Continuation. SF 1449, OF’s 347 and 348 (or approved agency forms/automated formats) may be used as follows:\n\n(1) To accomplish acquisitions under simplified acquisition procedures, as specified in 13.307.\n\n(2) To establish blanket purchase agreements (BPA’s), as specified in 13.303-2, and to make purchases under BPA’s, as specified in 13.303-5.\n\n(3) To issue orders under basic ordering agreements, as specified in 16.703(d)(2)(i).\n\n(4) As otherwise specified in this chapter (e.g., see 5.503(a)(2), 8.406-1, 36.701(b), and 51.102(e)(3)(ii))."
+      }
+    },
+    "214": {
+      "number": 214,
+      "name": "Sealed bidding.",
+      "sub": {},
+      "text": {
+        "text": "The following forms are prescribed for use in contracting by sealed bidding (except for construction and architect-engineer services):\n\n(a) SF 26 (Rev. 3/2013), Award/Contract. SF 26 is prescribed for use in awarding sealed bid contracts for supplies or services in which bids were obtained on SF 33, Solicitation, Offer and Award, as specified in 14.408-1(d)(1). Block 18 may only be used for sealed-bid procurements.\n\n(b) SF 30, Amendment of Solicitation/Modification of Contract. SF 30, prescribed in 53.243, shall be used in amending invitations for bids, as specified in 14.208(a).\n\n(c) SF 33 (Rev. 9/97), Solicitation, Offer and Award. SF 33 is prescribed for use in soliciting bids for supplies or services and for awarding the contracts that result from the bids, as specified in 14.201-2(a)(1), unless award is accomplished by SF 26.\n\n(d) SF 1447 (Rev. 8/2016), Solicitation/Contract. SF 1447 is prescribed for use in soliciting supplies or services and for awarding contracts that result from the bids. It shall be used when the simplified contract format is used (see 14.201-9) and may be used in place of the SF 26 or SF 33 with other solicitations and awards. Agencies may prescribe additional detailed instructions for use of the form.\n\n(e) [Reserved]\n\n(f) SF 1409 (Rev. 9/88), Abstract of Offers, and SF 1410 (9/88), Abstract of Offers—Continuation. SF 1409 and SF 1410 are prescribed for use in recording bids, as specified in 14.403(a).\n\n(g) OF 17 (Rev. 12/93), Offer Label. OF 17 may be furnished with each invitation for bids to facilitate identification and handling of bids, as specified in 14.202-3(b).\n\n(h) OF 336 (Rev. 3/86), Continuation Sheet. OF 336 may be used as a continuation sheet in solicitations, as specified in 14.201-2(b)."
+      }
+    },
+    "215": {
+      "number": 215,
+      "name": "Contracting by negotiation.",
+      "sub": {
+        "1": {
+          "name": "Solicitation and receipt of proposals.",
+          "text": {
+            "text": "The following forms are prescribed, as stated in the following paragraphs, for use in contracting by negotiation (except for construction, architect-engineer services, or acquisitions made using simplified acquisition procedures):\n\n(a) SF 26 (Rev. 3/2013), Award/Contract. SF 26, prescribed in 53.214(a), may be used in entering into negotiated contracts in which the signature of both parties on a single document is appropriate, as specified in 15.509. Block 18 may not be used for negotiated procurements.\n\n(b) SF 30 (Rev. 11/2016), Amendment of Solicitation/Modification of Contract. SF 30, prescribed in 53.243, may be used for amending requests for proposals and for amending requests for information, as specified in 15.210(b).\n\n(c) SF 33 (Rev. 9/97), Solicitation, Offer and Award. SF 33, prescribed in 53.214(c), may be used in connection with the solicitation and award of negotiated contracts. Award of such contracts may be made by either OF 307, SF 33, or SF 26, as specified in 53.214(c) and 15.509.\n\n(d) OF 17 (Rev. 12/93), Offer Label. OF 17 may be furnished with each request for proposals to facilitate identification and handling of proposals, as specified in 15.210(c).\n\n(e) OF 307 (Rev. 8/2016), Contract Award. OF 307 may be used to award negotiated contracts as specified in 15.509.\n\n(f) OF 308 (Rev. 9/97), Solicitation and Offer-Negotiated Acquisition. OF 308 may be used to support solicitation of negotiated contracts as specified in 15.210(a). Award of such contracts may be made by OF 307, as specified in 15.509.\n\n(g) OF 309 (Rev. 9/97), Amendment of Solicitation. OF 309 may be used to amend solicitations of negotiated contracts, as specified in 15.210(b)."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "216": {
+      "number": 216,
+      "name": "Types of contracts.",
+      "sub": {
+        "1": {
+          "name": "Delivery orders and orders under basic ordering agreements (OF 347).",
+          "text": {
+            "text": "OF 347, Order for Supplies or Services. OF 347, prescribed in 53.213(f) (or an approved agency form), may be used to place orders under indefinite delivery contracts and basic ordering agreements, as specified in 16.703(d)(2)(i)."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "217": {
+      "number": 217,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "218": {
+      "number": 218,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "219": {
+      "number": 219,
+      "name": "Small business programs.",
+      "sub": {},
+      "text": {
+        "text": "The following standard form is prescribed for use in reporting small business (including Alaska Native Corporations and Indian tribes), veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business (including Alaska Native Corporations and Indian tribes) and women-owned small business subcontracting data, as specified in Part 19: SF 294, (Rev. 8/2016) Subcontracting Report for Individual Contracts. SF 294 is authorized for local reproduction."
+      }
+    },
+    "220": {
+      "number": 220,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "221": {
+      "number": 221,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "222": {
+      "number": 222,
+      "name": "Application of labor laws to Government acquisitions (SF’s 308, 1413, 1444, 1445, 1446, WH-347).",
+      "sub": {},
+      "text": {
+        "text": "The following forms are prescribed as stated below, for use in connection with the application of labor laws:\n\n(a) [Reserved]\n\n(b) [Reserved]\n\n(c) SF 308 (DOL) (Rev. 2/2013), Request for Wage Determination and Response to Request. (See 22.404-3(a) and (b).)\n\n(d) [Reserved]\n\n(e) SF 1413 (Rev. 4/2013), Statement and Acknowledgment. SF 1413 is prescribed for use in obtaining contractor acknowledgment of inclusion of required clauses in subcontracts, as specified in 22.406-5.\n\n(f) Form SF 1444 (Rev. 4/2013), Request for Authorization of Additional Classification and Rate. (See 22.406-3(a) and 22.1019.)\n\n(g) SF 1445 (Rev. 12/96), Labor Standards Interview. (See 22.406-7(b).)\n\n(h) SF 1446 (Rev. 4/2013.), Labor Standards Investigation Summary Sheet. (See 22.406-8(d).)\n\n(i) Form WH-347 (DOL), Payroll (For Contractor's Optional Use). (See 22.406-6(a).)"
+      }
+    },
+    "223": {
+      "number": 223,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "224": {
+      "number": 224,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "225": {
+      "number": 225,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "226": {
+      "number": 226,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "227": {
+      "number": 227,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "228": {
+      "number": 228,
+      "name": "Bonds and insurance.",
+      "sub": {},
+      "text": {
+        "text": "The following standard forms are prescribed for use for bond and insurance requirements, as specified in Part 28:\n\n(a) SF 24 (Rev. 8/2016) Bid Bond. (See 28.106-1.) SF 24 is authorized for local reproduction and can be found in the GSA Forms Library at http://www.gsa.gov/forms.\n\n(b) SF 25 (Rev. 8/2016) Performance Bond. (See 28.106-1(b).) SF 25 is authorized for local reproduction and can be found in the GSA Forms Library at http://www.gsa.gov/forms.\n\n(c) SF 25A (Rev. 8/2016) Payment Bond. (See 28.106-1(c).) SF 25A is authorized for local reproduction and can be found in the GSA Forms Library at http://www.gsa.gov/forms.\n\n(d) SF 25B (Rev. 10/83), Continuation Sheet (For Standard Forms 24, 25, and 25A). (See 28.106-1(c).) This form can be found in the GSA Forms Library at http://www.gsa.gov/forms.\n\n(e) SF 28 (Rev. 6/03) Affidavit of Individual Surety. (See 28.106-1(e) and 28.203(b).) SF 28 is authorized for local reproduction and can be found in the GSA Forms Library at http://www.gsa.gov/forms.\n\n(f) SF 34 (Rev. 8/2016), Annual Bid Bond. (See 28.106-1(f).) SF 34 is authorized for local reproduction and can be found in the GSA Forms Library at http://www.gsa.gov/forms.\n\n(g) SF 35 (Rev. 8/2016), Annual Performance Bond. (See 28.106-1.) SF 35 is authorized for local reproduction and can be found in the GSA Forms Library at http://www.gsa.gov/forms.\n\n(h) SF 273 (Rev. 4/2013) Reinsurance Agreement for a Bond statute Performance Bond. (See 28.106-1(h) and 28.202-1(a)(4).) SF 273 is authorized for local reproduction.\n\n(i) SF 274 (Rev. 4/2013) Reinsurance Agreement for a Bond statute Payment Bond. (See 28.106-1(i) and 28.202-1(a)(4).) SF 274 is authorized for local reproduction.\n\n(j) SF 275 (Rev. 10/98) Reinsurance Agreement in Favor of the United States. (See 28.106-1(j) and 28.202-1(a)(4).) SF 275 is authorized for local reproduction.\n\n(k) SF 1414 (Rev. 10/93), Consent of Surety. SF 1414 is authorized for local reproduction.\n\n(l) SF 1415 (Rev. 7/93), Consent of Surety and Increase of Penalty. (See 28.106-1(l).) SF 1415 is authorized for local reproduction.\n\n(m) SF 1416 (Rev. 10/98) Payment Bond for Other than Construction Contracts. (See 28.106-1(m).) SF 1416 is authorized for local reproduction.\n\n(n) SF 1418 (Rev. 2/99) Performance Bond For Other Than Construction Contracts. (See 28.106-1(n).) SF 1418 is authorized for local reproduction.\n\n(o) OF 90 (Rev. 1/90), Release of Lien on Real Property. (See 28.106-1(o) and 28.203-5(a).) OF 90 is authorized for local reproduction.\n\n(p) OF 91 (1/90 Ed.), Release of Personal Property from Escrow. (See 28.106-1(p) and 28.203-5(a).) OF 91 is authorized for local reproduction."
+      }
+    },
+    "229": {
+      "number": 229,
+      "name": "Taxes (SF’s 1094, 1094-A).",
+      "sub": {},
+      "text": {
+        "text": "SF 1094 (Rev. 12/96), U.S. Tax Exemption Form, and SF 1094A (Rev. 12/96), Tax Exemption Forms Accountability Record. SF’s 1094 and 1094A are prescribed for use in establishing exemption from State or local taxes, as specified in 29.302(b)."
+      }
+    },
+    "230": {
+      "number": 230,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "231": {
+      "number": 231,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "232": {
+      "number": 232,
+      "name": "Contract financing (SF 1443).",
+      "sub": {},
+      "text": {
+        "text": "SF 1443 (7/09), Contractor’s Request for Progress Payment. SF 1443 is prescribed for use in obtaining contractors’ requests for progress payments."
+      }
+    },
+    "233": {
+      "number": 233,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "234": {
+      "number": 234,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "235": {
+      "number": 235,
+      "name": "Research and development contracting (SF 298).",
+      "sub": {},
+      "text": {
+        "text": "SF 298 (2/89), Report Documentation Page. SF 298 is prescribed for use in submitting scientific and technical reports to contracting officers and to technical information libraries, as specified in 35.010."
+      }
+    },
+    "236": {
+      "number": 236,
+      "name": "Construction and architect-engineer contracts.",
+      "sub": {
+        "1": {
+          "name": "Construction.",
+          "text": {
+            "text": "The following forms are prescribed, as stated below, for use in contracting for construction, alteration, or repair, or dismantling, demolition, or removal of improvements.\n\n(a) [Reserved]\n\n(b) [Reserved]\n\n(c) [Reserved]\n\n(d) SF 1442 (4/85 Ed.), Solicitation, Offer and Award (Construction, Alteration, or Repair). SF 1442 is prescribed for use in soliciting offers and awarding contracts expected to exceed the simplified acquisition threshold for—\n\n(1) Construction, alteration, or repair; or\n\n(2) Dismantling, demolition, or removal of improvements (and may be used for contracts within the simplified acquisition threshold), as specified in 36.701(a).\n\n(e) OF 347 (Rev. 2/2012), Order for Supplies or Services. OF 347, prescribed in 53.213(f) (or an approved agency form), may be used for contracts under the simplified acquisition threshold for—\n\n(1) Construction, alteration, or repair; or\n\n(2) Dismantling, demolition, or removal of improvements, as specified in 36.701(b).\n\n(f) OF 1419 (11/88 Ed.), Abstract of Offers—Construction, and OF 1419A (11/88 Ed.), Abstract of Offers—Construction, Continuation Sheet. OF’s 1419 and 1419A are prescribed for use in recording bids (and may be used for recording proposal information), as specified in 36.701(c)."
+          }
+        },
+        "2": {
+          "name": "Architect-engineer services (SF’s 252 and 330).",
+          "text": {
+            "text": "The following forms are prescribed for use in contracting for architect-engineer and related services:\n\n(a) SF 252 (Rev. 10/83), Architect-Engineer Contract. SF 252 is prescribed for use in awarding fixed-price contracts for architect-engineer services, as specified in 36.702(a). Pending issuance of a new edition of the form, Block 8, Negotiation Authority, is deleted.\n\n(b) SF 330 (Rev. 8/2016), Architect-Engineer Qualifications. SF 330 is prescribed for use in obtaining information from architect-engineer firms regarding their professional qualifications, as specified in 36.702(b)(1) and (b)(2)."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "237": {
+      "number": 237,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "238": {
+      "number": 238,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "239": {
+      "number": 239,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "240": {
+      "number": 240,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "241": {
+      "number": 241,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "242": {
+      "number": 242,
+      "name": "Contract administration.",
+      "sub": {
+        "1": {
+          "name": "Novation and change-of-name agreements (SF 30).",
+          "text": {
+            "text": "SF 30, Amendment of Solicitation/Modification of Contract. SF 30, prescribed in 53.243, shall be used in connection with novation and change of name agreements, as specified in 42.1203(h)."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "243": {
+      "number": 243,
+      "name": "Contract modifications (SF 30).",
+      "sub": {},
+      "text": {
+        "text": "SF 30 (Rev. 11/2016), Amendment of Solicitation/ Modification of Contract. SF 30 is prescribed for use in amending invitation for bids, as specified in 14.208; modifying purchase and delivery orders, as specified in 13.302-3; and modifying contracts, as specified in 42.1203(h), 43.301, 49.602-5, and elsewhere in this regulation. The form may also be used to amend solicitations for negotiated contracts, as specified in 15.210(b). Pending the publication of a new edition of the form, Instruction (b), Item 3 (effective date), is revised in paragraphs (3) and (5) as follows:\n\n(b) Item 3 (effective date)."
+      }
+    },
+    "244": {
+      "number": 244,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "245": {
+      "number": 245,
+      "name": "Government property.",
+      "sub": {},
+      "text": {
+        "text": "The following forms are prescribed, as specified in this section, for use in reporting, reutilization, and disposal of Government property and in accounting for this property:\n\n(a) SF 120 (GSA), Report of Excess Personal Property, and SF 120A (GSA), Continuation Sheet (Report of Excess Personal Property). (See 45.602-3 and 41 CFR 102-36.215.)\n\n(b) SF 126 (GSA), Report of Personal Property for Sale, and SF 126A (GSA), Report of Personal Property for Sale (Continuation Sheet). (See FPMR 101-45.303 (41 CFR 101-45.303.))\n\n(c) SF 1423 (Rev. 5/04), Inventory Verification Survey. (See 45.602-1(b)(1) .)\n\n(d) SF 1424 (Rev. 5/2004), Inventory Disposal Report (See 45.605). SF 1424 is authorized for local reproduction.\n\n(e) SF 1428 (Rev. 6/2007), Inventory Disposal Schedule, and SF 1429 (Rev. 5/2004), Inventory Disposal Schedule—Continuation Sheet. (See 45.602-1, 49.303-2, 52.245-1, and 53.249(b).) SF’s 1428 and 1429 are authorized for local reproduction."
+      }
+    },
+    "246": {
+      "number": 246,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "247": {
+      "number": 247,
+      "name": "Transportation (U.S. Commercial Bill of Lading).",
+      "sub": {},
+      "text": {
+        "text": "The commercial bill of lading is the preferred document for the transportation of property, as specified in 47.101."
+      }
+    },
+    "248": {
+      "number": 248,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "249": {
+      "number": 249,
+      "name": "Termination of contracts.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The following forms are prescribed for use in connection with the termination of contracts, as specified in Subpart 49.6:",
+          "sub": {
+            "1": {
+              "text": "SF 1034 (GAO), Public Voucher for Purchases and Services Other than Personal. (See 49.302(a).)"
+            },
+            "2": {
+              "text": "SF 1435 (Rev. 9/97), Settlement Proposal (Inventory Basis). (See 49.602-1(a).) Standard Form 1435 is authorized for local reproduction."
+            },
+            "3": {
+              "text": "SF 1436 (Rev. 5/2004), Settlement Proposal (Total Cost Basis). (See 49.602-1(b).) Standard Form 1436 is authorized for local reproduction."
+            },
+            "4": {
+              "text": "SF 1437 (Rev. 9/97), Settlement Proposal for Cost-Reimbursement Type Contracts. (See 49.602-1(c) and 49.302.) Standard Form 1437 is authorized for local reproduction."
+            },
+            "5": {
+              "text": "SF 1438 (Rev. 5/2004), Settlement Proposal (Short Form). (See 49.602-1(d).) Standard Form 1438 is authorized for local reproduction."
+            },
+            "6": {
+              "text": "SF 1439 (Rev. 7/89), Schedule of Accounting Information. (See 49.602-3.) Standard Form 1439 is authorized for local reproduction."
+            },
+            "7": {
+              "text": "SF 1440 (Rev. 7/89), Application for Partial Payment. (See 49.602-4.) Standard Form 1440 is authorized for local reproduction."
+            }
+          }
+        },
+        "b": {
+          "text": "SF 1428 (Rev. 6/2007), Inventory Disposal Schedule, and Standard Form 1429 (Rev. 5/2004), Inventory Disposal Schedule—Continuation Sheet, shall be used to support termination settlement proposals listed in paragraph (a) of this section, as specified in 49.602-2."
+        }
+      }
+    },
+    "250": {
+      "number": 250,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "251": {
+      "number": 251,
+      "name": "Contractor use of Government supply sources (OF 347).",
+      "sub": {},
+      "text": {
+        "text": "OF 347, Order for Supplies or Services. OF 347, prescribed in 53.213(f), may be used by contractors when requisitioning from the VA, as specified in 51.102(e)(3)(ii)."
+      }
+    }
+  }
+}

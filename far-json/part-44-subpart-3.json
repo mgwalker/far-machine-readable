@@ -1,0 +1,142 @@
+{
+  "parentPart": 44,
+  "number": 3,
+  "name": "Contractors’ Purchasing Systems Reviews",
+  "sub": {
+    "301": {
+      "number": 301,
+      "name": "Objective.",
+      "sub": {},
+      "text": {
+        "text": "The objective of a contractor purchasing system review (CPSR) is to evaluate the efficiency and effectiveness with which the contractor spends Government funds and complies with Government policy when subcontracting. The review provides the administrative contracting officer (ACO) a basis for granting, withholding, or withdrawing approval of the contractor’s purchasing system."
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "Requirements.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The ACO shall determine the need for a CPSR based on, but not limited to, the past performance of the contractor, and the volume, complexity and dollar value of subcontracts. If a contractor’s sales to the Government (excluding competitively awarded firm-fixed-price and competitively awarded fixed-price with economic price adjustment contracts and sales of commercial items pursuant to Part 12) are expected to exceed $25 million during the next 12 months, perform a review to determine if a CPSR is needed. Sales include those represented by prime contracts, subcontracts under Government prime contracts, and modifications. Generally, a CPSR is not performed for a specific contract. The head of the agency responsible for contract administration may raise or lower the $25 million review level if it is considered to be in the Government’s best interest."
+        },
+        "b": {
+          "text": "Once an initial determination has been made under paragraph (a) of this section, at least every three years the ACO shall determine whether a purchasing system review is necessary. If necessary, the cognizant contract administration office will conduct a purchasing system review."
+        }
+      }
+    },
+    "303": {
+      "number": 303,
+      "name": "Extent of review.",
+      "sub": {},
+      "text": {
+        "text": "A CPSR requires an evaluation of the contractor’s purchasing system. Unless segregation of subcontracts is impracticable, this evaluation shall not include subcontracts awarded by the contractor exclusively in support of Government contracts that are competitively awarded firm-fixed-price, competitively awarded fixed-price with economic price adjustment, or awarded for commercial items pursuant to Part 12. The considerations listed in 44.202-2 for consent evaluation of particular subcontracts also shall be used to evaluate the contractor’s purchasing system, including the contractor’s policies, procedures, and performance under that system. Special attention shall be given to—\n\n(a) The results of market research accomplished;\n\n(b) The degree of price competition obtained;\n\n(c) Pricing policies and techniques, including methods of obtaining certified cost or pricing data, and data other than certified cost or pricing data;\n\n(d) Methods of evaluating subcontractor responsibility, including the contractor’s use of the System for Award Management Exclusions (see 9.404) and, if the contractor has subcontracts with parties on the Exclusions list, the documentation, systems, and procedures the contractor has established to protect the Government’s interests (see 9.405-2);\n\n(e) Treatment accorded affiliates and other concerns having close working arrangements with the contractor;\n\n(f) Policies and procedures pertaining to small business concerns, including small disadvantaged, women-owned, veteran-owned, HUBZone, and service-disabled veteran-owned small business concerns;\n\n(g) Planning, award, and postaward management of major subcontract programs;\n\n(h) Compliance with Cost Accounting Standards in awarding subcontracts;\n\n(i) Appropriateness of types of contracts used (see 16.103);\n\n(j) Management control systems, including internal audit procedures, to administer progress payments to subcontractors; and\n\n(k) Implementation of higher-level quality standards."
+      }
+    },
+    "304": {
+      "number": 304,
+      "name": "Surveillance.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The ACO shall maintain a sufficient level of surveillance to ensure that the contractor is effectively managing its purchasing program."
+        },
+        "b": {
+          "text": "Surveillance shall be accomplished in accordance with a plan developed by the ACO with the assistance of subcontracting, audit, pricing, technical, or other specialists as necessary. The plan should cover pertinent phases of a contractor’s purchasing system (preaward, postaward, performance, and contract completion) and pertinent operations that affect the contractor’s purchasing and subcontracting. The plan should also provide for reviewing the effectiveness of the contractor’s corrective actions taken as a result of previous Government recommendations. Duplicative reviews of the same areas by CPSR and other surveillance monitors should be avoided."
+        }
+      }
+    },
+    "305": {
+      "number": 305,
+      "name": "Granting, withholding, or withdrawing approval.",
+      "sub": {
+        "1": {
+          "name": "Responsibilities.",
+          "text": {
+            "text": "The cognizant ACO is responsible for granting, withholding, or withdrawing approval of a contractor’s purchasing system. The ACO shall—\n\n(a) Approve a purchasing system only after determining that the contractor’s purchasing policies and practices are efficient and provide adequate protection of the Government’s interests; and\n\n(b) Promptly notify the contractor in writing of the granting, withholding, or withdrawal of approval."
+          }
+        },
+        "2": {
+          "name": "Notification.",
+          "text": {
+            "a": {
+              "text": "The notification granting system approval shall include—",
+              "sub": {
+                "1": {
+                  "text": "Identification of the plant or plants covered by the approval;"
+                },
+                "2": {
+                  "text": "The effective date of approval; and"
+                },
+                "3": {
+                  "text": "A statement that system approval—"
+                },
+                "i": {
+                  "text": "Applies to all Federal Government contracts at that plant to the extent that cross-servicing arrangements exist;"
+                },
+                "ii": {
+                  "text": "Waives the contractual requirement for advance notification in fixed-price contracts, but not for cost-reimbursement contracts;"
+                },
+                "iii": {
+                  "text": "Waives the contractual requirement for consent to subcontracts in fixed-price contracts and for specified subcontracts in cost-reimbursement contracts but not for those subcontracts, if any, selected for special surveillance and identified in the contract Schedule; and"
+                },
+                "iv": {
+                  "text": "May be withdrawn at any time at the ACO’s discretion."
+                }
+              }
+            },
+            "b": {
+              "text": "In exceptional circumstances, consent to certain subcontracts or classes of subcontracts may be required even though the contractor’s purchasing system has been approved. The system approval notification shall identify the class or classes of subcontracts requiring consent. Reasons for selecting the subcontracts include the fact that a CPSR or continuing surveillance has revealed sufficient weaknesses in a particular area of subcontracting to warrant special attention by the ACO."
+            },
+            "c": {
+              "text": "When recommendations are made for improvement of an approved system, the contractor shall be requested to reply within 15 days with a position regarding the recommendations."
+            }
+          }
+        },
+        "3": {
+          "name": "Withholding or withdrawing approval.",
+          "text": {
+            "a": {
+              "text": "The ACO shall withhold or withdraw approval of a contractor’s purchasing system when there are major weaknesses or when the contractor is unable to provide sufficient information upon which to make an affirmative determination. The ACO may withdraw approval at any time on the basis of a determination that there has been a deterioration of the contractor’s purchasing system or to protect the Government’s interest. Approval shall be withheld or withdrawn when there is a recurring noncompliance with requirements, including but not limited to—",
+              "sub": {
+                "1": {
+                  "text": "Certified cost or pricing data (see 15.403);"
+                },
+                "2": {
+                  "text": "Implementation of cost accounting standards (see 48 CFR Chapter 99 (FAR Appendix, loose-leaf edition));"
+                },
+                "3": {
+                  "text": "Advance notification as required by the clauses prescribed in 44.204; or"
+                },
+                "4": {
+                  "text": "Small business subcontracting (see Subpart 19.7)."
+                }
+              }
+            },
+            "b": {
+              "text": "When approval of the contractor’s purchasing system is withheld or withdrawn, the ACO shall within 10 days after completing the in-plant review (1) inform the contractor in writing, (2) specify the deficiencies that must be corrected to qualify the system for approval, and (3) request the contractor to furnish within 15 days a plan for accomplishing the necessary actions. If the plan is accepted, the ACO shall make a follow-up review as soon as the contractor notifies the ACO that the deficiencies have been corrected."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "306": {
+      "number": 306,
+      "name": "Disclosure of approval status.",
+      "sub": {},
+      "text": {
+        "text": "Upon request, the ACO may inform a contractor that the purchasing system of a proposed subcontractor has been approved or disapproved, but shall caution that the Government will not keep the contractor advised of any changes in the approval status. If the proposed subcontractor’s purchasing system has not been reviewed, the contractor shall be so advised."
+      }
+    },
+    "307": {
+      "number": 307,
+      "name": "Reports.",
+      "sub": {},
+      "text": {
+        "text": "The ACO shall distribute copies of CPSR reports; notifications granting, withholding, or withdrawing system approval; and Government recommendations for improvement of an approved system, including the contractor’s response, to at least—\n\n(a) The cognizant contract audit office;\n\n(b) Activities prescribed by the cognizant agency; and\n\n(c) The contractor (except that furnishing copies of the contractor’s response is optional)."
+      }
+    }
+  }
+}

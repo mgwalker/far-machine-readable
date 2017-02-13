@@ -1,0 +1,500 @@
+{
+  "parentPart": 3,
+  "number": 9,
+  "name": "Whistleblower Protections for Contractor Employees",
+  "sub": {
+    "900": {
+      "number": 900,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart implements various statutory whistleblower programs. This subpart does not implement 10 U.S.C. 2409, which is applicable only to DoD, NASA, and the Coast Guard.\n\n(a) 41 U.S.C. 4705 (in effect before July 1, 2013 and on or after January 2, 2017).  Sections 3.901 through 3.906 of this subpart implement 41 U.S.C. 4705, applicable to civilian agencies other than NASA and the Coast Guard, except as provided in paragraph (c) of this section.  These sections are not in effect for the duration of the pilot program described in paragraph (b) of this section.\n\n(b) 41 U.S.C. 4712 (in effect on July 1, 2013 through January 1, 2017). Section 3.908 of this subpart implements the pilot program, applicable to civilian agencies other than NASA and the Coast Guard, except as provided in paragraph (c) of this section.\n\n(c) Section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions), implemented in 3.909, applicable to all agencies.\n\n(d) Contracts funded by the American Recovery and Reinvestment Act. Section 3.907 of this subpart implements section 1553 of the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5), and applies to all contracts funded in whole or in part by that Act."
+      }
+    },
+    "901": {
+      "number": 901,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Authorized official of an agency” means an officer or employee responsible for contracting, program management, audit, inspection, investigation, or enforcement of any law or regulation relating to Government procurement or the subject matter of the contract.\n\n“Authorized official of the Department of Justice” means any person responsible for the investigation, enforcement, or prosecution of any law or regulation.\n\n“Inspector General” means an Inspector General appointed under the Inspector General Act of 1978, as amended. In the Department of Defense that is the DoD Inspector General. In the case of an executive agency that does not have an Inspector General, the duties shall be performed by an official designated by the head of the executive agency.\n\n“Internal confidentiality agreement or statement” means a confidentiality agreement or any other written statement that the contractor requires any of its employees or subcontractors to sign regarding nondisclosure of contractor information, except that it does not include confidentiality agreements arising out of civil litigation or confidentiality agreements that contractor employees or subcontractors sign at the behest of a Federal agency.\n\n“Subcontract” means any contract as defined in subpart 2.1 entered into by a subcontractor to furnish supplies or services for performance of a prime contract or a subcontract. It includes but is not limited to purchase orders, and changes and modifications to purchase orders.\n\n“Subcontractor” means any supplier, distributor, vendor, or firm (including a consultant) that furnishes supplies or services to or for a prime contractor or another subcontractor."
+      }
+    },
+    "902": {
+      "number": 902,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "903": {
+      "number": 903,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "text": "Government contractors shall not discharge, demote or otherwise discriminate against an employee as a reprisal for disclosing information to a Member of Congress, or an authorized official of an agency or of the Department of Justice, relating to a substantial violation of law related to a contract (including the competition for or negotiation of a contract)."
+      }
+    },
+    "904": {
+      "number": 904,
+      "name": "Procedures for filing complaints.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The name of the contractor;"
+        },
+        "2": {
+          "text": "The contract number, if known; if not, a description reasonably sufficient to identify the contract(s) involved;"
+        },
+        "3": {
+          "text": "The substantial violation of law giving rise to the disclosure;"
+        },
+        "4": {
+          "text": "The nature of the disclosure giving rise to the discriminatory act; and"
+        },
+        "5": {
+          "text": "The specific nature and date of the reprisal."
+        },
+        "a": {
+          "text": "Any employee of a contractor who believes that he or she has been discharged, demoted, or otherwise discriminated against contrary to the policy in 3.903 may file a complaint with the Inspector General of the agency that awarded the contract."
+        },
+        "b": {
+          "text": "The complaint shall be signed and shall contain—"
+        }
+      }
+    },
+    "905": {
+      "number": 905,
+      "name": "Procedures for investigating complaints.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Upon receipt of a complaint, the Inspector General shall conduct an initial inquiry. If the Inspector General determines that the complaint is frivolous or for other reasons does not merit further investigation, the Inspector General shall advise the complainant that no further action on the complaint will be taken."
+        },
+        "b": {
+          "text": "If the Inspector General determines that the complaint merits further investigation, the Inspector General shall notify the complainant, contractor, and head of the contracting activity. The Inspector General shall conduct an investigation and provide a written report of findings to the head of the agency or designee."
+        },
+        "c": {
+          "text": "Upon completion of the investigation, the head of the agency or designee shall ensure that the Inspector General provides the report of findings to—",
+          "sub": {
+            "1": {
+              "text": "The complainant and any person acting on the complainant’s behalf;"
+            },
+            "2": {
+              "text": "The contractor alleged to have committed the violation; and"
+            },
+            "3": {
+              "text": "The head of the contracting activity."
+            }
+          }
+        },
+        "d": {
+          "text": "The complainant and contractor shall be afforded the opportunity to submit a written response to the report of findings within 30 days to the head of the agency or designee. Extensions of time to file a written response may be granted by the head of the agency or designee."
+        },
+        "e": {
+          "text": "At any time, the head of the agency or designee may request additional investigative work be done on the complaint."
+        }
+      }
+    },
+    "906": {
+      "number": 906,
+      "name": "Remedies.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "If the head of the agency or designee determines that a contractor has subjected one of its employees to a reprisal for providing information to a Member of Congress, or an authorized official of an agency or of the Department of Justice, the head of the agency or designee may take one or more of the following actions:",
+          "sub": {
+            "1": {
+              "text": "Order the contractor to take affirmative action to abate the reprisal."
+            },
+            "2": {
+              "text": "Order the contractor to reinstate the person to the position that the person held before the reprisal, together with the compensation (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken."
+            },
+            "3": {
+              "text": "Order the contractor to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal."
+            }
+          }
+        },
+        "b": {
+          "text": "Whenever a contractor fails to comply with an order, the head of the agency or designee shall request the Department of Justice to file an action for enforcement of such order in the United States district court for a district in which the reprisal was found to have occurred. In any action brought under this section, the court may grant appropriate relief, including injunctive relief and compensatory and exemplary damages."
+        },
+        "c": {
+          "text": "Any person adversely affected or aggrieved by an order issued under this section may obtain review of the order’s conformance with the law, and this subpart, in the United States Court of Appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the agency or designee. Review shall conform to Chapter 7 of Title 5, United States Code."
+        }
+      }
+    },
+    "907": {
+      "number": 907,
+      "name": "Whistleblower Protections Under the American Recovery and Reinvestment Act of 2009 (the Recovery Act).",
+      "sub": {
+        "1": {
+          "name": "Definitions.",
+          "text": {
+            "text": "As used in this section—\n\n“Board” means the Recovery Accountability and Transparency Board established by Section 1521 of the Recovery Act.\n\n“Covered funds” means any contract payment, grant payment, or other payment received by a contractor if—\n\n(1) The Federal Government provides any portion of the money or property that is provided, requested, or demanded; and\n\n(2) At least some of the funds are appropriated or otherwise made available by the Recovery Act.\n\n“Covered information” means information that the employee reasonably believes is evidence of gross mismanagement of the contract or subcontract related to covered funds, gross waste of covered funds, a substantial and specific danger to public health or safety related to the implementation or use of covered funds, an abuse of authority related to the implementation or use of covered funds, or a violation of law, rule, or regulation related to an agency contract (including the competition for or negotiation of a contract) awarded or issued relating to covered funds.\n\n“Inspector General” means an Inspector General appointed under the Inspector General Act of 1978. In the Department of Defense that is the DoD Inspector General. In the case of an executive agency that does not have an Inspector General, the duties shall be performed by an official designated by the head of the executive agency.\n\n“Non-Federal employer,” as used in this section, means any employer that receives Recovery Act funds, including a contractor, subcontractor, or other recipient of funds pursuant to a contract or other agreement awarded and administered in accordance with the Federal Acquisition Regulation."
+          }
+        },
+        "2": {
+          "name": "Policy.",
+          "text": {
+            "text": "Non-Federal employers are prohibited from discharging, demoting, or otherwise discriminating against an employee as a reprisal for disclosing covered information to any of the following entities or their representatives:\n\n(1) The Board.\n\n(2) An Inspector General.\n\n(3) The Comptroller General.\n\n(4) A member of Congress.\n\n(5) A State or Federal regulatory or law enforcement agency.\n\n(6) A person with supervisory authority over the employee or such other person working for the employer who has the authority to investigate, discover, or terminate misconduct.\n\n(7) A court or grand jury.\n\n(8) The head of a Federal agency."
+          }
+        },
+        "3": {
+          "name": "Procedures for filing complaints.",
+          "text": {
+            "a": {
+              "text": "An employee who believes that he or she has been subjected to reprisal prohibited by the Recovery Act, Section 1553 as set forth in 3.907-2, may submit a complaint regarding the reprisal to the Inspector General of the agency that awarded the contract."
+            },
+            "b": {
+              "text": "The complaint shall be signed and shall contain—",
+              "sub": {
+                "1": {
+                  "text": "The name of the contractor;"
+                },
+                "2": {
+                  "text": "The contract number, if known; if not, a description reasonably sufficient to identify the contract(s) involved;"
+                },
+                "3": {
+                  "text": "The covered information giving rise to the disclosure;"
+                },
+                "4": {
+                  "text": "The nature of the disclosure giving rise to the discriminatory act; and"
+                },
+                "5": {
+                  "text": "The specific nature and date of the reprisal."
+                }
+              }
+            },
+            "c": {
+              "text": "A contracting officer who receives a complaint of reprisal of the type described in 3.907-2 shall forward it to the Office of Inspector General and to other designated officials in accordance with agency procedures (e.g., agency legal counsel)."
+            }
+          }
+        },
+        "4": {
+          "name": "Procedures for investigating complaints.",
+          "text": {
+            "text": "Investigation of complaints will be in accordance with section 1553 of the Recovery Act."
+          }
+        },
+        "5": {
+          "name": "Access to investigative file of Inspector General. ",
+          "text": {
+            "a": {
+              "text": "The employee alleging reprisal under this section shall have access to the investigation file of the Inspector General, in accordance with the Privacy Act, 5 U.S.C. §552a. The investigation of the Inspector General shall be deemed closed for the purposes of disclosure under such section when an employee files an appeal to the agency head or a court of competent jurisdiction."
+            },
+            "b": {
+              "text": "In the event the employee alleging reprisal brings a civil action under section 1553(c)(3) of the Recovery Act, the employee alleging the reprisal and the non-Federal employer shall have access to the investigative file of the Inspector General in accordance with the Privacy Act."
+            },
+            "c": {
+              "text": "The Inspector General may exclude from disclosures made under 3.907-5(a) or (b)—",
+              "sub": {
+                "1": {
+                  "text": "Information protected from disclosure by a provision of law; and"
+                },
+                "2": {
+                  "text": "Any additional information the Inspector General determines disclosure of which would impede a continuing investigation, provided that such information is disclosed once such disclosure would no longer impede such investigation, unless the Inspector General determines that the disclosure of law enforcement techniques, procedures, or information could reasonably be expected to risk circumvention of the law or disclose the identity of a confidential source."
+                }
+              }
+            },
+            "d": {
+              "text": "An Inspector General investigating an alleged reprisal under this section may not respond to any inquiry or disclose any information from or about any person alleging such reprisal, except in accordance with 5 U.S.C. 552a or as required by any other applicable Federal law."
+            }
+          }
+        },
+        "6": {
+          "name": "Remedies and enforcement authority.",
+          "text": {
+            "a": {
+              "text": "Burden of Proof.",
+              "sub": {
+                "1": {
+                  "text": "Disclosure as contributing factor in reprisal.",
+                  "sub": {
+                    "i": {
+                      "text": "An employee alleging a reprisal under this section shall be deemed to have affirmatively established the occurrence of the reprisal if the employee demonstrates that a disclosure described in section 3.907-2 was a contributing factor in the reprisal."
+                    },
+                    "ii": {
+                      "text": "A disclosure may be demonstrated as a contributing factor in a reprisal for purposes of this paragraph by circumstantial evidence, including—"
+                    },
+                    "A": {
+                      "text": "Evidence that the official undertaking the reprisal knew of the disclosure; or"
+                    },
+                    "B": {
+                      "text": "Evidence that the reprisal occurred within a period of time after the disclosure such that a reasonable person could conclude that the disclosure was a contributing factor in the reprisal."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "Opportunity for rebuttal. The head of an agency may not find the occurrence of a reprisal with respect to a reprisal that is affirmatively established under section 3.907-6(a)(1) if the non-Federal employer demonstrates by clear and convincing evidence that the non-Federal employer would have taken the action constituting the reprisal in the absence of the disclosure."
+                }
+              }
+            },
+            "b": {
+              "text": "No later than 30 days after receiving an Inspector General report in accordance with section 1553 of the Recovery Act, the head of the agency concerned shall determine whether there is sufficient basis to conclude that the non-Federal employer has subjected the complainant to a reprisal prohibited by subsection 3.907-2 and shall either issue an order denying relief in whole or in part or shall take one or more of the following actions:",
+              "sub": {
+                "1": {
+                  "text": "Order the employer to take affirmative action to abate the reprisal."
+                },
+                "2": {
+                  "text": "Order the employer to reinstate the person to the position that the person held before the reprisal, together with the compensation (including back pay), compensatory damages, employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken."
+                },
+                "3": {
+                  "text": "Order the employer to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal."
+                }
+              }
+            },
+            "c": {
+              "text": "(1) The complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the employer to seek compensatory damages and other relief available under this section in the appropriate district court of United States, which shall have jurisdiction over such an action without regard to the amount in controversy if—",
+              "sub": {
+                "2": {
+                  "text": "Such an action shall, at the request of either party to the action, be tried by the court with a jury."
+                },
+                "i": {
+                  "text": "The head of an agency—"
+                },
+                "A": {
+                  "text": "Issues an order denying relief in whole or in part under paragraph (a) of this section;"
+                },
+                "B": {
+                  "text": "Has not issued an order within 210 days after the submission of a complaint in accordance with section 1553 of the Recovery Act, or in the case of an extension of time in accordance with section 1553 of the Recovery Act, within 30 days after the expiration of the extension of time; or"
+                },
+                "C": {
+                  "text": "Decides in accordance with section 1553 of the Recovery Act not to investigate or to discontinue an investigation; and"
+                },
+                "ii": {
+                  "text": "There is no showing that such delay or decision is due to the bad faith of the complainant."
+                }
+              }
+            },
+            "d": {
+              "text": "Whenever an employer fails to comply with an order issued under this section, the head of the agency shall request the Department of Justice to file an action for enforcement of such order in the United States district court for a district in which the reprisal was found to have occurred. In any action brought under this section, the court may grant appropriate relief, including injunctive relief, compensatory and exemplary damages, and attorneys fees and costs."
+            },
+            "e": {
+              "text": "Any person adversely affected or aggrieved by an order issued under paragraph (b) of this subsection may obtain review of the order’s conformance with the law, and this section, in the United States Court of Appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the agency."
+            }
+          }
+        },
+        "7": {
+          "name": "Contract clause.",
+          "text": {
+            "text": "Use the clause at 52.203-15, Whistleblower Protections Under the American Recovery and Reinvestment Act of 2009 in all solicitations and contracts funded in whole or in part with Recovery Act funds."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "908": {
+      "number": 908,
+      "name": "Pilot program for enhancement of contractor employee whistleblower protections.",
+      "sub": {
+        "1": {
+          "name": "Scope of section.",
+          "text": {
+            "1": {
+              "text": "DoD, NASA, and the Coast Guard; or"
+            },
+            "2": {
+              "text": "Any element of the intelligence community, as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).  This section does not apply to any disclosure made by an employee of a contractor or subcontractor of an element of the intelligence community if such disclosure-"
+            },
+            "a": {
+              "text": "This section implements 41 U.S.C. 4712."
+            },
+            "b": {
+              "text": "This section does not apply to—"
+            },
+            "i": {
+              "text": "Relates to an activity of an element of the intelligence community; or"
+            },
+            "ii": {
+              "text": "Was discovered during contract or subcontract services provided to an element of the intelligence community."
+            }
+          }
+        },
+        "2": {
+          "name": "Definitions.",
+          "text": {
+            "text": "As used in this section—\n\n“Abuse of authority” means an arbitrary and capricious exercise of authority that is inconsistent with the mission of the executive agency concerned or the successful performance of a contract of such agency.\n\n“Inspector General” means an Inspector General appointed under the Inspector General Act of 1978 and any Inspector General that receives funding from, or has oversight over contracts awarded for, or on behalf of, the executive agency concerned."
+          }
+        },
+        "3": {
+          "name": "Policy.",
+          "text": {
+            "a": {
+              "text": "Contractors and subcontractors are prohibited from discharging, demoting, or otherwise discriminating against an employee as a reprisal for disclosing, to any of the entities listed at paragraph (b) of this subsection, information that the employee reasonably believes is evidence of gross mismanagement of a Federal contract, a gross waste of Federal funds, an abuse of authority relating to a Federal contract, a substantial and specific danger to public health or safety, or a violation of law, rule, or regulation related to a Federal contract (including the competition for or negotiation of a contract). A reprisal is prohibited even if it is undertaken at the request of an executive branch official, unless the request takes the form of a non-discretionary directive and is within the authority of the executive branch official making the request."
+            },
+            "b": {
+              "text": "Entities to whom disclosure may be made.",
+              "sub": {
+                "1": {
+                  "text": "A Member of Congress or a representative of a committee of Congress."
+                },
+                "2": {
+                  "text": "An Inspector General."
+                },
+                "3": {
+                  "text": "The Government Accountability Office."
+                },
+                "4": {
+                  "text": "A Federal employee responsible for contract oversight or management at the relevant agency."
+                },
+                "5": {
+                  "text": "An authorized official of the Department of Justice or other law enforcement agency."
+                },
+                "6": {
+                  "text": "A court or grand jury."
+                },
+                "7": {
+                  "text": "A management official or other employee of the contractor or subcontractor who has the responsibility to investigate, discover, or address misconduct."
+                }
+              }
+            },
+            "c": {
+              "text": "An employee who initiates or provides evidence of contractor or subcontractor misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a Federal contract shall be deemed to have made a disclosure."
+            }
+          }
+        },
+        "4": {
+          "name": "Filing complaints.",
+          "text": {
+            "text": "A contractor or subcontractor employee who believes that he or she has been discharged, demoted, or otherwise discriminated against contrary to the policy in 3.908-3 of this section may submit a complaint with the Inspector General of the agency concerned. Procedures for submitting fraud, waste, abuse, and whistleblower complaints are generally accessible on agency Office of Inspector General Hotline or Whistleblower Internet sites. A complaint by the employee may not be brought under 41 U.S.C. 4712 more than three years after the date on which the alleged reprisal took place."
+          }
+        },
+        "5": {
+          "name": "Procedures for investigating complaints.",
+          "text": {
+            "a": {
+              "text": "Investigation of complaints will be in accordance with 41 U.S.C. 4712(b)."
+            },
+            "b": {
+              "text": "Upon completion of the investigation, the head of the agency or designee shall ensure that the Inspector General provides the report of findings to—",
+              "sub": {
+                "1": {
+                  "text": "The complainant and any person acting on the complainant’s behalf;"
+                },
+                "2": {
+                  "text": "The contractor alleged to have committed the violation; and"
+                },
+                "3": {
+                  "text": "The head of the contracting activity."
+                }
+              }
+            },
+            "c": {
+              "text": "The complainant and contractor shall be afforded the opportunity to submit a written response to the report of findings within 30 days to the head of the agency or designee.  Extensions of time to file a written response may be granted by the head of the agency or designee."
+            },
+            "d": {
+              "text": "At any time, the head of the agency or designee may request additional investigative work be done on the complaint."
+            }
+          }
+        },
+        "6": {
+          "name": "Remedies.",
+          "text": {
+            "a": {
+              "text": "Agency response to Inspector General report.  Not later than 30 days after receiving an Inspector General report in accordance with 41 U.S.C. 4712, the head of the agency shall—",
+              "sub": {
+                "1": {
+                  "text": "Determine whether sufficient basis exists to conclude that the contractor or subcontractor has subjected the employee who submitted the complaint to a reprisal as prohibited by 3.908-3; and"
+                },
+                "2": {
+                  "text": "Issue an order denying relief or take one or more of the following actions:"
+                },
+                "i": {
+                  "text": "Order the contractor to take affirmative action to abate the reprisal."
+                },
+                "ii": {
+                  "text": "Order the contractor or subcontractor to reinstate the complainant-employee to the position that the person held before the reprisal, together with compensatory damages (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken."
+                },
+                "iii": {
+                  "text": "Order the contractor or subcontractor to pay the complainant-employee an amount equal to the aggregate amount of all costs and expenses (including attorneys' fees and expert witnesses’ fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the agency."
+                }
+              }
+            },
+            "b": {
+              "text": "Complainant’s right to go to court.  If the head of the agency issues an order denying relief or has not issued an order within 210 days after the submission of the complaint or within 30 days after the expiration of an extension of time granted in accordance with 41 U.S.C. 4712(b)(2)(B) for the submission of the Inspector General’s report on the investigative findings of the complaint to the head of the agency, the contractor or subcontractor, and the complainant, and there is no showing that such delay is due to the bad faith of the complainant—",
+              "sub": {
+                "1": {
+                  "text": "The complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint; and"
+                },
+                "2": {
+                  "text": "The complainant may bring a de novo action at law or equity against the contractor or subcontractor to seek compensatory damages and other relief available under 41 U.S.C. 4712 in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury. An action under this authority may not be brought more than two years after the date on which remedies are deemed to have been exhausted."
+                }
+              }
+            },
+            "c": {
+              "text": "Admissibility in evidence.  An Inspector General determination and an agency head order denying relief under this section shall be admissible in evidence in any de novo action at law or equity brought pursuant to 41 U.S.C. 4712."
+            },
+            "d": {
+              "text": "No waiver.  The rights and remedies provided for in 41 U.S.C. 4712 may not be waived by any agreement, policy, form, or condition of employment."
+            }
+          }
+        },
+        "7": {
+          "name": "Enforcement of orders.",
+          "text": {
+            "a": {
+              "text": "Whenever a contractor or subcontractor fails to comply with an order issued under 3.908-6(a)(2) of this section, the head of the agency concerned shall file an action for enforcement of the order in the U.S. district court for a district in which the reprisal was found to have occurred.  In any action brought pursuant to this authority, the court may grant appropriate relief, including injunctive relief, compensatory and exemplary damages, and attorney fees and costs.  The complainant-employee upon whose behalf an order was issued may also file such an action or join in an action filed by the head of the agency."
+            },
+            "b": {
+              "text": "Any person adversely affected or aggrieved by an order issued under 3.908-6(a)(2) may obtain review of the order’s conformance with 41 U.S.C. 4712 and its implementing regulations, in the U.S. court of appeals for a circuit in which the reprisal is alleged in the order to have occurred.  No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the agency.  Filing such an appeal shall not act to stay the enforcement of the order of the head of an agency, unless a stay is specifically entered by the court."
+            }
+          }
+        },
+        "8": {
+          "name": "Classified information.",
+          "text": {
+            "text": "41 U.S.C. 4712 does not provide any right to disclose classified information not otherwise provided by law."
+          }
+        },
+        "9": {
+          "name": "Contract clause.",
+          "text": {
+            "text": "The contracting officer shall insert the clause at 52.203-17, Contractor Employee Whistleblower Rights and Requirement to Inform Employees of Whistleblower Rights, in all solicitations and contracts that exceed the simplified acquisition threshold."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "909": {
+      "number": 909,
+      "name": "Prohibition on providing funds to an entity that requires certain internal confidentiality agreements or statements.",
+      "sub": {
+        "1": {
+          "name": "Prohibition.",
+          "text": {
+            "a": {
+              "text": "The Government is prohibited from using fiscal year 2015 and subsequent fiscal year funds for a contract with an entity that requires employees or subcontractors of such entity seeking to report waste, fraud, or abuse to sign internal confidentiality agreements or statements prohibiting or otherwise restricting such employees or subcontractors from lawfully reporting such waste, fraud, or abuse to a designated investigative or law enforcement representative of a Federal department or agency authorized to receive such information.  See section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions.)"
+            },
+            "b": {
+              "text": "The prohibition in paragraph (a) of this section does not contravene requirements applicable to Standard Form 312 (Classified Information Nondisclosure Agreement), Form 4414 (Sensitive Compartmented Information Nondisclosure Agreement), or any other form issued by a Federal department or agency governing the nondisclosure of classified information."
+            }
+          }
+        },
+        "2": {
+          "name": "Representation by the offeror.",
+          "text": {
+            "a": {
+              "text": "In order to be eligible for contract award, an offeror must represent that it will not require its employees or subcontractors to sign internal confidentiality agreements or statements prohibiting or otherwise restricting such employees or subcontractors from lawfully reporting waste, fraud, or abuse related to the performance of a Government contract to a designated investigative or law enforcement representative of a Federal department or agency authorized to receive such information (e.g., agency Office of the Inspector General).  Any offeror that does not so represent is ineligible for award of a contract."
+            },
+            "b": {
+              "text": "The contracting officer may rely on an offeror’s representation unless the contracting officer has reason to question the representation."
+            }
+          }
+        },
+        "3": {
+          "name": "Solicitation provision and contract clause.",
+          "text": {
+            "text": "When using funding subject to the prohibitions in 3.909-1(a), the contracting officer shall–\n\n(a)(1) Include the provision at 52.203-18, Prohibition on Contracting with Entities that Require Certain Internal Confidentiality Agreements or Statements-Representation, in all solicitations, except as provided in paragraph (a)(2) of this section; and\n\n(2) Do not insert the provision in solicitations for a personal services contract with an individual if the services are to be performed entirely by the individual, rather than by an employee of the contractor or a subcontractor.\n\n(b)(1) Include the clause at 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements, in all solicitations and resultant contracts, other than personal services contracts with individuals.\n\n(2) Modify existing contracts, other than personal services contracts with individuals, to include the clause before obligating FY 2015 or subsequent FY funds that are subject to the same prohibition on internal confidentiality agreements or statements."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    }
+  }
+}

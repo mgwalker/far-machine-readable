@@ -1,0 +1,157 @@
+{
+  "parentPart": 4,
+  "number": 11,
+  "name": "System for Award Management",
+  "sub": {
+    "1100": {
+      "number": 1100,
+      "name": "Scope.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures for requiring contractor registration in the System for Award Management (SAM) database to—\n\n(a) Increase visibility of vendor sources (including their geographical locations) for specific supplies and services; and\n\n(b) Establish a common source of vendor data for the Government."
+      }
+    },
+    "1101": {
+      "number": 1101,
+      "name": "Definition.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Agreement” means basic agreement, basic ordering agreement, or blanket purchase agreement."
+      }
+    },
+    "1102": {
+      "number": 1102,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "2": {
+          "text": "The contractor shall not change the name or address for electronic funds transfer payments (EFT) or manual payments, as appropriate, in the SAM record to reflect an assignee for the purpose of assignment of claims (see Subpart 32.8, Assignment of Claims)."
+        },
+        "3": {
+          "text": "Assignees shall be separately registered in the SAM database. Information provided to the contractor’s SAM record that indicates payments, including those made by EFT, to an ultimate recipient other than that contractor will be considered to be incorrect information within the meaning of the “Suspension of payment” paragraph of the EFT clause of the contract."
+        },
+        "a": {
+          "text": "Prospective contractors shall be registered in the SAM database prior to award of a contract or agreement, except for—",
+          "sub": {
+            "1": {
+              "text": "Purchases under the micro-purchase threshold that use a Governmentwide commercial purchase card as both the purchasing and payment mechanism, as opposed to using the purchase card for payment only;"
+            },
+            "2": {
+              "text": "Classified contracts (see 2.101) when registration in the SAM database, or use of SAM data, could compromise the safeguarding of classified information or national security;"
+            },
+            "3": {
+              "text": "Contracts awarded by—",
+              "sub": {
+                "i": {
+                  "text": "Deployed contracting officers in the course of military operations, including, but not limited to, contingency operations as defined in 10 U.S.C. 101(a)(13) or humanitarian or peacekeeping operations as defined in 10 U.S.C. 2302(8);"
+                },
+                "ii": {
+                  "text": "Contracting officers located outside the United States and its outlying areas, as defined in 2.101, for work to be performed in support of diplomatic or developmental operations, including those performed in support of foreign assistance programs overseas, in an area that has been designated by the Department of State as a danger pay post (see http:// aoprals.state.gov/Web920/danger_pay_all.asp); or"
+                },
+                "iii": {
+                  "text": "Contracting officers in the conduct of emergency operations, such as responses to natural or environmental disasters or national or civil emergencies, e.g., Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121);"
+                }
+              }
+            },
+            "4": {
+              "text": "Contracts with individuals for performance outside the United States and its outlying areas;"
+            },
+            "5": {
+              "text": "Contracts to support unusual or compelling needs (see 6.302-2);"
+            },
+            "6": {
+              "text": "Contract actions at or below $30,000 awarded to foreign vendors for work performed outside the United States, if it is impractical to obtain System for Award Management registration; and"
+            },
+            "7": {
+              "text": "Micro-purchases that do not use the electronic funds transfer (EFT) method for payment and are not required to be reported (see Subpart 4.6)."
+            }
+          }
+        },
+        "b": {
+          "text": "If practical, the contracting officer shall modify the contract or agreement awarded under paragraph (a)(3) of this section to require SAM registration.\n\n(c)\n\n(1)\n\n(c)\n\n(1)"
+        },
+        "i": {
+          "text": "If a contractor has legally changed its business name, “doing business as” name, or division name (whichever is shown on the contract), or has transferred the assets used in performing the contract, but has not completed the necessary requirements regarding novation and change-of-name agreements in Subpart 42.12, the contractor shall provide the responsible contracting officer a minimum of one business day’s written notification of its intention to change the name in the SAM database; comply with the requirements of Subpart 42.12; and agree in writing to the timeline and procedures specified by the responsible contracting officer. The contractor must provide with the notification sufficient documentation to support the legally changed name."
+        },
+        "ii": {
+          "text": "If the contractor fails to comply with the requirements of paragraph (c)(1)(i) of the clause at 52.204-13, System for Award Management Maintenance, or fails to perform the agreement at 52.204-13, paragraph (c)(1)(i)(C),  and, in the absence of a properly executed novation or change-of-name agreement, the SAM information that shows the contractor to be other than the contractor indicated in the contract will be considered to be incorrect information within the meaning of the “Suspension of Payment” paragraph of the EFT clause of the contract."
+        }
+      }
+    },
+    "1103": {
+      "number": 1103,
+      "name": "Procedures.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Unless the acquisition is exempt under 4.1102, the contracting officer—",
+          "sub": {
+            "1": {
+              "text": "Shall verify that the prospective contractor is registered in the SAM database (see paragraph (b) of this section) before awarding a contract or agreement. Contracting officers are encouraged to check the SAM early in the acquisition process, after the competitive range has been established, and then communicate to the unregistered offerors that they shall register;"
+            },
+            "2": {
+              "text": "Should use the unique entity identifier to verify registration—",
+              "sub": {
+                "i": {
+                  "text": "Via the Internet via https://www.acquisition.gov; or"
+                },
+                "ii": {
+                  "text": "As otherwise provided by agency procedures; or"
+                }
+              }
+            },
+            "3": {
+              "text": "Need not verify registration before placing an order or call if the contract or agreement includes the provision at 52.204-7, System for Award Management, or the clause at 52.212-4, Contract Terms and Conditions-Commercial Items, or a similar agency clause, except when use of the Governmentwide commercial purchase card is contemplated as a method of payment.  (See 32.1108(b)(2))."
+            }
+          }
+        },
+        "b": {
+          "text": "If the contracting officer, when awarding a contract or agreement, determines that a prospective contractor is not registered in the SAM database and an exception to the registration requirements for the award does not apply (see 4.1102), the contracting officer shall—",
+          "sub": {
+            "1": {
+              "text": "If the needs of the requiring activity allow for a delay, make award after the apparently successful offeror has registered in the SAM database. The contracting officer shall advise the offeror of the number of days it will be allowed to become registered. If the offeror does not become registered by the required date, the contracting officer shall award to the next otherwise successful registered offeror following the same procedures (i.e., if the next apparently successful offeror is not registered, the contracting officer shall advise the offeror of the number of days it will be allowed to become registered, etc.); or"
+            },
+            "2": {
+              "text": "If the needs of the requiring activity do not allow for a delay, proceed to award to the next otherwise successful registered offeror, provided that written approval is obtained at one level above the contracting officer; or"
+            },
+            "3": {
+              "text": "If the contract action is being awarded pursuant to 6.302-2, the contractor must be registered in the System for Award Management within 30 days after contract award, or at least three days prior to submission of the first invoice, whichever occurs first."
+            }
+          }
+        },
+        "c": {
+          "text": "Agencies shall protect against improper disclosure of contractor SAM information."
+        },
+        "d": {
+          "text": "The contracting officer shall, on contractual documents transmitted to the payment office, provide the unique entity identifier and, if applicable, the Electronic Funds Transfer indicator, in accordance with agency procedures."
+        }
+      }
+    },
+    "1104": {
+      "number": 1104,
+      "name": "Disaster Response Registry.",
+      "sub": {},
+      "text": {
+        "text": "Contracting officers shall consult the Disaster Response Registry via https://www.acquisition.gov when contracting for debris removal, distribution of supplies, reconstruction, and other disaster or emergency relief activities inside the United States and outlying areas.  (See 26.205)."
+      }
+    },
+    "1105": {
+      "number": 1105,
+      "name": "Solicitation provision and contract clauses.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "(1) Except as provided in 4.1102(a), use the provisions at 52.204-7, System for Award Management, in solicitations.",
+          "sub": {
+            "2": {
+              "text": "If the solicitation is anticipated to be awarded in accordance with 4.1102(a)(5), the contracting officer shall use the provision at 52.204-7, System for Award Management, with its Alternate I."
+            }
+          }
+        },
+        "b": {
+          "text": "Insert the clause at 52.204-13, System for Award Management Maintenance, in solicitations that contain the provision at 52.204-7, and resulting contracts."
+        }
+      }
+    }
+  }
+}

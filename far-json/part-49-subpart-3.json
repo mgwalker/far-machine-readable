@@ -1,0 +1,191 @@
+{
+  "parentPart": 49,
+  "number": 3,
+  "name": "Additional Principles for Cost-Reimbursement Contracts Terminated for Convenience",
+  "sub": {
+    "301": {
+      "number": 301,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "text": "Termination clauses for cost-reimbursement contracts (see 49.503(a)) provide for the settlement of costs and fee, if any. The contract clauses governing costs shall determine what costs are allowable."
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "Discontinuance of vouchers.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "When the contract has been completely terminated, the contractor shall not use Standard Form 1034 (Public Voucher for Purchases and Services Other than Personal) after the last day of the sixth month following the month in which the termination is effective. The contractor may elect to stop using vouchers at any time during the 6-month period. When the contractor has vouchered out all costs within the 6-month period, a proposal for fee, if any, may be submitted on SF 1437 (see 49.602-1) or by letter appropriately certified. The contractor must submit a substantiated proposal for fee to the TCO within 1 year from the effective date of termination, unless the period is extended by the TCO. When the use of vouchers is discontinued, the contractor shall submit all unvouchered costs and the proposed fee, if any, as specified in 49.303."
+        },
+        "b": {
+          "text": "When the contract is partially terminated, 49.304 shall apply."
+        }
+      }
+    },
+    "303": {
+      "number": 303,
+      "name": "Procedure after discontinuing vouchers.",
+      "sub": {
+        "1": {
+          "name": "Submission of settlement proposal.",
+          "text": {
+            "text": "The contractor shall submit a final settlement proposal covering unvouchered costs and any proposed fee to within 1 year from the effective date of termination, unless the period is extended by the TCO. The contractor shall use the form prescribed in 49.602-1, unless the TCO authorizes otherwise. The proposal shall not include costs that have been—\n\n(a) Finally disallowed by the contracting officer; or\n\n(b) Previously vouchered and formally questioned by the Government but not yet decided as to allowability."
+          }
+        },
+        "2": {
+          "name": "Submission of inventory disposal schedules.",
+          "text": {
+            "text": "Subject to the terms of the termination clause, and whenever termination inventory is involved, the contractor shall submit complete inventory disposal schedules to the TCO reflecting inventory that is allocable to the terminated portion of the contract. The inventory disposal schedules shall be submitted within 120 days from the effective date of termination unless otherwise extended by the TCO based on a written justification to support the extension. The inventory disposal schedules shall be prepared on Standard Form 1428, Inventory Disposal Schedule."
+          }
+        },
+        "3": {
+          "name": "Audit of settlement proposal.",
+          "text": {
+            "text": "The TCO shall submit the settlement proposal to the appropriate audit agency for review (see 49.107). However, if the settlement proposal is limited to an adjustment of fee, no referral to the audit agency is required."
+          }
+        },
+        "4": {
+          "name": "Adjustment of indirect costs.",
+          "text": {
+            "a": {
+              "text": "If the contract contains the clause at 52.216-7, Allowable Cost and Payment, and it appears that adjustment of indirect costs will unduly delay final settlement, the TCO, after obtaining information from the appropriate audit agency, may agree with the contractor to—",
+              "sub": {
+                "1": {
+                  "text": "Negotiate the amount of indirect costs for the contract period for which final indirect cost rates have not been negotiated, or to use billing rates as final rates for this period if the billing rates appear reasonable; or"
+                },
+                "2": {
+                  "text": "Reserve any indirect cost adjustment in the final settlement agreement, pending establishment of negotiated rates under Subpart 42.7."
+                }
+              }
+            },
+            "b": {
+              "text": "When an amount of indirect cost is negotiated under paragraph (a)(1) of this section, the contractor shall eliminate the indirect cost and the related direct costs on which it was based from the total pool and base used to compute indirect costs for other contracts performed during the applicable accounting period."
+            }
+          }
+        },
+        "5": {
+          "name": "Final settlement.",
+          "text": {
+            "a": {
+              "text": "The TCO shall proceed with the settlement and execution of a settlement agreement upon receipt of the audit report, if applicable, and the contract audit closing statement covering vouchered costs."
+            },
+            "b": {
+              "text": "The TCO shall adjust the fee as provided in 49.305."
+            },
+            "c": {
+              "text": "The final settlement agreement may include all demands of the Government and proposals of the contractor under the terminated contract. However, no amount shall be allowed for any item of cost disallowed by the Government, nor for any other item of cost of the same nature."
+            },
+            "d": {
+              "text": "If an overall settlement of costs is agreed upon, agreement on each element of cost is not necessary. If appropriate, differences may be compromised and doubtful questions settled by agreement. An overall settlement shall not include costs that are clearly not allowable under the terms of the contract."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "304": {
+      "number": 304,
+      "name": "Procedure for partial termination.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "a": {
+              "text": "In a partial termination, the TCO shall limit the settlement to an adjustment of the fee, if any, and with the concurrence of the contracting office to a reduction in the estimated cost. The TCO shall adjust the fee as provided in 49.304-2 and 49.305, unless—",
+              "sub": {
+                "1": {
+                  "text": "The terminated portion is clearly severable from the balance of the contract; or"
+                },
+                "2": {
+                  "text": "Performance of the contract is virtually complete, or performance of any continued portion is only on subsidiary items or spare parts, or is otherwise not substantial."
+                }
+              }
+            },
+            "b": {
+              "text": "In the case of the exceptions in paragraph (a), the procedures in 49.302 and 49.303 apply."
+            }
+          }
+        },
+        "2": {
+          "name": "Submission of settlement proposal (fee only).",
+          "text": {
+            "text": "The contractor shall limit the settlement proposal to a proposed reduction in the amount of fee. The final settlement proposal shall be submitted to the TCO within one year from the effective date of termination, unless the period is extended by the TCO. The proposal may be submitted in the form prescribed in 49.602-1 or by letter appropriately certified. The contractor shall substantiate the amount of fee claimed (see 49.305)."
+          }
+        },
+        "3": {
+          "name": "Submission of vouchers.",
+          "text": {
+            "text": "When a partial termination settlement is limited to adjustment of fee, the contractor shall continue to submit the SF 1034, Public Voucher for Purchases and Services Other than Personal, for costs reimbursable under the contract. The contractor shall not be reimbursed for costs of settlements with subcontractors unless required approvals or ratifications have been obtained (see 49.108)."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "305": {
+      "number": 305,
+      "name": "Adjustment of fee.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "a": {
+              "text": "The TCO shall determine the adjusted fee to be paid, if any, in the manner provided by the contract. The determination is generally based on a percentage of completion of the contract or of the terminated portion. When this basis is used, factors such as the extent and difficulty of the work performed by the contractor (e.g., planning, scheduling, technical study, engineering work, production and supervision, placing and supervising subcontracts, and work performed by the contractor in (1) stopping performance, (2) settling terminated subcontracts, and (3) disposing of termination inventory) shall be compared with the total work required by the contract or by the terminated portion. The contractor’s adjusted fee shall not include an allowance for fee for subcontract effort included in subcontractors’ settlement proposals."
+            },
+            "b": {
+              "text": "The ratio of costs incurred to the total estimated cost of performing the contract or the terminated portion is only one factor in computing the percentage of completion. This percentage may be either greater or less than that indicated by the ratio of costs incurred, depending upon the evaluation by the TCO of other pertinent factors."
+            }
+          }
+        },
+        "2": {
+          "name": "Construction contracts.",
+          "text": {
+            "a": {
+              "text": "The percentage of completion basis refers to the contractor’s total effort and not solely to the actual construction work. Generally, the effort of a contractor under a cost-reimbursement construction or professional services contract can be segregated into factors such as—",
+              "sub": {
+                "1": {
+                  "text": "Mobilization including organization,"
+                },
+                "2": {
+                  "text": "Use of finances,"
+                },
+                "3": {
+                  "text": "Contracting for and receipt of materials,"
+                },
+                "4": {
+                  "text": "Placement of subcontracts,"
+                },
+                "5": {
+                  "text": "Preparation of shop drawings,"
+                },
+                "6": {
+                  "text": "Work in place performed by own forces,"
+                },
+                "7": {
+                  "text": "Supervision of subcontractors’ work,"
+                },
+                "8": {
+                  "text": "Job administration, and"
+                },
+                "9": {
+                  "text": "Demobilization."
+                }
+              }
+            },
+            "b": {
+              "text": "Each of the applicable factors in paragraph (a) of this section shall be assigned a weighted value depending on its importance and difficulty. The total weight value of all factors should be easily divisible (e.g., by 100) to determine percentages. The percentage of completion of each factor must be established based upon the specific facts of each contract. When totaled, the percentage of completion of each factor applied to the weighted value of each factor results in the overall percentage of contract completion. The percentage of completion is then applied to the total contract fee or to the fee applicable to the terminated portion of the contract to arrive at an equitable adjustment."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    }
+  }
+}

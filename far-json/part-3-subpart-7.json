@@ -1,0 +1,153 @@
+{
+  "parentPart": 3,
+  "number": 7,
+  "name": "Voiding and Rescinding Contracts",
+  "sub": {
+    "700": {
+      "number": 700,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "This subpart prescribes Governmentwide policies and procedures for exercising discretionary authority to declare void and rescind contracts in relation to which—",
+          "sub": {
+            "1": {
+              "text": "There has been a final conviction for bribery, conflict of interest, disclosure or receipt of contractor bid or proposal information or source selection information in exchange for a thing of value or to give anyone a competitive advantage in the award of a Federal agency procurement contract, or similar misconduct; or"
+            },
+            "2": {
+              "text": "There has been an agency head determination that contractor bid or proposal information or source selection information has been disclosed or received in exchange for a thing of value, or for the purpose of obtaining or giving anyone a competitive advantage in the award of a Federal agency procurement contract."
+            }
+          }
+        },
+        "b": {
+          "text": "This subpart does not prescribe policies or procedures for, or govern the exercise of, any other remedy available to the Government with respect to such contracts, including but not limited to, the common law right of avoidance, rescission, or cancellation."
+        }
+      }
+    },
+    "701": {
+      "number": 701,
+      "name": "Purpose.",
+      "sub": {},
+      "text": {
+        "text": "This subpart provides—\n\n(a) An administrative remedy with respect to contracts in relation to which there has been—\n\n(1) A final conviction for bribery, conflict of interest, disclosure or receipt of contractor bid or proposal information or source selection information in exchange for a thing of value or to give anyone a competitive advantage in the award of a Federal agency procurement contract, or similar misconduct; or\n\n(2) An agency head determination that contractor bid or proposal information or source selection information has been disclosed or received in exchange for a thing of value, or for the purpose of obtaining or giving anyone a competitive advantage in the award of a Federal agency procurement contract; and\n\n(b) A means to deter similar misconduct in the future by those who are involved in the award, performance, and administration of Government contracts."
+      }
+    },
+    "702": {
+      "number": 702,
+      "name": "Definition.",
+      "sub": {},
+      "text": {
+        "text": "“Final conviction” means a conviction, whether entered on a verdict or plea, including a plea of nolo contendere, for which a sentence has been imposed."
+      }
+    },
+    "703": {
+      "number": 703,
+      "name": "Authority.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The contractor or someone acting for the contractor has been convicted for an offense punishable under 41 U.S.C. 2105(a); or"
+        },
+        "2": {
+          "text": "The head of the agency, or designee, has determined, based upon a preponderance of the evidence, that the contractor or someone acting for the contractor has engaged in conduct constituting such an offense."
+        },
+        "a": {
+          "text": "Section 1(e) of Public Law 87-849, 18 U.S.C. 218 (“the Act”), empowers the President or the heads of executive agencies acting under regulations prescribed by the President, to declare void and rescind contracts and other transactions enumerated in the Act, in relation to which there has been a final conviction for bribery, conflict of interest, or any other violation of Chapter 11 of Title 18 of the United States Code (18 U.S.C. 201-224). Executive Order 12448, November 4, 1983, delegates the President’s authority under the Act to the heads of the executive agencies and military departments."
+        },
+        "b": {
+          "text": "41 U.S.C. 2105(c) requires a Federal agency, upon receiving information that a contractor or a person has violated 41 U.S.C. 2102, to consider rescission of a contract with respect to which—"
+        }
+      }
+    },
+    "704": {
+      "number": 704,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Declaring void and rescinding contracts, as appropriate, and recovering the amounts expended under the contracts by using the procedures at 3.705 (see 3.104-7); and"
+        },
+        "2": {
+          "text": "Recommending the initiation of suspension or debarment proceedings in accordance with Subpart 9.4."
+        },
+        "a": {
+          "text": "In cases in which there is a final conviction for any violation of 18 U.S.C. 201-224 involving or relating to contracts awarded by an agency, the agency head or designee, shall consider the facts available and, if appropriate, may declare void and rescind contracts, and recover the amounts expended and property transferred by the agency in accordance with the policies and procedures of this subpart."
+        },
+        "b": {
+          "text": "Since a final conviction under 18 U.S.C. 201-224 relating to a contract also may justify the conclusion that the party involved is not presently responsible, the agency should consider initiating debarment proceedings in accordance with Subpart 9.4, Debarment, Suspension, and Ineligibility, if debarment has not been initiated, or is not in effect at the time the final conviction is entered."
+        },
+        "c": {
+          "text": "If there is a final conviction for an offense punishable under 41 U.S.C. 2105, or if the head of the agency, or designee, has determined, based upon a preponderance of the evidence, that the contractor or someone acting for the contractor has engaged in conduct constituting such an offense, then the head of the contracting activity shall consider, in addition to any other penalty prescribed by law or regulation—"
+        }
+      }
+    },
+    "705": {
+      "number": 705,
+      "name": "Procedures.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Reporting. The facts concerning any final conviction for any violation of 18 U.S.C. 201-224 involving or relating to agency contracts shall be reported promptly to the agency head or designee for that official’s consideration. The agency head or designee shall promptly notify the Civil Division, Department of Justice, that the action is being considered under this subpart."
+        },
+        "b": {
+          "text": "Decision. Following an assessment of the facts, the agency head or designee may declare void and rescind contracts with respect to which a final conviction has been entered, and recover the amounts expended and the property transferred by the agency under the terms of the contracts involved."
+        },
+        "c": {
+          "text": "Decision-making process. Agency procedures governing the voiding and rescinding decision-making process shall be as informal as practicable, consistent with the principles of fundamental fairness. As a minimum, however, agencies shall provide the following:",
+          "sub": {
+            "1": {
+              "text": "A notice of proposed action to declare void and rescind the contract shall be made in writing and sent by certified mail, return receipt requested."
+            },
+            "2": {
+              "text": "A thirty calendar day period after receipt of the notice, for the contractor to submit pertinent information before any final decision is made."
+            },
+            "3": {
+              "text": "Upon request made within the period for submission of pertinent information, an opportunity shall be afforded for a hearing at which witnesses may be presented, and any witness the agency presents may be confronted. However, no inquiry shall be made regarding the validity of a conviction."
+            },
+            "4": {
+              "text": "If the agency head or designee decides to declare void and rescind the contracts involved, that official shall issue a written decision which—"
+            },
+            "i": {
+              "text": "States that determination;"
+            },
+            "ii": {
+              "text": "Reflects consideration of the fair value of any tangible benefits received and retained by the agency; and"
+            },
+            "iii": {
+              "text": "States the amount due and the property to be returned to the agency."
+            }
+          }
+        },
+        "d": {
+          "text": "Notice of proposed action. The notice of proposed action, as a minimum shall—",
+          "sub": {
+            "1": {
+              "text": "Advise that consideration is being given to declaring void and rescinding contracts awarded by the agency, and recovering the amounts expended and property transferred therefor, under the provisions of 18 U.S.C. 218;"
+            },
+            "2": {
+              "text": "Specifically identify the contracts affected by the action;"
+            },
+            "3": {
+              "text": "Specifically identify the offense or final conviction on which the action is based;"
+            },
+            "4": {
+              "text": "State the amounts expended and property transferred under each of the contracts involved, and the money and the property demanded to be returned;"
+            },
+            "5": {
+              "text": "Identify any tangible benefits received and retained by the agency under the contract, and the value of those benefits, as calculated by the agency;"
+            },
+            "6": {
+              "text": "Advise that pertinent information may be submitted within 30 calendar days after receipt of the notice, and that, if requested within that time, a hearing shall be held at which witnesses may be presented and any witness the agency presents may be confronted; and"
+            },
+            "7": {
+              "text": "Advise that action shall be taken only after the agency head or designee issues a final written decision on the proposed action."
+            }
+          }
+        },
+        "e": {
+          "text": "Final agency decision. The final agency decision shall be based on the information available to the agency head or designee, including any pertinent information submitted or, if a hearing was held, presented at the hearing.  If the agency decision declares void and rescinds the contract, the final decision shall specify the amounts due and property to be returned to the agency, and reflect consideration of the fair value of any tangible benefits received and retained by the agency.  Notice of the decision shall be sent promptly by certified mail, return receipt requested.  Rescission of contracts under the authority of the Act and demand for recovery of the amounts expended and property transferred therefor, is not a claim within the meaning of 41 U.S.C. chapter 71, Contract Disputes, or part 32. Therefore, the procedures required by the statute and the FAR for the issuance of a final contracting officer decision are not applicable to final agency decisions under this subpart, and shall not be followed."
+        }
+      }
+    }
+  }
+}

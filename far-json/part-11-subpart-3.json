@@ -1,0 +1,74 @@
+{
+  "parentPart": 11,
+  "number": 3,
+  "name": "Acceptable Material",
+  "sub": {
+    "301": {
+      "number": 301,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Postconsumer material” means a material or finished product that has served its intended use and has been discarded for disposal or recovery, having completed its life as a consumer item. Postconsumer material is a part of the broader category of “recovered material.” For paper and paper products, postconsumer material means “postconsumer fiber” defined by the U.S. Environmental Protection Agency (EPA) as—\n\n(1) Paper, paperboard, and fibrous materials from retail stores, office buildings, homes, and so forth, after they have passed through their end-usage as a consumer item, including: used corrugated boxes; old newspapers; old magazines; mixed waste paper; tabulating cards; and used cordage; or\n\n(2) All paper, paperboard, and fibrous materials that enter and are collected from municipal solid waste; but not\n\n(3) Fiber derived from printers’ over-runs, converters’ scrap, and over-issue publications.\n\n“Recovered material” for paper and paper products, is defined by EPA in its Comprehensive Procurement Guideline as “recovered fiber” and means the following materials:\n\n(1) Postconsumer fiber.\n\n(2) Manufacturing wastes such as—\n\n(i) Dry paper and paperboard waste generated after completion of the papermaking process (that is, those manufacturing operations up to and including the cutting and trimming of the paper machine reel into smaller rolls or rough sheets) including: envelope cuttings, bindery trimmings, and other paper and paperboard waste resulting from printing, cutting, forming, and other converting operations; bag, box, and carton manufacturing wastes; and butt rolls, mill wrappers, and rejected unused stock; and\n\n(ii) Repulped finished paper and paperboard from obsolete inventories of paper and paperboard manufacturers, merchants, wholesalers, dealers, printers, converters, or others."
+      }
+    },
+    "302": {
+      "number": 302,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "2": {
+          "text": "For biobased products, agencies may not require, as a condition of purchase of such products, the vendor or manufacturer to provide more data than would typically be provided by other business entities offering products for sale to the agency, other than data confirming the biobased content of a product (see 7 CFR 3201.8)."
+        },
+        "a": {
+          "text": "Agencies must not require virgin material or supplies composed of or manufactured using virgin material unless compelled by law or regulation or unless virgin material is vital for safety or meeting performance requirements of the contract."
+        },
+        "b": {
+          "text": "(1) When acquiring other than commercial items, agencies must require offerors to identify used, reconditioned, or remanufactured supplies; or unused former Government surplus property proposed for use under the contract. These supplies or property may not be used in contract performance unless authorized by the contracting officer.",
+          "sub": {
+            "2": {
+              "text": "When acquiring commercial items, the contracting officer must consider the customary practices in the industry for the item being acquired. The contracting officer may require offerors to provide information on used, reconditioned, or remanufactured supplies, or unused former Government surplus property proposed for use under the contract. The request for the information must be included in the solicitation, and to the maximum extent practicable must be limited to information or standards consistent with normal commercial practices."
+            }
+          }
+        },
+        "c": {
+          "text": "(1) When the contracting officer needs additional information to determine whether supplies meet minimum recovered material or biobased standards stated in the solicitation, the contracting officer may require offerors to submit additional information on the recycled or biobased content or related standards. The request for the information must be included in the solicitation.  When acquiring commercial items, limit the information to the maximum extent practicable to that available under normal commercial practices."
+        }
+      }
+    },
+    "303": {
+      "number": 303,
+      "name": "Special requirements for paper.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Printing and writing paper containing no less than 20 percent postconsumer fiber; or"
+        },
+        "2": {
+          "text": "Paper, other than printing and writing paper, with the maximum practicable percentage of postconsumer fiber that is reasonably available at a reasonable price and that meets reasonable performance requirements."
+        },
+        "a": {
+          "text": "The following applies when agencies acquire paper in the United States (as defined in 23.001):",
+          "sub": {
+            "1": {
+              "text": "Section 2(d)(ii) of Executive Order 13423, Strengthening Federal Environmental, Energy, and Transportation Management, establishes a 30 percent postconsumer fiber content standards for agency paper use. Section 2(d)(ii) requires that an agency’s paper products must meet or exceed the minimum content standard."
+            },
+            "2": {
+              "text": "Section 2(e)(iv) of Executive Order 13514 requires acquisition of uncoated printing and writing paper containing at least 30 percent postconsumer fiber."
+            }
+          }
+        },
+        "b": {
+          "text": "Exceptions. If paper under paragraphs (a)(1) or (a)(2) of this section containing at least 30 percent postconsumer fiber is not reasonably available, does not meet reasonable performance requirements, or is only available at an unreasonable price, then the agency must purchase—"
+        }
+      }
+    },
+    "304": {
+      "number": 304,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "Insert the clause at 52.211-5, Material Requirements, in solicitations and contracts for supplies that are not commercial items."
+      }
+    }
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "parentPart": 42,
+  "number": 12,
+  "name": "Novation and Change-of-Name Agreements",
+  "sub": {
+    "1200": {
+      "number": 1200,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures for—\n\n(a) Recognition of a successor in interest to Government contracts when contractor assets are transferred;\n\n(b) Recognition of a change in a contractor’s name; and\n\n(c) Execution of novation agreements and change-of-name agreements by the responsible contracting officer."
+      }
+    },
+    "1201": {
+      "number": 1201,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "1202": {
+      "number": 1202,
+      "name": "Responsibility for executing agreements.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer responsible for processing and executing novation and change-of-name agreements shall be determined as follows:\n\n(a) If any of the affected contracts held by the transferor have been assigned to an administrative contracting officer (ACO) (see 2.1 and 42.202), the responsible contracting officer shall be—\n\n(1) This ACO; or\n\n(2) The ACO responsible for the corporate office, if affected contracts are in more than one plant or division of the transferor.\n\n(b) If none of the affected contracts held by the transferor have been assigned to an ACO, the contracting officer responsible for the largest unsettled (unbilled plus billed but unpaid) dollar balance of contracts shall be the responsible contracting officer.\n\n(c) If several transferors are involved, the responsible contracting officer shall be—\n\n(1) The ACO administering the largest unsettled dollar balance; or\n\n(2) The contracting officer (or ACO) designated by the agency having the largest unsettled dollar balance, if none of the affected contracts have been assigned to an ACO."
+      }
+    },
+    "1203": {
+      "number": 1203,
+      "name": "Processing agreements.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Prepare a Standard Form 30, Amendment of Solicitation/Modification of Contract, incorporating a summary of the agreement and attaching a complete list of contracts affected;"
+        },
+        "2": {
+          "text": "Retain the original Standard Form 30 with the attached list in the case file;"
+        },
+        "3": {
+          "text": "Send a signed copy of the Standard Form 30, with attached list to the transferor and to the transferee; and"
+        },
+        "4": {
+          "text": "Send a copy of this Standard Form 30 with attached list to each contract administration office or contracting office involved, which shall be responsible for further appropriate distribution."
+        },
+        "a": {
+          "text": "If a contractor wishes the Government to recognize a successor in interest to its contracts or a name change, the contractor must submit a written request to the responsible contracting officer (see 42.1202). If the contractor received its contract under subpart 8.7 under 41 U.S.C. chapter 85, Committee for Purchase from People Who Are Blind or Severely Disabled, use the procedures at 8.716 instead."
+        },
+        "b": {
+          "text": "The responsible contracting officer shall—",
+          "sub": {
+            "1": {
+              "text": "Identify and request that the contractor submit the information necessary to evaluate the proposed agreement for recognizing a successor in interest or a name change. This information should include the items identified in 42.1204 (e) and (f) or 42.1205(a), as applicable;"
+            },
+            "2": {
+              "text": "Notify each contract administration office and contracting office affected by a proposed agreement for recognizing a successor in interest, and provide those offices with a list of all affected contracts; and"
+            },
+            "3": {
+              "text": "Request submission of any comments or objections to the proposed transfer within 30 days after notification. Any submission should be accompanied by supporting documentation."
+            }
+          }
+        },
+        "c": {
+          "text": "Upon receipt of the necessary information, the responsible contracting officer shall determine whether or not it is in the Government’s interest to recognize the proposed successor in interest on the basis of—",
+          "sub": {
+            "1": {
+              "text": "The comments received from the affected contract administration offices and contracting offices;"
+            },
+            "2": {
+              "text": "The proposed successor’s responsibility under subpart 9.1, Responsible Prospective Contractors; and"
+            },
+            "3": {
+              "text": "Any factor relating to the proposed successor’s performance of contracts with the Government that the Government determines would impair the proposed successor’s ability to perform the contract satisfactorily."
+            }
+          }
+        },
+        "d": {
+          "text": "The execution of a novation agreement does not preclude the use of any other method available to the contracting officer to resolve any other issues related to a transfer of contractor assets, including the treatment of costs."
+        },
+        "e": {
+          "text": "Any separate agreement between the transferor and transferee regarding the assumption of liabilities (e.g., long-term incentive compensation plans, cost accounting standards noncompliances, environmental cleanup costs, and final overhead costs) should be referenced specifically in the novation agreement."
+        },
+        "f": {
+          "text": "Before novation and change-of-name agreements are executed, the responsible contracting officer shall ensure that Government counsel has reviewed them for legal sufficiency."
+        },
+        "g": {
+          "text": "The responsible contracting officer shall—",
+          "sub": {
+            "1": {
+              "text": "Forward a signed copy of the executed novation or change-of-name agreement to the transferor and to the transferee; and"
+            },
+            "2": {
+              "text": "Retain a signed copy in the case file."
+            }
+          }
+        },
+        "h": {
+          "text": "Following distribution of the agreement, the responsible contracting officer shall—"
+        }
+      }
+    },
+    "1204": {
+      "number": 1204,
+      "name": "Applicability of novation agreements.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The Transferor confirms the transfer to the Transferee, and waives any claims and rights against the Government that it now has or may have in the future in connection with the contracts."
+        },
+        "2": {
+          "text": "The Transferee agrees to be bound by and to perform each contract in accordance with the conditions contained in the contracts. The Transferee also assumes all obligations and liabilities of, and all claims against, the Transferor under the contracts as if the Transferee were the original party to the contracts."
+        },
+        "3": {
+          "text": "The Transferee ratifies all previous actions taken by the Transferor with respect to the contracts, with the same force and effect as if the action had been taken by the Transferee."
+        },
+        "4": {
+          "text": "The Government recognizes the Transferee as the Transferor’s successor in interest in and to the contracts. The Transferee by this Agreement becomes entitled to all rights, titles, and interests of the Transferor in and to the contracts as if the Transferee were the original party to the contracts. Following the effective date of this Agreement, the term “Contractor,” as used in the contracts, shall refer to the Transferee."
+        },
+        "5": {
+          "text": "Except as expressly provided in this Agreement, nothing in it shall be construed as a waiver of any rights of the Government against the Transferor."
+        },
+        "6": {
+          "text": "All payments and reimbursements previously made by the Government to the Transferor, and all other previous actions taken by the Government under the contracts, shall be considered to have discharged those parts of the Government’s obligations under the contracts. All payments and reimbursements made by the Government after the date of this Agreement in the name of or to the Transferor shall have the same force and effect as if made to the Transferee, and shall constitute a complete discharge of the Government’s obligations under the contracts, to the extent of the amounts paid or reimbursed."
+        },
+        "7": {
+          "text": "The Transferor and the Transferee agree that the Government is not obligated to pay or reimburse either of them for, or otherwise give effect to, any costs, taxes, or other expenses, or any related increases, directly or indirectly arising out of or resulting from the transfer or this Agreement, other than those that the Government in the absence of this transfer or Agreement would have been obligated to pay or reimburse under the terms of the contracts."
+        },
+        "8": {
+          "text": "The Transferor guarantees payment of all liabilities and the performance of all obligations that the Transferee—",
+          "sub": {
+            "i": {
+              "text": "Assumes under this Agreement; or"
+            },
+            "ii": {
+              "text": "May undertake in the future should these contracts be modified under their terms and conditions. The Transferor waives notice of, and consents to, any such future modifications."
+            }
+          }
+        },
+        "9": {
+          "text": "The contracts shall remain in full force and effect, except as modified by this Agreement. Each party has executed this Agreement as of the day and year first above written.\n\nUnited States of America,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\nABC Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nXYZ Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ___________, certify that I am the Secretary of ABC Corporation, that ________________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this day of __________________ 20 ___.\n\nBy _______________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ____________, certify that I am the Secretary of XYZ Corporation, that ________________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this day of ____________________20___.\n\nBy _______________________________________________\n\n[Corporate Seal]\n\nUnited States of America,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\nABC Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nXYZ Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ___________, certify that I am the Secretary of ABC Corporation, that ________________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this day of __________________ 20 ___.\n\nBy _______________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ____________, certify that I am the Secretary of XYZ Corporation, that ________________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this day of ____________________20___.\n\nBy _______________________________________________\n\n[Corporate Seal]"
+        },
+        "a": {
+          "text": "The parties agree to the following facts:",
+          "sub": {
+            "1": {
+              "text": "The Government, represented by various Contracting Officers of the ______________ [insert name(s) of agency(ies)], has entered into certain contracts with the Transferor, namely: ____________ [insert contract or purchase order identifications]; [or delete “namely” and insert “as shown in the attached list marked ‘Exhibit A’ and incorporated in this Agreement by reference.”]. The term “the contracts,” as used in this Agreement, means the above contracts and purchase orders and all other contracts and purchase orders, including all modifications, made between the Government and the Transferor before the effective date of this Agreement (whether or not performance and payment have been completed and releases executed if the Government or the Transferor has any remaining rights, duties, or obligations under these contracts and purchase orders). Included in the term “the contracts” are also all modifications made under the terms and conditions of these contracts and purchase orders between the Government and the Transferee, on or after the effective date of this Agreement."
+            },
+            "2": {
+              "text": "As of ____________, 20___, the Transferor has transferred to the Transferee all the assets of the Transferor by virtue of a __________ [insert term descriptive of the legal transaction involved] between the Transferor and the Transferee."
+            },
+            "3": {
+              "text": "The Transferee has acquired all the assets of the Transferor by virtue of the above transfer."
+            },
+            "4": {
+              "text": "The Transferee has assumed all obligations and liabilities of the Transferor under the contracts by virtue of the above transfer."
+            },
+            "5": {
+              "text": "The Transferee is in a position to fully perform all obligations that may exist under the contracts."
+            },
+            "6": {
+              "text": "It is consistent with the Government’s interest to recognize the Transferee as the successor party to the contracts."
+            },
+            "7": {
+              "text": "Evidence of the above transfer has been filed with the Government. [When a change of name is also involved; e.g., a prior or concurrent change of the Transferee’s name, an appropriate statement shall be inserted (see example in paragraph (8) of this Agreement)]."
+            },
+            "8": {
+              "text": "A certificate dated _________, 20___, signed by the Secretary of State of ___________ [insert State], to the effect that the corporate name of EFG Corporation was changed to XYZ Corporation on _____________, 20__, has been filed with the Government."
+            }
+          }
+        },
+        "b": {
+          "text": "In consideration of these facts, the parties agree that by this Agreement—\n\nUnited States of America,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\nABC Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nXYZ Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ___________, certify that I am the Secretary of ABC Corporation, that ________________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this day of __________________ 20 ___.\n\nBy _______________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ____________, certify that I am the Secretary of XYZ Corporation, that ________________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this day of ____________________20___.\n\nBy _______________________________________________\n\n[Corporate Seal]"
+        },
+        "c": {
+          "text": "When it is in the Government’s interest not to concur in the transfer of a contract from one company to another company, the original contractor remains under contractual obligation to the Government, and the contract may be terminated for reasons of default, should the original contractor not perform."
+        },
+        "d": {
+          "text": "When considering whether to recognize a third party as a successor in interest to Government contracts, the responsible contracting officer shall identify and evaluate any significant organizational conflicts of interest in accordance with subpart 9.5. If the responsible contracting officer determines that a conflict of interest cannot be resolved, but that it is in the best interest of the Government to approve the novation request, a request for a waiver may be submitted in accordance with the procedures at 9.503."
+        },
+        "e": {
+          "text": "When a contractor asks the Government to recognize a successor in interest, the contractor shall submit to the responsible contracting officer three signed copies of the proposed novation agreement and one copy each, as applicable, of the following:",
+          "sub": {
+            "1": {
+              "text": "The document describing the proposed transaction, e.g., purchase/sale agreement or memorandum of understanding."
+            },
+            "2": {
+              "text": "A list of all affected contracts between the transferor and the Government, as of the date of sale or transfer of assets, showing for each, as of that date, the—",
+              "sub": {
+                "i": {
+                  "text": "Contract number and type;"
+                },
+                "ii": {
+                  "text": "Name and address of the contracting office;"
+                },
+                "iii": {
+                  "text": "Total dollar value, as amended; and"
+                },
+                "iv": {
+                  "text": "Approximate remaining unpaid balance."
+                }
+              }
+            },
+            "3": {
+              "text": "Evidence of the transferee’s capability to perform."
+            },
+            "4": {
+              "text": "Any other relevant information requested by the responsible contracting officer."
+            }
+          }
+        },
+        "f": {
+          "text": "Except as provided in paragraph (g) of this section, the contractor shall submit to the responsible contracting officer one copy of each of the following documents, as applicable, as the documents become available:",
+          "sub": {
+            "1": {
+              "text": "An authenticated copy of the instrument effecting the transfer of assets; e.g., bill of sale, certificate of merger, contract, deed, agreement, or court decree."
+            },
+            "2": {
+              "text": "A certified copy of each resolution of the corporate parties’ boards of directors authorizing the transfer of assets."
+            },
+            "3": {
+              "text": "A certified copy of the minutes of each corporate party’s stockholder meeting necessary to approve the transfer of assets."
+            },
+            "4": {
+              "text": "An authenticated copy of the transferee’s certificate and articles of incorporation, if a corporation was formed for the purpose of receiving the assets involved in performing the Government contracts."
+            },
+            "5": {
+              "text": "The opinion of legal counsel for the transferor and transferee stating that the transfer was properly effected under applicable law and the effective date of transfer."
+            },
+            "6": {
+              "text": "Balance sheets of the transferor and transferee as of the dates immediately before and after the transfer of assets, audited by independent accountants."
+            },
+            "7": {
+              "text": "Evidence that any security clearance requirements have been met."
+            },
+            "8": {
+              "text": "The consent of sureties on all contracts listed under paragraph (e)(2) of this section if bonds are required, or a statement from the transferor that none are required."
+            }
+          }
+        },
+        "g": {
+          "text": "If the Government has acquired the documents during its participation in the pre-merger or pre-acquisition review process, or the Government’s interests are adequately protected with an alternative formulation of the information, the responsible contracting officer may modify the list of documents to be submitted by the contractor."
+        },
+        "h": {
+          "text": "When recognizing a successor in interest to a Government contract is consistent with the Government’s interest, the responsible contracting officer shall execute a novation agreement with the transferor and the transferee. It shall ordinarily provide in part that—",
+          "sub": {
+            "1": {
+              "text": "The transferee assumes all the transferor’s obligations under the contract;"
+            },
+            "2": {
+              "text": "The transferor waives all rights under the contract against the Government;"
+            },
+            "3": {
+              "text": "The transferor guarantees performance of the contract by the transferee (a satisfactory performance bond may be accepted instead of the guarantee); and"
+            },
+            "4": {
+              "text": "Nothing in the agreement shall relieve the transferor or transferee from compliance with any Federal law."
+            }
+          }
+        },
+        "i": {
+          "text": "The responsible contracting officer shall use the following format for agreements when the transferor and transferee are corporations and all the transferor’s assets are transferred. This format may be adapted to fit specific cases and may be used as a guide in preparing similar agreements for other situations.\n\nNovation Agreement\n\nThe ABC Corporation (Transferor), a corporation duly organized and existing under the laws of __________ [insert State] with its principal office in ____________ [insert city]; the XYZ Corporation (Transferee), [if appropriate add “formerly known as the EFG Corporation”] a corporation duly organized and existing under the laws of _________ [insert State] with its principal office in ____________ [insert city]; and the United States of America (Government) enter into this Agreement as of ____________ [insert the date transfer of assets became effective under applicable State law].\n\nUnited States of America,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\nABC Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nXYZ Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ___________, certify that I am the Secretary of ABC Corporation, that ________________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this day of __________________ 20 ___.\n\nBy _______________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ____________, certify that I am the Secretary of XYZ Corporation, that ________________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this day of ____________________20___.\n\nBy _______________________________________________\n\n[Corporate Seal]\n\nNovation Agreement"
+        },
+        "Transferor": {
+          "text": ", a corporation duly organized and existing under the laws of __________ [insert State] with its principal office in ____________ [insert city]; the XYZ Corporation (Transferee), [if appropriate add “formerly known as the EFG Corporation”] a corporation duly organized and existing under the laws of _________ [insert State] with its principal office in ____________ [insert city]; and the United States of America (Government) enter into this Agreement as of ____________ [insert the date transfer of assets became effective under applicable State law].\n\nUnited States of America,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\nABC Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nXYZ Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ___________, certify that I am the Secretary of ABC Corporation, that ________________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this day of __________________ 20 ___.\n\nBy _______________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ____________, certify that I am the Secretary of XYZ Corporation, that ________________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this day of ____________________20___.\n\nBy _______________________________________________\n\n[Corporate Seal]"
+        }
+      }
+    },
+    "1205": {
+      "number": 1205,
+      "name": "Agreement to recognize contractor’s change of name.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The contracts covered by this Agreement are amended by substituting the name “ABC Corporation” for the name “XYZ Corporation” wherever it appears in the contracts; and"
+        },
+        "2": {
+          "text": "Each party has executed this Agreement as of the day and year first above written.\n\nUnited States of America,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\nABC Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ___________, certify that I am the Secretary of ABC Corporation; that ___________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this ________ day of ____________ 20___.\n\nBy _______________________________________________\n\n[Corporate Seal]\n\nUnited States of America,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\nABC Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ___________, certify that I am the Secretary of ABC Corporation; that ___________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this ________ day of ____________ 20___.\n\nBy _______________________________________________\n\n[Corporate Seal]"
+        },
+        "a": {
+          "text": "The parties agree to the following facts:",
+          "sub": {
+            "1": {
+              "text": "The Government, represented by various Contracting Officers of the _______________ [insert name(s) of agency(ies)], has entered into certain contracts and purchase orders with the XYZ Corporation, namely: ____________ [insert contract or purchase order identifications]; [or delete “namely” and insert “as shown in the attached list marked “Exhibit A” and incorporated in this Agreement by reference.”]. The term “the contracts,” as used in this Agreement, means the above contracts and purchase orders and all other contracts and purchase orders, including all modifications, made by the Government and the Contractor before the effective date of this Agreement (whether or not performance and payment have been completed and releases executed if the Government or the Contractor has any remaining rights, duties, or obligations under these contracts and purchase orders)."
+            },
+            "2": {
+              "text": "The XYZ Corporation, by an amendment to its certificate of incorporation, dated _________ 20___, has changed its corporate name to ABC Corporation."
+            },
+            "3": {
+              "text": "This amendment accomplishes a change of corporate name only and all rights and obligations of the Government and of the Contractor under the contracts are unaffected by this change."
+            },
+            "4": {
+              "text": "Documentary evidence of this change of corporate name has been filed with the Government."
+            }
+          }
+        },
+        "b": {
+          "text": "In consideration of these facts, the parties agree that—\n\nUnited States of America,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\nABC Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ___________, certify that I am the Secretary of ABC Corporation; that ___________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this ________ day of ____________ 20___.\n\nBy _______________________________________________\n\n[Corporate Seal]"
+        },
+        "Contractor": {
+          "text": ", a corporation duly organized and existing under the laws of __________ [insert State], and the United States of America (Government), enter into this Agreement as of __________ [insert date when the change of name became effective under applicable State law].\n\nUnited States of America,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\nABC Corporation,\n\nBy _______________________________________________\n\nTitle _____________________________________________\n\n[Corporate Seal]\n\nCertificate\n\nI, ___________, certify that I am the Secretary of ABC Corporation; that ___________, who signed this Agreement for this corporation, was then _____________ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers. Witness my hand and the seal of this corporation this ________ day of ____________ 20___.\n\nBy _______________________________________________\n\n[Corporate Seal]"
+        }
+      }
+    }
+  }
+}

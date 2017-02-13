@@ -1,0 +1,736 @@
+{
+  "parentPart": 9,
+  "number": 4,
+  "name": "Debarment, Suspension, and Ineligibility",
+  "sub": {
+    "400": {
+      "number": 400,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "This subpart—",
+          "sub": {
+            "1": {
+              "text": "Prescribes policies and procedures governing the debarment and suspension of contractors by agencies for the causes given in 9.406-2 and 9.407-2;"
+            },
+            "2": {
+              "text": "Provides for the listing of contractors debarred, suspended, proposed for debarment, and declared ineligible (see the definition of “ineligible” in 2.101); and"
+            },
+            "3": {
+              "text": "Sets forth the consequences of this listing."
+            }
+          }
+        },
+        "b": {
+          "text": "Although this subpart does cover the listing of ineligible contractors (9.404) and the effect of this listing (9.405(b)), it does not prescribe policies and procedures governing declarations of ineligibility."
+        }
+      }
+    },
+    "401": {
+      "number": 401,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "text": "In accordance with Public Law 103-355, Section 2455 (31 U.S.C. 6101, note), and Executive Order 12689, any debarment, suspension or other Governmentwide exclusion initiated under the Nonprocurement Common Rule implementing Executive Order 12549 on or after August 25, 1995, shall be recognized by and effective for Executive Branch agencies as a debarment or suspension under this subpart. Similarly, any debarment, suspension, proposed debarment or other Governmentwide exclusion initiated on or after August 25, 1995, under this subpart shall also be recognized by and effective for those agencies and participants as an exclusion under the Nonprocurement Common Rule."
+      }
+    },
+    "402": {
+      "number": 402,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Agencies shall solicit offers from, award contracts to, and consent to subcontracts with responsible contractors only. Debarment and suspension are discretionary actions that, taken in accordance with this subpart, are appropriate means to effectuate this policy."
+        },
+        "b": {
+          "text": "The serious nature of debarment and suspension requires that these sanctions be imposed only in the public interest for the Government’s protection and not for purposes of punishment. Agencies shall impose debarment or suspension to protect the Government’s interest and only for the causes and in accordance with the procedures set forth in this subpart."
+        },
+        "c": {
+          "text": "Agencies are encouraged to establish methods and procedures for coordinating their debarment or suspension actions."
+        },
+        "d": {
+          "text": "When more than one agency has an interest in the debarment or suspension of a contractor, the Interagency Committee on Debarment and Suspension, established under Executive Order 12549, and authorized by Section 873 of the National Defense Authorization Act for Fiscal Year 2009 (Pub. L. 110-417) (31 U.S.C. 6101, note), shall resolve the lead agency issue and coordinate such resolution among all interested agencies prior to the initiation of any suspension, debarment, or related administrative action by any agency."
+        },
+        "e": {
+          "text": "Agencies shall establish appropriate procedures to implement the policies and procedures of this subpart."
+        }
+      }
+    },
+    "403": {
+      "number": 403,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Affiliates.” Business concerns, organizations, or individuals are affiliates of each other if, directly or indirectly, (1) either one controls or has the power to control the other, or (2) a third party controls or has the power to control both. Indicia of control include, but are not limited to, interlocking management or ownership, identity of interests among family members, shared facilities and equipment, common use of employees, or a business entity organized following the debarment, suspension, or proposed debarment of a contractor which has the same or similar management, ownership, or principal employees as the contractor that was debarred, suspended, or proposed for debarment.\n\n“Agency” means any executive department, military department or defense agency, or other agency or independent establishment of the executive branch.\n\n“Civil judgment” means a judgment or finding of a civil offense by any court of competent jurisdiction.\n\n“Contractor” means any individual or other legal entity that—\n\n(1) Directly or indirectly (e.g., through an affiliate), submits offers for or is awarded, or reasonably may be expected to submit offers for or be awarded, a Government contract, including a contract for carriage under Government or commercial bills of lading, or a subcontract under a Government contract; or\n\n(2) Conducts business, or reasonably may be expected to conduct business, with the Government as an agent or representative of another contractor.\n\n“Debarring official” means—\n\n(1) An agency head; or\n\n(2) A designee authorized by the agency head to impose debarment.\n\n“Indictment” means indictment for a criminal offense. An information or other filing by competent authority charging a criminal offense is given the same effect as an indictment.\n\n“Legal proceedings” means any civil judicial proceeding to which the Government is a party or any criminal proceeding. The term includes appeals from such proceedings.\n\n“Nonprocurement Common Rule” means the procedures used by Federal Executive Agencies to suspend, debar, or exclude individuals or entities from participation in nonprocurement transactions under Executive Order 12549. Examples of nonprocurement transactions are grants, cooperative agreements, scholarships, fellowships, contracts of assistance, loans, loan guarantees, subsidies, insurance, payments for specified use, and donation agreements.\n\n“Suspending official” means—\n\n(1) An agency head; or\n\n(2) A designee authorized by the agency head to impose suspension.\n\n“Unfair trade practices” means the commission of any or the following acts by a contractor:\n\n(1) A violation of Section 337 of the Tariff Act of 1930 (19 U.S.C. 1337) as determined by the International Trade Commission.\n\n(2) A violation, as determined by the Secretary of Commerce, of any agreement of the group known as the “Coordination Committee” for purposes of the Export Administration Act of 1979 (50 U.S.C. App. 2401, et seq.) or any similar bilateral or multilateral export control agreement.\n\n(3) A knowingly false statement regarding a material element of a certification concerning the foreign content of an item of supply, as determined by the Secretary of the Department or the head of the agency to which such certificate was furnished."
+      }
+    },
+    "404": {
+      "number": 404,
+      "name": "System for Award Management Exclusions.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The General Services Administration (GSA)—",
+          "sub": {
+            "1": {
+              "text": "Operates the web-based System for Award Management (SAM) Exclusions; and"
+            },
+            "2": {
+              "text": "Provides technical assistance to Federal agencies in the use of SAM."
+            }
+          }
+        },
+        "b": {
+          "text": "The SAM Exclusions contains the—",
+          "sub": {
+            "1": {
+              "text": "Names and addresses of all contractors debarred, suspended, proposed for debarment, declared ineligible, or excluded or disqualified under the nonprocurement common rule, with cross-references when more than one name is involved in a single action;"
+            },
+            "2": {
+              "text": "Name of the agency or other authority taking the action;"
+            },
+            "3": {
+              "text": "Cause for the action (see 9.406-2 and 9.407-2 for causes authorized under this subpart) or other statutory or regulatory authority;"
+            },
+            "4": {
+              "text": "Effect of the action;"
+            },
+            "5": {
+              "text": "Termination date for each listing;"
+            },
+            "6": {
+              "text": "Unique Entity Identifier;"
+            },
+            "7": {
+              "text": "Social Security Number (SSN), Employer Identification Number (EIN), or other Taxpayer Identification Number (TIN), if available; and"
+            },
+            "8": {
+              "text": "Name and telephone number of the agency point of contact for the action."
+            }
+          }
+        },
+        "c": {
+          "text": "Each agency must—",
+          "sub": {
+            "1": {
+              "text": "Obtain password(s) from GSA to access SAM for data entry;"
+            },
+            "2": {
+              "text": "Notify GSA in the event a password needs to be rescinded (e.g., when an agency employee leaves or changes function);"
+            },
+            "3": {
+              "text": "Enter the information required by paragraph (b) of this section within 3 working days after the action becomes effective;"
+            },
+            "4": {
+              "text": "Determine whether it is legally permitted to enter the SSN, EIN, or other TIN, under agency authority to suspend or debar;"
+            },
+            "5": {
+              "text": "Update SAM Exclusions, generally within 5 working days after modifying or rescinding an action;"
+            },
+            "6": {
+              "text": "In accordance with internal retention procedures, maintain records relating to each debarment, suspension, or proposed debarment taken by the agency;"
+            },
+            "7": {
+              "text": "Establish procedures to ensure that the agency does not solicit offers from, award contracts to, or consent to subcontracts with contractors whose names are in SAM Exclusions, except as otherwise provided in this subpart;"
+            },
+            "8": {
+              "text": "Direct inquiries concerning listed contractors to the agency or other authority that took the action; and"
+            },
+            "9": {
+              "text": "Contact GSA for technical assistance with SAM, via the support e-mail address or on the technical support phone line available at the SAM web site provided in paragraph (d) of this section."
+            }
+          }
+        },
+        "d": {
+          "text": "SAM is available via https://www.acquisition.gov."
+        }
+      }
+    },
+    "405": {
+      "number": 405,
+      "name": "Effect of listing.",
+      "sub": {
+        "1": {
+          "name": "Continuation of current contracts.",
+          "text": {
+            "1": {
+              "text": "Place orders exceeding the guaranteed minimum under indefinite quantity contracts;"
+            },
+            "2": {
+              "text": "Place orders under Federal Supply Schedule contracts, blanket purchase agreements, or basic ordering agreements; or"
+            },
+            "3": {
+              "text": "Add new work, exercise options, or otherwise extend the duration of current contracts or orders."
+            },
+            "a": {
+              "text": "Notwithstanding the debarment, suspension, or proposed debarment of a contractor, agencies may continue contracts or subcontracts in existence at the time the contractor was debarred, suspended, or proposed for debarment unless the agency head directs otherwise. A decision as to the type of termination action, if any, to be taken should be made only after review by agency contracting and technical personnel and by counsel to ensure the propriety of the proposed action."
+            },
+            "b": {
+              "text": "For contractors debarred, suspended, or proposed for debarment, unless the agency head makes a written determination of the compelling reasons for doing so, ordering activities shall not—"
+            }
+          }
+        },
+        "2": {
+          "name": "Restrictions on subcontracting.",
+          "text": {
+            "a": {
+              "text": "When a contractor debarred, suspended, or proposed for debarment is proposed as a subcontractor for any subcontract subject to Government consent (see Subpart 44.2), contracting officers shall not consent to subcontracts with such contractors unless the agency head states in writing the compelling reasons for this approval action. (See 9.405(b) concerning declarations of ineligibility affecting sub-contracting.)"
+            },
+            "b": {
+              "text": "The Government suspends or debars contractors to protect the Government’s interests. By operation of the clause at 52.209-6, Protecting the Government’s Interests When Subcontracting with Contractors Debarred, Suspended or Proposed for Debarment, contractors shall not enter into any subcontract in excess of $35,000, other than a subcontract for a commercially available off-the-shelf item, with a contractor that has been debarred, suspended, or proposed for debarment unless there is a compelling reason to do so. If a contractor intends to enter into a subcontract in excess of $35,000, other than a subcontract for a commercially available off-the-shelf item, with a party that is debarred, suspended, or proposed for debarment as evidenced by the parties’ listing in SAM Exclusions (see 9.404), a corporate officer or designee of the contractor is required by operation of the clause at 52.209-6, Protecting the Government’s Interests when Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment, to notify the contracting officer, in writing, before entering into such subcontract. For contracts for the acquisition of commercial items, the notification requirement applies only for first-tier subcontracts. For all other contracts, the notification requirement applies to subcontracts at any tier. The notice must provide the following:",
+              "sub": {
+                "1": {
+                  "text": "The name of the subcontractor;"
+                },
+                "2": {
+                  "text": "The contractor’s knowledge of the reasons for the subcontractor being listed in SAM Exclusions;"
+                },
+                "3": {
+                  "text": "The compelling reason(s) for doing business with the subcontractor notwithstanding its listed in SAM Exclusions; and"
+                },
+                "4": {
+                  "text": "The systems and procedures the contractor has established to ensure that it is fully protecting the Government’s interests when dealing with such subcontractor in view of the specific basis for the party’s debarment, suspension, or proposed debarment."
+                }
+              }
+            },
+            "c": {
+              "text": "The contractor’s compliance with the requirements of 52.209-6 will be reviewed during Contractor Purchasing System Reviews (see Subpart 44.3)."
+            }
+          }
+        }
+      },
+      "text": {
+        "2": {
+          "text": "Bids received from any listed contractor in response to an invitation for bids shall be entered on the abstract of bids, and rejected unless the agency head determines in writing that there is a compelling reason to consider the bid."
+        },
+        "3": {
+          "text": "Proposals, quotations, or offers received from any listed contractor shall not be evaluated for award or included in the competitive range, nor shall discussions be conducted with a listed offeror during a period of ineligibility, unless the agency head determines, in writing, that there is a compelling reason to do so. If the period of ineligibility expires or is terminated prior to award, the contracting officer may, but is not required to, consider such proposals, quotations, or offers."
+        },
+        "4": {
+          "text": "Immediately prior to award, the contracting officer shall again review SAM Exclusions to ensure that no award is made to a listed contractor."
+        },
+        "a": {
+          "text": "Contractors debarred, suspended, or proposed for debarment are excluded from receiving contracts, and agencies shall not solicit offers from, award contracts to, or consent to subcontracts with these contractors, unless the agency head determines that there is a compelling reason for such action (see 9.405-1(b), 9.405-2, 9.406-1(c), 9.407-1(d), and 23.506(e)). Contractors debarred, suspended, or proposed for debarment are also excluded from conducting business with the Government as agents or representatives of other contractors."
+        },
+        "b": {
+          "text": "Contractors included in SAM Exclusions as having been declared ineligible on the basis of statutory or other regulatory procedures are excluded from receiving contracts, and if applicable, subcontracts, under the conditions and for the period set forth in the statute or regulation. Agencies shall not solicit offers from, award contracts to, or consent to subcontracts with these contractors under those conditions and for that period."
+        },
+        "c": {
+          "text": "Contractors debarred, suspended, or proposed for debarment are excluded from acting as individual sureties (see Part 28)."
+        },
+        "d": {
+          "text": "(1) After the opening of bids or receipt of proposals, the contracting officer shall review SAM Exclusions."
+        }
+      }
+    },
+    "406": {
+      "number": 406,
+      "name": "Debarment.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "2": {
+              "text": "When debarring a contractor from the award of acquisition contracts and from the purchase of Federal personal property, the debarment notice shall so indicate and the appropriate FAR and FPMR citations shall be included."
+            },
+            "a": {
+              "text": "It is the debarring official’s responsibility to determine whether debarment is in the Government’s interest. The debarring official may, in the public interest, debar a contractor for any of the causes in 9.406-2, using the procedures in 9.406-3. The existence of a cause for debarment, however, does not necessarily require that the contractor be debarred; the seriousness of the contractor’s acts or omissions and any remedial measures or mitigating factors should be considered in making any debarment decision. Before arriving at any debarment decision, the debarring official should consider factors such as the following:\n\nThe existence or nonexistence of any mitigating factors or remedial measures such as set forth in this paragraph (a) is not necessarily determinative of a contractor’s present responsibility. Accordingly, if a cause for debarment exists, the contractor has the burden of demonstrating, to the satisfaction of the debarring official, its present responsibility and that debarment is not necessary.",
+              "sub": {
+                "1": {
+                  "text": "Whether the contractor had effective standards of conduct and internal control systems in place at the time of the activity which constitutes cause for debarment or had adopted such procedures prior to any Government investigation of the activity cited as a cause for debarment."
+                },
+                "2": {
+                  "text": "Whether the contractor brought the activity cited as a cause for debarment to the attention of the appropriate Government agency in a timely manner."
+                },
+                "3": {
+                  "text": "Whether the contractor has fully investigated the circumstances surrounding the cause for debarment and, if so, made the result of the investigation available to the debarring official."
+                },
+                "4": {
+                  "text": "Whether the contractor cooperated fully with Government agencies during the investigation and any court or administrative action."
+                },
+                "5": {
+                  "text": "Whether the contractor has paid or has agreed to pay all criminal, civil, and administrative liability for the improper activity, including any investigative or administrative costs incurred by the Government, and has made or agreed to make full restitution."
+                },
+                "6": {
+                  "text": "Whether the contractor has taken appropriate disciplinary action against the individuals responsible for the activity which constitutes cause for debarment."
+                },
+                "7": {
+                  "text": "Whether the contractor has implemented or agreed to implement remedial measures, including any identified by the Government."
+                },
+                "8": {
+                  "text": "Whether the contractor has instituted or agreed to institute new or revised review and control procedures and ethics training programs."
+                },
+                "9": {
+                  "text": "Whether the contractor has had adequate time to eliminate the circumstances within the contractor’s organization that led to the cause for debarment.\n\nThe existence or nonexistence of any mitigating factors or remedial measures such as set forth in this paragraph (a) is not necessarily determinative of a contractor’s present responsibility. Accordingly, if a cause for debarment exists, the contractor has the burden of demonstrating, to the satisfaction of the debarring official, its present responsibility and that debarment is not necessary."
+                },
+                "10": {
+                  "text": "Whether the contractor’s management recognizes and understands the seriousness of the misconduct giving rise to the cause for debarment and has implemented programs to prevent recurrence.\n\nThe existence or nonexistence of any mitigating factors or remedial measures such as set forth in this paragraph (a) is not necessarily determinative of a contractor’s present responsibility. Accordingly, if a cause for debarment exists, the contractor has the burden of demonstrating, to the satisfaction of the debarring official, its present responsibility and that debarment is not necessary."
+                },
+                "a": {
+                  "text": "is not necessarily determinative of a contractor’s present responsibility. Accordingly, if a cause for debarment exists, the contractor has the burden of demonstrating, to the satisfaction of the debarring official, its present responsibility and that debarment is not necessary."
+                }
+              }
+            },
+            "b": {
+              "text": "Debarment constitutes debarment of all divisions or other organizational elements of the contractor, unless the debarment decision is limited by its terms to specific divisions, organizational elements, or commodities. The debarring official may extend the debarment decision to include any affiliates of the contractor if they are—",
+              "sub": {
+                "1": {
+                  "text": "Specifically named; and"
+                },
+                "2": {
+                  "text": "Given written notice of the proposed debarment and an opportunity to respond (see 9.406-3(c))."
+                }
+              }
+            },
+            "c": {
+              "text": "A contractor’s debarment, or proposed debarment, shall be effective throughout the executive branch of the Government, unless the agency head or a designee (except see 23.506(e)) states in writing the compelling reasons justifying continued business dealings between that agency and the contractor."
+            },
+            "d": {
+              "text": "(1) When the debarring official has authority to debar contractors from both acquisition contracts pursuant to this regulation and contracts for the purchase of Federal personal property pursuant to the Federal Property Management Regulations (FPMR) 101-45.6, that official shall consider simultaneously debarring the contractor from the award of acquisition contracts and from the purchase of Federal personal property."
+            }
+          }
+        },
+        "2": {
+          "name": "Causes for debarment.",
+          "text": {
+            "text": "The debarring official may debar—\n\n(a) A contractor for a conviction of or civil judgment for—\n\n(1) Commission of fraud or a criminal offense in connection with—\n\n(i) Obtaining;\n\n(ii) Attempting to obtain; or\n\n(iii) Performing a public contract or subcontract.\n\n(2) Violation of Federal or State antitrust statutes relating to the submission of offers;\n\n(3) Commission of embezzlement, theft, forgery, bribery, falsification or destruction of records, making false statements, tax evasion, violating Federal criminal tax laws, or receiving stolen property;\n\n(4) Intentionally affixing a label bearing a “Made in America” inscription (or any inscription having the same meaning) to a product sold in or shipped to the United States or its outlying areas, when the product was not made in the United States or its outlying areas (see Section 202 of the Defense Production Act (Public Law 102-558)); or\n\n(5) Commission of any other offense indicating a lack of business integrity or business honesty that seriously and directly affects the present responsibility of a Government contractor or subcontractor.\n\n(b)(1) A contractor, based upon a preponderance of the evidence, for any of the following—\n\n(i) Violation of the terms of a Government contract or subcontract so serious as to justify debarment, such as—\n\n(A) Willful failure to perform in accordance with the terms of one or more contracts; or\n\n(B) A history of failure to perform, or of unsatisfactory performance of, one or more contracts.\n\n(ii) Violations of 41 U.S.C. chapter 81, Drug-Free Workplace, as indicated by—\n\n(A) Failure to comply with the requirements of the clause at 52.223-6, Drug-Free Workplace; or\n\n(B) Such a number of contractor employees convicted of violations of criminal drug statutes occurring in the workplace as to indicate that the contractor has failed to make a good faith effort to provide a drug-free workplace (see 23.504).\n\n(iii) Intentionally affixing a label bearing a “Made in America” inscription (or any inscription having the same meaning) to a product sold in or shipped to the United States or its outlying areas, when the product was not made in the United States or its outlying areas (see Section 202 of the Defense Production Act (Public Law 102-558)).\n\n(iv) Commission of an unfair trade practice as defined in 9.403 (see Section 201 of the Defense Production Act (Pub. L. 102-558)).\n\n(v) Delinquent Federal taxes in an amount that exceeds $3,500.\n\n(A) Federal taxes are considered delinquent for purposes of this provision if both of the following criteria apply:\n\n(1) The tax liability is finally determined.  The liability is finally determined if it has been assessed.  A liability is not finally determined if there is a pending administrative or judicial challenge.  In the case of a judicial challenge to the liability, the liability is not finally determined until all judicial appeal rights have been exhausted.\n\n(2) The taxpayer is delinquent in making payment.  A taxpayer is delinquent if the taxpayer has failed to pay the tax liability when full payment was due and required.  A taxpayer is not delinquent in cases where enforced collection action is precluded.\n\n(B) Examples.\n\n(1) The taxpayer has received a statutory notice of deficiency, under I.R.C. §6212, which entitles the taxpayer to seek Tax Court review of a proposed tax deficiency.  This is not a delinquent tax because it is not a final tax liability.  Should the taxpayer seek Tax Court review, this will not be a final tax liability until the taxpayer has exercised all judicial appeal rights.\n\n(2) The IRS has filed a notice of Federal tax lien with respect to an assessed tax liability, and the taxpayer has been issued a notice under I.R.C. §6320 entitling the taxpayer to request a hearing with the IRS Office of Appeals contesting the lien filing, and to further appeal to the Tax Court if the IRS determines to sustain the lien filing.  In the course of the hearing, the taxpayer is entitled to contest the underlying tax liability because the taxpayer has had no prior opportunity to contest the liability.  This is not a delinquent tax because it is not a final tax liability.  Should the taxpayer seek tax court review, this will not be a final tax liability until the taxpayer has exercised all judicial appeal rights.\n\n(3) The taxpayer has entered into an installment agreement pursuant to I.R.C. §6159.  The taxpayer is making timely payments and is in full compliance with the agreement terms.  The taxpayer is not delinquent because the taxpayer is not currently required to make full payment.\n\n(4) The taxpayer has filed for bankruptcy protection.  The taxpayer is not delinquent because enforced collection action is stayed under 11 U.S.C. 362 (the Bankruptcy Code).\n\n(vi) Knowing failure by a principal, until 3 years after final payment on any Government contract awarded to the contractor, to timely disclose to the Government, in connection with the award, performance, or closeout of the contract or a subcontract thereunder, credible evidence of—\n\n(A) Violation of Federal criminal law involving fraud, conflict of interest, bribery, or gratuity violations found in Title 18 of the United States Code;\n\n(B) Violation of the civil False Claims Act (31 U.S.C. 3729-3733); or\n\n(C) Significant overpayment(s) on the contract, other than overpayments resulting from contract financing payments as defined in 32.001.\n\n(2) A contractor, based on a determination by the Secretary of Homeland Security or the Attorney General of the United States, that the contractor is not in compliance with Immigration and Nationality Act employment provisions (see Executive Order 12989, as amended by Executive Order 13286). Such determination is not reviewable in the debarment proceedings.\n\n(c) A contractor or subcontractor based on any other cause of so serious or compelling a nature that it affects the present responsibility of the contractor or subcontractor."
+          }
+        },
+        "3": {
+          "name": "Procedures.",
+          "text": {
+            "2": {
+              "text": "The debarring official is responsible for the timely submission, within 3 working days, and accuracy of the documentation regarding the administrative agreement."
+            },
+            "3": {
+              "text": "With regard to information that may be covered by a disclosure exemption under the Freedom of Information Act, the debarring official shall follow the procedures at 9.105-2(b)(2)(iv)."
+            },
+            "a": {
+              "text": "Investigation and referral. Agencies shall establish procedures for the prompt reporting, investigation, and referral to the debarring official of matters appropriate for that official’s consideration."
+            },
+            "b": {
+              "text": "Decisionmaking process.",
+              "sub": {
+                "1": {
+                  "text": "Agencies shall establish procedures governing the debarment decisionmaking process that are as informal as is practicable, consistent with principles of fundamental fairness. These procedures shall afford the contractor (and any specifically named affiliates) an opportunity to submit, in person, in writing, or through a representative, information and argument in opposition to the proposed debarment."
+                },
+                "2": {
+                  "text": "In actions not based upon a conviction or civil judgment, if it is found that the contractor’s submission in opposition raises a genuine dispute over facts material to the proposed debarment, agencies shall also—"
+                },
+                "i": {
+                  "text": "Afford the contractor an opportunity to appear with counsel, submit documentary evidence, present witnesses, and confront any person the agency presents; and"
+                },
+                "ii": {
+                  "text": "Make a transcribed record of the proceedings and make it available at cost to the contractor upon request, unless the contractor and the agency, by mutual agreement, waive the requirement for a transcript."
+                }
+              }
+            },
+            "c": {
+              "text": "Notice of proposal to debar. A notice of proposed debarment shall be issued by the debarring official advising the contractor and any specifically named affiliates, by certified mail, return receipt requested—",
+              "sub": {
+                "1": {
+                  "text": "That debarment is being considered;"
+                },
+                "2": {
+                  "text": "Of the reasons for the proposed debarment in terms sufficient to put the contractor on notice of the conduct or transaction(s) upon which it is based;"
+                },
+                "3": {
+                  "text": "Of the cause(s) relied upon under 9.406-2 for proposing debarment;"
+                },
+                "4": {
+                  "text": "That, within 30 days after receipt of the notice, the contractor may submit, in person, in writing, or through a representative, information and argument in opposition to the proposed debarment, including any additional specific information that raises a genuine dispute over the material facts;"
+                },
+                "5": {
+                  "text": "Of the agency’s procedures governing debarment decisionmaking;"
+                },
+                "6": {
+                  "text": "Of the effect of the issuance of the notice of proposed debarment; and"
+                },
+                "7": {
+                  "text": "Of the potential effect of an actual debarment."
+                }
+              }
+            },
+            "d": {
+              "text": "Debarring official’s decision.",
+              "sub": {
+                "1": {
+                  "text": "In actions based upon a conviction or civil judgment, or in which there is no genuine dispute over material facts, the debarring official shall make a decision on the basis of all the information in the administrative record, including any submission made by the contractor. If no suspension is in effect, the decision shall be made within 30 working days after receipt of any information and argument submitted by the contractor, unless the debarring official extends this period for good cause."
+                },
+                "2": {
+                  "text": "(i) In actions in which additional proceedings are necessary as to disputed material facts, written findings of fact shall be prepared. The debarring official shall base the decision on the facts as found, together with any information and argument submitted by the contractor and any other information in the administrative record.",
+                  "sub": {
+                    "ii": {
+                      "text": "The debarring official may refer matters involving disputed material facts to another official for findings of fact. The debarring official may reject any such findings, in whole or in part, only after specifically determining them to be arbitrary and capricious or clearly erroneous."
+                    },
+                    "iii": {
+                      "text": "The debarring official’s decision shall be made after the conclusion of the proceedings with respect to disputed facts."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "In any action in which the proposed debarment is not based upon a conviction or civil judgment, the cause for debarment must be established by a preponderance of the evidence."
+                }
+              }
+            },
+            "e": {
+              "text": "Notice of debarring official’s decision.",
+              "sub": {
+                "1": {
+                  "text": "If the debarring official decides to impose debarment, the contractor and any affiliates involved shall be given prompt notice by certified mail, return receipt requested—",
+                  "sub": {
+                    "i": {
+                      "text": "Referring to the notice of proposed debarment;"
+                    },
+                    "ii": {
+                      "text": "Specifying the reasons for debarment;"
+                    },
+                    "iii": {
+                      "text": "Stating the period of debarment, including effective dates; and"
+                    },
+                    "iv": {
+                      "text": "Advising that the debarment is effective throughout the executive branch of the Government unless the head of an agency or a designee makes the statement called for by 9.406-1(c)."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "If debarment is not imposed, the debarring official shall promptly notify the contractor and any affiliates involved, by certified mail, return receipt requested."
+                }
+              }
+            },
+            "f": {
+              "text": "(1) If the contractor enters into an administrative agreement with the Government in order to resolve a debarment proceeding, the debarring official shall access the website (available at www.cpars.csd.disa.mil, then select FAPIIS) and enter the requested information."
+            }
+          }
+        },
+        "4": {
+          "name": "Period of debarment.",
+          "text": {
+            "1": {
+              "text": "Newly discovered material evidence;"
+            },
+            "2": {
+              "text": "Reversal of the conviction or civil judgment upon which the debarment was based;"
+            },
+            "3": {
+              "text": "Bona fide change in ownership or management;"
+            },
+            "4": {
+              "text": "Elimination of other causes for which the debarment was imposed; or"
+            },
+            "5": {
+              "text": "Other reasons the debarring official deems appropriate."
+            },
+            "a": {
+              "text": "(1) Debarment shall be for a period commensurate with the seriousness of the cause(s). Generally, debarment should not exceed 3 years, except that—",
+              "sub": {
+                "2": {
+                  "text": "If suspension precedes a debarment, the suspension period shall be considered in determining the debarment period."
+                },
+                "i": {
+                  "text": "Debarment for violation of the provisions of the Drug-Free Workplace Act of 1988 (see 23.506) may be for a period not to exceed 5 years; and"
+                },
+                "ii": {
+                  "text": "Debarments under 9.406-2(b)(2) shall be for one year unless extended pursuant to paragraph (b) of this subsection."
+                }
+              }
+            },
+            "b": {
+              "text": "The debarring official may extend the debarment for an additional period, if that official determines that an extension is necessary to protect the Government’s interest. However, a debarment may not be extended solely on the basis of the facts and circumstances upon which the initial debarment action was based. Debarments under 9.406-2(b)(2) may be extended for additional periods of one year if the Secretary of Homeland Security or the Attorney General determines that the contractor continues to be in violation of the employment provisions of the Immigration and Nationality Act. If debarment for an additional period is determined to be necessary, the procedures of 9.406-3 shall be followed to extend the debarment."
+            },
+            "c": {
+              "text": "The debarring official may reduce the period or extent of debarment, upon the contractor’s request, supported by documentation, for reasons such as—"
+            }
+          }
+        },
+        "5": {
+          "name": "Scope of debarment.",
+          "text": {
+            "a": {
+              "text": "The fraudulent, criminal, or other seriously improper conduct of any officer, director, shareholder, partner, employee, or other individual associated with a contractor may be imputed to the contractor when the conduct occurred in connection with the individual’s performance of duties for or on behalf of the contractor, or with the contractor’s knowledge, approval, or acquiescence. The contractor’s acceptance of the benefits derived from the conduct shall be evidence of such knowledge, approval, or acquiescence."
+            },
+            "b": {
+              "text": "The fraudulent, criminal, or other seriously improper conduct of a contractor may be imputed to any officer, director, shareholder, partner, employee, or other individual associated with the contractor who participated in, knew of, or had reason to know of the contractor’s conduct."
+            },
+            "c": {
+              "text": "The fraudulent, criminal, or other seriously improper conduct of one contractor participating in a joint venture or similar arrangement may be imputed to other participating contractors if the conduct occurred for or on behalf of the joint venture or similar arrangement, or with the knowledge, approval, or acquiescence of these contractors. Acceptance of the benefits derived from the conduct shall be evidence of such knowledge, approval, or acquiescence."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "407": {
+      "number": 407,
+      "name": "Suspension.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "2": {
+              "text": "When suspending a contractor from the award of acquisition contracts and from the purchase of Federal personal property, the suspension notice shall so indicate and the appropriate FAR and FPMR citations shall be included."
+            },
+            "a": {
+              "text": "The suspending official may, in the public interest, suspend a contractor for any of the causes in 9.407-2, using the procedures in 9.407-3."
+            },
+            "b": {
+              "text": "(1) Suspension is a serious action to be imposed on the basis of adequate evidence, pending the completion of investigation or legal proceedings, when it has been determined that immediate action is necessary to protect the Government’s interest. In assessing the adequacy of the evidence, agencies should consider how much information is available, how credible it is given the circumstances, whether or not important allegations are corroborated, and what inferences can reasonably be drawn as a result. This assessment should include an examination of basic documents such as contracts, inspection reports, and correspondence.",
+              "sub": {
+                "2": {
+                  "text": "The existence of a cause for suspension does not necessarily require that the contractor be suspended. The suspending official should consider the seriousness of the contractor’s acts or omissions and may, but is not required to, consider remedial measures or mitigating factors, such as those set forth in 9.406-1(a). A contractor has the burden of promptly presenting to the suspending official evidence of remedial measures or mitigating factors when it has reason to know that a cause for suspension exists. The existence or nonexistence of any remedial measures or mitigating factors is not necessarily determinative of a contractor’s present responsibility."
+                }
+              }
+            },
+            "c": {
+              "text": "Suspension constitutes suspension of all divisions or other organizational elements of the contractor, unless the suspension decision is limited by its terms to specific divisions, organizational elements, or commodities. The suspending official may extend the suspension decision to include any affiliates of the contractor if they are—",
+              "sub": {
+                "1": {
+                  "text": "Specifically named; and"
+                },
+                "2": {
+                  "text": "Given written notice of the suspension and an opportunity to respond (see 9.407-3(c))."
+                }
+              }
+            },
+            "d": {
+              "text": "A contractor’s suspension shall be effective throughout the executive branch of the Government, unless the agency head or a designee (except see 23.506(e)) states in writing the compelling reasons justifying continued business dealings between that agency and the contractor."
+            },
+            "e": {
+              "text": "(1) When the suspending official has authority to suspend contractors from both acquisition contracts pursuant to this regulation and contracts for the purchase of Federal personal property pursuant to FPMR 101-45.6, that official shall consider simultaneously suspending the contractor from the award of acquisition contracts and from the purchase of Federal personal property."
+            }
+          }
+        },
+        "2": {
+          "name": "Causes for suspension.",
+          "text": {
+            "a": {
+              "text": "The suspending official may suspend a contractor suspected, upon adequate evidence, of—",
+              "sub": {
+                "1": {
+                  "text": "Commission of fraud or a criminal offense in connection with—",
+                  "sub": {
+                    "i": {
+                      "text": "Obtaining;"
+                    },
+                    "ii": {
+                      "text": "Attempting to obtain; or"
+                    },
+                    "iii": {
+                      "text": "Performing a public contract or subcontract."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "Violation of Federal or State antitrust statutes relating to the submission of offers;"
+                },
+                "3": {
+                  "text": "Commission of embezzlement, theft, forgery, bribery, falsification or destruction of records, making false statements, tax evasion, violating Federal criminal tax laws, or receiving stolen property;"
+                },
+                "4": {
+                  "text": "Violations of 41 U.S.C. chapter 81, Drug-Free Workplace, as indicated by—",
+                  "sub": {
+                    "i": {
+                      "text": "Failure to comply with the requirements of the clause at 52.223-6, Drug-Free Workplace; or"
+                    },
+                    "ii": {
+                      "text": "Such a number of contractor employees convicted of violations of criminal drug statutes occurring in the workplace as to indicate that the contractor has failed to make a good faith effort to provide a drug-free workplace (see 23.504);"
+                    }
+                  }
+                },
+                "5": {
+                  "text": "Intentionally affixing a label bearing a “Made in America” inscription (or any inscription having the same meaning) to a product sold in or shipped to the United States or its outlying areas, when the product was not made in the United States or its outlying areas (see Section 202 of the Defense Production Act (Public Law 102-558));"
+                },
+                "6": {
+                  "text": "Commission of an unfair trade practice as defined in 9.403 (see section 201 of the Defense Production Act (Pub. L. 102-558));"
+                },
+                "7": {
+                  "text": "Delinquent Federal taxes in an amount that exceeds $3,500. See the criteria at 9.406-2(b)(1)(v) for determination of when taxes are delinquent;"
+                },
+                "8": {
+                  "text": "Knowing failure by a principal, until 3 years after final payment on any Government contract awarded to the contractor, to timely disclose to the Government, in connection with the award, performance, or closeout of the contract or a subcontract thereunder, credible evidence of—",
+                  "sub": {
+                    "i": {
+                      "text": "Violation of Federal criminal law involving fraud, conflict of interest, bribery, or gratuity violations found in Title 18 of the United States Code;"
+                    },
+                    "ii": {
+                      "text": "Violation of the civil False Claims Act (31 U.S.C. 3729-3733); or"
+                    },
+                    "iii": {
+                      "text": "Significant overpayment(s) on the contract, other than overpayments resulting from contract financing payments as defined in 32.001; or"
+                    }
+                  }
+                },
+                "9": {
+                  "text": "Commission of any other offense indicating a lack of business integrity or business honesty that seriously and directly affects the present responsibility of a Government contractor or subcontractor."
+                }
+              }
+            },
+            "b": {
+              "text": "Indictment for any of the causes in paragraph (a) of this section constitutes adequate evidence for suspension."
+            },
+            "c": {
+              "text": "The suspending official may upon adequate evidence also suspend a contractor for any other cause of so serious or compelling a nature that it affects the present responsibility of a Government contractor or subcontractor."
+            }
+          }
+        },
+        "3": {
+          "name": "Procedures.",
+          "text": {
+            "2": {
+              "text": "The suspending official is responsible for the timely submission, within 3 working days, and accuracy of the documentation regarding the administrative agreement."
+            },
+            "3": {
+              "text": "With regard to information that may be covered by a disclosure exemption under the Freedom of Information Act, the suspending official shall follow the procedures at 9.105-2(b)(2)(iv)."
+            },
+            "a": {
+              "text": "Investigation and referral. Agencies shall establish procedures for the prompt reporting, investigation, and referral to the suspending official of matters appropriate for that official’s consideration."
+            },
+            "b": {
+              "text": "Decisionmaking process.",
+              "sub": {
+                "1": {
+                  "text": "Agencies shall establish procedures governing the suspension decisionmaking process that are as informal as is practicable, consistent with principles of fundamental fairness. These procedures shall afford the contractor (and any specifically named affiliates) an opportunity, following the imposition of suspension, to submit, in person, in writing, or through a representative, information and argument in opposition to the suspension."
+                },
+                "2": {
+                  "text": "In actions not based on an indictment, if it is found that the contractor’s submission in opposition raises a genuine dispute over facts material to the suspension and if no determination has been made, on the basis of Department of Justice advice, that substantial interests of the Government in pending or contemplated legal proceedings based on the same facts as the suspension would be prejudiced, agencies shall also—"
+                },
+                "i": {
+                  "text": "Afford the contractor an opportunity to appear with counsel, submit documentary evidence, present witnesses, and confront any person the agency presents; and"
+                },
+                "ii": {
+                  "text": "Make a transcribed record of the proceedings and make it available at cost to the contractor upon request, unless the contractor and the agency, by mutual agreement, waive the requirement for a transcript."
+                }
+              }
+            },
+            "c": {
+              "text": "Notice of suspension. When a contractor and any specifically named affiliates are suspended, they shall be immediately advised by certified mail, return receipt requested—",
+              "sub": {
+                "1": {
+                  "text": "That they have been suspended and that the suspension is based on an indictment or other adequate evidence that the contractor has committed irregularities—",
+                  "sub": {
+                    "i": {
+                      "text": "Of a serious nature in business dealings with the Government or"
+                    },
+                    "ii": {
+                      "text": "Seriously reflecting on the propriety of further Government dealings with the contractor—any such irregularities shall be described in terms sufficient to place the contractor on notice without disclosing the Government’s evidence;"
+                    }
+                  }
+                },
+                "2": {
+                  "text": "That the suspension is for a temporary period pending the completion of an investigation and such legal proceedings as may ensue;"
+                },
+                "3": {
+                  "text": "Of the cause(s) relied upon under 9.407-2 for imposing suspension;"
+                },
+                "4": {
+                  "text": "Of the effect of the suspension;"
+                },
+                "5": {
+                  "text": "That, within 30 days after receipt of the notice, the contractor may submit, in person, in writing, or through a representative, information and argument in opposition to the suspension, including any additional specific information that raises a genuine dispute over the material facts; and"
+                },
+                "6": {
+                  "text": "That additional proceedings to determine disputed material facts will be conducted unless—"
+                },
+                "i": {
+                  "text": "The action is based on an indictment; or"
+                },
+                "ii": {
+                  "text": "A determination is made, on the basis of Department of Justice advice, that the substantial interests of the Government in pending or contemplated legal proceedings based on the same facts as the suspension would be prejudiced."
+                }
+              }
+            },
+            "d": {
+              "text": "Suspending official’s decision.",
+              "sub": {
+                "1": {
+                  "text": "In actions—",
+                  "sub": {
+                    "i": {
+                      "text": "Based on an indictment;"
+                    },
+                    "ii": {
+                      "text": "In which the contractor’s submission does not raise a genuine dispute over material facts; or"
+                    },
+                    "iii": {
+                      "text": "In which additional proceedings to determine disputed material facts have been denied on the basis of Department of Justice advice, the suspending official’s decision shall be based on all the information in the administrative record, including any submission made by the contractor."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "(i) In actions in which additional proceedings are necessary as to disputed material facts, written findings of fact shall be prepared. The suspending official shall base the decision on the facts as found, together with any information and argument submitted by the contractor and any other information in the administrative record.",
+                  "sub": {
+                    "ii": {
+                      "text": "The suspending official may refer matters involving disputed material facts to another official for findings of fact. The suspending official may reject any such findings, in whole or in part, only after specifically determining them to be arbitrary and capricious or clearly erroneous."
+                    },
+                    "iii": {
+                      "text": "The suspending official’s decision shall be made after the conclusion of the proceedings with respect to disputed facts."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "The suspending official may modify or terminate the suspension or leave it in force (for example, see 9.406-4(c) for the reasons for reducing the period or extent of debarment). However, a decision to modify or terminate the suspension shall be without prejudice to the subsequent imposition of—",
+                  "sub": {
+                    "i": {
+                      "text": "Suspension by any other agency; or"
+                    },
+                    "ii": {
+                      "text": "Debarment by any agency."
+                    }
+                  }
+                },
+                "4": {
+                  "text": "Prompt written notice of the suspending official’s decision shall be sent to the contractor and any affiliates involved, by certified mail, return receipt requested."
+                }
+              }
+            },
+            "e": {
+              "text": "(1) If the contractor enters into an administrative agreement with the Government in order to resolve a suspension proceeding, the suspending official shall access the website (available at www.cpars.csd.disa.mil, then select FAPIIS) and enter the requested information."
+            }
+          }
+        },
+        "4": {
+          "name": "Period of suspension.",
+          "text": {
+            "a": {
+              "text": "Suspension shall be for a temporary period pending the completion of investigation and any ensuing legal proceedings, unless sooner terminated by the suspending official or as provided in this subsection."
+            },
+            "b": {
+              "text": "If legal proceedings are not initiated within 12 months after the date of the suspension notice, the suspension shall be terminated unless an Assistant Attorney General requests its extension, in which case it may be extended for an additional 6 months. In no event may a suspension extend beyond 18 months, unless legal proceedings have been initiated within that period."
+            },
+            "c": {
+              "text": "The suspending official shall notify the Department of Justice of the proposed termination of the suspension, at least 30 days before the 12-month period expires, to give that Department an opportunity to request an extension."
+            }
+          }
+        },
+        "5": {
+          "name": "Scope of suspension.",
+          "text": {
+            "text": "The scope of suspension shall be the same as that for debarment (see 9.406-5), except that the procedures of 9.407-3 shall be used in imposing suspension."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "408": {
+      "number": 408,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "409": {
+      "number": 409,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "\n\nThe contracting officer shall insert the clause at 52.209-6, Protecting the Government’s Interests when Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment, in solicitations and contracts where the contract value exceeds $35,000."
+      }
+    }
+  }
+}

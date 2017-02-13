@@ -1,0 +1,78 @@
+{
+  "parentPart": 14,
+  "number": 1,
+  "name": "Use of Sealed Bidding",
+  "sub": {
+    "101": {
+      "number": 101,
+      "name": "Elements of sealed bidding.",
+      "sub": {},
+      "text": {
+        "text": "Sealed bidding is a method of contracting that employs competitive bids, public opening of bids, and awards. The following steps are involved:\n\n(a) Preparation of invitations for bids. Invitations must describe the requirements of the Government clearly, accurately, and completely. Unnecessarily restrictive specifications or requirements that might unduly limit the number of bidders are prohibited. The invitation includes all documents (whether attached or incorporated by reference) furnished prospective bidders for the purpose of bidding.\n\n(b) Publicizing the invitation for bids. Invitations must be publicized through distribution to prospective bidders, posting in public places, and such other means as may be appropriate. Publicizing must occur a sufficient time before public opening of bids to enable prospective bidders to prepare and submit bids.\n\n(c) Submission of bids. Bidders must submit sealed bids to be opened at the time and place stated in the solicitation for the public opening of bids.\n\n(d) Evaluation of bids. Bids shall be evaluated without discussions.\n\n(e) Contract award. After bids are publicly opened, an award will be made with reasonable promptness to that responsible bidder whose bid, conforming to the invitation for bids, will be most advantageous to the Government, considering only price and the price-related factors included in the invitation."
+      }
+    },
+    "102": {
+      "number": 102,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "103": {
+      "number": 103,
+      "name": "Policy.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "a": {
+              "text": "Sealed bidding shall be used whenever the conditions in 6.401(a) are met. This requirement applies to any proposed contract action under Part 6."
+            },
+            "b": {
+              "text": "Sealed bidding may be used for classified acquisitions if its use does not violate agency security requirements."
+            },
+            "c": {
+              "text": "The policy for pricing modifications of sealed bid contract appears in 15.403-4(a)(1)(iii)."
+            }
+          }
+        },
+        "2": {
+          "name": "Limitations.",
+          "text": {
+            "text": "No awards shall be made as a result of sealed bidding unless—\n\n(a) Bids have been solicited as required by Subpart 14.2;\n\n(b) Bids have been submitted as required by Subpart 14.3;\n\n(c) The requirements of 1.602-1(b) and Part 6 have been met; and\n\n(d) An award is made to the responsible bidder (see 9.1) whose bid is responsive to the terms of the invitation for bids and is most advantageous to the Government, considering only price and the price related factors included in the invitation, as provided in Subpart 14.4."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "104": {
+      "number": 104,
+      "name": "Types of contracts.",
+      "sub": {},
+      "text": {
+        "text": "Firm-fixed-price contracts shall be used when the method of contracting is sealed bidding, except that fixed-price contracts with economic price adjustment clauses may be used if authorized in accordance with 16.203 when some flexibility is necessary and feasible. Such clauses must afford all bidders an equal opportunity to bid."
+      }
+    },
+    "105": {
+      "number": 105,
+      "name": "Solicitations for informational or planning purposes.",
+      "sub": {},
+      "text": {
+        "See 15.201(e": {
+          "text": ".)"
+        }
+      }
+    },
+    "000": {
+      "number": 0,
+      "name": "Scope of part.",
+      "sub": {},
+      "text": {
+        "text": "This part prescribes—\n\n(a) The basic requirements of contracting for supplies and services (including construction) by sealed bidding;\n\n(b) The information to be included in the solicitation (invitation for bids);\n\n(c) Procedures concerning the submission of bids;\n\n(d) Requirements for opening and evaluating bids and awarding contracts; and\n\n(e) Procedures for two-step sealed bidding."
+      }
+    }
+  }
+}

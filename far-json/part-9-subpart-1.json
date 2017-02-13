@@ -1,0 +1,543 @@
+{
+  "parentPart": 9,
+  "number": 1,
+  "name": "Responsible Prospective Contractors",
+  "sub": {
+    "100": {
+      "number": 100,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies, standards, and procedures for determining whether prospective contractors and subcontractors are responsible."
+      }
+    },
+    "101": {
+      "number": 101,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "“Administrative proceeding” means a non-judicial process that is adjudicatory in nature in order to make a determination of fault or liability (e.g., Securities and Exchange Commission Administrative Proceedings, Civilian Board of Contract Appeals Proceedings, and Armed Services Board of Contract Appeals Proceedings). This includes administrative proceedings at the Federal and state level but only in connections with performance of a Federal contract or grant. It does not include agency actions such as contract audits, site visits, corrective plans, or inspection of deliverables.\n\n“Surveying activity,” as used in this subpart, means the cognizant contract administration office or, if there is no such office, another organization designated by the agency to conduct preaward surveys."
+      }
+    },
+    "102": {
+      "number": 102,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Foreign, State, or local governments;"
+        },
+        "2": {
+          "text": "Other U.S. Government agencies or their instrumentalities; or"
+        },
+        "3": {
+          "text": "Agencies for people who are blind or severely disabled (see subpart 8.7)."
+        },
+        "a": {
+          "text": "This subpart applies to all proposed contracts with any prospective contractor that is located—",
+          "sub": {
+            "1": {
+              "text": "In the United States or its outlying areas; or"
+            },
+            "2": {
+              "text": "Elsewhere, unless application of the subpart would be inconsistent with the laws or customs where the contractor is located."
+            }
+          }
+        },
+        "b": {
+          "text": "This subpart does not apply to proposed contracts with—"
+        }
+      }
+    },
+    "103": {
+      "number": 103,
+      "name": "Policy.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Purchases shall be made from, and contracts shall be awarded to, responsible prospective contractors only."
+        },
+        "b": {
+          "text": "No purchase or award shall be made unless the contracting officer makes an affirmative determination of responsibility. In the absence of information clearly indicating that the prospective contractor is responsible, the contracting officer shall make a determination of nonresponsibility. If the prospective contractor is a small business concern, the contracting officer shall comply with subpart 19.6, Certificates of Competency and Determinations of Responsibility. (If Section 8(a) of the Small Business Act (15 U.S.C. 637) applies, see subpart 19.8.)"
+        },
+        "c": {
+          "text": "The award of a contract to a supplier based on lowest evaluated price alone can be false economy if there is subsequent default, late deliveries, or other unsatisfactory performance resulting in additional contractual or administrative costs. While it is important that Government purchases be made at the lowest price, this does not require an award to a supplier solely because that supplier submits the lowest offer. A prospective contractor must affirmatively demonstrate its responsibility, including, when necessary, the responsibility of its proposed subcontractors."
+        }
+      }
+    },
+    "104": {
+      "number": 104,
+      "name": "Standards.",
+      "sub": {
+        "1": {
+          "name": "General standards.",
+          "text": {
+            "text": "To be determined responsible, a prospective contractor must—\n\n(a) Have adequate financial resources to perform the contract, or the ability to obtain them (see 9.104-3(a));\n\n(b) Be able to comply with the required or proposed delivery or performance schedule, taking into consideration all existing commercial and governmental business commitments;\n\n(c) Have a satisfactory performance record (see 9.104-3(b) and subpart 42.15). A prospective contractor shall not be determined responsible or nonresponsible solely on the basis of a lack of relevant performance history, except as provided in 9.104-2;\n\n(d) Have a satisfactory record of integrity and business ethics (for example, see subpart 42.15).\n\n(e) Have the necessary organization, experience, accounting and operational controls, and technical skills, or the ability to obtain them (including, as appropriate, such elements as production control procedures, property control systems, quality assurance measures, and safety programs applicable to materials to be produced or services to be performed by the prospective contractor and subcontractors). (See 9.104-3(a).)\n\n(f) Have the necessary production, construction, and technical equipment and facilities, or the ability to obtain them (see 9.104-3(a)); and\n\n(g) Be otherwise qualified and eligible to receive an award under applicable laws and regulations (see also inverted domestic corporation prohibition at 9.108)."
+          }
+        },
+        "2": {
+          "name": "Special standards.",
+          "text": {
+            "a": {
+              "text": "When it is necessary for a particular acquisition or class of acquisitions, the contracting officer shall develop, with the assistance of appropriate specialists, special standards of responsibility. Special standards may be particularly desirable when experience has demonstrated that unusual expertise or specialized facilities are needed for adequate contract performance. The special standards shall be set forth in the solicitation (and so identified) and shall apply to all offerors."
+            },
+            "b": {
+              "text": "Contracting officers shall award contracts for subsistence only to those prospective contractors that meet the general standards in 9.104-1 and are approved in accordance with agency sanitation standards and procedures."
+            }
+          }
+        },
+        "3": {
+          "name": "Application of standards.",
+          "text": {
+            "2": {
+              "text": "A small business that is unable to comply with the limitations on subcontracting at 52.219-14 may be considered nonresponsible."
+            },
+            "a": {
+              "text": "Ability to obtain resources. Except to the extent that a prospective contractor has sufficient resources or proposes to perform the contract by subcontracting, the contracting officer shall require acceptable evidence of the prospective contractor’s ability to obtain required resources (see 9.104-1(a), (e), and (f)). Acceptable evidence normally consists of a commitment or explicit arrangement, that will be in existence at the time of contract award, to rent, purchase, or otherwise acquire the needed facilities, equipment, other resources, or personnel. Consideration of a prime contractor’s compliance with limitations on subcontracting shall take into account the time period covered by the contract base period or quantities plus option periods or quantities, if such options are considered when evaluating offers for award."
+            },
+            "b": {
+              "text": "Satisfactory performance record. A prospective contractor that is or recently has been seriously deficient in contract performance shall be presumed to be nonresponsible, unless the contracting officer determines that the circumstances were properly beyond the contractor’s control, or that the contractor has taken appropriate corrective action. Past failure to apply sufficient tenacity and perseverance to perform acceptably is strong evidence of nonresponsibility. Failure to meet the quality requirements of the contract is a significant factor to consider in determining satisfactory performance. The contracting officer shall consider the number of contracts involved and the extent of deficient performance in each contract when making this determination. If the pending contract requires a subcontracting plan pursuant to subpart 19.7, The Small Business Subcontracting Program, the contracting officer shall also consider the prospective contractor’s compliance with subcontracting plans under recent contracts."
+            },
+            "c": {
+              "text": "Affiliated concerns. Affiliated concerns (see “Concern” in 19.001 and “Affiliates” in 19.101) are normally considered separate entities in determining whether the concern that is to perform the contract meets the applicable standards for responsibility. However, the contracting officer shall consider the affiliate’s past performance and integrity when they may adversely affect the prospective contractor’s responsibility."
+            },
+            "d": {
+              "text": "(1) Small business concerns. Upon making a determination of nonresponsibility with regard to a small business concern, the contracting officer shall refer the matter to the Small Business Administration, which will decide whether to issue a Certificate of Competency (see subpart 19.6)."
+            }
+          }
+        },
+        "4": {
+          "name": "Subcontractor responsibility.",
+          "text": {
+            "a": {
+              "text": "Generally, prospective prime contractors are responsible for determining the responsibility of their prospective subcontractors (but see 9.405 and 9.405-2 regarding debarred, ineligible, or suspended firms). Determinations of prospective subcontractor responsibility may affect the Government’s determination of the prospective prime contractor’s responsibility. A prospective contractor may be required to provide written evidence of a proposed subcontractor’s responsibility."
+            },
+            "b": {
+              "text": "For Executive Order (E.O.) 13673, Fair Pay and Safe Workplaces, requirements pertaining to labor law violations, see subpart 22.20.\n\nNote to paragraph (b):  By a court order issued on October 24, 2016, this paragraph (b) is enjoined indefinitely  as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.",
+              "sub": {
+                "text": "Note to paragraph (b):  By a court order issued on October 24, 2016, this paragraph (b) is enjoined indefinitely  as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+              }
+            },
+            "c": {
+              "text": "When it is in the Government’s interest to do so, the contracting officer may directly determine a prospective subcontractor’s responsibility (e.g., when the prospective contract involves medical supplies, urgent requirements, or substantial subcontracting). In this case, the same standards used to determine a prime contractor’s responsibility shall be used by the Government to determine subcontractor responsibility."
+            }
+          }
+        },
+        "5": {
+          "name": "Representation and certifications regarding responsibility matters.",
+          "text": {
+            "a": {
+              "text": "When an offeror provides an affirmative response in paragraph (a)(1) of the provision at 52.209-5, Certification Regarding Responsibility Matters, or paragraph (h) of provision 52.212-3, the contracting officer shall—",
+              "sub": {
+                "1": {
+                  "text": "Promptly, upon receipt of offers, request such additional information from the offeror as the offeror deems necessary in order to demonstrate the offeror’s responsibility to the contracting officer (but see 9.405); and"
+                },
+                "2": {
+                  "text": "Notify, prior to proceeding with award, in accordance with agency procedures (see 9.406-3(a) and 9.407-3(a)), the agency official responsible for initiating debarment or suspension action, where an offeror indicates the existence of an indictment, charge, conviction, or civil judgment, or Federal tax delinquency in an amount that exceeds $3,500."
+                }
+              }
+            },
+            "b": {
+              "text": "The provision at 52.209-11, Representation by Corporations Regarding Delinquent Tax Liability or a Felony Conviction under any Federal Law, implements sections 744 and 745 of Division E of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) (and similar provisions in subsequent appropriations acts). When an offeror provides an affirmative response in paragraph (b)(1) or (2) of the provision at 52.209-11 or paragraph (q)(2)(i) or (ii) of provision 52.212-3, the contracting officer shall—",
+              "sub": {
+                "1": {
+                  "text": "Promptly, upon receipt of offers, request such additional information from the offeror as the offeror deems necessary in order to demonstrate the offeror’s responsibility to the contracting officer (but see 9.405);"
+                },
+                "2": {
+                  "text": "Notify, in accordance with agency procedures (see 9.406-3(a) and 9.407-3(a)), the agency official responsible for initiating debarment or suspension action; and"
+                },
+                "3": {
+                  "text": "Not award to the corporation unless an agency suspending or debarring official has considered suspension or debarment of the corporation and made a determination that suspension or debarment is not necessary to protect the interests of the Government."
+                }
+              }
+            },
+            "c": {
+              "text": "If the provision at 52.209-12, Certification Regarding Tax Matters, is applicable (see 9.104-7(e)), then the contracting officer shall not award any contract in an amount greater than $5,000,000, unless the offeror affirmatively certified in its offer, as required by paragraph (b)(1), (2), and (3) of the provision."
+            },
+            "d": {
+              "text": "When an offeror provides an affirmative response to the provision at 52.222-57(c)(2), Representation Regarding Compliance with Labor Laws (Executive Order 13673), or its commercial item equivalent at 52.212-3(s)(2)(ii), the contracting officer shall follow the procedures in subpart 22.20.\n\nNote to paragraph (d):  By a court order issued on October 24, 2016, this paragraph (d) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.",
+              "sub": {
+                "text": "Note to paragraph (d):  By a court order issued on October 24, 2016, this paragraph (d) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+              }
+            },
+            "e": {
+              "text": "Offerors who do not furnish the representation or certifications or such information as may be requested by the contracting officer shall be given an opportunity to remedy the deficiency. Failure to furnish the representation or certifications or such information may render the offeror nonresponsible."
+            }
+          }
+        },
+        "6": {
+          "name": "Federal Awardee Performance and Integrity Information System.",
+          "text": {
+            "a": {
+              "text": "(1) Before awarding a contract in excess of the simplified acquisition threshold, the contracting officer shall review the performance and integrity information available in the Federal Awardee Performance and Integrity Information System (FAPIIS), (available at www.ppirs.gov, then select FAPIIS), including FAPIIS information from the System for Award Management (SAM) Exclusions and the Past Performance Information Retrieval System (PPIRS).",
+              "sub": {
+                "2": {
+                  "text": "In accordance with 41 U.S.C. 2313(d)(3), FAPIIS also identifies—"
+                },
+                "i": {
+                  "text": "An affiliate that is an immediate owner or subsidiary of the offeror, if any (see 52.204-17, Ownership or Control of Offeror); and"
+                },
+                "ii": {
+                  "text": "All predecessors of the offeror that held a Federal contract or grant within the last three years (see 52.204-20, Predecessor of Offeror)."
+                }
+              }
+            },
+            "b": {
+              "text": "(1) When making a responsibility determination, the contracting officer shall consider all the information available through FAPIIS with regard to the offeror and any immediate owner, predecessor, or subsidiary identified for that offeror in FAPIIS, as well as other past performance information on the offeror (see subpart 42.15).\n\nNote to paragraph (b)(4):  By a court order issued on October 24, 2016, this paragraph (b)(4) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.\n\nNote to paragraph (b)(6):  By a court order issued on October 24, 2016, this paragraph (b)(6) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.",
+              "sub": {
+                "2": {
+                  "text": "For evaluation of information available through FAPIIS relating to an affiliate of the offeror, see 9.104-3(c)."
+                },
+                "3": {
+                  "text": "For source selection evaluations of past performance, see 15.305(a)(2). Contracting officers shall use sound judgment in determining the weight and relevance of the information contained in FAPIIS and how it relates to the present acquisition."
+                },
+                "4": {
+                  "text": "Since FAPIIS may contain information on any of the offeror’s previous contracts and information covering a five-year period, some of that information may not be relevant to a determination of present responsibility, e.g., a prior administrative action such as debarment or suspension that has expired or otherwise been resolved, or information relating to contracts for completely different products or services. Information in FAPIIS submitted pursuant to the following provision and clause is applicable above $500,000, and may be considered if the information is relevant to a procurement below $500,000: 52.222-57, Representation Regarding Compliance with Labor Laws (Executive Order 13673), its commercial item equivalent at 52.212-3(s), and 52.222-59, Compliance with Labor Laws (Executive Order 13673).\n\nNote to paragraph (b)(4):  By a court order issued on October 24, 2016, this paragraph (b)(4) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.",
+                  "sub": {
+                    "text": "Note to paragraph (b)(4):  By a court order issued on October 24, 2016, this paragraph (b)(4) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+                  }
+                },
+                "5": {
+                  "text": "Because FAPIIS is a database that provides information about prime contractors, the contracting officer posts information required to be posted about a subcontractor, such as trafficking in persons violations, to the record of the prime contractor (see 42.1503(h)(1)(v)). The prime contractor has the opportunity to post in FAPIIS any mitigating factors. The contracting officer shall consider any mitigating factors posted in FAPIIS by the prime contractor, such as degree of compliance by the prime contractor with the terms of FAR clause 52.222-50."
+                },
+                "6": {
+                  "text": "When considering information in FAPIIS previously submitted in response to the provision and clause listed at paragraph (b)(4) of this section the contracting officer–\n\nNote to paragraph (b)(6):  By a court order issued on October 24, 2016, this paragraph (b)(6) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+                },
+                "i": {
+                  "text": "Shall follow the procedures in 22.2004-2, if the procurement is expected to exceed $500,000; or\n\nNote to paragraph (b)(6):  By a court order issued on October 24, 2016, this paragraph (b)(6) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+                },
+                "ii": {
+                  "text": "May elect to follow the procedures in 22.2004-2, if the procurement is not expected to exceed $500,000.\n\nNote to paragraph (b)(6):  By a court order issued on October 24, 2016, this paragraph (b)(6) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+                },
+                "b": {
+                  "text": "(6):  By a court order issued on October 24, 2016, this paragraph (b)(6) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+                }
+              }
+            },
+            "c": {
+              "text": "If the contracting officer obtains relevant information from FAPIIS regarding criminal, civil, or administrative proceedings in connection with the award or performance of a Government contract; terminations for default or cause; determinations of nonresponsibility because the contractor does not have a satisfactory performance record or a satisfactory record of integrity and business ethics; or comparable information relating to a grant, the contracting officer shall, unless the contractor has already been debarred or suspended—",
+              "sub": {
+                "1": {
+                  "text": "Promptly request such additional information from the offeror as the offeror deems necessary in order to demonstrate the offeror’s responsibility to the contracting officer (but see 9.405); and"
+                },
+                "2": {
+                  "text": "Notify, prior to proceeding with award, in accordance with agency procedures (see 9.406-3(a) and 9.407-3(a)), the agency official responsible for initiating debarment or suspension action, if the information appears appropriate for the official’s consideration."
+                }
+              }
+            },
+            "d": {
+              "text": "The contracting officer shall document the contract file for each contract in excess of the simplified acquisition threshold to indicate how the information in FAPIIS was considered in any responsibility determination, as well as the action that was taken as a result of the information. A contracting officer who makes a nonresponsibility determination is required to document that information in FAPIIS in accordance with 9.105-2 (b)(2)."
+            }
+          }
+        },
+        "7": {
+          "name": "Solicitation provisions and contract clauses.",
+          "text": {
+            "a": {
+              "text": "The contracting officer shall insert the provision at 52.209-5, Certification Regarding Responsibility Matters, in solicitations where the contract value is expected to exceed the simplified acquisition threshold."
+            },
+            "b": {
+              "text": "The contracting officer shall insert the provision at 52.209-7, Information Regarding Responsibility Matters, in solicitations where the resultant contract value is expected to exceed $550,000."
+            },
+            "c": {
+              "text": "The contracting officer shall insert the clause at 52.209-9, Updates of Publicly Available Information Regarding Responsibility Matters—",
+              "sub": {
+                "1": {
+                  "text": "In solicitations where the resultant contract value is expected to exceed $550,000; and"
+                },
+                "2": {
+                  "text": "In contracts in which the offeror checked “has” in paragraph (b) of the provision at 52.209-7."
+                }
+              }
+            },
+            "d": {
+              "text": "The contracting officer shall insert the provision 52.209-11, Representation by Corporations Regarding Delinquent Tax Liability or a Felony Conviction under any Federal Law, in all solicitations."
+            },
+            "e": {
+              "text": "For agencies receiving funds subject to section 523 of Division B of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and similar provisions in subsequent appropriations acts, the contracting officer shall insert the provision 52.209-12, Certification Regarding Tax Matters, in solicitations for which the resultant contract (including options) may have a value greater than $5,000,000. Division B of the Consolidated and Continuing Further Appropriations Act, 2015 appropriates funds for the following agencies: the Department of Commerce, the Department of Justice, the National Aeronautics and Space Administration, the Office of Science and Technology Policy, the National Science Foundation, the Commission on Civil Rights, the Equal Employment Opportunity Commission, the U.S. International Trade Commission, the Legal Services Corporation, the Marine Mammal Commission, the Office of the United States Trade Representative, and the State Justice Institute."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "105": {
+      "number": 105,
+      "name": "Procedures.",
+      "sub": {
+        "1": {
+          "name": "Obtaining information.",
+          "text": {
+            "a": {
+              "text": "Before making a determination of responsibility, the contracting officer shall possess or obtain information sufficient to be satisfied that a prospective contractor currently meets the applicable standards in 9.104."
+            },
+            "b": {
+              "text": "(1) Generally, the contracting officer shall obtain information regarding the responsibility of prospective contractors, including requesting preaward surveys when necessary (see 9.106), promptly after a bid opening or receipt of offers. However, in negotiated contracting, especially when research and development is involved, the contracting officer may obtain this information before issuing the request for proposals. Requests for information shall ordinarily be limited to information concerning—\n\nNote to paragraph (b)(4):  By a court order issued on October 24, 2016, this paragraph (b)(4) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.",
+              "sub": {
+                "2": {
+                  "text": "Preaward surveys shall be managed and conducted by the surveying activity.",
+                  "sub": {
+                    "i": {
+                      "text": "If the surveying activity is a contract administration office—"
+                    },
+                    "A": {
+                      "text": "That office shall advise the contracting officer on prospective contractors’ financial competence and credit needs; and"
+                    },
+                    "B": {
+                      "text": "The administrative contracting officer shall obtain from the auditor any information required concerning the adequacy of prospective contractors’ accounting systems and these systems’ suitability for use in administering the proposed type of contract."
+                    },
+                    "ii": {
+                      "text": "If the surveying activity is not a contract administration office, the contracting officer shall obtain from the auditor any information required concerning prospective contractors’ financial competence and credit needs, the adequacy of their accounting systems, and these systems’ suitability for use in administering the proposed type of contract."
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Information on financial resources and performance capability shall be obtained or updated on as current a basis as is feasible up to the date of award."
+                },
+                "4": {
+                  "text": "When an offeror provides an affirmative response to the provision at 52.222-57, Representation Regarding Compliance with Labor Laws (Executive Order 13673) at paragraph (c)(2), or its commercial item equivalent at 52.212-3(s)(2)(ii), the contracting officer shall follow the procedures in 22.2004-2.\n\nNote to paragraph (b)(4):  By a court order issued on October 24, 2016, this paragraph (b)(4) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+                },
+                "i": {
+                  "text": "The low bidder; or\n\nNote to paragraph (b)(4):  By a court order issued on October 24, 2016, this paragraph (b)(4) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+                },
+                "ii": {
+                  "text": "Those offerors in range for award.\n\nNote to paragraph (b)(4):  By a court order issued on October 24, 2016, this paragraph (b)(4) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+                },
+                "b": {
+                  "text": "(4):  By a court order issued on October 24, 2016, this paragraph (b)(4) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, GSA, DoD and NASA will publish a document in the Federal Register advising the public of the termination of the injunction."
+                }
+              }
+            },
+            "c": {
+              "text": "In making the determination of responsibility, the contracting officer shall consider information available through FAPIIS (see 9.104-6), with regard to the offeror and any immediate owner, predecessor, or subsidiary identified for that offeror in FAPIIS, including information that is linked to FAPIIS such as from SAM, and PPIRS, as well as any other relevant past performance information on the offeror (see 9.104-1(c) and subpart 42.15). In addition, the contracting officer should use the following sources of information to support such determinations:",
+              "sub": {
+                "1": {
+                  "text": "Records and experience data, including verifiable knowledge of personnel within the contracting office, audit offices, contract administration offices, and other contracting offices."
+                },
+                "2": {
+                  "text": "The prospective contractor-including bid or proposal information (including the certification at 52.209-5 or 52.212-3(h) (see 9.104-5)), questionnaire replies, financial data, information on production equipment, and personnel information."
+                },
+                "3": {
+                  "text": "Commercial sources of supplier information of a type offered to buyers in the private sector."
+                },
+                "4": {
+                  "text": "Preaward survey reports (see 9.106)."
+                },
+                "5": {
+                  "text": "Other sources such as publications; suppliers, subcontractors, and customers of the prospective contractor; financial institutions; Government agencies; and business and trade associations."
+                }
+              }
+            },
+            "d": {
+              "text": "Contracting offices and cognizant contract administration offices that become aware of circumstances casting doubt on a contractor’s ability to perform contracts successfully shall promptly exchange relevant information."
+            }
+          }
+        },
+        "2": {
+          "name": "Determinations and documentation.",
+          "text": {
+            "1": {
+              "text": "Documents and reports supporting a determination of responsibility or nonresponsibility, including any preaward survey reports, the use of FAPIIS information (see 9.104-6), and any applicable Certificate of Competency, must be included in the contract file."
+            },
+            "2": {
+              "text": "(i) The contracting officer shall document the determination of nonresponsibility in FAPIIS (available at www.cpars.gov, then select FAPIIS) if—",
+              "sub": {
+                "1": {
+                  "text": "Past performance reviews required by subpart 42.15;"
+                },
+                "2": {
+                  "text": "Information that was entered prior to April 15, 2011; or"
+                },
+                "A": {
+                  "text": "The non-public segment, into which Government officials and contractors post information, which can only be viewed by—"
+                },
+                "B": {
+                  "text": "The publicly-available segment, to which all data in the non-public segment of FAPIIS is automatically transferred after a waiting period of 14 calendar days, except for—"
+                },
+                "C": {
+                  "text": "The Small Business Administration does not issue a Certificate of Competency."
+                },
+                "ii": {
+                  "text": "The contracting officer is responsible for the timely submission, within 3 working days, and sufficiency, and accuracy of the documentation regarding the nonresponsibility determination."
+                },
+                "iii": {
+                  "text": "As required by section 3010 of the Supplemental Appropriations Act, 2010 (Pub. L. 111-212), all information posted in FAPIIS on or after April 15, 2011, except past performance reviews, will be publicly available. FAPIIS consists of two segments—"
+                }
+              }
+            },
+            "3": {
+              "text": "Information that is withdrawn during the 14-calendar-day waiting period by the Government official who posted it in accordance with paragraph (b)(2)(iv) of this section."
+            },
+            "a": {
+              "text": "Determinations.",
+              "sub": {
+                "1": {
+                  "text": "The contracting officer’s signing of a contract constitutes a determination that the prospective contractor is responsible with respect to that contract. When an offer on which an award would otherwise be made is rejected because the prospective contractor is found to be nonresponsible, the contracting officer shall make, sign, and place in the contract file a determination of nonresponsibility, which shall state the basis for the determination."
+                },
+                "2": {
+                  "text": "If the contracting officer determines that a responsive small business lacks certain elements of responsibility, the contracting officer shall comply with the procedures in subpart 19.6. When a Certificate of Competency is issued for a small business concern (see subpart 19.6), the contracting officer shall accept the Small Business Administration’s decision to issue a Certificate of Competency and award the contract to the concern."
+                }
+              }
+            },
+            "b": {
+              "text": "Support documentation."
+            },
+            "iv": {
+              "text": "The contracting officer, or any other Government official, shall not post any information in the non-public segment of FAPIIS that is covered by a disclosure exemption under the Freedom of Information Act. If the contractor asserts within 7 calendar days, to the Government official who posted the information, that some of the information posted to the non-public segment of FAPIIS is covered by a disclosure exemption under the Freedom of Information Act, the Government official who posted the information must within 7 calendar days remove the posting from FAPIIS and resolve the issue in accordance with agency Freedom of Information Act procedures, prior to reposting the releasable information."
+            }
+          }
+        },
+        "3": {
+          "name": "Disclosure of preaward information.",
+          "text": {
+            "a": {
+              "text": "Except as provided in 9.105-2(b)(2)(iii) and subpart 24.2, Freedom of Information Act, information (including the preaward survey report) accumulated for purposes of determining the responsibility of a prospective contractor shall not be released or disclosed outside the Government."
+            },
+            "b": {
+              "text": "The contracting officer may discuss preaward survey information with the prospective contractor before determining responsibility. After award, the contracting officer or, if it is appropriate, the head of the surveying activity or a designee may discuss the findings of the preaward survey with the company surveyed."
+            },
+            "c": {
+              "text": "Preaward survey information may contain proprietary or source selection information and should be marked with the appropriate legend and protected accordingly (see 3.104-4)."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "106": {
+      "number": 106,
+      "name": "Preaward surveys.",
+      "sub": {
+        "1": {
+          "name": "Conditions for preaward surveys.",
+          "text": {
+            "a": {
+              "text": "A preaward survey is normally required only when the information on hand or readily available to the contracting officer, including information from commercial sources, is not sufficient to make a determination regarding responsibility. In addition, if the contemplated contract will have a fixed price at or below the simplified acquisition threshold or will involve the acquisition of commercial items (see Part 12), the contracting officer should not request a preaward survey unless circumstances justify its cost."
+            },
+            "b": {
+              "text": "When a cognizant contract administration office becomes aware of a prospective award to a contractor about which unfavorable information exists and no preaward survey has been requested, it shall promptly obtain and transmit details to the contracting officer."
+            },
+            "c": {
+              "text": "Before beginning a preaward survey, the surveying activity shall ascertain whether the prospective contractor is debarred, suspended, or ineligible (see subpart 9.4). If the prospective contractor is debarred, suspended, or ineligible, the surveying activity shall advise the contracting officer promptly and not proceed with the preaward survey unless specifically requested to do so by the contracting officer."
+            }
+          }
+        },
+        "2": {
+          "name": "Requests for preaward surveys.",
+          "text": {
+            "text": "The contracting officer’s request to the surveying activity (Preaward Survey of Prospective Contractor (General), SF 1403) shall—\n\n(a) Identify additional factors about which information is needed;\n\n(b) Include the complete solicitation package (unless it has previously been furnished), and any information indicating prior unsatisfactory performance by the prospective contractor;\n\n(c) State whether the contracting office will participate in the survey;\n\n(d) Specify the date by which the report is required. This date should be consistent with the scope of the survey requested and normally shall allow at least 7 working days to conduct the survey; and\n\n(e) When appropriate, limit the scope of the survey."
+          }
+        },
+        "3": {
+          "name": "Interagency preaward surveys.",
+          "text": {
+            "text": "When the contracting office and the surveying activity are in different agencies, the procedures of this section 9.106 and subpart 42.1 shall be followed along with the regulations of the agency in which the surveying activity is located, except that reasonable special requests by the contracting office shall be accommodated (also see subpart 17.5)."
+          }
+        },
+        "4": {
+          "name": "Reports.",
+          "text": {
+            "a": {
+              "text": "The surveying activity shall complete the applicable parts of SF 1403, Preaward Survey of Prospective Contractor (General); SF 1404, Preaward Survey of Prospective Contractor—Technical; SF 1405, Preaward Survey of Prospective Contractor—Production; SF 1406, Preaward Survey of Prospective Contractor—Quality Assurance; SF 1407, Preaward Survey of Prospective Contractor—Financial Capability; and SF 1408, Preaward Survey of Prospective Contractor—Accounting System; and provide a narrative discussion sufficient to support both the evaluation ratings and the recommendations."
+            },
+            "b": {
+              "text": "When the contractor surveyed is a small business that has received preferential treatment on an ongoing contract under Section 8(a) of the Small Business Act (15 U.S.C. 637) or has received a Certificate of Competency during the last 12 months, the surveying activity shall consult the appropriate Small Business Administration field office before making an affirmative recommendation regarding the contractor’s responsibility or nonresponsibility."
+            },
+            "c": {
+              "text": "When a preaward survey discloses previous unsatisfactory performance, the surveying activity shall specify the extent to which the prospective contractor plans, or has taken, corrective action. Lack of evidence that past failure to meet contractual requirements was the prospective contractor’s fault does not necessarily indicate satisfactory performance. The narrative shall report any persistent pattern of need for costly and burdensome Government assistance (e.g., engineering, inspection, or testing) provided in the Government’s interest but not contractually required."
+            },
+            "d": {
+              "text": "When the surveying activity possesses information that supports a recommendation of complete award without an on-site survey and no special areas for investigation have been requested, the surveying activity may provide a short-form preaward survey report. The short-form report shall consist solely of the Preaward Survey of Prospective Contractor (General), SF 1403. Sections III and IV of this form shall be completed and block 21 shall be checked to show that the report is a short-form preaward report."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "107": {
+      "number": 107,
+      "name": "Surveys of nonprofit agencies participating in the AbilityOne Program.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The Committee for Purchase From People Who Are Blind or Severely Disabled (Committee), as authorized by 41 U.S.C. chapter 85, determines what supplies and services Federal agencies are required to purchase from AbilityOne participating nonprofit agencies serving people who are blind or have other severe disabilities (see subpart 8.7).  The Committee is required to find an AbilityOne participating nonprofit agency capable of furnishing the supplies or services before the nonprofit agency can be designated as a mandatory source under the AbilityOne Program.  The Committee may request a contracting office to assist in assessing the capabilities of a nonprofit agency."
+        },
+        "b": {
+          "text": "The contracting office, upon request from the Committee, shall request a capability survey from the activity responsible for performing preaward surveys, or notify the Committee that the AbilityOne participating nonprofit agency is capable, with supporting rationale, and that the survey is waived. The capability survey will focus on the technical and production capabilities and applicable preaward survey elements to furnish specific supplies or services being considered for addition to the Procurement List."
+        },
+        "c": {
+          "text": "The contracting office shall use the Standard Form 1403 to request a capability survey of organizations employing people who are blind or have other severe disabilities."
+        },
+        "d": {
+          "text": "The contracting office shall furnish a copy of the completed survey, or notice that the AbilityOne participating nonprofit agency is capable and the survey is waived, to the Executive Director, Committee for Purchase From People Who Are Blind or Severely Disabled."
+        }
+      }
+    },
+    "108": {
+      "number": 108,
+      "name": "Prohibition on contracting with inverted domestic corporations.",
+      "sub": {
+        "1": {
+          "name": "Definitions.",
+          "text": {
+            "text": "As used in this section—\n\n“Inverted domestic corporation” means a foreign incorporated entity that meets the definition of an inverted domestic corporation under 6 U.S.C. 395(b), applied in accordance with the rules and definitions of 6 U.S.C. 395(c).\n\n“Subsidiary” means an entity in which more than 50 percent of the entity is owned—\n\n(1) Directly by a parent corporation; or\n\n(2) Through another subsidiary of a parent corporation."
+          }
+        },
+        "2": {
+          "name": "Prohibition.",
+          "text": {
+            "2": {
+              "text": "To ensure appropriate application of the prohibition and this exception, contracting officers should consult with legal counsel if, during the performance of a contract, a contractor becomes an inverted domestic corporation or a subsidiary of one."
+            },
+            "a": {
+              "text": "Section 745 of Division D of the Consolidated Appropriations Act, 2008 (Pub. L. 110-161) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions) prohibit, on a Governmentwide basis, the use of appropriated (or otherwise made available) funds for contracts with either an inverted domestic corporation, or a subsidiary of such a corporation, except as provided in paragraph (b) of this section and in 9.108-4 Waiver."
+            },
+            "b": {
+              "text": "(1) Section 745 and its successor provisions include the following exception: This section shall not apply to any Federal Government contract entered into before the date of the enactment of this Act, or to any task order issued pursuant to such contract."
+            }
+          }
+        },
+        "3": {
+          "name": "Representation by the offeror.",
+          "text": {
+            "a": {
+              "text": "In order to be eligible for contract award, an offeror must represent that it is neither an inverted domestic corporation, nor a subsidiary of an inverted domestic corporation.  Any offeror that cannot so represent is ineligible for award of a contract, unless waived in accordance with the procedures at 9.108-4."
+            },
+            "b": {
+              "text": "The contracting officer may rely on an offeror’s representation that it is not an inverted domestic corporation unless the contracting officer has reason to question the representation."
+            }
+          }
+        },
+        "4": {
+          "name": "Waiver.",
+          "text": {
+            "text": "Any agency head may waive the prohibition in subsection 9.108-2 and the requirement of subsection 9.108-3 for a specific contract if the agency head determines in writing that the waiver is required in the interest of national security, documents the determination, and reports it to the Congress."
+          }
+        },
+        "5": {
+          "name": "Solicitation provision and contract clause.",
+          "text": {
+            "text": "The contracting officer shall—\n\n(a) Include the provision at 52.209-2, Prohibition on Contracting with Inverted Domestic Corporations—Representation, in each solicitation for the acquisition of products or services (including construction); and\n\n(b) Include the clause at 52.209-10, Prohibition on Contracting with Inverted Domestic Corporations, in each solicitation and contract for the acquisition of products or services (including construction)."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "000": {
+      "number": 0,
+      "name": "Scope of part.",
+      "sub": {},
+      "text": {
+        "text": "This part prescribes policies, standards, and procedures pertaining to prospective contractors’ responsibility; debarment, suspension, and ineligibility; qualified products; first article testing and approval; contractor team arrangements; defense production pools and research and development pools; and organizational conflicts of interest."
+      }
+    }
+  }
+}

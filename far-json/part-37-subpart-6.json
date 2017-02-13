@@ -1,0 +1,108 @@
+{
+  "parentPart": 37,
+  "number": 6,
+  "name": "Performance-Based Acquisition",
+  "sub": {
+    "600": {
+      "number": 600,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures for acquiring services using performance-based acquisition methods."
+      }
+    },
+    "601": {
+      "number": 601,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Solicitations may use either a performance work statement or a statement of objectives (see 37.602)."
+        },
+        "b": {
+          "text": "Performance-based contracts for services shall include—",
+          "sub": {
+            "1": {
+              "text": "A performance work statement (PWS);"
+            },
+            "2": {
+              "text": "Measurable performance standards (i.e., in terms of quality, timeliness, quantity, etc.) and the method of assessing contractor performance against performance standards; and"
+            },
+            "3": {
+              "text": "Performance incentives where appropriate. When used, the performance incentives shall correspond to the performance standards set forth in the contract (see 16.402-2)."
+            }
+          }
+        },
+        "c": {
+          "text": "See 12.102(g) for the use of Part 12 procedures for performance-based acquisitions."
+        }
+      }
+    },
+    "602": {
+      "number": 602,
+      "name": "Performance work statement.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Purpose;"
+        },
+        "2": {
+          "text": "Scope or mission;"
+        },
+        "3": {
+          "text": "Period and place of performance;"
+        },
+        "4": {
+          "text": "Background;"
+        },
+        "5": {
+          "text": "Performance objectives, i.e., required results; and"
+        },
+        "6": {
+          "text": "Any operating constraints."
+        },
+        "a": {
+          "text": "A Performance work statement (PWS) may be prepared by the Government or result from a Statement of objectives (SOO) prepared by the Government where the offeror proposes the PWS."
+        },
+        "b": {
+          "text": "Agencies shall, to the maximum extent practicable—",
+          "sub": {
+            "1": {
+              "text": "Describe the work in terms of the required results rather than either “how” the work is to be accomplished or the number of hours to be provided (see 11.002(a)(2) and 11.101);"
+            },
+            "2": {
+              "text": "Enable assessment of work performance against measurable performance standards;"
+            },
+            "3": {
+              "text": "Rely on the use of measurable performance standards and financial incentives in a competitive environment to encourage competitors to develop and institute innovative and cost-effective methods of performing the work."
+            }
+          }
+        },
+        "c": {
+          "text": "Offerors use the SOO to develop the PWS; however, the SOO does not become part of the contract. The SOO shall, at a minimum, include—"
+        }
+      }
+    },
+    "603": {
+      "number": 603,
+      "name": "Performance standards.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Performance standards establish the performance level required by the Government to meet the contract requirements. The standards shall be measurable and structured to permit an assessment of the contractor’s performance."
+        },
+        "b": {
+          "text": "When offerors propose performance standards in response to a SOO, agencies shall evaluate the proposed standards to determine if they meet agency needs."
+        }
+      }
+    },
+    "604": {
+      "number": 604,
+      "name": "Quality assurance surveillance plans.",
+      "sub": {},
+      "text": {
+        "text": "Requirements for quality assurance and quality assurance surveillance plans are in Subpart 46.4. The Government may either prepare the quality assurance surveillance plan or require the offerors to submit a proposed quality assurance surveillance plan for the Government’s consideration in development of the Government’s plan."
+      }
+    }
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "parentPart": 52,
+  "number": 1,
+  "name": "Instructions for Using Provisions and Clauses",
+  "sub": {
+    "100": {
+      "number": 100,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart—\n\n(a) Gives instructions for using Part 52, including the explanation and use of provision and clause numbers, prescriptions, prefaces, and the matrix;\n\n(b) Prescribes procedures for incorporating, identifying, and modifying provisions and clauses in solicitations and contracts, and for using alternates; and\n\n(c) Describes the derivation of FAR provisions and clauses."
+      }
+    },
+    "101": {
+      "number": 101,
+      "name": "Using Part 52.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Definition. “Modification,” as used in this subpart, means a minor change in the details of a provision or clause that is specifically authorized by the FAR and does not alter the substance of the provision or clause (see 52.104)."
+        },
+        "b": {
+          "text": "Numbering—\n\n",
+          "sub": {
+            "1": {
+              "text": "FAR provisions and clauses. Subpart 52.2 sets forth the text of all FAR provisions and clauses, each in its own separate subsection. The subpart is arranged by subject matter, in the same order as, and keyed to, the parts of the FAR. Each FAR provision or clause is uniquely identified. All FAR provision and clause numbers begin with “52.2,” since the text of all FAR provisions and clauses appear in Subpart 52.2. The next two digits of the provision or clause number correspond to the number of the FAR subject part in which the provision or clause is prescribed. The FAR provision or clause number is then completed by a hyphen and a sequential number assigned within each section of Subpart 52.2. The following example illustrates the makeup of the FAR provision or clause number (see Figure 1 below).\n\n",
+              "sub": {
+                "text": ""
+              }
+            },
+            "2": {
+              "text": "(i) Provisions or clauses that supplement the FAR. Provisions or clauses that supplement the FAR are—"
+            },
+            "A": {
+              "text": "If it is included in an agency acquisition regulation that is published in the Federal Register and is codified in Title 48, Code of Federal Regulations (48 CFR), the number shall be preceded by the chapter number within 48 CFR assigned by the CFR staff; and"
+            },
+            "B": {
+              "text": "The sequential number shall be “70” or a higher number (see 1.303)."
+            },
+            "C": {
+              "text": "Developed for use at a suborganizational level of an agency, not meant for repetitive use, but intended to meet the needs of an individual acquisition and, thus, impractical to include in either an agency or suborganization acquisition regulation. (See 1.301(c).)"
+            },
+            "ii": {
+              "text": "Supplemental provisions or clauses published in agency acquisition regulations shall be in full text and the prescription for the use of each shall be included. Supplemental provisions or clauses published in agency acquisition regulations shall be numbered in the same manner in which FAR provisions and clauses are numbered except that—"
+            },
+            "iii": {
+              "text": "The sequential number at the end of the number of a provision or clause that supplements the FAR, like its counterpart at the end of any FAR provision or clause number, indicates the subsection location of the provision or clause in Subpart 52.2 of the agency acquisition regulation that contains its full text. If, for example, an agency acquisition regulation contains only one provision followed by only one clause supplementing the FAR in its section 52.236 (Construction and Architect-Engineer Contracts), then the sequential numbers would be “70” for the provision and “71” for the clause."
+            }
+          }
+        },
+        "c": {
+          "text": "Prescriptions. Each provision or clause in Subpart 52.2 is prescribed at that place in the FAR text where the subject matter of the provision or clause receives its primary treatment. The prescription includes all conditions, requirements, and instructions for using the provision or clause and its alternates, if any. The provision or clause may be referred to in other FAR locations."
+        },
+        "d": {
+          "text": "Introductory text. Within Subpart 52.2, the introductory text of each provision or clause includes a cross-reference to the location in the FAR subject text that prescribes its use."
+        },
+        "e": {
+          "text": "Matrix.",
+          "sub": {
+            "1": {
+              "text": "The matrix in Subpart 52.3 contains a column for each principal type and/or purpose of contract (e.g., fixed-price supply, cost reimbursement research and development). The matrix lists the—",
+              "sub": {
+                "i": {
+                  "text": "Required solicitation provisions;"
+                },
+                "ii": {
+                  "text": "Required-when-applicable solicitation provisions;"
+                },
+                "iii": {
+                  "text": "Optional solicitation provisions;"
+                },
+                "iv": {
+                  "text": "Required contract clauses;"
+                },
+                "v": {
+                  "text": "Required-when-applicable contract clauses; and"
+                },
+                "vi": {
+                  "text": "Optional contract clauses."
+                }
+              }
+            },
+            "2": {
+              "text": "For each provision or clause listed, the matrix provides information on—",
+              "sub": {
+                "i": {
+                  "text": "Whether incorporation by reference is or is not authorized (see 52.102);"
+                },
+                "ii": {
+                  "text": "The section of the Uniform Contract Format (UCF) in which it is to be located, if it is used in an acquisition that is subject to the UCF;"
+                },
+                "iii": {
+                  "text": "Its number;"
+                },
+                "iv": {
+                  "text": "The citation of the FAR text that prescribes its use; and"
+                },
+                "v": {
+                  "text": "Its title."
+                }
+              }
+            },
+            "3": {
+              "text": "Since the matrix does not provide sufficient information to determine the applicability of a provision or clause in the “required-when-applicable” and “optional” categories, contracting officers shall refer to the FAR text (cited in the matrix) that prescribes its use."
+            },
+            "4": {
+              "text": "The FAR matrix may be reproduced at agency levels, and at subordinate levels, for the purpose of supplementing it with agency-developed provisions and clauses. The resulting consolidated matrices may be included in agency acquisition regulations."
+            }
+          }
+        },
+        "f": {
+          "text": "Dates. Since they are subject to revision from time to time, all provisions, clauses, and alternates are dated; e.g., (Dec 1983). To avoid questions concerning which version of any provision, clause, or alternate is operative in any given solicitation or contract, its date shall be included whether it is incorporated by reference or in full text."
+        }
+      }
+    },
+    "102": {
+      "number": 102,
+      "name": "Incorporating provisions and clauses.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Provision at 52.252-3, Alterations in Solicitations; or"
+        },
+        "2": {
+          "text": "Clause at 52.252-4, Alterations in Contract."
+        },
+        "a": {
+          "text": "Provisions and clauses should be incorporated by reference to the maximum practical extent, rather than being incorporated in full text, even if they—",
+          "sub": {
+            "1": {
+              "text": "Are used with one or more alternates or on an optional basis;"
+            },
+            "2": {
+              "text": "Are prescribed on a “substantially as follows” or “substantially the same as” basis, provided they are used verbatim;"
+            },
+            "3": {
+              "text": "Require modification or the insertion by the Government of fill-in material (see 52.104); or"
+            },
+            "4": {
+              "text": "Require completion by the offeror or prospective contractor. This instruction also applies to provisions completed as annual representations and certifications."
+            }
+          }
+        },
+        "b": {
+          "text": "Except for provisions and clauses prescribed in 52.107, any provision or clause that can be accessed electronically by the offeror or prospective contractor may be incorporated by reference in solicitations and/or contracts. However, the contracting officer, upon request, shall provide the full text of any provision or clause incorporated by reference."
+        },
+        "c": {
+          "text": "Agency approved provisions and clauses prescribed in agency acquisition regulations, and provisions and clauses not authorized by Subpart 52.3 to be incorporated by reference, need not be incorporated in full text, provided the contracting officer includes in the solicitation and contract a statement that—",
+          "sub": {
+            "1": {
+              "text": "Identifies all provisions and clauses that require completion by the offeror or prospective contractor;"
+            },
+            "2": {
+              "text": "Specifies that the provisions and clauses must be completed by the offeror or prospective contractor and must be submitted with the quotation or offer; and"
+            },
+            "3": {
+              "text": "Identifies to the offeror or prospective contractor at least one electronic address where the full text may be accessed."
+            }
+          }
+        },
+        "d": {
+          "text": "An agency may develop a group listing of provisions and clauses that apply to a specific category of contracts. An agency group listing may be incorporated by reference in solicitations and/or contracts in lieu of citing the provisions and clauses individually, provided the group listing is made available electronically to offerors and prospective contractors."
+        },
+        "e": {
+          "text": "A provision or clause that is not available electronically to offerors and prospective contractors shall be incorporated in solicitations and/or contracts in full text if it is—",
+          "sub": {
+            "1": {
+              "text": "A FAR provision or clause that otherwise is not authorized to be incorporated by reference (see Subpart 52.3); or"
+            },
+            "2": {
+              "text": "A provision or clause prescribed for use in an agency acquisition regulation."
+            }
+          }
+        },
+        "f": {
+          "text": "Provisions or clauses may not be incorporated by reference by being listed in the—"
+        }
+      }
+    },
+    "103": {
+      "number": 103,
+      "name": "Identification of provisions and clauses.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "If Part 14 (Sealed Bidding) of the X Agency Acquisition Regulation, published in the Federal Register and codified as Chapter 99 in 48 CFR, prescribes the use of a provision entitled “Bid Envelopes,” dated October 1983, and that provision is sequentially the first provision or clause appearing in Section 52.214 of the X Agency Acquisition Regulation, then the identification of that provision shall be “9952.214-70—Bid Envelopes (Oct 1983).”"
+        },
+        "2": {
+          "text": "Assume that Y, a major organizational element of the X Agency, is authorized to issue the Y Acquisition Regulation, which is not published in the Federal Register and codified in 48 CFR. If Part 36 (Construction and Architect-Engineer Contracts) of the Y Acquisition Regulation prescribes the use of a clause entitled “Refrigerated Display Cases,” dated March 1983, pertaining to a specialized type of construction work, and that clause is sequentially the second provision or clause appearing in Section 52.236 of the Y Acquisition Regulation, then the identification of that clause shall be “52.236-71—Refrigerated Display Cases (Mar 1983)—Y Acquisition Regulation.”"
+        },
+        "a": {
+          "text": "Whenever any FAR provision or clause is used without deviation in a solicitation or contract, whether it is incorporated by reference or in full text, it shall be identified by number, title, and date. This identification shall also be used if the FAR provision or clause is used with an authorized deviation, except that the contracting officer shall then insert “(DEVIATION)” after the date. Solicited firms and contractors will be advised of the meaning of this insertion through the use of the (1) provision at 52.252-5, Authorized Deviations in Provisions, or (2) clause at 52.252-6, Authorized Deviations in Clauses. The above mentioned provision and clause are prescribed in 52.107(e) and (f)."
+        },
+        "b": {
+          "text": "Any provision or clause that supplements the FAR whether it is incorporated by reference or in full text shall be clearly identified by number, title, date, and name of the regulation. When a supplemental provision or clause is used with an authorized deviation, insert “(DEVIATION)” after the name of the regulation."
+        },
+        "c": {
+          "text": "A provision or clause of the type described in 52.101(b)(2)(i)(C) shall be identified by the title, date, and the name of the agency or suborganization within the agency that developed it."
+        },
+        "d": {
+          "text": "Except for provisions or clauses covered by 52.103(c), the following hypothetical examples illustrate how a provision or clause that supplements the FAR shall be identified when it is incorporated in solicitations and/or contracts by reference or in full text:"
+        }
+      }
+    },
+    "104": {
+      "number": 104,
+      "name": "Procedures for modifying and completing provisions and clauses.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer must not modify provisions and clauses unless the FAR authorizes their modification. For example—",
+          "sub": {
+            "1": {
+              "text": "“The contracting officer may use a period shorter than 60 days (but not less than 30 days) in paragraph (x) of the clause”; or"
+            },
+            "2": {
+              "text": "“The contracting officer may substitute the words ‘task order’ for the word ‘Schedule’ wherever that word appears in the clause.”"
+            }
+          }
+        },
+        "b": {
+          "text": "When modifying provisions or clauses incorporated by reference, insert the changed wording directly below the title of the provision or clause identifying to the lowest level necessary (e.g., paragraph, sentence, word), to clearly indicate what is being modified."
+        },
+        "c": {
+          "text": "When modifying provisions or clauses incorporated in full text, modify the language directly by substituting the changed wording as permitted."
+        },
+        "d": {
+          "text": "When completing blanks in provisions or clauses incorporated by reference, insert the fill-in information directly below the title of the provision or clause identifying to the lowest level necessary to clearly indicate the blanks being filled in."
+        },
+        "e": {
+          "text": "When completing blanks in provisions or clauses incorporated in full text, insert the fill-in information in the blanks of the provision or clause."
+        }
+      }
+    },
+    "105": {
+      "number": 105,
+      "name": "Procedures for using alternates.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The FAR accommodates a major variation in a provision or clause by use of an alternate. The FAR prescribes alternates to a given provision or clause in the FAR subject text where the provision or clause is prescribed. The alternates to each provision or clause are titled “Alternate I,” “Alternate II,” “Alternate III,” etc."
+        },
+        "b": {
+          "text": "When an alternate is used, its date shall be cited along with the date of the basic provision or clause; e.g., 52.209-3 First Article Approval—Contractor Testing (Oct 1983)—Alternate I (Dec 1983)."
+        },
+        "c": {
+          "text": "Under certain circumstances, a provision or clause may be used with two or more alternates. In these circumstances, each of the applicable alternates shall be cited, whether incorporated by reference or in full text; e.g., 52.209-3 First Article Approval—Contractor Testing (Oct 1983)—Alternate I (Dec 1983) and Alternate II (Feb 1984). However, under no circumstances may an alternate to a specific provision or clause be applied to any other provision or clause."
+        }
+      }
+    },
+    "106": {
+      "number": 106,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "107": {
+      "number": 107,
+      "name": "Provisions and clauses prescribed in Subpart 52.1.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer shall insert the provision at 52.252-1, Solicitation Provisions Incorporated by Reference, in solicitations in order to incorporate provisions by reference."
+        },
+        "b": {
+          "text": "The contracting officer shall insert the clause at 52.252-2, Clauses Incorporated by Reference, in solicitations and contracts in order to incorporate clauses by reference."
+        },
+        "c": {
+          "text": "The contracting officer shall insert the provision at 52.252-3, Alterations in Solicitation, in solicitations in order to revise or supplement, as necessary, other parts of the solicitation that apply to the solicitation phase only, except for any provision authorized for use with a deviation."
+        },
+        "d": {
+          "text": "The contracting officer shall insert the clause at 52.252-4, Alterations in Contract, in solicitations and contracts in order to revise or supplement, as necessary, other parts of the contract, or parts of the solicitations that apply to the contract phase, except for any clause authorized for use with a deviation."
+        },
+        "e": {
+          "text": "The contracting officer shall insert the provision at 52.252-5, Authorized Deviations in Provisions, in solicitations that include any FAR or supplemental provision with an authorized deviation. Whenever any FAR or supplemental provision is used with an authorized deviation, the contracting officer shall identify it by the same number, title, and date assigned to the provision when it is used without deviation, include regulation name for any supplemental provision, except that the contracting officer shall insert “(DEVIATION)” after the date of the provision."
+        },
+        "f": {
+          "text": "The contracting officer shall insert the clause at 52.252-6, Authorized Deviations in Clauses, in solicitations and contracts that include any FAR or supplemental clause with an authorized deviation. Whenever any FAR or supplemental clause is used with an authorized deviation, the contracting officer shall identify it by the same number, title, and date assigned to the clause when it is used without deviation, include regulation name for any supplemental clause, except that the contracting officer shall insert “(DEVIATION)” after the date of the clause."
+        }
+      }
+    },
+    "000": {
+      "number": 0,
+      "name": "Scope of part.",
+      "sub": {},
+      "text": {
+        "text": "This part—\n\n(a) Gives instructions for using provisions and clauses in solicitations and/or contracts;\n\n(b) Sets forth the solicitation provisions and contract clauses prescribed by this regulation; and\n\n(c) Presents a matrix listing the FAR provisions and clauses applicable to each principal contract type and/or purpose (e.g., fixed-price supply, cost-reimbursement research and development)."
+      }
+    }
+  }
+}

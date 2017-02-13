@@ -1,0 +1,66 @@
+{
+  "parentPart": 17,
+  "number": 4,
+  "name": "Leader Company Contracting",
+  "sub": {
+    "401": {
+      "number": 401,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "text": "Leader company contracting is an extraordinary acquisition technique that is limited to special circumstances and utilized only when its use is in accordance with agency procedures. A developer or sole producer of a product or system is designated under this acquisition technique to be the leader company, and to furnish assistance and know-how under an approved contract to one or more designated follower companies, so they can become a source of supply. The objectives of this technique are one or more of the following:\n\n(a) Reduce delivery time.\n\n(b) Achieve geographic dispersion of suppliers.\n\n(c) Maximize the use of scarce tooling or special equipment.\n\n(d) Achieve economies in production.\n\n(e) Ensure uniformity and reliability in equipment, compatibility or standardization of components, and interchangeability of parts.\n\n(f) Eliminate problems in the use of proprietary data that cannot be resolved by more satisfactory solutions.\n\n(g) Facilitate the transition from development to production and to subsequent competitive acquisition of end items or major components."
+      }
+    },
+    "402": {
+      "number": 402,
+      "name": "Limitations.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Leader company contracting is to be used only when—",
+          "sub": {
+            "1": {
+              "text": "The leader company has the necessary production know-how and is able to furnish required assistance to the follower(s);"
+            },
+            "2": {
+              "text": "No other source can meet the Government’s requirements without the assistance of a leader company;"
+            },
+            "3": {
+              "text": "The assistance required of the leader company is limited to that which is essential to enable the follower(s) to produce the items; and"
+            },
+            "4": {
+              "text": "Its use is authorized in accordance with agency procedures."
+            }
+          }
+        },
+        "b": {
+          "text": "When leader company contracting is used, the Government shall reserve the right to approve subcontracts between the leader company and the follower(s)."
+        }
+      }
+    },
+    "403": {
+      "number": 403,
+      "name": "Procedures.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer may award a prime contract to a—",
+          "sub": {
+            "1": {
+              "text": "Leader company, obligating it to subcontract a designated portion of the required end items to a specified follower company and to assist it to produce the required end items;"
+            },
+            "2": {
+              "text": "Leader company, for the required assistance to a follower company, and a prime contract to the follower for production of the items; or"
+            },
+            "3": {
+              "text": "Follower company, obligating it to subcontract with a designated leader company for the required assistance."
+            }
+          }
+        },
+        "b": {
+          "text": "The contracting officer shall ensure that any contract awarded under this arrangement contains a firm agreement regarding disclosure, if any, of contractor trade secrets, technical designs or concepts, and specific data, or software, of a proprietary nature."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,848 @@
+{
+  "parentPart": 30,
+  "number": 6,
+  "name": "CAS Administration",
+  "sub": {
+    "601": {
+      "number": 601,
+      "name": "Responsibility.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The CFAO shall perform CAS administration for all contracts and subcontracts in a business unit, even when the contracting officer retains other administration functions. The CFAO shall make all CAS-related required determinations and findings (see Subpart 1.7) for all CAS-covered contracts and subcontracts, including—",
+          "sub": {
+            "1": {
+              "text": "Whether a change in cost accounting practice or noncompliance has occurred; and"
+            },
+            "2": {
+              "text": "If a change in cost accounting practice or noncompliance has occurred, how any resulting cost impacts are resolved."
+            }
+          }
+        },
+        "b": {
+          "text": "Within 30 days after the award of any new contract subject to CAS, the contracting officer making the award shall request the CFAO to perform administration for CAS matters (see Subpart 42.2). For subcontract awards, the contractor awarding the subcontract must follow the procedures at 52.230-6(l), (m), and (n)."
+        },
+        "c": {
+          "text": "In performing CAS administration, the CFAO shall request and consider the advice of the auditor as appropriate (see 1.602-2)."
+        }
+      }
+    },
+    "602": {
+      "number": 602,
+      "name": "Materiality.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "In determining materiality, the CFAO shall use the criteria in 48 CFR 9903.305 (FAR Appendix)."
+        },
+        "b": {
+          "text": "A CFAO determination of materiality—",
+          "sub": {
+            "1": {
+              "text": "May be made before or after a general dollar magnitude proposal has been submitted, depending on the particular facts and circumstances; and"
+            },
+            "2": {
+              "text": "Shall be based on adequate documentation."
+            }
+          }
+        },
+        "c": {
+          "text": "When the CFAO determines the cost impact is immaterial, the CFAO shall—",
+          "sub": {
+            "1": {
+              "text": "Make no contract adjustments and conclude the cost impact process;"
+            },
+            "2": {
+              "text": "Document the rationale for the determination; and"
+            },
+            "3": {
+              "text": "In the case of noncompliance issues, inform the contractor that—"
+            },
+            "i": {
+              "text": "The noncompliance should be corrected; and"
+            },
+            "ii": {
+              "text": "If the noncompliance is not corrected, the Government reserves the right to make appropriate contract adjustments should the cost impact become material in the future."
+            }
+          }
+        },
+        "d": {
+          "text": "For required, unilateral, and desirable changes, and CAS noncompliances, when the amount involved is material, the CFAO shall follow the applicable provisions in 30.603, 30.604, 30.605, and 30.606."
+        }
+      }
+    },
+    "603": {
+      "number": 603,
+      "name": "Changes to disclosed or established cost accounting practices.",
+      "sub": {
+        "1": {
+          "name": "Required changes.",
+          "text": {
+            "1": {
+              "text": "Required changes made to comply with new or modified standards may require equitable adjustments, but only to those contracts awarded before the effective date of the new or modified standard (see 52.230-2, 52.230-3, or 52.230-5)."
+            },
+            "2": {
+              "text": "When a contractor elects to implement a required change to comply with a new or modified standard prior to the applicability date of the standard, the CFAO shall administer the change as a unilateral change (see 30.603-2). Contractors shall not receive an equitable adjustment that will result in increased costs in the aggregate to the Government prior to the applicability date unless the CFAO determines that the unilateral change is a desirable change."
+            },
+            "a": {
+              "text": "General. Offerors shall state whether or not the award of a contract would require a change to an established cost accounting practice affecting existing contracts and subcontracts (see 52.230-1). The contracting officer shall notify the CFAO if the offeror states that a change in cost accounting practice would be required."
+            },
+            "b": {
+              "text": "CFAO responsibilities. Prior to making an equitable adjustment under the applicable paragraph(s) that address a required change at 52.230-2, Cost Accounting Standards; 52.230-3, Disclosure and Consistency of Cost Accounting Practices; or 52.230-5, Cost Accounting Standards—Educational Institution, the CFAO shall determine that—",
+              "sub": {
+                "1": {
+                  "text": "The cost accounting practice change is required to comply with a CAS, or a modification or interpretation thereof, that subsequently became applicable to one or more contracts or subcontracts; or"
+                },
+                "2": {
+                  "text": "The former cost accounting practice was in compliance with applicable CAS and the change is necessary to remain in compliance."
+                }
+              }
+            },
+            "c": {
+              "text": "Notice and proposal preparation.",
+              "sub": {
+                "1": {
+                  "text": "When the award of a contract would require a change to an established cost accounting practice, the provision at 52.230-7, Proposal Disclosure—Cost Accounting Practice Changes, requires the offeror to—",
+                  "sub": {
+                    "i": {
+                      "text": "Prepare the contract pricing proposal in response to the solicitation using the changed cost accounting practice for the period of performance for which the practice will be used; and"
+                    },
+                    "ii": {
+                      "text": "Submit a description of the changed cost accounting practice to the contracting officer and the CFAO as pricing support for the proposal."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "When a change is required to remain in compliance (for reasons other than a contract award) or to comply with a new or modified standard, the clause at 52.230-6, Administration of Cost Accounting Standards, requires the contractor to—"
+                },
+                "i": {
+                  "text": "Submit a description of the change to the CFAO not less than 60 days (or other mutually agreeable date) before implementation of the change; and"
+                },
+                "ii": {
+                  "text": "Submit rationale to support any contractor written statement that the cost impact of the change is immaterial."
+                }
+              }
+            },
+            "d": {
+              "text": "Equitable adjustments for new or modified standards."
+            }
+          }
+        },
+        "2": {
+          "name": "Unilateral and desirable changes.",
+          "text": {
+            "a": {
+              "text": "Unilateral changes.",
+              "sub": {
+                "1": {
+                  "text": "The contractor may unilaterally change its disclosed or established cost accounting practices, but the Government shall not pay any increased cost, in the aggregate, as a result of the unilateral change."
+                },
+                "2": {
+                  "text": "Prior to making any contract price or cost adjustments under the applicable paragraph(s) addressing a unilateral change at 52.230-2, 52.230-3, or 52.230-5, the CFAO shall determine that—"
+                },
+                "i": {
+                  "text": "The contemplated contract price or cost adjustments will protect the Government from the payment of the estimated increased costs, in the aggregate; and"
+                },
+                "ii": {
+                  "text": "The net effect of the contemplated adjustments will not result in the recovery of more than the increased costs to the Government, in the aggregate."
+                }
+              }
+            },
+            "b": {
+              "text": "Desirable changes.",
+              "sub": {
+                "1": {
+                  "text": "Prior to taking action under the applicable paragraph(s) addressing a desirable change at 52.230-2, 52.230-3, or 52.230-5, the CFAO shall determine the change is a desirable change and not detrimental to the interests of the Government."
+                },
+                "2": {
+                  "text": "Until the CFAO has determined a change to a cost accounting practice is a desirable change, the change is a unilateral change."
+                },
+                "3": {
+                  "text": "Some factors to consider in determining if a change is desirable include, but are not limited to, whether—"
+                },
+                "i": {
+                  "text": "The contractor must change the cost accounting practices it uses for Government contract and subcontract costing purposes to remain in compliance with the provisions of Part 31;"
+                },
+                "ii": {
+                  "text": "The contractor is initiating management actions directly associated with the change that will result in cost savings for segments with CAS-covered contracts and subcontracts over a period for which forward pricing rates are developed or 5 years, whichever is shorter, and the cost savings are reflected in the forward pricing rates; and"
+                },
+                "iii": {
+                  "text": "Funds are available if the determination would necessitate an upward adjustment of contract cost or price."
+                }
+              }
+            },
+            "c": {
+              "text": "Notice and proposal preparation.",
+              "sub": {
+                "1": {
+                  "text": "When a contractor makes a unilateral change, the clause at 52.230-6, Administration of Cost Accounting Standards, requires the contractor to—",
+                  "sub": {
+                    "i": {
+                      "text": "Submit a description of the change to the CFAO not less than 60 days (or other mutually agreeable date) before implementation of the change; and"
+                    },
+                    "ii": {
+                      "text": "Submit rationale to support any contractor written statement that the cost impact of the change is immaterial."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "If a contractor implements the change in cost accounting practice without submitting the notice as required in paragraph (c)(1) of this subsection, the CFAO may determine the change a failure to follow a cost accounting practice consistently and process it as a noncompliance in accordance with 30.605."
+                }
+              }
+            },
+            "d": {
+              "text": "Retroactive changes.",
+              "sub": {
+                "1": {
+                  "text": "If a contractor requests that a unilateral change be retroactive, the contractor shall submit supporting rationale."
+                },
+                "2": {
+                  "text": "The CFAO shall promptly evaluate the contractor’s request and shall, as soon as practical, notify the contractor in writing whether the request is or is not approved."
+                },
+                "3": {
+                  "text": "The CFAO shall not approve a date for the retroactive change that is before the beginning of the contractor’s fiscal year in which the request is made."
+                }
+              }
+            },
+            "e": {
+              "text": "Contractor accounting changes due to external restructuring activities. The requirements for contract price and cost adjustments do not apply to compliant cost accounting practice changes that are directly associated with external restructuring activities that are subject to and meet the requirements of 10 U.S.C. 2325. However, the disclosure requirements in 52.230-6(b) shall be followed."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "604": {
+      "number": 604,
+      "name": "Processing changes to disclosed or established cost accounting practices.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Estimate the general dollar magnitude of the cost impact on affected CAS-covered contracts and subcontracts; and"
+        },
+        "2": {
+          "text": "Take one or both of the following actions:"
+        },
+        "4": {
+          "text": "For required or desirable changes, negotiate an equitable adjustment as provided in the Changes clause of the contract."
+        },
+        "a": {
+          "text": "Scope. This section applies to required, unilateral, and desirable changes in cost accounting practices."
+        },
+        "b": {
+          "text": "Procedures. Upon receipt of the contractor’s notification and description of the change in cost accounting practice, the CFAO should review the proposed change concurrently for adequacy and compliance. The CFAO shall—",
+          "sub": {
+            "1": {
+              "text": "If the description of the change is both adequate and compliant, notify the contractor in writing and—",
+              "sub": {
+                "i": {
+                  "text": "For required or unilateral changes (except those requested to be determined desirable changes), request the contractor submit a general dollar magnitude (GDM) proposal by a specified date, unless the CFAO determines the cost impact is immaterial; or"
+                },
+                "ii": {
+                  "text": "For unilateral changes that the contractor requests to be determined desirable changes, inform the contractor that the request shall include supporting rationale and—"
+                },
+                "A": {
+                  "text": "For any request based on the criteria in 30.603-2(b)(3)(ii), the data necessary to demonstrate the required cost savings; or"
+                },
+                "B": {
+                  "text": "For any request other than those based on the criteria in 30.603-2(b)(3)(ii), a GDM proposal and any other data necessary for the CFAO to determine if the change is a desirable change;"
+                }
+              }
+            },
+            "2": {
+              "text": "If the description of the change is inadequate, request a revised description of the new cost accounting practice; and"
+            },
+            "3": {
+              "text": "If the disclosed practice is noncompliant, notify the contractor in writing that, if implemented, the CFAO will determine the cost accounting practice to be noncompliant and process it accordingly."
+            }
+          }
+        },
+        "c": {
+          "text": "Evaluating requests for desirable changes.",
+          "sub": {
+            "1": {
+              "text": "When a contractor requests a unilateral change be determined a desirable change, the CFAO shall promptly evaluate the contractor’s request and, as soon as practical, notify the contractor in writing whether the change is a desirable change or the request is denied."
+            },
+            "2": {
+              "text": "If the CFAO determines the change is a desirable change, the CFAO shall negotiate any cost or price adjustments that may be needed to resolve the cost impact (see 30.606)."
+            },
+            "3": {
+              "text": "If the request is denied, the change is a unilateral change and shall be processed accordingly."
+            }
+          }
+        },
+        "d": {
+          "text": "General dollar magnitude proposal. The GDM proposal—",
+          "sub": {
+            "1": {
+              "text": "Provides information to the CFAO on the estimated overall impact of a change in cost accounting practice on affected CAS-covered contracts and subcontracts that were awarded based on the previous cost accounting practice;"
+            },
+            "2": {
+              "text": "Assists the CFAO in determining whether individual contract price or cost adjustments are required; and"
+            },
+            "3": {
+              "text": "The contractor may submit a detailed cost-impact (DCI) proposal in lieu of a GDM proposal provided the DCI proposal is in accordance with paragraph (g) of this section."
+            }
+          }
+        },
+        "e": {
+          "text": "General dollar magnitude proposal content. The GDM proposal—",
+          "sub": {
+            "1": {
+              "text": "Shall calculate the cost impact in accordance with paragraph (h) of this section;"
+            },
+            "2": {
+              "text": "May use one or more of the following methods to determine the increase or decrease in cost accumulations:",
+              "sub": {
+                "i": {
+                  "text": "A representative sample of affected CAS-covered contracts and subcontracts."
+                },
+                "ii": {
+                  "text": "The change in indirect rates multiplied by the total estimated base computed for each of the following groups:"
+                },
+                "A": {
+                  "text": "Fixed-price contracts and subcontracts."
+                },
+                "B": {
+                  "text": "Flexibly-priced contracts and subcontracts."
+                },
+                "iii": {
+                  "text": "Any other method that provides a reasonable approximation of the total increase or decrease in cost accumulations for all affected fixed-price and flexibly-priced contracts and subcontracts."
+                }
+              }
+            },
+            "3": {
+              "text": "May be in any format acceptable to the CFAO but, as a minimum, shall include the following data:",
+              "sub": {
+                "i": {
+                  "text": "A general dollar magnitude estimate of the total increase or decrease in cost accumulations by Executive agency, including any impact the change may have on contract and subcontract incentives, fees, and profits, for each of the following groups:"
+                },
+                "A": {
+                  "text": "Fixed-price contracts and subcontracts."
+                },
+                "B": {
+                  "text": "Flexibly-priced contracts and subcontracts; and"
+                },
+                "ii": {
+                  "text": "For unilateral changes, the increased or decreased costs to the Government for each of the following groups:"
+                }
+              }
+            },
+            "4": {
+              "text": "When requested by the CFAO, shall identify all affected CAS-covered contracts and subcontracts."
+            }
+          }
+        },
+        "f": {
+          "text": "General dollar magnitude proposal evaluation. The CFAO shall promptly evaluate the GDM proposal. If the cost impact is immaterial, the CFAO shall notify the contractor in writing and conclude the cost-impact process with no contract adjustments. Otherwise, the CFAO shall—",
+          "sub": {
+            "1": {
+              "text": "Negotiate and resolve the cost impact (see 30.606). If necessary, the CFAO may request that the contractor submit a revised GDM proposal by a specified date with specific additional data needed to resolve the cost impact (e.g., an expanded sample of affected CAS-covered contracts and subcontracts or a revised method of computing the increase or decrease in cost accumulations); or"
+            },
+            "2": {
+              "text": "Request that the contractor submit a DCI proposal by a specified date if the CFAO determines that the GDM proposal is not sufficient to resolve the cost impact."
+            }
+          }
+        },
+        "g": {
+          "text": "Detailed cost-impact proposal. If the contractor is required to submit a DCI proposal, the CFAO shall promptly evaluate the DCI proposal and follow the procedures at 30.606 to negotiate and resolve the cost impact. The DCI proposal—",
+          "sub": {
+            "1": {
+              "text": "Shall calculate the cost impact in accordance with paragraph (h) of this section;"
+            },
+            "2": {
+              "text": "Shall show the estimated increase or decrease in cost accumulations for each affected CAS-covered contract and subcontract unless the CFAO and contractor agree to—",
+              "sub": {
+                "i": {
+                  "text": "Include only those affected CAS-covered contracts and subcontracts exceeding a specified amount; and"
+                },
+                "ii": {
+                  "text": "Estimate the total increase or decrease in cost accumulations for all affected CAS-covered contracts and subcontracts, using the results in paragraph (g)(2)(i) of this section;"
+                }
+              }
+            },
+            "3": {
+              "text": "May be in any format acceptable to the CFAO but, as a minimum, shall include the requirements at paragraphs (e)(3)(i) and (ii) of this section; and"
+            },
+            "4": {
+              "text": "When requested by the CFAO, shall identify all affected contracts and subcontracts."
+            }
+          }
+        },
+        "h": {
+          "text": "Calculating cost impacts. The cost impact calculation shall—",
+          "sub": {
+            "1": {
+              "text": "Include all affected CAS-covered contracts and subcontracts regardless of their status (i.e., open or closed) or the fiscal year(s) in which the costs are incurred (i.e., whether or not the final indirect rates have been established);"
+            },
+            "2": {
+              "text": "Combine the cost impact for all affected CAS-covered contracts and subcontracts for all segments if the effect of a change results in costs flowing between those segments;"
+            },
+            "3": {
+              "text": "For unilateral changes—"
+            }
+          }
+        },
+        "i": {
+          "text": "Withhold an amount not to exceed 10 percent of each subsequent payment related to the contractor’s CAS-covered contracts (up to the estimated general dollar magnitude of the cost impact), until the contractor furnishes the required information."
+        },
+        "A": {
+          "text": "When the estimated cost to complete using the changed practice is less than the estimated cost to complete using the current practice, the difference is increased cost to the Government."
+        },
+        "B": {
+          "text": "When the estimated cost to complete using the changed practice exceeds the estimated cost to complete using the current practice, the difference is decreased cost to the Government."
+        },
+        "ii": {
+          "text": "Issue a final decision in accordance with 33.211 and unilaterally adjust the contract(s) by the estimated amount of the cost impact."
+        },
+        "iii": {
+          "text": "Calculate the total increase or decrease in contract and subcontract incentives, fees, and profits associated with the increased or decreased cost to the Government in accordance with 48 CFR 9903.306(c). The associated increase or decrease is based on the difference between the negotiated incentives, fees and profits and the amounts that would have been negotiated had the cost impact been known at the time the contracts and subcontracts were negotiated."
+        },
+        "iv": {
+          "text": "Calculate the increased cost to the Government in the aggregate."
+        }
+      }
+    },
+    "605": {
+      "number": 605,
+      "name": "Processing noncompliances.",
+      "sub": {},
+      "text": {
+        "4": {
+          "text": "For noncompliances that involve accumulating costs, determine the increased or decreased cost to the Government for flexibly-priced contracts and subcontracts as follows:",
+          "sub": {
+            "i": {
+              "text": "When the costs that were accumulated under the noncompliant practice exceed the costs that would have been accumulated using a compliant practice (from the time the noncompliant practice was first implemented until the date the noncompliant practice was replaced with a compliant practice), the difference is increased cost to the Government."
+            },
+            "ii": {
+              "text": "When the costs that were accumulated under the noncompliant practice are less than the costs that would have been accumulated using a compliant practice (from the time the noncompliant practice was first implemented until the date the noncompliant practice was replaced with a compliant practice) the difference is decreased cost to the Government;"
+            }
+          }
+        },
+        "5": {
+          "text": "Calculate the total increase or decrease in contract and subcontract incentives, fees, and profits associated with the increased or decreased costs to the Government in accordance with 48 CFR 9903.306(c). The associated increase or decrease is based on the difference between the negotiated incentives, fees, and profits and the amounts that would have been negotiated had the contractor used a compliant practice;"
+        },
+        "6": {
+          "text": "Determine the cost impact of each noncompliance that affects both cost estimating and cost accumulation by combining the cost impacts in paragraphs (h)(3), (h)(4), and (h)(5) of this section; and"
+        },
+        "7": {
+          "text": "Calculate the increased cost to the Government in the aggregate."
+        },
+        "a": {
+          "text": "General. Prior to making any contract price or cost adjustments under the applicable paragraph(s) addressing noncompliance at 52.230-2, 52.230-3, or 52.230-5, the CFAO shall determine that—",
+          "sub": {
+            "1": {
+              "text": "The contemplated contract price or cost adjustments will protect the Government from the payment of increased costs, in the aggregate;"
+            },
+            "2": {
+              "text": "The net effect of the contemplated contract price or cost adjustments will not result in the recovery of more than the increased costs to the Government, in the aggregate;"
+            },
+            "3": {
+              "text": "The net effect of any invoice adjustments made to correct an estimating noncompliance will not result in the recovery of more than the increased costs paid by the Government, in the aggregate; and"
+            },
+            "4": {
+              "text": "The net effect of any interim and final voucher billing adjustments made to correct a cost accumulation noncompliance will not result in the recovery of more than the increased cost paid by the Government, in the aggregate."
+            }
+          }
+        },
+        "b": {
+          "text": "Notice and determination.",
+          "sub": {
+            "1": {
+              "text": "Within 15 days of receiving a report of alleged noncompliance from the auditor, the CFAO shall—",
+              "sub": {
+                "i": {
+                  "text": "Notify the auditor that the CFAO disagrees with the alleged noncompliance; or"
+                },
+                "ii": {
+                  "text": "Issue a notice of potential noncompliance to the contractor and provide a copy to the auditor."
+                }
+              }
+            },
+            "2": {
+              "text": "The notice of potential noncompliance shall—",
+              "sub": {
+                "i": {
+                  "text": "Notify the contractor in writing of the exact nature of the noncompliance; and"
+                },
+                "ii": {
+                  "text": "Allow the contractor 60 days or other mutually agreeable date to—"
+                },
+                "A": {
+                  "text": "Agree or submit reasons why the contractor considers the existing practices to be in compliance; and"
+                },
+                "B": {
+                  "text": "Submit rationale to support any written statement that the cost impact of the noncompliance is immaterial."
+                }
+              }
+            },
+            "3": {
+              "text": "The CFAO shall—",
+              "sub": {
+                "i": {
+                  "text": "If applicable, review the reasons why the contractor considers the existing practices to be compliant or the cost impact to be immaterial;"
+                },
+                "ii": {
+                  "text": "Make a determination of compliance or noncompliance consistent with 1.704; and"
+                },
+                "iii": {
+                  "text": "Notify the contractor and the auditor in writing of the determination of compliance or noncompliance and the basis for the determination."
+                }
+              }
+            },
+            "4": {
+              "text": "If the CFAO makes a determination of noncompliance, the CFAO shall follow the procedures in paragraphs (c) through (h) of this section, as appropriate, unless the CFAO also determines the cost impact is immaterial. If immaterial, the CFAO shall—"
+            },
+            "i": {
+              "text": "Inform the contractor in writing that—"
+            },
+            "A": {
+              "text": "The noncompliance should be corrected; and"
+            },
+            "B": {
+              "text": "If the noncompliance is not corrected, the Government reserves the right to make appropriate contract adjustments should the noncompliance become material in the future; and"
+            },
+            "ii": {
+              "text": "Conclude the cost-impact process with no contract adjustments."
+            }
+          }
+        },
+        "c": {
+          "text": "Correcting noncompliances.",
+          "sub": {
+            "1": {
+              "text": "The clause at 52.230-6 requires the contractor to submit a description of any cost accounting practice change needed to correct a noncompliance within 60 days after the earlier of—",
+              "sub": {
+                "i": {
+                  "text": "Agreement with the CFAO that there is a noncompliance; or"
+                },
+                "ii": {
+                  "text": "Notification by the CFAO of a determination of noncompliance."
+                }
+              }
+            },
+            "2": {
+              "text": "The CFAO should review the proposed change to correct the noncompliance concurrently for adequacy and compliance (see 30.202-7). The CFAO shall—"
+            },
+            "i": {
+              "text": "When the description of the change is both adequate and compliant—"
+            },
+            "A": {
+              "text": "Notify the contractor in writing;"
+            },
+            "B": {
+              "text": "Request that the contractor submit by a specified date a general dollar magnitude (GDM) proposal, unless the CFAO determines the cost impact is immaterial; and"
+            },
+            "C": {
+              "text": "Follow the procedures at paragraph (b)(4) of this section if the CFAO determines the cost impact is immaterial."
+            },
+            "ii": {
+              "text": "If the description of the change is inadequate, request a revised description of the new cost accounting practice; or"
+            },
+            "iii": {
+              "text": "If the disclosed practice is noncompliant, notify the contractor in writing that, if implemented, the CFAO will determine the cost accounting practice to be noncompliant and process it accordingly."
+            }
+          }
+        },
+        "d": {
+          "text": "General dollar magnitude proposal content. The GDM proposal—",
+          "sub": {
+            "1": {
+              "text": "Shall calculate the cost impact in accordance with paragraph (h) of this section;"
+            },
+            "2": {
+              "text": "May use one or more of the following methods to determine the increase or decrease in contract and subcontract price or cost accumulations, as applicable:",
+              "sub": {
+                "i": {
+                  "text": "A representative sample of affected CAS-covered contracts and subcontracts affected by the noncompliance."
+                },
+                "ii": {
+                  "text": "When the noncompliance involves cost accumulation, the change in indirect rates multiplied by the applicable base for flexibly-priced contracts and subcontracts."
+                },
+                "iii": {
+                  "text": "Any other method that provides a reasonable approximation of the total increase or decrease in contract and subcontract prices and cost accumulations;"
+                }
+              }
+            },
+            "3": {
+              "text": "The contractor may submit a DCI proposal in lieu of a GDM proposal provided the DCI proposal is in accordance with paragraph (f) of this section."
+            },
+            "4": {
+              "text": "May be in any format acceptable to the CFAO but, as a minimum, shall include the following data:",
+              "sub": {
+                "i": {
+                  "text": "The total increase or decrease in contract and subcontract prices and cost accumulations, as applicable, by Executive agency, including any impact the noncompliance may have on contract and subcontract incentives, fees, and profits, for each of the following groups:"
+                },
+                "A": {
+                  "text": "Fixed-price contracts and subcontracts."
+                },
+                "B": {
+                  "text": "Flexibly-priced contracts and subcontracts."
+                },
+                "ii": {
+                  "text": "The increased or decreased costs to the Government for each of the following groups:"
+                },
+                "iii": {
+                  "text": "The total overpayments and underpayments for fixed-price and flexibly-priced contracts made by the Government during the period of noncompliance; and"
+                }
+              }
+            },
+            "5": {
+              "text": "When requested by the CFAO, shall identify all affected CAS-covered contracts and subcontracts."
+            }
+          }
+        },
+        "e": {
+          "text": "General dollar magnitude proposal evaluation. The CFAO shall promptly evaluate the GDM proposal. If the cost impact is immaterial, the CFAO shall follow the requirements in paragraph (b)(4) of this section. Otherwise, the CFAO shall—",
+          "sub": {
+            "1": {
+              "text": "Negotiate and resolve the cost impact (see 30.606). If necessary, the CFAO may request the contractor submit a revised GDM proposal by a specified date, with specific additional data needed to resolve the cost impact (e.g., an expanded sample of affected CAS-covered contracts and subcontracts or a revised method of computing the increase or decrease in contract and subcontract price and cost accumulations); or"
+            },
+            "2": {
+              "text": "Request that the contractor submit a DCI proposal by a specified date if the CFAO determines that the GDM proposal is not sufficient to resolve the cost impact."
+            }
+          }
+        },
+        "f": {
+          "text": "Detailed cost-impact proposal. If the contractor is required to submit a DCI proposal, the CFAO shall promptly evaluate the DCI proposal and follow the procedures at 30.606 to negotiate and resolve the cost impact. The DCI proposal—",
+          "sub": {
+            "1": {
+              "text": "Shall calculate the cost impact in accordance with paragraph (h) of this section."
+            },
+            "2": {
+              "text": "Shall show the increase or decrease in price and cost accumulations, as applicable for each affected CAS-covered contract and subcontract unless the CFAO and contractor agree to—",
+              "sub": {
+                "i": {
+                  "text": "Include only those affected CAS-covered contracts and subcontracts having—"
+                },
+                "A": {
+                  "text": "Contract and subcontract values exceeding a specified amount when the noncompliance involves estimating costs; and"
+                },
+                "B": {
+                  "text": "Incurred costs exceeding a specified amount when the noncompliance involves accumulating costs; and"
+                },
+                "ii": {
+                  "text": "Estimate the total increase or decrease in price and cost accumulations for all affected CAS-covered contracts and subcontracts using the results in paragraph (f)(2)(i) of this section;"
+                }
+              }
+            },
+            "3": {
+              "text": "May be in any format acceptable to the CFAO but, as a minimum, shall include the information in paragraph (d)(4) of this section; and"
+            },
+            "4": {
+              "text": "When requested by the CFAO, shall identify all affected CAS-covered contracts and subcontracts."
+            }
+          }
+        },
+        "g": {
+          "text": "Interest. The CFAO shall—",
+          "sub": {
+            "1": {
+              "text": "Separately identify interest on any increased cost paid, in the aggregate, as a result of the noncompliance;"
+            },
+            "2": {
+              "text": "Compute interest from the date of overpayment to the date of repayment using the rate specified in 26 U.S.C. 6621(a)(2)."
+            }
+          }
+        },
+        "h": {
+          "text": "Calculating cost impacts. The cost impact calculation shall—",
+          "sub": {
+            "1": {
+              "text": "Include all affected CAS-covered contracts and subcontracts regardless of their status (i.e., open or closed) or the fiscal year in which the costs are incurred (i.e., whether or not the final indirect cost rates have been established);"
+            },
+            "2": {
+              "text": "Combine the cost impact for all affected CAS-covered contracts and subcontracts for all segments if the effect of a change results in costs flowing between those segments;"
+            },
+            "3": {
+              "text": "For noncompliances that involve estimating costs, determine the increased or decreased cost to the Government for fixed-price contracts and subcontracts as follows:"
+            }
+          }
+        },
+        "i": {
+          "text": "Remedies. If the contractor does not correct the noncompliance or submit the proposal required in paragraph (d) or (f) of this section within the specified time, or any extension granted by the CFAO, the CFAO shall follow the procedures at 30.604(i)."
+        },
+        "ii": {
+          "text": "When the negotiated contract or subcontract price is less than what the negotiated price would have been had the contractor used a compliant practice, the difference is decreased cost to the Government;"
+        }
+      }
+    },
+    "606": {
+      "number": 606,
+      "name": "Resolving cost impacts.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "The CFAO may use an alternate method instead of adjusting contracts to resolve the cost impact, provided the Government will not pay more, in the aggregate, than would be paid if the CFAO did not use the alternate method and the contracting parties agree on the use of that alternate method."
+        },
+        "2": {
+          "text": "The CFAO may not use an alternate method for contracts when application of the alternate method to contracts would result in—",
+          "sub": {
+            "i": {
+              "text": "An under recovery of monies by the Government (e.g., due to cost overruns); or"
+            },
+            "ii": {
+              "text": "Distortions of incentive provisions and relationships between target costs, ceiling costs, and actual costs for incentive type contracts."
+            }
+          }
+        },
+        "3": {
+          "text": "When using an alternate method that excludes the costs from an indirect cost pool, the CFAO shall—"
+        },
+        "a": {
+          "text": "General.",
+          "sub": {
+            "1": {
+              "text": "The CFAO shall coordinate with the affected contracting officers before negotiating and resolving the cost impact when the estimated cost impact on any of their contracts is at least $100,000. However, the CFAO has the sole authority for negotiating and resolving the cost impact."
+            },
+            "2": {
+              "text": "The CFAO may resolve a cost impact attributed to a change in cost accounting practice or a noncompliance by adjusting a single contract, several but not all contracts, all contracts, or any other suitable method."
+            },
+            "3": {
+              "text": "In resolving the cost impact, the CFAO—",
+              "sub": {
+                "i": {
+                  "text": "Shall not combine the cost impacts of any of the following:"
+                },
+                "A": {
+                  "text": "The change affects the flow of costs between segments; or"
+                },
+                "B": {
+                  "text": "Implements a common cost accounting practice for two or more segments."
+                },
+                "C": {
+                  "text": "Unilateral changes and noncompliances; and"
+                },
+                "D": {
+                  "text": "A desirable change and a noncompliance."
+                },
+                "ii": {
+                  "text": "Shall not combine the cost impacts of any of the following unless all of the cost impacts are increased costs to Government:"
+                },
+                "iii": {
+                  "text": "May consider the cost impacts of a unilateral change affecting two or more segments to be a single change if—"
+                }
+              }
+            },
+            "4": {
+              "text": "For desirable changes, the CFAO should consider the estimated cost impact of associated management actions on contract costs in resolving the cost impact."
+            }
+          }
+        },
+        "b": {
+          "text": "Negotiations. The CFAO shall—",
+          "sub": {
+            "1": {
+              "text": "Negotiate and resolve the cost impact on behalf of all Government agencies; and"
+            },
+            "2": {
+              "text": "At the conclusion of negotiations, prepare a negotiation memorandum and send copies to the auditor and affected contracting officers."
+            }
+          }
+        },
+        "c": {
+          "text": "Contract adjustments.",
+          "sub": {
+            "1": {
+              "text": "The CFAO may adjust some or all contracts with a material cost impact, subject to the provisions in paragraphs (c)(2) through (c)(6) of this section."
+            },
+            "2": {
+              "text": "In selecting the contract or contracts to be adjusted, the CFAO should assure, to the maximum extent practical and subject to the provisions in paragraphs (c)(3) through (c)(6) of this section, that the adjustments reflect a pro rata share of the cost impact based on the ratio of the cost impact of each Executive agency to the total cost impact."
+            },
+            "3": {
+              "text": "For unilateral changes and noncompliances, the CFAO shall—",
+              "sub": {
+                "i": {
+                  "text": "To the maximum extent practical, not adjust the price upward for fixed-price contracts;"
+                },
+                "ii": {
+                  "text": "If contract adjustments are made, preclude payment of aggregate increased costs by taking one or both of the following actions:"
+                },
+                "A": {
+                  "text": "Reduce the contract price on fixed-price contracts."
+                },
+                "B": {
+                  "text": "Disallow costs on flexibly-priced contracts; and"
+                },
+                "iii": {
+                  "text": "The CFAO may, in consultation with the affected contracting officers, increase or decrease individual contract prices, including contract cost ceilings or target costs on flexibly-priced contracts. In such cases, the CFAO shall limit any upward contract price adjustments on affected contracts to the amount of downward price adjustments to other affected contracts, i.e., the aggregate price of all contracts affected by a unilateral change shall not be increased (48 CFR 9903.201-6(b))."
+                }
+              }
+            },
+            "4": {
+              "text": "For noncompliances that involve estimating costs, the CFAO—",
+              "sub": {
+                "i": {
+                  "text": "Shall, to the extent practical, not adjust the price upward for fixed-price contracts;"
+                },
+                "ii": {
+                  "text": "Shall, if contract adjustments are made, preclude payment of aggregate increased costs by reducing the contract price on fixed-price contracts;"
+                },
+                "iii": {
+                  "text": "May, in consultation with the affected contracting officers, increase or decrease individual contract prices, including costs ceilings or target costs on flexibly-priced contracts. In such cases, the CFAO shall limit any upward contract price adjustments to affected contracts to the amount of downward price adjustments to other affected contracts, i.e., the aggregate price of all contracts affected by a noncompliance that involves estimating costs shall not be increased (48 CFR 9903.201-6(d));"
+                },
+                "iv": {
+                  "text": "Shall require the contractor to correct the noncompliance, i.e., ensure that compliant cost accounting practices will now be utilized to estimate proposed contract costs; and"
+                },
+                "v": {
+                  "text": "Shall require the contractor to adjust any invoices that were paid based on noncompliant contract prices to reflect the adjusted contract prices, after any contract price adjustments are made to resolve the noncompliance."
+                }
+              }
+            },
+            "5": {
+              "text": "For noncompliances that involve cost accumulation, the CFAO—",
+              "sub": {
+                "1": {
+                  "text": "Correct contract cost accumulations in the contractor’s cost accounting records to reflect the contract price adjustments; and"
+                },
+                "2": {
+                  "text": "Adjust interim payment requests (public vouchers and/or progress payments) and final vouchers to reflect the contract price adjustments."
+                },
+                "i": {
+                  "text": "Shall require the contractor to—"
+                },
+                "A": {
+                  "text": "The CFAO may, in consultation with the affected contracting officers, increase or decrease individual contract prices, including costs ceilings or target costs on flexibly-priced contracts. In such cases, the CFAO shall limit any upward contract price adjustments to affected contracts to the amount of downward price adjustments to other affected contracts, i.e., the aggregate price of all contracts affected by a noncompliance that involves cost accumulation shall not be increased (48 CFR 9903.201-6(d))."
+                },
+                "B": {
+                  "text": "Shall require the contractor to—"
+                },
+                "ii": {
+                  "text": "Shall adjust contract prices. In adjusting contract prices, the CFAO shall preclude payment of aggregate increased costs by disallowing costs on flexibly-priced contracts."
+                }
+              }
+            },
+            "6": {
+              "text": "When contract adjustments are made, the CFAO shall—"
+            },
+            "i": {
+              "text": "Execute the bilateral modifications if the CFAO and contractor agree on the amount of the cost impact and the adjustments (see 42.302(a)(11)(iv)); or"
+            },
+            "ii": {
+              "text": "When the CFAO and contractor do not agree on the amount of the cost impact or the contract adjustments, issue a final decision in accordance with 33.211 and unilaterally adjust the contract(s)."
+            }
+          }
+        },
+        "d": {
+          "text": "Alternate methods."
+        },
+        "i": {
+          "text": "Apply such exclusion only to the determination of final indirect cost rates (see 42.705); and"
+        },
+        "ii": {
+          "text": "Adjust the exclusion to reflect the Government participation rate for flexibly-priced contracts and subcontracts. For example, if there are aggregate increased costs to the Government of $100,000, and the indirect cost pool where the adjustment is to be effected has a Government participation rate of 50 percent for flexibly-priced contracts and subcontracts, the contractor shall exclude $200,000 from the indirect cost pool ($100,000/50% = $200,000)."
+        }
+      }
+    },
+    "607": {
+      "number": 607,
+      "name": "Subcontract administration.",
+      "sub": {},
+      "text": {
+        "text": "When a negotiated CAS price adjustment or a determination of noncompliance is required at the subcontract level, the CFAO for the subcontractor shall furnish a copy of the negotiation memorandum or the determination to the CFAO for the contractor of the next higher-tier subcontractor. The CFAO of the contractor or the next higher-tier subcontractor shall not change the determination of the CFAO for the lower-tier subcontractor. If the subcontractor refuses to submit a GDM or DCI proposal, remedies are made at the prime contractor level."
+      }
+    }
+  }
+}

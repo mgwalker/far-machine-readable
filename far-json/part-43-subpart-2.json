@@ -1,0 +1,186 @@
+{
+  "parentPart": 43,
+  "number": 2,
+  "name": "Change Orders",
+  "sub": {
+    "201": {
+      "number": 201,
+      "name": "General.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Generally, Government contracts contain a changes clause that permits the contracting officer to make unilateral changes, in designated areas, within the general scope of the contract. These are accomplished by issuing written change orders on Standard Form 30, Amendment of Solicitation/Modification of Contract (SF 30), unless otherwise provided (see 43.301)."
+        },
+        "b": {
+          "text": "The contractor must continue performance of the contract as changed, except that in cost-reimbursement or incrementally funded contracts the contractor is not obligated to continue performance or incur costs beyond the limits established in the Limitation of Cost or Limitation of Funds clause (see 32.706-2)."
+        },
+        "c": {
+          "text": "The contracting officer may issue a change order by electronic means without a SF 30 under unusual or urgent circumstances, provided that the message contains substantially the information required by the SF 30 and immediate action is taken to issue the SF 30."
+        }
+      }
+    },
+    "202": {
+      "number": 202,
+      "name": "Authority to issue change orders.",
+      "sub": {},
+      "text": {
+        "text": "Change orders shall be issued by the contracting officer except when authority is delegated to an administrative contracting officer (see 42.202(c))."
+      }
+    },
+    "203": {
+      "number": 203,
+      "name": "Change order accounting procedures.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Nonrecurring costs (e.g., engineering costs and costs of obsolete or reperformed work)."
+        },
+        "2": {
+          "text": "Costs of added distinct work caused by the change order (e.g., new subcontract work, new prototypes, or new retrofit or backfit kits)."
+        },
+        "3": {
+          "text": "Costs of recurring work (e.g., labor and material costs)."
+        },
+        "a": {
+          "text": "Contractors’ accounting systems are seldom designed to segregate the costs of performing changed work. Therefore, before prospective contractors submit offers, the contracting officer should advise them of the possible need to revise their accounting procedures to comply with the cost segregation requirements of the Change Order Accounting clause at 52.243-6."
+        },
+        "b": {
+          "text": "The following categories of direct costs normally are segregable and accountable under the terms of the Change Order Accounting clause:"
+        }
+      }
+    },
+    "204": {
+      "number": 204,
+      "name": "Administration.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Ensure that all elements of the equitable adjustment have been presented and resolved; and"
+        },
+        "2": {
+          "text": "Include, in the supplemental agreement, a release similar to the following:\n\nContractor’s Statement of Release\n\nIn consideration of the modification(s) agreed to herein as complete equitable adjustments for the Contractor’s _______ (describe) _________ “proposal(s) for adjustment,” the Contractor hereby releases the Government from any and all liability under this contract for further equitable adjustments attributable to such facts or circumstances giving rise to the “proposal(s) for adjustment” (except for ____________).\n\nContractor’s Statement of Release"
+        },
+        "a": {
+          "text": "Change order documentation. When change orders are not forward priced, they require two documents: the change order and a supplemental agreement reflecting the resulting equitable adjustment in contract terms. If an equitable adjustment in the contract price or delivery terms or both can be agreed upon in advance, only a supplemental agreement need be issued, but administrative changes and changes issued pursuant to a clause giving the Government a unilateral right to make a change (e.g., an option clause) initially require only one document."
+        },
+        "b": {
+          "text": "Definitization.",
+          "sub": {
+            "1": {
+              "text": "Contracting officers shall negotiate equitable adjustments resulting from change orders in the shortest practicable time."
+            },
+            "2": {
+              "text": "Administrative contracting officers negotiating equitable adjustments by delegation under 42.302(b)(1), shall obtain the contracting officer’s concurrence before adjusting the contract delivery schedule."
+            },
+            "3": {
+              "text": "Contracting offices and contract administration offices, as appropriate, shall establish suspense systems adequate to ensure accurate identification and prompt definitization of unpriced change orders."
+            },
+            "4": {
+              "text": "The contracting officer shall ensure that a cost analysis is made, if appropriate, under 15.404-1(c) and shall consider the contractor’s segregable costs of the change, if available. If additional funds are required as a result of the change, the contracting officer shall secure the funds before making any adjustment to the contract."
+            },
+            "5": {
+              "text": "When the contracting officer requires a field pricing review of requests for equitable adjustment, the contracting officer shall provide a list of any significant contract events which may aid in the analysis of the request. This list should include—"
+            },
+            "i": {
+              "text": "Date and dollar amount of contract award and/or modification;"
+            },
+            "ii": {
+              "text": "Date of submission of initial contract proposal and dollar amount;"
+            },
+            "iii": {
+              "text": "Date of alleged delays or disruptions;"
+            },
+            "iv": {
+              "text": "Performance dates as scheduled at date of award and/or modification;"
+            },
+            "v": {
+              "text": "Actual performance dates;"
+            },
+            "vi": {
+              "text": "Date entitlement to an equitable adjustment was determined or contracting officer decision was rendered if applicable;"
+            },
+            "vii": {
+              "text": "Date of certification of the request for adjustment if certification is required; and"
+            },
+            "viii": {
+              "text": "Dates of any pertinent Government actions or other key events during contract performance which may have an impact on the contractor’s request for equitable adjustment."
+            }
+          }
+        },
+        "c": {
+          "text": "Complete and final equitable adjustments. To avoid subsequent controversies that may result from a supplemental agreement containing an equitable adjustment as the result of a change order, the contracting officer should—\n\nContractor’s Statement of Release\n\nIn consideration of the modification(s) agreed to herein as complete equitable adjustments for the Contractor’s _______ (describe) _________ “proposal(s) for adjustment,” the Contractor hereby releases the Government from any and all liability under this contract for further equitable adjustments attributable to such facts or circumstances giving rise to the “proposal(s) for adjustment” (except for ____________)."
+        },
+        "s": {
+          "text": "agreed to herein as complete equitable adjustments for the Contractor’s _______ (describe) _________ “proposal(s) for adjustment,” the Contractor hereby releases the Government from any and all liability under this contract for further equitable adjustments attributable to such facts or circumstances giving rise to the “proposal(s) for adjustment” (except for ____________)."
+        }
+      }
+    },
+    "205": {
+      "number": 205,
+      "name": "Contract clauses.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "(1) The contracting officer shall insert the clause at 52.243-1, Changes—Fixed-Price, in solicitations and contracts when a fixed-price contract for supplies is contemplated.",
+          "sub": {
+            "2": {
+              "text": "If the requirement is for services, other than architect-engineer or other professional services, and no supplies are to be furnished, the contracting officer shall use the clause with its Alternate I."
+            },
+            "3": {
+              "text": "If the requirement is for services (other than architect-engineer services, transportation, or research and development) and supplies are to be furnished, the contracting officer shall use the clause with its Alternate II."
+            },
+            "4": {
+              "text": "If the requirement is for architect-engineer or other professional services, the contracting officer shall use the clause with its Alternate III."
+            },
+            "5": {
+              "text": "If the requirement is for transportation services, the contracting officer shall use the clause with its Alternate IV."
+            },
+            "6": {
+              "text": "If it is desired to include the clause in solicitations and contracts when a research and development contract is contemplated, the contracting officer shall use the clause with its Alternate V."
+            }
+          }
+        },
+        "b": {
+          "text": "(1) The contracting officer shall insert the clause at 52.243-2, Changes—Cost-Reimbursement, in solicitations and contracts when a cost-reimbursement contract for supplies is contemplated.",
+          "sub": {
+            "2": {
+              "text": "If the requirement is for services and no supplies are to be furnished, the contracting officer shall use the clause with its Alternate I."
+            },
+            "3": {
+              "text": "If the requirement is for services and supplies are to be furnished, the contracting officer shall use the clause with its Alternate II."
+            },
+            "4": {
+              "text": "If the requirement is for construction, the contracting officer shall use the clause with its Alternate III."
+            },
+            "5": {
+              "text": "[Reserved]"
+            },
+            "6": {
+              "text": "If it is desired to include the clause in solicitations and contracts when a research and development contract is contemplated, the contracting officer shall use the clause with its Alternate V."
+            }
+          }
+        },
+        "c": {
+          "text": "Insert the clause at 52.243-3, Changes—Time-and-Materials or Labor-Hours, in solicitations and contracts when a time-and-materials or labor-hour contract is contemplated. The contracting officer may vary the 30-day period in paragraph (c) of the clause according to agency procedures."
+        },
+        "d": {
+          "text": "The contracting officer shall insert the clause at 52.243-4, Changes, in solicitations and contracts for—",
+          "sub": {
+            "1": {
+              "text": "Dismantling, demolition, or removal of improvements; and"
+            },
+            "2": {
+              "text": "Construction, when a fixed-price contract is contemplated and the contract amount is expected to exceed the simplified acquisition threshold."
+            }
+          }
+        },
+        "e": {
+          "text": "The contracting officer shall insert the clause at 52.243-5, Changes and Changed Conditions, in solicitations and contracts for construction, when the contract amount is not expected to exceed the simplified acquisition threshold."
+        },
+        "f": {
+          "text": "The contracting officer may insert a clause, substantially the same as the clause at 52.243-6, Change Order Accounting, in solicitations and contracts for supply and research and development contracts of significant technical complexity, if numerous changes are anticipated. The clause may be included in solicitations and contracts for construction if deemed appropriate by the contracting officer."
+        }
+      }
+    }
+  }
+}

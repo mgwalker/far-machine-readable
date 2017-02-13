@@ -1,0 +1,61 @@
+{
+  "parentPart": 44,
+  "number": 4,
+  "name": "Subcontracts for Commercial Items and Commercial Components",
+  "sub": {
+    "400": {
+      "number": 400,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes the policies limiting the contract clauses a contractor may be required to apply to any subcontractors that are furnishing commercial items or commercial components in accordance with 41 U.S.C. 3307."
+      }
+    },
+    "401": {
+      "number": 401,
+      "name": "Applicability.",
+      "sub": {},
+      "text": {
+        "text": "This subpart applies to all contracts and subcontracts. For the purpose of this subpart, the term “subcontract” has the same meaning as defined in Part 12."
+      }
+    },
+    "402": {
+      "number": 402,
+      "name": "Policy requirements.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Contractors and subcontractors at all tiers shall, to the maximum extent practicable:",
+          "sub": {
+            "1": {
+              "text": "Be required to incorporate commercial items or nondevelopmental items as components of items delivered to the Government; and"
+            },
+            "2": {
+              "text": "Not be required to apply to any of its divisions, subsidiaries, affiliates, subcontractors or suppliers that are furnishing commercial items or commercial components any clause, except those—"
+            },
+            "i": {
+              "text": "Required to implement provisions of law or executive orders applicable to subcontractors furnishing commercial items or commercial components; or"
+            },
+            "ii": {
+              "text": "Determined to be consistent with customary commercial practice for the item being acquired."
+            }
+          }
+        },
+        "b": {
+          "text": "The clause at 52.244-6, Subcontracts for Commercial Items, implements the policy in paragraph (a) of this section. Notwithstanding any other clause in the prime contract, only those clauses identified in the clause at 52.244-6 are required to be in subcontracts for commercial items or commercial components."
+        },
+        "c": {
+          "text": "Agencies may supplement the clause at 52.244-6 only as necessary to reflect agency unique statutes applicable to the acquisition of commercial items."
+        }
+      }
+    },
+    "403": {
+      "number": 403,
+      "name": "Contract clause.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall insert the clause at 52.244-6, Subcontracts for Commercial Items, in solicitations and contracts other than those for commercial items."
+      }
+    }
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "parentPart": 28,
+  "number": 1,
+  "name": "Bonds and Other Financial Protections",
+  "sub": {
+    "100": {
+      "number": 100,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes requirements and procedures for the use of bonds, alternative payment protections, and all types of bid guarantees."
+      }
+    },
+    "101": {
+      "number": 101,
+      "name": "Bid guarantees.",
+      "sub": {
+        "1": {
+          "name": "Policy on use.",
+          "text": {
+            "a": {
+              "text": "A contracting officer shall not require a bid guarantee unless a performance bond or a performance and payment bond is also required (see 28.102 and 28.103). Except as provided in paragraph (c) of this subsection, bid guarantees shall be required whenever a performance bond or a performance and payment bond is required."
+            },
+            "b": {
+              "text": "All types of bid guarantees are acceptable for supply or service contracts (see annual bid bonds and annual performance bonds coverage in 28.001). Only separate bid guarantees are acceptable in connection with construction contracts. Agencies may specify that only separate bid bonds are acceptable in connection with construction contracts."
+            },
+            "c": {
+              "text": "The chief of the contracting office may waive the requirement to obtain a bid guarantee when a performance bond or a performance and payment bond is required if it is determined that a bid guarantee is not in the best interest of the Government for a specific acquisition (e.g., overseas construction, emergency acquisitions, sole-source contracts). Class waivers may be authorized by the agency head or designee."
+            }
+          }
+        },
+        "2": {
+          "name": "Solicitation provision or contract clause.",
+          "text": {
+            "a": {
+              "text": "The contracting officer shall insert a provision or clause substantially the same as the provision at 52.228-1, Bid Guarantee, in solicitations or contracts that require a bid guarantee or similar guarantee. For example, the contracting officer may modify this provision—",
+              "sub": {
+                "1": {
+                  "text": "To set a period of time that is other than 10 days for the return of executed bonds;"
+                },
+                "2": {
+                  "text": "For use in connection with construction solicitations when the agency has specified that only separate bid bonds are acceptable in accordance with 28.101-1(b);"
+                },
+                "3": {
+                  "text": "For use in solicitations for negotiated contracts; or"
+                },
+                "4": {
+                  "text": "For use in service contracts containing options for extended performance."
+                }
+              }
+            },
+            "b": {
+              "text": "The contracting officer shall determine the amount of the bid guarantee for insertion in the provision at 52.228-1 (see 28.102-2(a)). The amount shall be adequate to protect the Government from loss should the successful bidder fail to execute further contractual documents and bonds as required. The bid guarantee amount shall be at least 20 percent of the bid price but shall not exceed $3 million. When the penal sum is expressed as a percentage, a maximum dollar limitation may be stated."
+            }
+          }
+        },
+        "3": {
+          "name": "Authority of an attorney-in-fact for a bid bond.",
+          "text": {
+            "a": {
+              "text": "Any person signing a bid bond as an attorney-in-fact shall include with the bid bond evidence of authority to bind the surety."
+            },
+            "b": {
+              "text": "An original, or a photocopy or facsimile of an original, power of attorney is sufficient evidence of such authority."
+            },
+            "c": {
+              "text": "For purposes of this section, electronic, mechanically-applied and printed signatures, seals and dates on the power of attorney shall be considered original signatures, seals and dates, without regard to the order in which they were affixed."
+            },
+            "d": {
+              "text": "The contracting officer shall—",
+              "sub": {
+                "1": {
+                  "text": "Treat the failure to provide a signed and dated power of attorney at the time of bid opening as a matter of responsiveness; and"
+                },
+                "2": {
+                  "text": "Treat questions regarding the authenticity and enforceability of the power of attorney at the time of bid opening as a matter of responsibility. These questions are handled after bid opening."
+                }
+              }
+            },
+            "e": {
+              "text": "(1) If the contracting officer contacts the surety to validate the power of attorney, the contracting officer shall document the file providing, at a minimum, the following information:",
+              "sub": {
+                "2": {
+                  "text": "If, upon investigation, the surety declares the power of attorney to have been valid at the time of bid opening, the contracting officer may require correction of any technical error."
+                },
+                "3": {
+                  "text": "If the surety declares the power of attorney to have been invalid, the contracting officer shall not allow the bidder to substitute a replacement power of attorney or a replacement surety."
+                },
+                "i": {
+                  "text": "Name of person contacted."
+                },
+                "ii": {
+                  "text": "Date and time of contact."
+                },
+                "iii": {
+                  "text": "Response of the surety."
+                }
+              }
+            },
+            "f": {
+              "text": "Determinations of non-responsibility based on the unacceptability of a power of attorney are not subject to the Certificate of Competency process of subpart 19.6 if the surety has disavowed the validity of the power of attorney."
+            }
+          }
+        },
+        "4": {
+          "name": "Noncompliance with bid guarantee requirements.",
+          "text": {
+            "1": {
+              "text": "Only one offer is received. In this case, the contracting officer may require the furnishing of the bid guarantee before award;"
+            },
+            "2": {
+              "text": "The amount of the bid guarantee submitted is less than required, but is equal to or greater than the difference between the offer price and the next higher acceptable offer;"
+            },
+            "3": {
+              "text": "The amount of the bid guarantee submitted, although less than that required by the solicitation for the maximum quantity offered, is sufficient for a quantity for which the offeror is otherwise eligible for award. Any award to the offeror shall not exceed the quantity covered by the bid guarantee;"
+            },
+            "4": {
+              "text": "The bid guarantee is received late, and late receipt is waived under 14.304;"
+            },
+            "5": {
+              "text": "A bid guarantee becomes inadequate as a result of the correction of a mistake under 14.407 (but only if the bidder will increase the bid guarantee to the level required for the corrected bid);\n\n",
+              "sub": {
+                "text": ""
+              }
+            },
+            "6": {
+              "text": "An otherwise acceptable bid bond was submitted with a signed offer, but the bid bond was not signed by the offeror;"
+            },
+            "7": {
+              "text": "An otherwise acceptable bid bond is erroneously dated or bears no date at all; or"
+            },
+            "8": {
+              "text": "A bid bond does not list the United States as obligee, but correctly identifies the offeror, the solicitation number, and the name and location of the project involved, so long as it is acceptable in all other respects."
+            },
+            "a": {
+              "text": "In sealed bidding, noncompliance with a solicitation requirement for a bid guarantee requires rejection of the bid, except in the situations described in paragraph (c) of this subsection when the noncompliance shall be waived."
+            },
+            "b": {
+              "text": "In negotiation, noncompliance with a solicitation requirement for a bid guarantee requires rejection of an initial proposal as unacceptable, if a determination is made to award the contract based on initial proposals without discussion, except in the situations described in paragraph (c) of this subsection when noncompliance shall be waived. (See 15.306(a)(2) for conditions regarding making awards based on initial proposals.) If the conditions for awarding based on initial proposals are not met, deficiencies in bid guarantees submitted by offerors determined to be in the competitive range shall be addressed during discussions and the offeror shall be given an opportunity to correct the deficiency."
+            },
+            "c": {
+              "text": "Noncompliance with a solicitation requirement for a bid guarantee shall be waived in the following circumstances unless the contracting officer determines in writing that acceptance of the bid would be detrimental to the Government’s interest when—\n\n"
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "102": {
+      "number": 102,
+      "name": "Performance and payment bonds and alternative payment protections for construction contracts.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "a": {
+              "text": "40 U.S.C. chapter 31, subchapter III, Bonds (formerly known as the Miller Act), requires performance and payment bonds for any construction contract exceeding $150,000, except that this requirement may be waived—",
+              "sub": {
+                "1": {
+                  "text": "By the contracting officer for as much of the work as is to be performed in a foreign country upon finding that it is impracticable for the contractor to furnish such bond; or"
+                },
+                "2": {
+                  "text": "As otherwise authorized by the Bonds statute or other law."
+                }
+              }
+            },
+            "b": {
+              "text": "(1) Pursuant to 40 U.S.C. 3132, for construction contracts greater than $35,000, but not greater than $150,000, the contracting officer shall select two or more of the following payment protections, giving particular consideration to inclusion of an irrevocable letter of credit as one of the selected alternatives:",
+              "sub": {
+                "2": {
+                  "text": "The contractor shall submit to the Government one of the payment protections selected by the contracting officer."
+                },
+                "i": {
+                  "text": "A payment bond."
+                },
+                "ii": {
+                  "text": "An irrevocable letter of credit (ILC)."
+                },
+                "iii": {
+                  "text": "A tripartite escrow agreement. The prime contractor establishes an escrow account in a federally insured financial institution and enters into a tripartite escrow agreement with the financial institution, as escrow agent, and all of the suppliers of labor and material. The escrow agreement shall establish the terms of payment under the contract and of resolution of disputes among the parties. The Government makes payments to the contractor’s escrow account, and the escrow agent distributes the payments in accordance with the agreement, or triggers the disputes resolution procedures if required."
+                },
+                "iv": {
+                  "text": "Certificates of deposit. The contractor deposits certificates of deposit from a federally insured financial institution with the contracting officer, in an acceptable form, executable by the contracting officer."
+                },
+                "v": {
+                  "text": "A deposit of the types of security listed in 28.204-1 and 28.204-2."
+                }
+              }
+            },
+            "c": {
+              "text": "The contractor shall furnish all bonds or alternative payment protection, including any necessary reinsurance agreements, before receiving a notice to proceed with the work or being allowed to start work."
+            }
+          }
+        },
+        "2": {
+          "name": "Amount required.",
+          "text": {
+            "a": {
+              "text": "Definition. As used in this subsection—\n\n“Original contract price” means the award price of the contract; or, for requirements contracts, the price payable for the estimated total quantity; or, for indefinite-quantity contracts, the price payable for the specified minimum quantity. Original contract price does not include the price of any options, except those options exercised at the time of contract award.",
+              "sub": {
+                "text": "“Original contract price” means the award price of the contract; or, for requirements contracts, the price payable for the estimated total quantity; or, for indefinite-quantity contracts, the price payable for the specified minimum quantity. Original contract price does not include the price of any options, except those options exercised at the time of contract award."
+              }
+            },
+            "b": {
+              "text": "Contracts exceeding $150,000—",
+              "sub": {
+                "1": {
+                  "text": "Performance bonds. Unless the contracting officer determines that a lesser amount is adequate for the protection of the Government, the penal amount of performance bonds must equal—",
+                  "sub": {
+                    "i": {
+                      "text": "100 percent of the original contract price; and"
+                    },
+                    "ii": {
+                      "text": "If the contract price increases, an additional amount equal to 100 percent of the increase."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "Payment bonds."
+                },
+                "i": {
+                  "text": "Unless the contracting officer makes a written determination supported by specific findings that a payment bond in this amount is impractical, the amount of the payment bond must equal—"
+                },
+                "A": {
+                  "text": "100 percent of the original contract price; and"
+                },
+                "B": {
+                  "text": "If the contract price increases, an additional amount equal to 100 percent of the increase."
+                },
+                "ii": {
+                  "text": "The amount of the payment bond must be no less than the amount of the performance bond."
+                }
+              }
+            },
+            "c": {
+              "text": "Contracts exceeding $35,000 but not exceeding $150,000. Unless the contracting officer determines that a lesser amount is adequate for the protection of the Government, the penal amount of the payment bond or the amount of alternative payment protection must equal—",
+              "sub": {
+                "1": {
+                  "text": "100 percent of the original contract price; and"
+                },
+                "2": {
+                  "text": "If the contract price increases, an additional amount equal to 100 percent of the increase."
+                }
+              }
+            },
+            "d": {
+              "text": "Securing additional payment protection. If the contract price increases, the Government must secure any needed additional protection by directing the contractor to—",
+              "sub": {
+                "1": {
+                  "text": "Increase the penal sum of the existing bond;"
+                },
+                "2": {
+                  "text": "Obtain an additional bond; or"
+                },
+                "3": {
+                  "text": "Furnish additional alternative payment protection."
+                }
+              }
+            },
+            "e": {
+              "text": "Reducing amounts. The contracting officer may reduce the amount of security to support a bond, subject to the conditions of 28.203-5(c) or 28.204(b)."
+            }
+          }
+        },
+        "3": {
+          "name": "Contract clauses.",
+          "text": {
+            "a": {
+              "text": "Insert a clause substantially the same as the clause at 52.228-15, Performance and Payment Bonds—Construction, in solicitations and contracts for construction that contain a requirement for performance and payment bonds if the resultant contract is expected to exceed $150,000. The contracting officer may revise paragraphs (b)(1) and/or (b)(2) of the clause to establish a lower percentage in accordance with 28.102-2(b). If the provision at 52.228-1 is not included in the solicitation, the contracting officer must set a period of time for return of executed bonds."
+            },
+            "b": {
+              "text": "Insert the clause at 52.228-13, Alternative Payment Protections, in solicitations and contracts for construction, when the estimated or actual value exceeds $35,000 but does not exceed $150,000. Complete the clause by specifying the payment protections selected (see 28.102-1(b)(1)) and the deadline for submission. The contracting officer may revise paragraph (b) of the clause to establish a lower percentage in accordance with 28.102-2(c)."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "103": {
+      "number": 103,
+      "name": "Performance and payment bonds for other than construction contracts.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "a": {
+              "text": "Generally, agencies shall not require performance and payment bonds for other than construction contracts. However, performance and payment bonds may be used as permitted in 28.103-2 and 28.103-3."
+            },
+            "b": {
+              "text": "The contractor shall furnish all bonds before receiving a notice to proceed with the work."
+            },
+            "c": {
+              "text": "No bond shall be required after the contract has been awarded if it was not specifically required in the contract, except as may be determined necessary for a contract modification."
+            }
+          }
+        },
+        "2": {
+          "name": "Performance bonds.",
+          "text": {
+            "a": {
+              "text": "Performance bonds may be required for contracts exceeding the simplified acquisition threshold when necessary to protect the Government’s interest. The following situations may warrant a performance bond:",
+              "sub": {
+                "1": {
+                  "text": "Government property or funds are to be provided to the contractor for use in performing the contract or as partial compensation (as in retention of salvaged material)."
+                },
+                "2": {
+                  "text": "A contractor sells assets to or merges with another concern, and the Government, after recognizing the latter concern as the successor in interest, desires assurance that it is financially capable."
+                },
+                "3": {
+                  "text": "Substantial progress payments are made before delivery of end items starts."
+                },
+                "4": {
+                  "text": "Contracts are for dismantling, demolition, or removal of improvements."
+                }
+              }
+            },
+            "b": {
+              "text": "The Government may require additional performance bond protection when a contract price is increased."
+            },
+            "c": {
+              "text": "The contracting officer must determine the contractor’s responsibility (see Subpart 9.1) even though a bond has been or can be obtained."
+            }
+          }
+        },
+        "3": {
+          "name": "Payment bonds.",
+          "text": {
+            "a": {
+              "text": "A payment bond is required only when a performance bond is required, and if the use of payment bond is in the Government’s interest."
+            },
+            "b": {
+              "text": "When a contract price is increased, the Government may require additional bond protection in an amount adequate to protect suppliers of labor and material."
+            }
+          }
+        },
+        "4": {
+          "name": "Contract clause.",
+          "text": {
+            "text": "The contracting officer shall insert a clause substantially the same as the clause at 52.228-16, Performance and Payment Bonds—Other than Construction, in solicitations and contracts that contain a requirement for both payment and performance bonds. The contracting officer shall determine the amount of each bond for insertion in the clause. The amount shall be adequate to protect the interest of the Government. The contracting officer shall also set a period of time (normally 10 days) for return of executed bonds. Alternate I shall be used when only performance bonds are required."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "104": {
+      "number": 104,
+      "name": "Annual performance bonds.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "Annual performance bonds only apply to nonconstruction contracts. They shall provide a gross penal sum applicable to the total amount of all covered contracts."
+        },
+        "b": {
+          "text": "When the penal sums obligated by contracts are approximately equal to or exceed the penal sum of the annual performance bond, an additional bond will be required to cover additional contracts."
+        }
+      }
+    },
+    "105": {
+      "number": 105,
+      "name": "Other types of bonds.",
+      "sub": {
+        "1": {
+          "name": "Advance payment bonds.",
+          "text": {
+            "text": "Advance payment bonds may be required only when the contract contains an advance payment provision and a performance bond is not furnished. The contracting officer shall determine the amount of the advance payment bond necessary to protect the Government."
+          }
+        },
+        "2": {
+          "name": "Patent infringement bonds.",
+          "text": {
+            "a": {
+              "text": "Contracts providing for patent indemnity may require these bonds only if—",
+              "sub": {
+                "1": {
+                  "text": "A performance bond is not furnished; and"
+                },
+                "2": {
+                  "text": "The financial responsibility of the contractor is unknown or doubtful."
+                }
+              }
+            },
+            "b": {
+              "text": "The contracting officer shall determine the penal sum."
+            }
+          }
+        }
+      },
+      "text": {
+        "text": "The head of the contracting activity may approve using other types of bonds in connection with acquiring particular supplies or services. These types include advance payment bonds and patent infringement bonds."
+      }
+    },
+    "106": {
+      "number": 106,
+      "name": "Administration.",
+      "sub": {
+        "1": {
+          "name": "Bonds and bond-related forms.",
+          "text": {
+            "text": "The following Standard Forms (SF’s) and Optional Forms (OF’s) shown in 53.301 and 53.302, shall be used, except in foreign countries, when a bid bond, performance or payment bond, or an individual surety is required. The bond forms shall be used as indicated in the instruction portion of each form:\n\n(a) SF 24, Bid Bond (see 28.101).\n\n(b) SF 25, Performance Bond (see 28.102-1 and 28.106-3(b)).\n\n(c) SF 25A, Payment Bond (see 28.102-1 and 28.106-3(b)).\n\n(d) SF 25B, Continuation Sheet (for SF’s 24, 25, and 25A).\n\n(e) SF 28, Affidavit of Individual Surety (see 28.203).\n\n(f) SF 34, Annual Bid Bond (see 28.001).\n\n(g) SF 35, Annual Performance Bond (see 28.104).\n\n(h) SF 273, Reinsurance Agreement for a Bonds Statute Performance Bond (see 28.202(a)(4)).\n\n(i) SF 274, Reinsurance Agreement for a Bonds Statute Payment Bond (see 28.202(a)(4)).\n\n(j) SF 275, Reinsurance Agreement in Favor of the United States (see 28.202(a)(4)).\n\n(k) SF 1414, Consent of Surety (see 28.106-5).\n\n(l) SF 1415, Consent of Surety and Increase of Penalty (see 28.106-3).\n\n(m) SF 1416, Payment Bond for Other Than Construction Contracts (see 28.103-3 and 28.106-3(b)).\n\n(n) SF 1418, Performance Bond for Other Than Construction Contracts (see 28.103-2 and 28.106-3(b)).\n\n(o) OF 90, Release of Lien on Real Property (see 28.203-5).\n\n(p) OF 91, Release of Personal Property from Escrow (see 28.203-5)."
+          }
+        },
+        "2": {
+          "name": "Substitution of surety bonds.",
+          "text": {
+            "a": {
+              "text": "A new surety bond covering all or part of the obligations on a bond previously approved may be substituted for the original bond if approved by the head of the contracting activity, or as otherwise specified in agency regulation."
+            },
+            "b": {
+              "text": "When a new surety bond is approved, the contracting officer shall notify the principal and surety of the original bond of the effective date of the new bond."
+            }
+          }
+        },
+        "3": {
+          "name": "Additional bond and security.",
+          "text": {
+            "a": {
+              "text": "When additional bond coverage is required and is secured in whole or in part by the original surety or sureties, agencies shall use Standard Form 1415, Consent of Surety and Increase of Penalty. Standard Form 1415 is authorized for local reproduction, and a copy of the form is furnished for this purpose in Part 53 of the looseleaf edition of the FAR."
+            },
+            "b": {
+              "text": "When additional bond coverage is required and is secured in whole or in part by a new surety or by one of the alternatives described in 28.204 in lieu of corporate or individual surety, agencies shall use Standard Form 25, Performance Bond; Standard Form 1418, Performance Bond for Other Than Construction Contracts; Standard Form 25A, Payment Bond; or Standard Form 1416, Payment Bond for Other Than Construction Contracts."
+            }
+          }
+        },
+        "4": {
+          "name": "Contract clause.",
+          "text": {
+            "a": {
+              "text": "The contracting officer shall insert the clause at 52.228-2, Additional Bond Security, in solicitations and contracts when bonds are required."
+            },
+            "b": {
+              "text": "In accordance with Section 806(a)(3) of Pub. L. 102-190, as amended by Sections 2091 and 8105 of Pub. L. 103-355 (10 U.S.C. 2302 note), the contracting officer shall insert the clause at 52.228-12, Prospective Subcontractor Requests for Bonds, in solicitations and contracts with respect to which a payment bond will be furnished pursuant to 40 U.S.C chapter 31, subchapter III, Bonds (see 28.102-1), except for contracts for the acquisition of commercial items as defined in Subpart 2.1."
+            }
+          }
+        },
+        "5": {
+          "name": "Consent of surety.",
+          "text": {
+            "a": {
+              "text": "When any contract is modified, the contracting officer shall obtain the consent of surety if—",
+              "sub": {
+                "1": {
+                  "text": "An additional bond is obtained from other than the original surety;"
+                },
+                "2": {
+                  "text": "No additional bond is required and—",
+                  "sub": {
+                    "i": {
+                      "text": "The modification is for new work beyond the scope of the original contract; or"
+                    },
+                    "ii": {
+                      "text": "The modification does not change the contract scope but changes the contract price (upward or downward) by more than 25 percent or $50,000; or"
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Consent of surety is required for a novation agreement (see Subpart 42.12)."
+                }
+              }
+            },
+            "b": {
+              "text": "When a contract for which performance or payment is secured by any of the types of security listed in 28.204 is modified as described in paragraph (a) of this subsection, no consent of surety is required."
+            },
+            "c": {
+              "text": "Agencies shall use Standard Form 1414, Consent of Surety, for all types of contracts."
+            }
+          }
+        },
+        "6": {
+          "name": "Furnishing information.",
+          "text": {
+            "1": {
+              "text": "Name and address of the surety or sureties on the payment bond."
+            },
+            "2": {
+              "text": "Penal amount of the payment bond."
+            },
+            "3": {
+              "text": "Copy of the payment bond. The contracting officer may impose reasonable fees to cover the cost of copying and providing a copy of the payment bond."
+            },
+            "a": {
+              "text": "The surety on the bond, upon its written request, may be furnished information on the progress of the work, payments, and the estimated percentage of completion, concerning the contract for which the bond was furnished."
+            },
+            "b": {
+              "text": "When a payment bond has been provided, the contracting officer shall, upon request, furnish the name and address of the surety or sureties to any subcontractor or supplier who has furnished or been requested to furnish labor or material for the contract. In addition, general information concerning the work progress, payments, and the estimated percentage of completion may be furnished to persons who have provided labor or materials and have not been paid."
+            },
+            "c": {
+              "text": "When a payment bond has been provided for a contract, the head of the agency or designee shall furnish a certified copy of the bond and the contract for which it was given to any person who makes a request therefor and who furnishes an affidavit that the requestor has supplied labor or materials for such work and payment therefor has not been made or that the requestor is being sued on such bond. The person who makes the request shall be required to pay such costs of preparation as determined by the head of the agency or designee to be reasonable and appropriate (see 40 U.S.C. 3133)."
+            },
+            "d": {
+              "text": "Section 806(a)(2) of Pub. L. 102-190, as amended by Sections 2091 and 8105 of Pub. L. 103-355 (10 U.S.C. 2302 note), requires that the Federal Government provide information to subcontractors on payment bonds under contracts for other than commercial items as defined in Subpart 2.1. Upon the written or oral request of a subcontractor/supplier, or prospective subcontractor/supplier, under a contract with respect to which a payment bond has been furnished pursuant to the Bonds statute, the contracting officer shall promptly provide to the requester, either orally or in writing, as appropriate, any of the following:"
+            }
+          }
+        },
+        "7": {
+          "name": "Withholding contract payments.",
+          "text": {
+            "a": {
+              "text": "During contract performance, agencies shall not withhold payments due contractors or assignees because subcontractors or suppliers have not been paid."
+            },
+            "b": {
+              "text": "If, after completion of the contract work, the Government receives written notice from the surety regarding the contractor’s failure to meet its obligation to its subcontractors or suppliers, the contracting officer shall withhold final payment. However, the surety must agree to hold the Government harmless from any liability resulting from withholding the final payment. The contracting officer will authorize final payment upon agreement between the contractor and surety or upon a judicial determination of the rights of the parties."
+            },
+            "c": {
+              "text": "For any withholding incident to the labor standards provisions of the contract, see Part 22."
+            }
+          }
+        },
+        "8": {
+          "name": "Payment to subcontractors or suppliers.",
+          "text": {
+            "text": "The contracting officer will only authorize payment to subcontractors or suppliers from an ILC (or any other cash equivalent security) upon a judicial determination of the rights of the parties, a signed notarized statement by the contractor that the payment is due and owed, or a signed agreement between the parties as to amount due and owed."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "000": {
+      "number": 0,
+      "name": "Scope of part.",
+      "sub": {},
+      "text": {
+        "text": "This part prescribes requirements for obtaining financial protection against losses under contracts that result from the use of the sealed bid or negotiated methods. It covers bid guarantees, bonds, alternative payment protections, security for bonds, and insurance."
+      }
+    },
+    "001": {
+      "number": 1,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this part—\n\n“Attorney-in-fact” means an agent, independent agent, underwriter, or any other company or individual holding a power of attorney granted by a surety (see also “power of attorney” at 2.101).\n\n“Bid” means any response to a solicitation, including a proposal under a negotiated acquisition. See the definition of “offer” at 2.101.\n\n“Bid guarantee” means a form of security assuring that the bidder—\n\n(1) Will not withdraw a bid within the period specified for acceptance; and\n\n(2) Will execute a written contract and furnish required bonds, including any necessary coinsurance or reinsurance agreements, within the time specified in the bid, unless a longer time allowed, after receipt of the specified forms.\n\n“Bidder” means any entity that is responding or has responded to a solicitation, including an offeror under a negotiated acquisition.\n\n“Bond” means a written instrument executed by a bidder or contractor (the “principal”), and a second party (the “surety” or “sureties”) (except as provided in 28.204), to assure fulfillment of the principal’s obligations to a third party (the “obligee” or “Government”), identified in the bond. If the principal’s obligations are not met, the bond assures payment, to the extent stipulated, of any loss sustained by the obligee. The types of bonds and related documents are as follows:\n\n(1) An advance payment bond secures fulfillment of the contractor’s obligations under an advance payment provision.\n\n(2) An annual bid bond is a single bond furnished by a bidder, in lieu of separate bonds, which secure all bids (on other than construction contracts) requiring bonds submitted during a specific Government fiscal year.\n\n(3) An annual performance bond is a single bond furnished by a contractor, in lieu of separate performance bonds, to secure fulfillment of the contractor’s obligations under contracts (other than construction contracts) requiring bonds entered into during a specific Government fiscal year.\n\n(4) A patent infringement bond secures fulfillment of the contractor’s obligations under a patent provision.\n\n(5) A payment bond assures payments as required by law to all persons supplying labor or material in the prosecution of the work provided for in the contract.\n\n(6) A performance bond secures performance and fulfillment of the contractor’s obligations under the contract.\n\n“Consent of surety” means an acknowledgment by a surety that its bond given in connection with a contract continues to apply to the contract as modified.\n\n“Penal sum” or “penal amount” means the amount of money specified in a bond (or a percentage of the bid price in a bid bond) as the maximum payment for which the surety is obligated or the amount of security required to be pledged to the Government in lieu of a corporate or individual surety for the bond.\n\n“Reinsurance” means a transaction which provides that a surety, for a consideration, agrees to indemnify another surety against loss which the latter may sustain under a bond which it has issued."
+      }
+    }
+  }
+}

@@ -1,0 +1,964 @@
+{
+  "parentPart": 22,
+  "number": 10,
+  "name": "Service Contract Labor Standards",
+  "sub": {
+    "1000": {
+      "number": 1000,
+      "name": "Scope of subpart.",
+      "sub": {},
+      "text": {
+        "text": "This subpart prescribes policies and procedures implementing the provisions of 41 U.S.C. chapter 67, Service Contract Labor Standards (formerly known as the Service Contract Act of 1965), the applicable provisions of the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 201, et seq.), and related Secretary of Labor regulations and instructions (29 CFR parts 4, 6, 8, and 1925)."
+      }
+    },
+    "1001": {
+      "number": 1001,
+      "name": "Definitions.",
+      "sub": {},
+      "text": {
+        "text": "As used in this subpart—\n\n“Contractor” includes a subcontractor at any tier whose subcontract is subject to the provisions of the statute.\n\n“Multiple year contracts” means contracts having a term of more than 1 year regardless of fiscal year funding. The term includes multi year contracts (see 17.103).\n\n“United States” means the 50 States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, Johnston Island, Wake Island, and the outer Continental Shelf as defined in the Outer Continental Shelf Lands Act (43 U.S.C. 1331, et seq.), but does not include any other place subject to U.S. jurisdiction or any U.S. base or possession within a foreign country (29 CFR 4.112).\n\n“Wage and Hour Division” means the unit in the Employment Standards Administration of the Department of Labor to which is assigned functions of the Secretary of Labor under the Service Contract Labor Standards statute.\n\n“Wage determination” means a determination of minimum wages or fringe benefits made under 41 U.S.C. 6703 or 6707(c) applicable to the employment in a given locality of one or more classes of service employees."
+      }
+    },
+    "1002": {
+      "number": 1002,
+      "name": "Statutory and Executive order requirements.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "text": "Service contracts over $2,500 shall contain mandatory provisions regarding minimum wages and fringe benefits, safe and sanitary working conditions, notification to employees of the minimum allowable compensation, and equivalent Federal employee classifications and wage rates. Under 41 U.S.C. 6707(d), service contracts may not exceed 5 years."
+          }
+        },
+        "2": {
+          "name": "Wage determinations based on prevailing rates.",
+          "text": {
+            "text": "Contractors performing on service contracts in excess of $2,500 to which no predecessor contractor’s collective bargaining agreement applies shall pay their employees at least the wages and fringe benefits found by the Department of Labor to prevail in the locality or, in the absence of a wage determination, the minimum wage set forth in the Fair Labor Standards Act."
+          }
+        },
+        "3": {
+          "name": "Wage determinations based on collective bargaining agreements.",
+          "text": {
+            "a": {
+              "text": "Successor contractors performing on contracts in excess of $2,500 for substantially the same services performed in the same locality must pay wages and fringe benefits (including accrued wages and benefits and prospective increases) at least equal to those contained in any bona fide collective bargaining agreement entered into under the predecessor contract. This requirement is self-executing and is not contingent upon incorporating a wage determination or the wage and fringe benefit terms of the predecessor contractor’s collective bargaining agreement in the successor contract. This requirement will not apply if the Secretary of Labor determines—",
+              "sub": {
+                "1": {
+                  "text": "After a hearing, that the wages and fringe benefits are substantially at variance with those which prevail for services of a similar character in the locality; or"
+                },
+                "2": {
+                  "text": "That the wages and fringe benefits are not the result of arm’s length negotiations."
+                }
+              }
+            },
+            "b": {
+              "text": "Paragraphs in this subpart 22.10 which deal with this statutory requirement and the Department of Labor’s implementing regulations are 22.1010, concerning notification to contractors and bargaining representatives of procurement dates; 22.1012-2, explaining when a collective bargaining agreement will not apply due to late receipt by the contracting officer; and 22.1013 and 22.1021, explaining when the application of a collective bargaining agreement can be challenged due to a variance with prevailing rates or lack of arm’s length bargaining."
+            }
+          }
+        },
+        "4": {
+          "name": "Application of the Fair Labor Standards Act minimum wage.",
+          "text": {
+            "text": "No contractor or subcontractor holding a service contract for any dollar amount shall pay any of its employees working on the contract less than the minimum wage specified in section 6(a)(1) of the Fair Labor Standards Act (29 U.S.C. 206)."
+          }
+        },
+        "5": {
+          "name": "Executive Order 13658.",
+          "text": {
+            "text": "Executive Order 13658 establishes minimum wages for certain workers. The wage rate is subject to annual increases by an amount determined by the Secretary of Labor. See subpart 22.19. The clause at 52.222-55, Minimum Wages under Executive Order 13658, requires the Executive Order 13658 minimum wage rate to be paid if it is higher than other minimum wage rates, such as the subpart 22.10 statutory wage determination amount."
+          }
+        },
+        "6": {
+          "name": "Executive Order 13706.",
+          "text": {
+            "text": "Executive Order 13706 establishes paid sick leave for employees of certain Federal contractors. See subpart 22.21 and the clause at 52.222-62, Paid Sick Leave under Executive Order 13706."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "1003": {
+      "number": 1003,
+      "name": "Applicability.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "text": "This subpart 22.10 applies to all Government contracts, the principal purpose of which is to furnish services in the United States through the use of service employees, except as exempted in 22.1003-3 and 22.1003-4 of this section, or any subcontract at any tier thereunder. This subpart does not apply to individual contract requirements for services in contracts not having as their principal purpose the furnishing of services. The nomenclature, type, or particular form of contract used by contracting agencies is not determinative of coverage."
+          }
+        },
+        "2": {
+          "name": "Geographical coverage of the Act.",
+          "text": {
+            "text": "The Service Contract Labor Standards statute applies to service contracts performed in the United States (see 22.1001). The Service Contract Labor Standards statute does not apply to contracts performed outside the United States."
+          }
+        },
+        "3": {
+          "name": "Statutory exemptions.",
+          "text": {
+            "text": "The Service Contract Labor Standards statute does not apply to—\n\n(a) Any contract for construction, alteration, or repair of public buildings or public works, including painting and decorating;\n\n(b) Any work required to be done in accordance with the provisions of 41 U.S.C. chapter 65, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000;\n\n(c) Any contract for transporting freight or personnel by vessel, aircraft, bus, truck, express, railroad, or oil or gas pipeline where published tariff rates are in effect;\n\n(d) Any contract for furnishing services by radio, telephone, or cable companies subject to the Communications Act of 1934;\n\n(e) Any contract for public utility services;\n\n(f) Any employment contract providing for direct services to a Federal agency by an individual or individuals; or\n\n(g) Any contract for operating postal contract stations for the U.S. Postal Service."
+          }
+        },
+        "4": {
+          "name": "Administrative limitations, variations, tolerances, and exemptions.",
+          "text": {
+            "1": {
+              "text": "Exemption.  Except as provided in paragraph (d)(5) of this subsection, the Secretary of Labor has exempted from the Service Contract Labor Standards statute contracts and subcontracts in which the primary purpose is to provide the following services, if the conditions in paragraph (d)(2) of this subsection are met:",
+              "sub": {
+                "i": {
+                  "text": "Automobile or other vehicle (e.g., aircraft) maintenance services (other than contracts or subcontracts to operate a Government motor pool or similar facility)."
+                },
+                "ii": {
+                  "text": "Financial services involving the issuance and servicing of cards (including credit cards, debit cards, purchase cards, smart cards, and similar card services)."
+                },
+                "iii": {
+                  "text": "Hotel/motel services for conferences, including lodging and/or meals, that are part of the contract or subcontract for the conference (which must not include ongoing contracts for lodging on an as needed or continuing basis)."
+                },
+                "iv": {
+                  "text": "Maintenance, calibration, repair, and/or installation (where the installation is not subject to the Construction Wage Rate Requirements statute, as provided in 29 CFR 4.116(c)(2)) services for all types of equipment where the services are obtained from the manufacturer or supplier of the equipment under a contract awarded on a sole source basis."
+                },
+                "v": {
+                  "text": "Transportation by common carrier of persons by air, motor vehicle, rail, or marine vessel on regularly scheduled routes or via standard commercial services (not including charter services)."
+                },
+                "vi": {
+                  "text": "Real estate services, including real property appraisal services, related to housing Federal agencies or disposing of real property owned by the Government."
+                },
+                "vii": {
+                  "text": "Relocation services, including services of real estate brokers and appraisers to assist Federal employees or military personnel in buying and selling homes (which shall not include actual moving or storage of household goods and related services)."
+                }
+              }
+            },
+            "2": {
+              "text": "Conditions.  The exemption for the services in paragraph (d)(1) of this subsection applies if all the following conditions are met for a contract (or for a subcontract):",
+              "sub": {
+                "1": {
+                  "text": "In the competitive range, if discussions are to be conducted (see FAR 15.306(c)); or"
+                },
+                "2": {
+                  "text": "Considered responsive, if award is to be made without discussions (see FAR 15.306(a))."
+                },
+                "i": {
+                  "text": "(A) Except for services identified in paragraph (d)(1)(iv) of this subsection, the contractor will be selected for award based on other factors in addition to price or cost, with the combination of other factors at least as important as price or cost; or"
+                },
+                "B": {
+                  "text": "For other than sole source awards, the contracting officer determines that the same certification is obtained from substantially all other offerors that are—"
+                },
+                "ii": {
+                  "text": "The services under the contract are offered and sold regularly to non-Governmental customers, and are provided by the contractor (or subcontractor in the case of an exempt subcontract) to the general public in substantial quantities in the course of normal business operations."
+                },
+                "iii": {
+                  "text": "The contract services are furnished at prices that are, or are based on, established catalog or market prices.  As defined at 29 CFR 4.123(e)(2)(ii)(C)—"
+                },
+                "A": {
+                  "text": "An established catalog price is a price included in a catalog, price list, schedule, or other form that is regularly maintained by the contractor, is either published or otherwise available for inspection by customers, and states prices at which sales are currently, or were last, made to a significant number of buyers constituting the general public; and"
+                },
+                "iv": {
+                  "text": "Each service employee who will perform the services under the contract will spend only a small portion of his or her time (a monthly average of less than 20 percent of the available hours on an annualized basis, or less than 20 percent of available hours during the contract period if the contract period is less than a month) servicing the Government contract."
+                },
+                "v": {
+                  "text": "The contractor will use the same compensation (wage and fringe benefits) plan for all service employees performing work under the contract as the contractor uses for these employees and equivalent employees servicing commercial customers."
+                },
+                "vi": {
+                  "text": "The contracting officer (or contractor with respect to a subcontract) determines in advance before issuing the solicitation, based on the nature of the contract requirements and knowledge of the practices of likely offerors, that all or nearly all offerors will meet the conditions in paragraph (d)(2)(ii) through (v) of this subsection.  If the services are currently being performed under contract, the contracting officer (or contractor with respect to a subcontract) shall consider the practices of the existing contractor in making a determination regarding the conditions in paragraphs (d)(2)(ii) through (v) of this subsection."
+                },
+                "vii": {
+                  "text": "(A) The apparent successful offeror certifies that the conditions in paragraphs (d)(2)(ii) through (v) will be met; and"
+                }
+              }
+            },
+            "3": {
+              "text": "Contract award or resolicitation.",
+              "sub": {
+                "1": {
+                  "text": "In the competitive range, if discussions are to be conducted (see FAR 15.306); or"
+                },
+                "2": {
+                  "text": "Considered responsive, if award is to be made without discussions (see FAR 15.306(a)); and"
+                },
+                "i": {
+                  "text": "If the apparent successful offeror does not certify to the conditions, the contracting officer shall insert in the contract the applicable Service Contract Labor Standards clause(s) (see  22.1006) and, if the contract will exceed $2,500, the appropriate Department of Labor wage determination (see 22.1007)."
+                },
+                "ii": {
+                  "text": "The contracting officer shall award the contract without the otherwise applicable Service Contract Labor Standards clause(s) if—"
+                },
+                "A": {
+                  "text": "The apparent successful offeror certifies to the conditions in paragraphs (d)(2)(ii) through (v) of this subsection;"
+                },
+                "B": {
+                  "text": "The contracting officer determines that the same certification is obtained from substantially all other offerors that are—"
+                },
+                "C": {
+                  "text": "The contracting officer has no reason to doubt the certification."
+                },
+                "iii": {
+                  "text": "If the conditions in paragraph (d)(3)(ii) of this subsection are not met, then the contracting officer shall resolicit, amending the solicitation by removing the exemption provision from the solicitation as prescribed at 22.1006(e)(3).  The contract will include the applicable Service Contract Labor Standards clause(s) as prescribed at 22.1006 and, if the contract will exceed $2,500, the appropriate Department of Labor wage determination (see 22.1007)."
+                }
+              }
+            },
+            "4": {
+              "text": "Department of Labor determination.",
+              "sub": {
+                "i": {
+                  "text": "If the Department of Labor determines after award of the contract that any conditions for exemption at paragraph (d)(2) of this subsection have not been met, the exemption shall be deemed inapplicable, and the contract shall become subject to the Service Contract Labor Standards statute.  In such case, the procedures at 29 CFR 4.123(e)(2)(iii) and 29 CFR 4.5(c) shall be followed."
+                },
+                "ii": {
+                  "text": "If the Department of Labor determines that any conditions in paragraph (d)(2) of this subsection have not been met with respect to a subcontract, the exemption shall be deemed inapplicable.  The contractor may be responsible for ensuring that the subcontractor complies with the Service Contract Labor Standards statute, effective as of the date of the subcontract award."
+                }
+              }
+            },
+            "5": {
+              "text": "Exceptions.  The exemption at paragraph (d)(1) of this subsection does not apply to solicitations and contracts (subcontracts)—"
+            },
+            "a": {
+              "text": "The Secretary of Labor may provide reasonable limitations and may make rules and regulations allowing reasonable variations, tolerances, and exemptions to and from any or all provisions of the Service Contract Labor Standards statute other than 41 U.S.C. 6707(f). These will be made only in special circumstances where it has been determined that the limitation, variation, tolerance, or exemption is necessary and proper in the public interest or to avoid the serious impairment of Government business, and is in accord with the remedial purpose of the Service Contract Labor Standards statute to protect prevailing labor standards (41 U.S.C. 6707(b)). See 29 CFR 4.123 for a listing of administrative exemptions, tolerances, and variations. Requests for limitations, variances, tolerances, and exemptions from the Service Contract Labor Standards statute shall be submitted in writing through contracting channels and the agency labor advisor to the Wage and Hour Administrator."
+            },
+            "b": {
+              "text": "In addition to the statutory exemptions cited in 22.1003-3 of this subsection, the Secretary of Labor has exempted the following types of contracts from all provisions of the Service Contract Labor Standards statute:",
+              "sub": {
+                "1": {
+                  "text": "Contracts entered into by the United States with common carriers for the carriage of mail by rail, air (except air star routes), bus, and ocean vessel, where such carriage is performed on regularly scheduled runs of the trains, airplanes, buses, and vessels over regularly established routes and accounts for an insubstantial portion of the revenue therefrom."
+                },
+                "2": {
+                  "text": "Any contract entered into by the U.S. Postal Service with an individual owner-operator for mail service if it is not contemplated at the time the contract is made that the owner-operator will hire any service employee to perform the services under the contract except for short periods of vacation time or for unexpected contingencies or emergency situations such as illness, or accident."
+                },
+                "3": {
+                  "text": "Contracts for the carriage of freight or personnel if such carriage is subject to rates covered by section 10721 of the Interstate Commerce Act."
+                }
+              }
+            },
+            "c": {
+              "text": "Contracts for maintenance, calibration or repair of certain equipment.—",
+              "sub": {
+                "1": {
+                  "text": "Exemption. The Secretary of Labor has exempted from the Service Contract Labor Standards statute contracts and subcontracts in which the primary purpose is to furnish maintenance, calibration, or repair of the following types of equipment, if the conditions at paragraph (c)(2) of this subsection are met:",
+                  "sub": {
+                    "i": {
+                      "text": "Automated data processing equipment and office information/word processing systems."
+                    },
+                    "ii": {
+                      "text": "Scientific equipment and medical apparatus or equipment if the application of micro-electronic circuitry or other technology of at least similar sophistication is an essential element (for example, Product or Service Code (PSC) 6515, “Medical and Surgical Instruments, Equipment, and Supplies;” PSC 6525, “Imaging Equipment and Supplies: Medical, Dental, Veterinary;” PSC 6630, “Chemical Analysis Instruments;” and PSC 6655, “Geophysical Instruments,” are largely composed of the types of equipment exempted in this paragraph)."
+                    },
+                    "iii": {
+                      "text": "Office/business machines not otherwise exempt pursuant to paragraph (c)(1)(i) of this subsection, if such services are performed by the manufacturer or supplier of the equipment."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "Conditions. The exemption at paragraph (c)(1) of this subsection applies if all the following conditions are met for a contract (or a subcontract):",
+                  "sub": {
+                    "i": {
+                      "text": "The items of equipment to be serviced under the contract are used regularly for other than Government purposes and are sold or traded by the contractor in substantial quantities to the general public in the course of normal business operations."
+                    },
+                    "ii": {
+                      "text": "The services will be furnished at prices which are, or are based on, established catalog or market prices for the maintenance, calibration, or repair of such equipment. As defined at 29 CFR 4.123(e)(1)(ii)(B)—"
+                    },
+                    "A": {
+                      "text": "An established catalog price is a price included in a catalog price list, schedule, or other form that is regularly maintained by the manufacturer or the contractor, is either published or otherwise available for inspection by customers, and states prices at which sales currently, or were last, made to a significant number of buyers constituting the general public."
+                    },
+                    "B": {
+                      "text": "An established market price is a current price, established in the usual course of trade between buyers and sellers free to bargain, which can be substantiated from sources independent of the manufacturer or contractor."
+                    },
+                    "iii": {
+                      "text": "The contractor will use the same compensation (wage and fringe benefits) plan for all service employees performing work under the contract as the contractor uses for these employees and equivalent employees servicing the same equipment of commercial customers."
+                    },
+                    "iv": {
+                      "text": "The apparent successful offeror certifies to the conditions in paragraph (c)(2)(i) through (iii) of this subsection. (See 22.1006(e).)"
+                    }
+                  }
+                },
+                "3": {
+                  "text": "Affirmative determination and contract award.",
+                  "sub": {
+                    "i": {
+                      "text": "For source selections where the contracting officer has established a competitive range, if the contracting officer determines that one or more of the conditions in paragraphs 22.1003-4 (c)(2)(i) through (iii) of an offeror’s certification will not be met, the contracting officer shall identify the deficiency to the offeror before receipt of the final proposal revisions. Unless the offeror provides a revised offer acknowledging applicability of the Service Contract Labor Standards statute or demonstrating to the satisfaction of the contracting officer an ability to meet all required conditions for exemption, the offer will not be further considered for award."
+                    },
+                    "ii": {
+                      "text": "The contracting officer shall determine in writing the applicability of this exemption to the contract before contract award.  If the apparent successful offeror will meet all conditions in paragraph (c)(2) of this subsection, the contracting officer shall make an affirmative determination and award the contract without the otherwise applicable Service Contract Labor Standards clause(s)."
+                    },
+                    "iii": {
+                      "text": "If the apparent successful offeror does not certify to the conditions in paragraph (c)(2)(i) through (iii) of this subsection, the contracting officer shall incorporate in the contract the Service Contract Act clause (see 22.1006(a)) and, if the contract will exceed $2,500, the appropriate Department of Labor wage determination (see  22.1007)."
+                    }
+                  }
+                },
+                "4": {
+                  "text": "Department of Labor determination."
+                },
+                "i": {
+                  "text": "If the Department of Labor determines after award of the contract that any condition for exemption in paragraph (c)(2) of this subsection has not been met, the exemption shall be deemed inapplicable, and the contract shall become subject to the Service Contract Labor Standards statute, effective as of the date of the Department of Labor determination.  In such case, the procedures at 29 CFR 4.123(e)(1)(iv) and 29 CFR 4.5(c) shall be followed."
+                },
+                "ii": {
+                  "text": "If the Department of Labor determines that any conditions in paragraph (c)(2) of this subsection have not been met with respect to a subcontract, the exemption shall be deemed inapplicable. The contractor may be responsible for ensuring that the subcontractor complies with the Service Contract Labor Standards statute, effective as of the date of the subcontract award."
+                }
+              }
+            },
+            "d": {
+              "text": "Contracts for certain services.—"
+            },
+            "i": {
+              "text": "Awarded under , 41 U.S.C. chapter 85, Committee for Purchase from People Who Are Blind or Severely Disabled (see subpart 8.7)."
+            },
+            "ii": {
+              "text": "For the operation of a Government facility, or part of a Government facility (but may be applicable to subcontracts for services); or"
+            },
+            "iii": {
+              "text": "Subject to 41 U.S.C. 6707(c) (see 22.1002-3)."
+            }
+          }
+        },
+        "5": {
+          "name": "Some examples of contracts covered.",
+          "text": {
+            "text": "The following examples, while not definitive or exclusive, illustrate some of the types of services that have been found to be covered by the Service Contract Labor Standards statute (see 29 CFR 4.130 for additional examples):\n\n(a) Motor pool operation, parking, taxicab, and ambulance services.\n\n(b) Packing, crating, and storage.\n\n(c) Custodial, janitorial, housekeeping, and guard services.\n\n(d) Food service and lodging.\n\n(e) Laundry, dry-cleaning, linen-supply, and clothing alteration and repair services.\n\n(f) Snow, trash, and garbage removal.\n\n(g) Aerial spraying and aerial reconnaissance for fire detection.\n\n(h) Some support services at installations, including grounds maintenance and landscaping.\n\n(i) Certain specialized services requiring specific skills, such as drafting, illustrating, graphic arts, stenographic reporting, or mortuary services.\n\n(j) Electronic equipment maintenance and operation and engineering support services.\n\n(k) Maintenance and repair of all types of equipment, for example, aircraft, engines, electrical motors, vehicles, and electronic, office and related business and construction equipment. (But see 22.1003-4(c)(1) and (d)(1)(iv).)\n\n(l) Operation, maintenance, or logistics support of a Federal facility.\n\n(m) Data collection, processing and analysis services."
+          }
+        },
+        "6": {
+          "name": "Repair distinguished from remanufacturing of equipment.",
+          "text": {
+            "1": {
+              "text": "Repair of an automobile, truck, or other vehicle, construction equipment, tractor, crane, aerospace, air conditioning and refrigeration equipment, electric motors, and ground powered industrial or vehicular equipment."
+            },
+            "2": {
+              "text": "Repair of typewriters and other office equipment (but see 22.1003-4(c)(1) and (d)(1)(iv))."
+            },
+            "3": {
+              "text": "Repair of appliances, radios, television sets, calculators, and other electronic equipment."
+            },
+            "4": {
+              "text": "Inspecting, testing, calibration, painting, packaging, lubrication, tune-up, or replacement of internal parts of equipment listed in subparagraphs (b)(1), (b)(2), and (b)(3) of this subsection."
+            },
+            "5": {
+              "text": "Reupholstering, reconditioning, repair, and refinishing of furniture."
+            },
+            "a": {
+              "text": "Contracts principally for remanufacturing of equipment which is so extensive as to be equivalent to manufacturing are subject to 41 U.S.C. chapter 65, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000, rather than to the Service Contract Labor Standards statute.  Remanufacturing shall be deemed to be manufacturing when the criteria in either subparagraphs (a)(1) or (a)(2) of this subsection are met.",
+              "sub": {
+                "1": {
+                  "text": "Major overhaul of an item, piece of equipment, or material which is degraded or inoperable, and under which all of the following conditions exist:",
+                  "sub": {
+                    "i": {
+                      "text": "The item or equipment is required to be completely or substantially torn down into individual component parts."
+                    },
+                    "ii": {
+                      "text": "Substantially all of the parts are reworked, rehabilitated, altered and/or replaced."
+                    },
+                    "iii": {
+                      "text": "The parts are reassembled so as to furnish a totally rebuilt item or piece of equipment."
+                    },
+                    "iv": {
+                      "text": "Manufacturing processes similar to those which were used in the manufacturing of the item or piece of equipment are utilized."
+                    },
+                    "v": {
+                      "text": "The disassembled components, if usable (except for situations where the number of items or pieces of equipment involved are too few to make it practicable) are commingled with existing inventory and, as such, lose their identification with respect to a particular piece of equipment."
+                    },
+                    "vi": {
+                      "text": "The items or equipment overhauled are restored to original life expectancy, or nearly so."
+                    },
+                    "vii": {
+                      "text": "Such work is performed in a facility owned or operated by the contractor."
+                    }
+                  }
+                },
+                "2": {
+                  "text": "Major modification of an item, piece of equipment, or material which is wholly or partially obsolete, and under which all of the following conditions exist:"
+                },
+                "i": {
+                  "text": "The item or equipment is required to be completely or substantially torn down."
+                },
+                "ii": {
+                  "text": "Outmoded parts are replaced."
+                },
+                "iii": {
+                  "text": "The item or equipment is rebuilt or reassembled."
+                },
+                "iv": {
+                  "text": "The contract work results in the furnishing of a substantially modified item in a usable and serviceable condition."
+                },
+                "v": {
+                  "text": "The work is performed in a facility owned or operated by the contractor."
+                }
+              }
+            },
+            "b": {
+              "text": "Remanufacturing does not include the repair of damaged or broken equipment which does not require a complete teardown, overhaul, and rebuild as described in subparagraphs (a)(1) and (a)(2) of this subsection, or the periodic and routine maintenance, preservation, care, adjustment, upkeep, or servicing of equipment to keep it in usable, serviceable, working order. Such contracts typically are billed on an hourly rate (labor plus materials and parts) basis. Any contract principally for this type of work is subject to the Service Contract Labor Standards statute. Examples of such work include the following:"
+            }
+          }
+        },
+        "7": {
+          "name": "Questions concerning applicability of the Service Contract Labor Standards statute.",
+          "text": {
+            "text": "If the contracting officer questions the applicability of the Service Contract Labor Standards statute to an acquisition, the contracting officer shall request the advice of the agency labor advisor. Unresolved questions shall be submitted in a timely manner to the Administrator, Wage and Hour Division, for determination."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "1004": {
+      "number": 1004,
+      "name": "Department of Labor responsibilities and regulations.",
+      "sub": {},
+      "text": {
+        "text": "Under the Service Contract Labor Standards statute, the Secretary of Labor is authorized and directed to enforce the provisions of the Service Contract Labor Standards statute, make rules and regulations, issue orders, hold hearings, make decisions, and take other appropriate action. The Department of Labor has issued implementing regulations on such matters as—\n\n(a) Service contract labor standards provisions and procedures (29 CFR Part 4, Subpart A);\n\n(b) Wage determination procedures (29 CFR part 4, subparts A and B);\n\n(c) Application of the Service Contract Labor Standards statute (rulings and interpretations) (29 CFR Part 4, Subpart C);\n\n(d) Compensation standards (29 CFR Part 4, Subpart D);\n\n(e) Enforcement (29 CFR Part 4, Subpart E);\n\n(f) Safe and sanitary working conditions (29 CFR Part 1925);\n\n(g) Rules of practice for administrative proceedings enforcing service contract labor standards (29 CFR Part 6); and\n\n(h) Practice before the Administrative Review Board (29 CFR part 8)."
+      }
+    },
+    "1005": {
+      "number": 1005,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "1006": {
+      "number": 1006,
+      "name": "Solicitation provisions and contract clauses.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "(1) The contracting officer shall insert the clause at 52.222-41, Service Contract Labor Standards, in solicitations and contracts (except as provided in paragraph (a)(2) of this section) if the contract is subject to the Service Contract Labor Standards statute and is—",
+          "sub": {
+            "2": {
+              "text": "The contracting officer shall not insert the clause at 52.222-41 (or any of the associated Service Contract Labor Standards statute clauses as prescribed in this section for possible use when 52.222-41 applies) in the resultant contract if—"
+            },
+            "i": {
+              "text": "The solicitation includes the provision at—"
+            },
+            "ii": {
+              "text": "The contracting officer has made the determination, in accordance with paragraphs (c)(3) or (d)(3) of subsection 22.1003-4, that the Service Contract Labor Standards statute does not apply to the contract. (In such case, insert the clause at 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment-Requirements, or 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services-Requirements, in the contract, in accordance with the prescription at paragraph (e)(2)(ii) or (e)(4)(ii) of this subsection)."
+            },
+            "A": {
+              "text": "52.222-48, Exemption from Application of the Service Contract Labor Standards statute to Contracts for Maintenance, Calibration, or Repair of Certain Equipment—Certification;"
+            },
+            "B": {
+              "text": "52.222-52, Exemption from Application of the Service Contract Labor Standards statute to Contracts for Certain Services—Certification; or"
+            },
+            "C": {
+              "text": "Either of the comparable certifications is checked as applicable in the provision at 52.204-8(c)(2) or 52.212-3(k); and"
+            }
+          }
+        },
+        "b": {
+          "text": "The contracting officer shall insert the clause at 52.222-42, Statement of Equivalent Rates for Federal Hires, in solicitations and contracts if the contract amount is expected to be over $2,500 and the Service Contract Labor Standards statute is applicable. (See 22.1016.)"
+        },
+        "c": {
+          "text": "(1) The contracting officer shall insert the clause at 52.222-43, Fair Labor Standards Act and Service Contract Labor Standards—Price Adjustment (Multiple Year and Option Contracts), or another clause which accomplishes the same purpose, in solicitations and contracts if the contract is expected to be a fixed-price, time-and-materials, or labor-hour service contract containing the clause at 52.222-41, Service Contract Labor Standards, and is a multiple year contract or is a contract with options to renew which exceeds the simplified acquisition threshold. The clause may be used in contracts that do not exceed the simplified acquisition threshold. The clause at 52.222-43, Fair Labor Standards Act and Service Contract Labor Standards—Price Adjustment (Multiple Year and Option Contracts), applies to both contracts subject to area prevailing wage determinations and contracts subject to the incumbent contractor’s collective bargaining agreement in effect during this contract’s preceding contract period (see 22.1002-2 and 22.1002-3). Contracting officers shall ensure that contract prices or contract unit price labor rates are adjusted only to the extent that a contractor’s increases or decreases in applicable wages and fringe benefits are made to comply with the requirements set forth in the clauses at 52.222-43 (subparagraphs (d)(1), (2) and (3)), or 52.222-44 (subparagraphs (b)(1) and (2)). (For example, the prior year wage determination required a minimum wage rate of $4.00 per hour. The contractor actually paid $4.10. The new wage determination increases the minimum rate to $4.50. The contractor increases the rate actually paid to $4.75 per hour. The allowable price adjustment is $.40 per hour.)",
+          "sub": {
+            "2": {
+              "text": "The contracting officer shall insert the clause at 52.222-44, Fair Labor Standards Act and Service Contract Labor Standards—Price Adjustment, in solicitations and contracts if the contract is expected to be a fixed-price, time-and-materials, or labor-hour service contract containing the clause at 52.222-41, Service Contract Labor Standards, exceeds the simplified acquisition threshold, and is not a multiple year contract or is not a contract with options to renew. The clause may be used in contracts that do not exceed the simplified acquisition threshold. The clause at 52.222-44, Fair Labor Standards Act and Service Contract Labor Standards—Price Adjustment, applies to both contracts subject to area prevailing wage determinations and contracts subject to contractor collective bargaining agreements (see 22.1002-2 and 22.1002-3)."
+            },
+            "3": {
+              "text": "The clauses prescribed in paragraph 22.1006(c)(1) cover situations in which revised minimum wage rates are applied to contracts by operation of law, or by revision of a wage determination in connection with (i) exercise of a contract option or (ii) extension of a multiple year contract into a new program year. If a clause prescribed in 16.203-4(d) is used, it must not conflict with, or duplicate payment under, the clauses prescribed in this paragraph 22.1006(c)."
+            }
+          }
+        },
+        "d": {
+          "text": "[Reserved]"
+        },
+        "e": {
+          "text": "(1) The contracting officer shall insert the provision at 52.222-48, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment-Certification, in solicitations that—",
+          "sub": {
+            "2": {
+              "text": "The contracting officer shall insert the clause at 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment-Requirements—",
+              "sub": {
+                "i": {
+                  "text": "In solicitations that include the provision at 52.222-48, or the comparable provision is checked as applicable in the clause at 52.204-8(c)(2) or 52.212-3(k)(1); and"
+                },
+                "ii": {
+                  "text": "In resulting contracts in which the contracting officer has determined, in accordance with 22.1003-4(c)(3), that the Service Contract Labor Standards statute does not apply."
+                }
+              }
+            },
+            "3": {
+              "text": "(i) Except as provided in paragraph (e)(3)(ii) of this section, the contracting officer shall insert the provision at 52.222-52, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services--Certification, in solicitations that—",
+              "sub": {
+                "A": {
+                  "text": "Include the clause at 52.222-41, Service Contract Labor Standards, and"
+                },
+                "B": {
+                  "text": "The contract may be exempt from the Service Contract Labor Standards statute in accordance with 22.1003-4(d)."
+                },
+                "ii": {
+                  "text": "When resoliciting in accordance with 22.1003-4(d)(3)(iii), amend the solicitation by removing the provision at 52.222-52 from the solicitation."
+                }
+              }
+            },
+            "4": {
+              "text": "The contracting officer shall insert the clause at 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services—Requirements—"
+            },
+            "i": {
+              "text": "In solicitations that include the provision at 52.222-52, or the comparable provision is checked as applicable in 52.204-8(c)(2) or 52.212-3(k)(2); and"
+            },
+            "ii": {
+              "text": "In resulting contracts in which the contracting officer has determined, in accordance with 22.1003-4(d)(3), that the Service Contract Labor Standards statute does not apply."
+            }
+          }
+        },
+        "f": {
+          "text": "The contracting officer shall insert the clause at 52.222-49, Service Contract Labor Standards-Place of Performance Unknown, if using the procedures prescribed in 22.1009-4."
+        }
+      }
+    },
+    "1007": {
+      "number": 1007,
+      "name": "Requirement to obtain wage determinations.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall obtain wage determinations for the following service contracts:\n\n(a) Each new solicitation and contract in excess of $2,500.\n\n(b) Each contract modification which brings the contract above $2,500 and—\n\n(1) Extends the existing contract pursuant to an option clause or otherwise; or\n\n(2) Changes the scope of the contract whereby labor requirements are affected significantly.\n\n(c) Each multiple year contract in excess of $2,500 upon—\n\n(1) Annual anniversary date if the contract is subject to annual appropriations; or\n\n(2) Biennial anniversary date if the contract is not subject to annual appropriations and its proposed term exceeds 2 years—unless otherwise advised by the Wage and Hour Division."
+      }
+    },
+    "1008": {
+      "number": 1008,
+      "name": "Procedures for obtaining wage determinations.",
+      "sub": {
+        "1": {
+          "name": "Obtaining wage determinations.",
+          "text": {
+            "a": {
+              "text": "Contracting officers may obtain most prevailing wage determinations using the WDOL website. Contracting officers may also use the Department of Labor’s e98 electronic process, located on the WDOL website, to request a wage determination directly from the Department of Labor. If the WDOL database does not contain the applicable prevailing wage determination for a contract action, the contracting officer must use the e98 process to request a wage determination from the Department of Labor."
+            },
+            "b": {
+              "text": "In using the e98 process to obtain prevailing wage determinations, contracting officers shall provide as complete and accurate information on the e98 as possible. Contracting officers shall ensure that the email address submitted on an e98 request is accurate."
+            },
+            "c": {
+              "text": "The contracting officer must anticipate the amount of time required to gather the information necessary to obtain a wage determination, including sufficient time, if necessary, to contact the Department of Labor to request wage determinations that are not available through use of the WDOL."
+            },
+            "d": {
+              "text": "Although the WDOL website provides assistance to the contracting agency to select the correct wage determination, the contracting agency remains responsible for the wage determination selected. If the contracting agency has used the e98 process, the Department of Labor will respond to the contracting agency based on the information provided on the e98. The contracting agency may rely upon the Department of Labor response as the correct wage determination for the contract."
+            },
+            "e": {
+              "text": "To obtain the applicable wage determination for each contract action, the contracting officer shall determine the following information concerning the service employees expected to be employed by the contractor and any subcontractors in performing the contract:",
+              "sub": {
+                "1": {
+                  "text": "Determine the classes of service employees to be utilized in performance of the contract using the Wage and Hour Division’s Service Contract Act Directory of Occupations (Directory). The Directory can be found on WDOL’s Library Page, and is for sale by the Superintendent of Documents, U.S. Government Printing Office."
+                },
+                "2": {
+                  "text": "Determine the locality where the services will be performed (see 22.1009)."
+                },
+                "3": {
+                  "text": "Determine whether 41 U.S.C. 6707(c) applies (see 22.1008-2, 22.1010 and 22.1002-2)."
+                },
+                "4": {
+                  "text": "Determine the wage rate that would be paid each class if employed by the agency and subject to the wage provisions of 5 U.S.C. 5341 and/or 5332 (see 22.1016)."
+                }
+              }
+            },
+            "f": {
+              "text": "If the contracting officer has questions regarding the procedures for obtaining a wage determination, or questions regarding the selection of a wage determination, the contracting officer should request assistance from the agency labor advisor."
+            }
+          }
+        },
+        "2": {
+          "name": "Successorship with incumbent contractor collective bargaining agreement.",
+          "text": {
+            "1": {
+              "text": "Subject to the collective bargaining agreement; and"
+            },
+            "2": {
+              "text": "Not subject to any collective bargaining agreement."
+            },
+            "a": {
+              "text": "Early in the acquisition cycle, the contracting officer shall determine whether 41 U.S.C. 6707(c) affects the new acquisition.  The contracting officer shall determine whether there is a predecessor contract covered by the Service Contract Labor Standards statute and, if so, whether the incumbent prime contractor or its subcontractors and any of their employees have a collective bargaining agreement."
+            },
+            "b": {
+              "text": "41 U.S.C. 6707(c) provides that a successor contractor must pay wages and fringe benefits (including accrued wages and benefits and prospective increases) to service employees at least equal to those agreed upon by a predecessor contractor under the following conditions:",
+              "sub": {
+                "1": {
+                  "text": "The services to be furnished under the proposed contract will be substantially the same as services being furnished by an incumbent contractor whose contract the proposed contract will succeed."
+                },
+                "2": {
+                  "text": "The services will be performed in the same locality."
+                },
+                "3": {
+                  "text": "The incumbent prime contractor or subcontractor is furnishing such services through the use of service employees whose wages and fringe benefits are the subject of one or more collective bargaining agreements."
+                }
+              }
+            },
+            "c": {
+              "text": "The application of 41 U.S.C. 6707(c) is subject to the following limitations:",
+              "sub": {
+                "1": {
+                  "text": "41 U.S.C. 6707(c) will not apply if the incumbent contractor enters into a collective bargaining agreement for the first time and the agreement does not become effective until after the expiration of the incumbent’s contract."
+                },
+                "2": {
+                  "text": "If the incumbent contractor enters into a new or revised collective bargaining agreement during the period of the incumbent’s performance on the current contract, the terms of the new or revised agreement shall not be effective for the purposes of 41 U.S.C. 6707(c) under the following conditions:"
+                },
+                "i": {
+                  "text": "(A) In sealed bidding, the contracting agency receives notice of the terms of the collective bargaining agreement less than 10 days before bid opening and finds that there is not reasonable time still available to notify bidders (see 22.1002-2(a)); or"
+                },
+                "B": {
+                  "text": "For contractual actions other than sealed bidding, the contracting agency receives notice of the terms of the collective bargaining agreement after award, provided that the start of performance is within 30 days of award (see 22.1002-2(b)); and"
+                },
+                "ii": {
+                  "text": "The contracting officer has given both the incumbent contractor and its employees’ collective bargaining agent timely written notification of the applicable acquisition dates (see 22.1010)."
+                }
+              }
+            },
+            "d": {
+              "text": "(1) If 41 U.S.C. 6707(c) applies, the contracting officer shall obtain a copy of any collective bargaining agreement between an incumbent contractor or subcontractor and its employees. Obtaining a copy of an incumbent contractor’s collective bargaining agreement may involve coordination with the administrative contracting officer responsible for administering the predecessor contract. (Paragraph (m) of the clause at 52.222-41, Service Contract Labor Standards, requires the incumbent prime contractor to furnish the contracting officer a copy of each collective bargaining agreement.)",
+              "sub": {
+                "2": {
+                  "text": "If the contracting officer has timely received the collective bargaining agreement, the contracting officer may use the WDOL website to prepare a wage determination referencing the agreement and incorporate that wage determination, attached to a complete copy of the collective bargaining agreement, into the successor contract action. In using the WDOL process, it is not necessary to submit a copy of the collective bargaining agreement to the Department of Labor unless requested to do so."
+                },
+                "3": {
+                  "text": "The contracting officer may also use the e98 process on WDOL to request that the Department of Labor prepare the cover wage determination. The Department of Labor’s response to the e98 may include a request for the contracting officer to submit a complete copy of the collective bargaining agreement. Any questions regarding the applicability of the Service Contract Labor Standards statute to a collective bargaining agreement should be directed to the agency labor advisor."
+                }
+              }
+            },
+            "e": {
+              "text": "(1) 41 U.S.C. 6707(c) will not apply if the Secretary of Labor determines (i) after a hearing, that the wages and fringe benefits in the predecessor contractor’s collective bargaining agreement are substantially at variance with those which prevail for services of a similar character in the locality, or (ii) that the wages and fringe benefits in the predecessor contractor’s collective bargaining agreement are not the result of arm’s length negotiations (see 22.1013 and 22.1021). The Department of Labor (DOL) has concluded that contingent collective bargaining agreement provisions that attempt to limit a contractor’s obligations by means such as requiring issuance of a wage determination by the DOL, requiring inclusion of the wage determination in the contract, or requiring the Government to adequately reimburse the contractor, generally reflect a lack of arm’s length negotiations.",
+              "sub": {
+                "2": {
+                  "text": "If the contracting officer’s review (see 22.1013) indicates that monetary provisions of the collective bargaining agreement may be substantially at variance or may not have been reached as a result of arm’s length bargaining, the contracting officer shall immediately contact the agency labor advisor to consider if further action is warranted."
+                }
+              }
+            },
+            "f": {
+              "text": "If the services are being furnished at more than one location and the collectively bargained wage rates and fringe benefits are different at different locations or do not apply to one or more locations, the contracting officer shall identify the locations to which the agreements apply."
+            },
+            "g": {
+              "text": "If the collective bargaining agreement does not apply to all service employees under the contract, the contracting officer shall access WDOL to obtain the prevailing wage determination for those service employee classifications that are not covered by the collective bargaining agreement. The contracting officer shall separately list in the solicitation and contract the service employee classifications—"
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "1009": {
+      "number": 1009,
+      "name": "Place of performance unknown.",
+      "sub": {
+        "1": {
+          "name": "General.",
+          "text": {
+            "text": "If the place of performance is unknown, the contracting officer may use the procedures in this section. The contracting officer should first attempt to identify the specific places or geographical areas where the services might be performed (see 22.1009-2) and then may follow the procedures either in 22.1009-3 or in 22.1009-4."
+          }
+        },
+        "2": {
+          "name": "Attempt to identify possible places of performance.",
+          "text": {
+            "text": "The contracting officer should attempt to identify the specific places or geographical areas where the services might be performed. The following may indicate possible places of performance:\n\n(a) Locations of previous contractors and their competitors.\n\n(b) Databases available via the Internet for lists of prospective offerors and contractors.\n\n(c) Responses to a presolicitation notice (see 5.204)."
+          }
+        },
+        "3": {
+          "name": "All possible places of performance identified.",
+          "text": {
+            "1": {
+              "text": "Obtain wage determinations for the additional places of performance and amend the solicitation to include all wage determinations. If necessary, the contracting officer shall extend the time for submission of final offers; and"
+            },
+            "2": {
+              "text": "Follow the procedures in 22.1009-4."
+            },
+            "a": {
+              "text": "If the contracting officer can identify all the possible places or areas of performance (even though the actual place of performance will not be known until the successful offeror is chosen), the contracting officer shall obtain a wage determination for each locality where services may be performed (see 22.1008)."
+            },
+            "b": {
+              "text": "If the contracting officer subsequently learns of any potential offerors in previously unidentified places before the closing date for submission of offers, the contracting officer shall—"
+            }
+          }
+        },
+        "4": {
+          "name": "All possible places of performance not identified.",
+          "text": {
+            "text": "If the contracting officer believes that there may be offerors interested in performing in unidentified places or areas, the contracting officer may use the following procedures:\n\n(a) Include the following information in the synopsis and solicitation:\n\n(1) That the place of performance is unknown.\n\n(2) The possible places or areas of performance that the contracting officer has already identified.\n\n(3) That the contracting officer will obtain wage determinations for additional possible places of performance if asked to do so in writing.\n\n(4) The time and date by which offerors must notify the contracting officer of additional places of performance.\n\n(b) Include the information required by paragraphs (a)(2) and (a)(4) of this section in the clause at 52.222-49, Service Contract Labor Standards–Place of Performance Unknown (see 22.1006(f)). The closing date for receipt of offerors’ requests for wage determinations for additional possible places of performance should allow reasonable time for potential offerors to review the solicitation and determine their interest in competing. Generally, 10 to 15 days from the date of issuance of the solicitation may be considered a reasonable period of time.\n\n(c) The procedures in 14.304 shall apply to late receipt of offerors’ requests for wage determinations for additional places of performance. However, late receipt of an offeror’s request for a wage determination for additional places of performance does not preclude the offeror’s competing for the proposed acquisition.\n\n(d) If the contracting officer receives any timely requests for wage determinations for additional places of performance the contracting officer shall—\n\n(1) Obtain wage determinations for the additional places of performance; and\n\n(2) Amend the solicitation to include all wage determinations and, if necessary, extend the time for submission of final offers.\n\n(e) If the successful offeror did not make a timely request for a wage determination and will perform in a place of performance for which the contracting officer therefore did not request a wage determination, the contracting officer shall—\n\n(1) Award the contract;\n\n(2) Obtain a wage determination; and\n\n(3) Incorporate the wage determination in the contract, retroactive to the date of contract award and with no adjustment in contract price, pursuant to the clause at 52.222-49, Service Contract Labor Standards–Place of Performance Unknown."
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "1010": {
+      "number": 1010,
+      "name": "Notification to interested parties under collective bargaining agreements.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "The contracting officer should determine whether the incumbent prime contractor’s or its subcontractors’ service employees performing on the current contract are represented by a collective bargaining agent. If there is a collective bargaining agent, the contracting officer shall give both the incumbent contractor and its employees’ collective bargaining agent written notification of—",
+          "sub": {
+            "1": {
+              "text": "The forthcoming successor contract and the applicable acquisition dates (issuance of solicitation, opening of bids, commencement of negotiations, award of contract, or start of performance, as the case may be); or"
+            },
+            "2": {
+              "text": "The forthcoming contract modification and applicable acquisition dates (exercise of option, extension of contract, change in scope, or start of performance, as the case may be); or"
+            },
+            "3": {
+              "text": "The forthcoming multiple year contract anniversary date (annual anniversary date or biennial date, as the case may be)."
+            }
+          }
+        },
+        "b": {
+          "text": "This written notification must be given at least 30 days in advance of the earliest applicable acquisition date or the applicable annual or biennial anniversary date in order for the time-of-receipt limitations in paragraphs 22.1012-2(a) and (b) to apply. The contracting officer shall retain a copy of the notification in the contract file."
+        }
+      }
+    },
+    "1011": {
+      "number": 1011,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "1012": {
+      "number": 1012,
+      "name": "Applicability of revisions to wage determinations.",
+      "sub": {
+        "1": {
+          "name": "Prevailing wage determinations.",
+          "text": {
+            "a": {
+              "text": "(1) The Wage and Hour Administrator may issue revisions to prevailing wage determinations periodically. The need for inclusion of a revised prevailing wage determination in a solicitation, contract or contract modification (see 22.1007) is determined by the date of receipt of the revised prevailing wage determination by the contracting agency. (Note the distinction between receipt by the agency and receipt by the contracting officer which may occur later.)",
+              "sub": {
+                "2": {
+                  "text": "In selecting a prevailing wage determination from the WDOL website for use in a solicitation or other contract action, the contracting officer shall monitor the WDOL website to determine whether the applicable wage determination has been revised. Revisions published on the WDOL website or otherwise communicated to the contracting officer within the timeframes prescribed at 22.1012-1(b) and (c) are effective and must be included in the resulting contract. Monitoring can be accomplished by use of the WDOL website’s “Alert Service”."
+                },
+                "i": {
+                  "text": "For purposes of using WDOL, the time of receipt by the contracting agency shall be the first day of publication of the revised prevailing wage determination on the website."
+                },
+                "ii": {
+                  "text": "For purposes of using the e98 process, the time of receipt by the contracting agency shall be the date the agency receives actual notice of a new or revised prevailing wage determination from the Department of Labor as an e98 response."
+                }
+              }
+            },
+            "b": {
+              "text": "The following shall apply when contracting by sealed bidding: a revised prevailing wage determination shall not be effective if it is received by the contracting agency less than 10 days before the opening of bids, and the contracting officer finds that there is not reasonable time to incorporate the revision in the solicitation."
+            },
+            "c": {
+              "text": "For contractual actions other than sealed bidding, a revised prevailing wage determination received by the contracting agency after award of a new contract or a modification as specified in 22.1007(b) shall not be effective provided that the start of performance is within 30 days of the award or the specified modification. If the contract does not specify a start of performance date which is within 30 days of the award or the specified modification, and if contract performance does not commence within 30 days of the award or the specified modification, any revision received by the contracting agency not less than 10 days before commencement of the work shall be effective."
+            },
+            "d": {
+              "text": "If the contracting officer has submitted an e98 to the Department of Labor requesting a prevailing wage determination and has not received a response within 10 days, the contracting officer shall contact the Wage and Hour Division by telephone to determine when the wage determination can be expected. (The telephone number is provided on the e98 website.)"
+            }
+          }
+        },
+        "2": {
+          "name": "Wage determinations based on collective bargaining agreements.",
+          "text": {
+            "a": {
+              "text": "In sealed bidding, a new or changed collective bargaining agreement shall not be effective under 41 U.S.C. 6707(c) if the contracting agency has received notice of the terms of the new or changed collective bargaining agreement less than 10 days before bid opening and the contracting officer determines that there is not reasonable time to incorporate the new or changed terms of the collective bargaining agreement in the solicitation."
+            },
+            "b": {
+              "text": "For contractual actions other than sealed bidding, a new or changed collective bargaining agreement shall not be effective under 41 U.S.C. 6707(c) if notice of the terms of the new or changed collective bargaining agreement is received by the contracting agency after award of a successor contract or a modification as specified in 22.1007(b), provided that the contract start of performance is within 30 days of the award of the contract or of the specified modification. If the contract does not specify a start of performance date which is within 30 days of the award of the contract or of the specified modification, or if contract performance does not commence within 30 days of the award of the contract or of the specified modification, any notice of the terms of a new or changed collective bargaining agreement received by the agency not less than 10 days before commencement of the work shall be effective for purposes of the successor contract under 41 U.S.C. 6707(c)."
+            },
+            "c": {
+              "text": "The limitations in paragraphs (a) and (b) of this subsection shall apply only if timely notification required in 22.1010 has been given."
+            },
+            "d": {
+              "text": "If the contracting officer has submitted an e98 to Department of Labor requesting a wage determination based on a collective bargaining agreement and has not received a response from the Department of Labor within 10 days, the contracting officer shall contact the Wage and Hour Division by telephone to determine when the wage determination can be expected. (The telephone number is provided on the e98 website.) If the Department of Labor is unable to provide the wage determination by the latest date needed to maintain the acquisition schedule, the contracting officer shall incorporate the collective bargaining agreement itself in a solicitation or other contract action (e.g., exercise of option) and include a wage determination referencing that collective bargaining agreement created by use of the WDOL website (see 22.1008-1(d)(2)).\n\n\n\n"
+            }
+          }
+        }
+      },
+      "text": {
+        "text": ""
+      }
+    },
+    "1013": {
+      "number": 1013,
+      "name": "Review of wage determination.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "If the wage determination does not conform with wages and fringe benefits prevailing for similar services in the locality; or"
+        },
+        "2": {
+          "text": "If the wage determination contains significant errors or omissions. If either subparagraph (b)(1) or (b)(2) of this section is evident, the contracting officer shall contact the agency labor advisor to determine appropriate action."
+        },
+        "a": {
+          "text": "Based on incumbent collective bargaining agreement. (1) If wages, fringe benefits, or periodic increases provided for in a collective bargaining agreement vary substantially from those prevailing for similar services in the locality, the contracting officer shall immediately contact the agency labor advisor to consider instituting the procedures in 22.1021.",
+          "sub": {
+            "1": {
+              "text": "If the contracting officer believes that an incumbent or predecessor contractor’s agreement was not the result of arm’s length negotiations, the contracting officer shall contact the agency labor advisor to determine appropriate action."
+            }
+          }
+        },
+        "b": {
+          "text": "Based on other than incumbent collective bargaining agreement. Upon receiving a wage determination not predicated upon a collective bargaining agreement, the contracting officer shall ascertain—"
+        }
+      }
+    },
+    "1014": {
+      "number": 1014,
+      "name": "Delay over 60 days in bid opening or commencement of work.",
+      "sub": {},
+      "text": {
+        "text": "If a wage determination was obtained through the e98 process, and bid opening, or commencement of work under a negotiated contract has been delayed, for whatever reason, more than 60 days from the date indicated on the previously submitted e98, the contracting officer shall submit a new e98. Any revision of a wage determination received by the contracting agency as a result of that communication shall supersede the earlier response as the wage determination applicable to the particular acquisition subject to the time frames in 22.1012-1(b) and (c)."
+      }
+    },
+    "1015": {
+      "number": 1015,
+      "name": "Discovery of errors by the Department of Labor.",
+      "sub": {},
+      "text": {
+        "text": "If the Department of Labor discovers and determines, whether before or after a contract award, that a contracting officer made an erroneous determination that the Service Contract Labor Standards statute did not apply to a particular acquisition or failed to include an appropriate wage determination in a covered contract, the contracting officer, within 30 days of notification by the Department of Labor, shall include in the contract the clause at 52.222-41 and any applicable wage determination issued by the Administrator. If the contract is subject to 41 U.S.C. 6707(c), the Administrator may require retroactive application of that wage determination. The contracting officer shall equitably adjust the contract price to reflect any changed cost of performance resulting from incorporating a wage determination or revision."
+      }
+    },
+    "1016": {
+      "number": 1016,
+      "name": "Statement of equivalent rates for Federal hires.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "Wages paid blue collar employees shall be the basic hourly rate for each class. The rate shall be Wage Board pay schedule step two for nonsupervisory service employees and step three for supervisory service employees."
+        },
+        "2": {
+          "text": "Wages paid white collar employees shall be an hourly rate for each class. The rate shall be obtained by dividing the general pay schedule step one biweekly rate by 80."
+        },
+        "3": {
+          "text": "Local civilian personnel offices can assist in determining and providing grade and salary data."
+        },
+        "a": {
+          "text": "The statement required under the clause at 52.222-42, Statement of Equivalent Rates for Federal Hires, (see 22.1006(b)) shall set forth those wage rates and fringe benefits that would be paid by the contracting activity to the various classes of service employees expected to be utilized under the contract if 5 U.S.C. 5332 (General Schedule—white collar) and/or 5 U.S.C. 5341 (Wage Board—blue collar) were applicable."
+        },
+        "b": {
+          "text": "Procedures for computation of these rates are as follows:"
+        }
+      }
+    },
+    "1017": {
+      "number": 1017,
+      "name": "[Reserved]",
+      "sub": {},
+      "text": {
+        "text": ""
+      }
+    },
+    "1018": {
+      "number": 1018,
+      "name": "Notification to contractors and employees.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall take the following steps to ensure that service employees are notified of minimum wages and fringe benefits.\n\n(a) As soon as possible after contract award, inform the contractor of the labor standards requirements of the contract relating to the Service Contract Labor Standards statute and of the contractor’s responsibilities under these requirements, unless it is clear that the contractor is fully informed.\n\n(b) At the time of award, furnish the contractor Department of Labor Publication WH-1313, Notice to Employees Working on Government Contracts, for posting at a prominent and accessible place at the worksite before contract performance begins. The publication advises employees of the compensation (wages and fringe benefits) required to be paid or furnished under the Service Contract Labor Standards statute and satisfies the notice requirements in paragraph (g) of the clause at 52.222-41, Service Contract Labor Standards.\n\n(c) Attach any applicable wage determination to Publication WH-1313."
+      }
+    },
+    "1019": {
+      "number": 1019,
+      "name": "Additional classes of service employees.",
+      "sub": {},
+      "text": {
+        "a": {
+          "text": "If the contracting officer is aware that contract performance involves classes of service employees not included in the wage determination, the contracting officer shall require the contractor to classify the unlisted classes so as to provide a reasonable relationship (i.e., appropriate level of skill comparison) between the unlisted classifications and the classifications listed in the determination (see paragraph (c) of the clause at 52.222-41, Service Contract Labor Standards). The contractor shall initiate the conforming procedure before unlisted classes of employees perform contract work. The contractor shall submit Standard Form (SF) 1444, Request For Authorization of Additional Classification and Rate. The contracting officer shall review the proposed classification and rate and promptly submit the completed SF 1444 (which must include information regarding the agreement or disagreement of the employees’ representative or the employees themselves together with the agency recommendation) and all other pertinent information to the Wage and Hour Division. Within 30 days of receipt of the request, the Wage and Hour Division will (1) approve, modify, or disapprove the request when the parties are in agreement or (2) render a final determination in the event of disagreement among the parties. If the Wage and Hour Division will require more than 30 days to take action, it will notify the contracting officer within 30 days of receipt of the request that additional time is necessary."
+        },
+        "b": {
+          "text": "Some wage determinations will list a series of classes within a job classification family, for example, Computer Operators, level I, II, and III, or Electronic Technicians, level I, II, and III, or Clerk Typist, level I and II. Generally, level I is the lowest level. It is the entry level, and establishment of a lower level through conformance is not permissible. Further, trainee classifications may not be conformed. Helpers in skilled maintenance trades (for example, electricians, machinists, and automobile mechanics) whose duties constitute, in fact, separate and distinct jobs may also be used if listed on the wage determination, but may not be conformed. Conformance may not be used to artificially split or subdivide classifications listed in the wage determination. However, conforming procedures may be used if the work which an employee performs under the contract is not within the scope of any classification listed on the wage determination, regardless of job title. (See 29 CFR 4.152.)"
+        },
+        "c": {
+          "text": "Subminimum rates for apprentices, student learners, and disabled workers are permissible in accordance with paragraph (q) of the clause at 52.222-41, Service Contract Labor Standards."
+        }
+      }
+    },
+    "1020": {
+      "number": 1020,
+      "name": "Seniority lists.",
+      "sub": {},
+      "text": {
+        "text": "If a contract is performed at a Federal facility where employees may be hired/retained by a succeeding contractor, the incumbent prime contractor is required to furnish a certified list of all service employees on the contractor’s or subcontractor’s payroll during the last month of the contract, together with anniversary dates of employment, to the contracting officer no later than 10 days before contract completion. (See paragraph (n) of the clause at 52.222-41, Service Contract Labor Standards.) At the commencement of the succeeding contract, the contracting officer shall provide a copy of the list to the successor contractor for determining employee eligibility for vacation or other fringe benefits which are based upon length of service, including service with predecessor contractors if such benefit is required by an applicable wage determination."
+      }
+    },
+    "1021": {
+      "number": 1021,
+      "name": "Request for hearing.",
+      "sub": {},
+      "text": {
+        "1": {
+          "text": "For sealed bid contracts, more than 10 days before the award of the contract; or"
+        },
+        "2": {
+          "text": "For negotiated contracts and for contracts with provisions exceeding the initial term by option, before the commencement date of the contract or the follow-up option period."
+        },
+        "a": {
+          "text": "A contracting agency or other interested party may request a hearing on an issue presented in 22.1013(a). To obtain a hearing for the contracting agency, the contracting officer shall submit a written request through appropriate channels (ordinarily the agency labor advisor) to—\n\nAdministrator, Wage and Hour Division\n\nEmployment Standards Administration\n\nU.S. Department of Labor\n\nWashington, DC 20210",
+          "sub": {
+            "text": "Administrator, Wage and Hour Division\n\nEmployment Standards Administration\n\nU.S. Department of Labor\n\nWashington, DC 20210"
+          }
+        },
+        "b": {
+          "text": "A request for a substantial variance hearing shall include sufficient data to show that the rates at issue vary substantially from those prevailing for similar services in the locality. The request shall also include—",
+          "sub": {
+            "1": {
+              "text": "The number of the wage determinations at issue;"
+            },
+            "2": {
+              "text": "The name of the contracting agency whose contract is involved;"
+            },
+            "3": {
+              "text": "A brief description of the services to be performed under the contract;"
+            },
+            "4": {
+              "text": "The status of the procurement and any estimated procurement dates, such as bid opening, contract award, and commencement date of the contract or its follow-up option period;"
+            },
+            "5": {
+              "text": "A statement of the applicant’s case, setting forth in detail the reasons why the applicant believes that a substantial variance exists with respect to some or all of the wages and/or fringe benefits;"
+            },
+            "6": {
+              "text": "Names and addresses (to the extent known) of interested parties; and"
+            },
+            "7": {
+              "text": "Any other data required by the Administrator."
+            }
+          }
+        },
+        "c": {
+          "text": "A request for an arm’s length hearing shall include—",
+          "sub": {
+            "1": {
+              "text": "A statement of the applicant’s case, setting forth in detail the reasons why the applicant believes that the wages and fringe benefits contained in the collective bargaining agreement were not reached as a result of arm’s length negotiations;"
+            },
+            "2": {
+              "text": "A statement regarding the status of the procurement and any estimated procurement dates, such as bid opening, contract award, and commencement date of the contract or its follow-up option period; and"
+            },
+            "3": {
+              "text": "Names and addresses (to the extent known) of interested parties."
+            }
+          }
+        },
+        "d": {
+          "text": "Unless the Administrator determines that extraordinary circumstances exist, the Administrator will not consider requests for a hearing unless received as follows:"
+        }
+      }
+    },
+    "1022": {
+      "number": 1022,
+      "name": "Withholding of contract payments.",
+      "sub": {},
+      "text": {
+        "text": "Any violations of the clause at 52.222-41, Service Contract Labor Standards, as amended, renders the responsible contractor liable for the amount of any deductions, rebates, refunds, or underpayments (which includes nonpayment) of compensation due employees performing the contract. The contracting officer may withhold—or, upon written request of the Department of Labor from a level no lower than that of Deputy Regional Administrator, Wage and Hour Division, Employment Standards Administration, Department of Labor, shall withhold—the amount needed to pay such underpaid employees from accrued payments due the contractor on the contract, or on any other prime contract (whether subject to the Service Contract Labor Standards statute or not) with the contractor. The agency shall place the amount withheld in a deposit fund. Such withheld funds shall be transferred to the Department of Labor for disbursement to the underpaid employees on order of the Secretary (or authorized representatives), and Administrative Law Judge, or the Administrative Review Board. In addition, the Department of Labor has given blanket approval to forward withheld funds pending completion of an investigation or other administrative proceeding when disposition of withheld funds remains the final action necessary to close out a contract."
+      }
+    },
+    "1023": {
+      "number": 1023,
+      "name": "Termination for default.",
+      "sub": {},
+      "text": {
+        "text": "As provided by the Service Contract Labor Standards statute, any contractor failure to comply with the requirements of the contract clauses related to the Service Contract Labor Standards statute may be grounds for termination for default (see paragraph (k) of the clause at 52.222-41, Service Contract Labor Standards)."
+      }
+    },
+    "1024": {
+      "number": 1024,
+      "name": "Cooperation with the Department of Labor.",
+      "sub": {},
+      "text": {
+        "text": "The contracting officer shall cooperate with Department of Labor representatives in the examination of records, interviews with service employees, and all other aspects of investigations undertaken by the Department. When asked, agencies shall furnish the Wage and Hour Administrator or a designee, any available information on contractors, subcontractors, their contracts, and the nature of the contract services. The contracting officer shall promptly refer, in writing to the appropriate regional office of the Department, apparent violations and complaints received. Employee complaints shall not be disclosed to the employer."
+      }
+    },
+    "1025": {
+      "number": 1025,
+      "name": "Ineligibility of violators.",
+      "sub": {},
+      "text": {
+        "text": "A list of persons or firms found to be in violation of the Service Contract Labor Standards statute is contained in the System for Award Management Exclusions (see 9.404). No Government contract may be awarded to any violator so listed because of a violation of the Service Contract Labor Standards statute, or to any firm, corporation, partnership, or association in which the violator has a substantial interest, without the approval of the Secretary of Labor. This prohibition against award to an ineligible contractor applies to both prime and subcontracts."
+      }
+    },
+    "1026": {
+      "number": 1026,
+      "name": "Disputes concerning labor standards.",
+      "sub": {},
+      "text": {
+        "text": "Disputes concerning labor standards requirements of the contract are handled under paragraph (t) of the contract clause at 52.222-41, Service Contract Labor Standards, and not under the clause at 52.233-1, Disputes."
+      }
+    }
+  }
+}
