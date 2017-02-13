@@ -14,6 +14,7 @@ module.exports = function parseSubpart($) {
   // The H3 elements mark each section of the subpart
   $('h3.pSection').each((i, section) => {
     const sectionInfo = $(section).text().match(/(\d+)\.(\d+)(-(\d)+)?\s+(.*)/);
+    const sectionNumber = Number(sectionInfo[2]);
 
     const content = [];
     let next = $(section).next();
@@ -28,16 +29,15 @@ module.exports = function parseSubpart($) {
     }
 
     if (sectionInfo[4]) {
-      subpart.sub[sectionInfo[2]].sub[sectionInfo[4]] = {
+      subpart.sub[sectionNumber].sub[sectionInfo[4]] = {
         name: sectionInfo[5],
         text: parseTextPieces(content)
       };
     } else {
-      subpart.sub[sectionInfo[2]] = {
-        number: Number(sectionInfo[2]),
+      subpart.sub[sectionNumber] = {
         name: sectionInfo[5],
-        sub: { },
-        text: parseTextPieces(content)
+        text: parseTextPieces(content),
+        sub: { }
       };
     }
   });
